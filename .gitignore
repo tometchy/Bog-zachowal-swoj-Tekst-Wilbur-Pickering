@@ -1,3 +1,6 @@
+build/
+*.log
+
 # Created by https://www.toptal.com/developers/gitignore/api/rider,visualstudio,visualstudiocode,aspnetcore,dotnetcore,csharp,batch,microsoftoffice,react,vim,libreoffice,remix+cloudflareworkers,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=rider,visualstudio,visualstudiocode,aspnetcore,dotnetcore,csharp,batch,microsoftoffice,react,vim,libreoffice,remix+cloudflareworkers,intellij
 
