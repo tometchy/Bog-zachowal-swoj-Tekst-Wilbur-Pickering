@@ -86,7 +86,7 @@ clean:
 
 epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub
 
-html:	$(BUILD)/html/$(OUTPUT_FILENAME).html
+html:	docs/index.html
 
 pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 
@@ -98,11 +98,11 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
 	$(ECHO_BUILT)
 
-$(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
+docs/index.html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
-	$(MKDIR_CMD) $(BUILD)/html
+	$(MKDIR_CMD) docs
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
-	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
+	$(COPY_CMD) $(IMAGES) docs/
 	$(ECHO_BUILT)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
