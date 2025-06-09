@@ -5,7 +5,7 @@ This is the first paragraph of the introduction chapter.
 Dostępne do pobrania wersje:
 - [pdf](https://)
 - [epub]()
-- [docs]()
+- [docs](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/book.docx)
 
 ## First: Images
 
