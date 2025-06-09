@@ -1,13 +1,13 @@
 ---
-title: My book title
-author: Daniel Herzog
+title: Bóg zachował swój tekst! Boskie zachowanie Nowego Testamentu
+author: Wilbur N. Pickering, ThM PhD
 rights: MIT License
-lang: en-US
-mainlang: english
-otherlang: english
-tags: [pandoc, book, my-book, etc]
+lang: pl-PL
+mainlang: polish
+otherlang: polish
+tags: [pandoc, book]
 abstract: |
-  Your summary.
+  Tłumaczenie książki Bóg zachował swój tekst! Boskie zachowanie Nowego Testamentu - Wilbur N. Pickering, ThM PhD
 mainfont: DejaVu Sans
 # Filter preferences:
 # - pandoc-crossref
