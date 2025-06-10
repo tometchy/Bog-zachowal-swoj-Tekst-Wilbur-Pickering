@@ -9,7 +9,7 @@ mainlang: polish
 otherlang: polish
 tags: [pandoc, book]
 abstract: |
-  Tłumaczenie książki Bóg zachował swój tekst! Boskie zachowanie Nowego Testamentu - Wilbur N. Pickering, ThM PhD
+  Tłumaczenie czwartej edycji książki Bóg zachował swój tekst! [link](https://test.com)
 mainfont: DejaVu Sans
 # Filter preferences:
 # - pandoc-crossref
