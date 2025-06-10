@@ -2,7 +2,7 @@
 ## Boskie zachowanie Nowego Testamentu
 ### Czwarta Edycja
 
-This is the first paragraph of the introduction chapter.
+**Wilbur N. Pickering, ThM PhD**
 
 Dostępne do pobrania wersje:
 - [pdf](https://)
