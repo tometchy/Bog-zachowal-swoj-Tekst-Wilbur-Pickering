@@ -1,7 +1,6 @@
-# Bóg zachował swój tekst!
-## Boskie zachowanie Nowego Testamentu
-### Czwarta Edycja
+# Od tłumacza
 
+Fundacja x tłumaczenie [czwartej edycji](link do oryginalu)
 **Wilbur N. Pickering, ThM PhD**
 
 Dostępne do pobrania wersje:
