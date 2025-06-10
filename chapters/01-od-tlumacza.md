@@ -1,12 +1,16 @@
 # Od tłumacza
 
-Fundacja x tłumaczenie [czwartej edycji](link do oryginalu)
-**Wilbur N. Pickering, ThM PhD**
+Tłumaczenie [czwartej edycji książki _Bóg zachował swój tekst! Boskie zachowanie Nowego Testamentu_](https://github.com/tometchy/BogZachowalSwojTekst/blob/master/God-Has-Preserved-His-Text-4th.pdf) autorstwa _Wilbura N. Pickeringa_, wykonane dla dla Wydawnictwa Świadome Chrześcijaństwo.
 
-Dostępne do pobrania wersje:
-- [pdf](https://)
-- [epub]()
-- [docx](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
+Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać wspólnie z nami dzieło tłumaczenia i wydawania Duchowej literatury dla naszego kraju, podajemy numer konta:
+
+**Fundacja Świadome Chrześcijaństwo**
+Nr rachunku: 51175000120000000034138044
+
+Tłumaczenie dostępne do pobrania w formatach:
+ - [epub](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
+ - [pdf](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/pdf/BogZachowalSwojTekst.pdf)
+ - [docx](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
 
 ## First: Images
 
