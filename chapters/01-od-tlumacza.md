@@ -1,16 +1,18 @@
 # Od tłumacza
 
-Tłumaczenie [czwartej edycji książki _Bóg zachował swój tekst! Boskie zachowanie Nowego Testamentu_](https://github.com/tometchy/BogZachowalSwojTekst/blob/master/God-Has-Preserved-His-Text-4th.pdf) autorstwa _Wilbura N. Pickeringa_, wykonane dla dla Wydawnictwa Świadome Chrześcijaństwo.
+Tłumaczenie [czwartej edycji książki _GOD HAS PRESERVED HIS TEXT! The Divine Preservation of the New Testament_](https://github.com/tometchy/BogZachowalSwojTekst/blob/master/God-Has-Preserved-His-Text-4th.pdf) autorstwa _Wilbura N. Pickeringa_, wykonane dla Wydawnictwa Świadome Chrześcijaństwo.
+
+Tłumaczenie dostępne do pobrania w formatach:
+ - [epub](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
+ - [pdf](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/pdf/BogZachowalSwojTekst.pdf)
+ - [docx](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
 
 Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać wspólnie z nami dzieło tłumaczenia i wydawania Duchowej literatury dla naszego kraju, podajemy numer konta:
 
 **Fundacja Świadome Chrześcijaństwo**
 Nr rachunku: 51175000120000000034138044
 
-Tłumaczenie dostępne do pobrania w formatach:
- - [epub](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
- - [pdf](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/pdf/BogZachowalSwojTekst.pdf)
- - [docx](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
+Pozostałe książki wydawnictwa dostępnepne pod adresem [wswch.pl](https://www.wswch.pl/).
 
 ## First: Images
 
