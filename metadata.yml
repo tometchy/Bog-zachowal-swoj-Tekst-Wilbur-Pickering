@@ -1,6 +1,7 @@
 ---
 title: Bóg zachował swój tekst!
 subtitle: Boskie zachowanie Nowego Testamentu
+cover-image: images/cover.png
 edition: Czwarta Edycja
 author: Wilbur N. Pickering
 rights: Creative Commons Attribution-ShareAlike 3.0 Unported License
@@ -8,8 +9,6 @@ lang: pl-PL
 mainlang: polish
 otherlang: polish
 tags: [pandoc, book]
-abstract: |
-  Tłumaczenie czwartej edycji książki Bóg zachował swój tekst! [link](https://test.com)
 mainfont: DejaVu Sans
 # Filter preferences:
 # - pandoc-crossref
