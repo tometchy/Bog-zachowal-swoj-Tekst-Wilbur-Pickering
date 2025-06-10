@@ -1,12 +1,8 @@
 ---
-title:
-  - type: main
-    text: Bóg zachował swój tekst!
-  - type: subtitle
-    text: Boskie zachowanie Nowego Testamentu
-  - type: edition
-    text: Edycja czwarta
-author: Wilbur N. Pickering, ThM PhD
+title: Bóg zachował swój tekst!
+subtitle: Boskie zachowanie Nowego Testamentu
+edition: Czwarta Edycja
+author: Wilbur N. Pickering
 rights: Creative Commons Attribution-ShareAlike 3.0 Unported License
 lang: pl-PL
 mainlang: polish
