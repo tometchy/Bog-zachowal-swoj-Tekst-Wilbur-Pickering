@@ -1,11 +1,13 @@
-# Introduction
+# Bóg zachował swój tekst!
+## Boskie zachowanie Nowego Testamentu
+### Czwarta Edycja
 
 This is the first paragraph of the introduction chapter.
 
 Dostępne do pobrania wersje:
 - [pdf](https://)
 - [epub]()
-- [docs](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/book.docx)
+- [docx](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
 
 ## First: Images
 
