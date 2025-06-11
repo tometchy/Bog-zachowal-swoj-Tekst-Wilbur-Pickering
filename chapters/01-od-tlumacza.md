@@ -17,8 +17,7 @@ Oryginał dostępny na http://thechristiancommons.com.
 
 Udostępniono na licencji:  
 _Uznanie autorstwa - Na tych samych warunkach 4.0 Międzynarodowa_  
-(CC BY-SA 4.0)  
-https://creativecommons.org/licenses/by-sa/4.0/
+CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
 
 Licencja zezwala na:
 
