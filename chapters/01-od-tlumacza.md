@@ -4,11 +4,11 @@ Tłumaczenie czwartej edycji książki [_GOD HAS PRESERVED HIS TEXT! The Divine 
 ISBN: 978-0-9974686-9-4  
 _Wilbur N. Pickering_
 
-Wykonano dla Wydawnictwa Świadome Chrześcijaństwo.
+Wykonano dla [Wydawnictwa Świadome Chrześcijaństwo](https://www.wswch.pl/).
 
-Tłumaczenie dostępne do pobrania w formatach:
+Tłumaczenie dostępne do pobrania z [tometchy.github.io/BogZachowalSwojTekst](https://tometchy.github.io/BogZachowalSwojTekst) w formatach:
 
-- [ePUB](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
+- [EPUB](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
 - [PDF](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/pdf/BogZachowalSwojTekst.pdf)
 - [DOCX](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
 
