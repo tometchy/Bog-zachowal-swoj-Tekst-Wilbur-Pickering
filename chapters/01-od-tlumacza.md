@@ -1,13 +1,16 @@
 # Od tłumacza
 
-Tłumaczenie [czwartej edycji książki _GOD HAS PRESERVED HIS TEXT! The Divine Preservation of the New Testament_ (ISBN: 978-0-9974686-9-4)](https://github.com/tometchy/BogZachowalSwojTekst/blob/master/God-Has-Preserved-His-Text-4th.pdf) autorstwa _Wilbura N. Pickeringa_, wykonane dla Wydawnictwa Świadome Chrześcijaństwo.
+Tłumaczenie czwartej edycji książki [_GOD HAS PRESERVED HIS TEXT! The Divine Preservation of the New Testament_](https://github.com/tometchy/BogZachowalSwojTekst/blob/master/God-Has-Preserved-His-Text-4th.pdf)  
+ISBN: 978-0-9974686-9-4  
+_Wilbur N. Pickering_
 
+Wykonano dla Wydawnictwa Świadome Chrześcijaństwo.
 
 Tłumaczenie dostępne do pobrania w formatach:
 
-- [Epub](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
-- [Pdf](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/pdf/BogZachowalSwojTekst.pdf)
-- [Docx](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
+- [ePUB](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
+- [PDF](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/pdf/BogZachowalSwojTekst.pdf)
+- [DOCX](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
 
 Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać wspólnie z nami dzieło tłumaczenia i wydawania Duchowej literatury dla naszego kraju, podajemy numer konta:
 
@@ -19,7 +22,8 @@ Pozostałe książki wydawnictwa dostępnepne pod adresem [wswch.pl](https://www
 _© 2021 Wilbur N. Pickering_  
 Oryginał dostępny na http://thechristiancommons.com.
 
-Udostępniono na licencji: _Uznanie autorstwa - Na tych samych warunkach 4.0 Międzynarodowa_ (CC BY-SA 4.0) - https://creativecommons.org/licenses/by-sa/4.0/
+Udostępniono na licencji: _Uznanie autorstwa - Na tych samych warunkach 4.0 Międzynarodowa_ (CC BY-SA 4.0)  
+https://creativecommons.org/licenses/by-sa/4.0/
 Licencja zezwala na:
 
 - **Dzielenie się** — kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie dla dowolnego celu, także komercyjnego.
