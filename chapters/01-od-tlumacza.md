@@ -28,7 +28,7 @@ Licencja zezwala na:
 - **Na tych samych warunkach** — Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na [tej samej licencji](https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-same-license), co oryginał.
 - **Brak dodatkowych ograniczeń** — Nie możesz korzystać ze środków prawnych lub technologicznych, które ograniczają innych w korzystaniu z utworu na warunkach określonych w licencji.
 
-## Wydawnictwa Świadome Chrześcijaństwo
+## Wydawnictwo Świadome Chrześcijaństwo
 Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać wspólnie z nami dzieło tłumaczenia i wydawania Duchowej literatury dla naszego kraju, podajemy numer konta:
 
 **Fundacja Świadome Chrześcijaństwo**  
