@@ -1,2 +1,38 @@
 # Przedmowa
 Wilbur N. Pickering jest chrześcijańskim misjonarzem, mieszkającym w Brasílii, stolicy Brazylii.
+Posiada tytuł magistra i doktora lingwistyki. Spośród osób aktywnie zaangażowanych w krytykę tekstu Nowego Testamentu [^1]
+
+Of those actively involved
+in NT textual criticism, no one holds a more radical view in defense of the
+inerrancy and objective authority of the Sacred Text. This includes the po-
+sition that the precise original wording has been preserved to our day and
+that we can know what it is. This book offers a scientific defense of that
+conviction.
+
+Dr. Pickering joined Wycliffe Bible Translators in 1958. After three
+years of preparation for the field, he arrived in Brazil in 1961, where he
+and his wife began the translation work with the Apurinã people. In 1996
+he resigned from Wycliffe to pursue other interests.
+
+For some time Dr. Pickering has felt that among the many hundreds
+of Greek manuscripts of the NT known to exist today, surely God would
+have preserved the original wording. After years of searching and compar-
+ing such manuscripts, he has concluded that God used a certain line of
+transmission to preserve that wording. That line is by far the largest and
+most cohesive of all manuscript groups, or families. It is distinguished
+from all other groups by the high level of care with which it was copied
+(Dr. Pickering holds copies of perfect manuscripts, of that family’s arche-
+type, for 22 of the 27 books). It is both ancient and independent, and is the
+only one that has a demonstrable archetypal form in all 27 books. That
+archetypal form has been empirically, objectively identified by a wide
+comparison of family representatives, and it is indeed error free. As he
+expected, that error-free text is not seriously different from some of the
+other “good” Greek texts. Nevertheless he has done an English translation
+based on it: The Sovereign Creator Has Spoken: Objective Authority for
+Living, Second Edition; available from his site: www.prunch.org, and
+from Amazon.com.
+
+[^1] Krytyka tekstu (łac. _critica textus_) – dział filologii, odgałęzienie krytyki literackiej, poświęcony pracom edytorskim nad dawnymi dziełami zachowanymi w manuskryptach.
+Krytyka tekstu ma na celu odtworzyć pierwotne brzmienie dzieła, którego oryginalne dokumenty zostały utracone. Krytyka tekstu jest potrzebna dla wszystkich 27 ksiąg Nowego Testamentu, gdyż żaden oryginalny dokument Nowego Testamentu nie ostał się do dzisiaj, a kopie, które dzisiaj posiadamy, różnią się pomiędzy sobą.
+https://pl.wikipedia.org/wiki/Krytyka_tekstu
+https://kosciolzbawiciela.pl/pl/blog/65/
