@@ -1,6 +1,6 @@
 # Przedmowa
 Wilbur N. Pickering jest chrześcijańskim misjonarzem, mieszkającym w Brasílii, stolicy Brazylii.
-Posiada tytuł magistra i doktora lingwistyki. Spośród osób aktywnie zaangażowanych w krytykę tekstu Nowego Testamentu [^1]
+Posiada tytuł magistra i doktora lingwistyki. Spośród osób aktywnie zaangażowanych w krytykę tekstu Nowego Testamentu[^1]
 
 Of those actively involved
 in NT textual criticism, no one holds a more radical view in defense of the
@@ -32,7 +32,7 @@ based on it: The Sovereign Creator Has Spoken: Objective Authority for
 Living, Second Edition; available from his site: www.prunch.org, and
 from Amazon.com.
 
-[^1] Krytyka tekstu (łac. _critica textus_) – dział filologii, odgałęzienie krytyki literackiej, poświęcony pracom edytorskim nad dawnymi dziełami zachowanymi w manuskryptach.
-Krytyka tekstu ma na celu odtworzyć pierwotne brzmienie dzieła, którego oryginalne dokumenty zostały utracone. Krytyka tekstu jest potrzebna dla wszystkich 27 ksiąg Nowego Testamentu, gdyż żaden oryginalny dokument Nowego Testamentu nie ostał się do dzisiaj, a kopie, które dzisiaj posiadamy, różnią się pomiędzy sobą.
-https://pl.wikipedia.org/wiki/Krytyka_tekstu
+[^1]: Krytyka tekstu (łac. _critica textus_) – dział filologii, odgałęzienie krytyki literackiej, poświęcony pracom edytorskim nad dawnymi dziełami zachowanymi w manuskryptach.
+Krytyka tekstu ma na celu odtworzyć pierwotne brzmienie dzieła, którego oryginalne dokumenty zostały utracone. Krytyka tekstu jest potrzebna dla wszystkich 27 ksiąg Nowego Testamentu, gdyż żaden oryginalny dokument Nowego Testamentu nie ostał się do dzisiaj, a kopie, które dzisiaj posiadamy, różnią się pomiędzy sobą.  
+https://pl.wikipedia.org/wiki/Krytyka_tekstu  
 https://kosciolzbawiciela.pl/pl/blog/65/
