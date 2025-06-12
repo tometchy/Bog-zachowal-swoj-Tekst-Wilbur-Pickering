@@ -12,7 +12,7 @@ https://pl.wikipedia.org/wiki/Krytyka_tekstu
 https://kosciolzbawiciela.pl/pl/blog/65/
 
 
-[^2]: **Wycliffe Bible Translators** – międzywyznaniowa organizacja dążąca do przetłumaczenia Biblii na wszystkie języki świata, zwłaszcza w kulturach o małym wpływie chrześcijaństwa. [przyp. tłum.]  
+[^2]: Wycliffe Bible Translators – międzywyznaniowa organizacja dążąca do przetłumaczenia Biblii na wszystkie języki świata, zwłaszcza w kulturach o małym wpływie chrześcijaństwa. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Wycliffe_Bible_Translators
 
 [^3]: Wilbur Norman Pickering jako misjonarz przez 10 lat mieszkał w amazońskiej dżungli z ludem Apurinã, aby nauczyć się ich dialektu i rozpocząć tłumaczenie Biblii na język tubylczy. [przyp. tłum.]  
