@@ -6,7 +6,7 @@
 
 BUILD = build
 MAKEFILE = Makefile
-OUTPUT_FILENAME = BogZachowalSwojTekst
+OUTPUT_FILENAME = Bog-zachowal-swoj-Tekst-Wilbur-Pickering
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
 TOC = --toc --toc-depth 2
