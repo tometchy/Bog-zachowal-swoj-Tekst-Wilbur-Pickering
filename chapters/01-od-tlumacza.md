@@ -4,13 +4,13 @@ Tłumaczenie czwartej edycji książki [_GOD HAS PRESERVED HIS TEXT! The Divine 
 ISBN: 978-0-9974686-9-4  
 _Wilbur N. Pickering_
 
-Wykonano dla [Wydawnictwa Świadome Chrześcijaństwo](https://www.wswch.pl/).
+Tłumaczenie wykonał Tomasz Skraskowski dla [Wydawnictwa Świadome Chrześcijaństwo](https://www.wswch.pl/).
 
-Tłumaczenie dostępne do pobrania z [tometchy.github.io/BogZachowalSwojTekst](https://tometchy.github.io/BogZachowalSwojTekst) w formatach:
+Tłumaczenie dostępne do pobrania z [tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering) w formatach:
 
-- [EPUB](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/epub/BogZachowalSwojTekst.epub)
-- [PDF](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/pdf/BogZachowalSwojTekst.pdf)
-- [DOCX](https://github.com/tometchy/BogZachowalSwojTekst/raw/refs/heads/master/build/docx/BogZachowalSwojTekst.docx)
+- [EPUB](https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub)
+- [PDF](https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf)
+- [DOCX](https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/docx/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.docx)
 
 _© 2021 Wilbur N. Pickering_  
 Oryginał dostępny na http://thechristiancommons.com.
