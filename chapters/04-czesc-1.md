@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Polystrate_fossil
 https://pl.wikipedia.org/wiki/P%C5%82askowy%C5%BC  
 https://www.nps.gov/subjects/nnlandmarks/plateaus-and-mesas.htm
 
-[^lewis-overthrust]: Autorowi chodzi prawdopodobnie o _Lewis Overthrust_ o wymiarach ok. 450km długości, do 50km szerokości i wysokości od 7,5 do 13,5 km. Zwolennicy teorii ewolucji próbują dowieźć komputerowo i w eksperymentach laboratoryjnych możliwości przesuwania się mas skalnych w strefach nasunięć (overthrustów) dzięki obecności płynów, wysokiemu ciśnieniu i temperaturze, które znacząco redukują tarcie w skałach. [przyp. tłum.]  
+[^lewis-overthrust]: Autorowi chodzi prawdopodobnie o _Lewis Overthrust_ o wymiarach ok. 450km długości, szerokości sięgającej do 50km i wysokości od 7,5 do 13,5 km. Zwolennicy teorii ewolucji próbują dowieźć komputerowo i w eksperymentach laboratoryjnych możliwości przesuwania się mas skalnych w strefach nasunięć (overthrustów) dzięki obecności płynów, wysokiemu ciśnieniu i temperaturze, które znacząco redukują tarcie w skałach. [przyp. tłum.]  
 https://en.wikipedia.org/wiki/Lewis_Overthrust  
 https://creation.com/the-geologic-column-does-it-exist  
 https://personal.ems.psu.edu/~jte2/references/link170.pdf
