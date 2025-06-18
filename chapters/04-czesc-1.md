@@ -28,7 +28,7 @@ https://study.com/academy/lesson/geologic-column-definition-example.html
 https://creationresearch.net/wp-content/uploads/2020/05/evidence-no3-polystrate.pdf  
 https://en.wikipedia.org/wiki/Polystrate_fossil
 
-[^plateau-mesa]: Plateau inaczej płaskowyż, to obszar wysoko położony o płaskiej lub lekko falistej powierzchni i o stromych stokach, będący fragmentem wydźwigniętej powierzchni zrównania lub równiny wulkanicznej. Mesa to z kolei odizolowana, płaskodenna góra lub wzgórze, również otoczone stromymi zboczami, ale zazwyczaj mniejsze od płaskowyżu. Mesa jest często uważana za mniejszą formę płaskowyżu, która powstała w wyniku erozji większego płaskowyżu. [przyp. tłum.]  
+[^plateau-mesa]: Plateau, inaczej płaskowyż, to obszar wysoko położony o płaskiej lub lekko falistej powierzchni i o stromych stokach, będący fragmentem wydźwigniętej powierzchni zrównania lub równiny wulkanicznej. Mesa to z kolei odizolowana, płaskodenna góra lub wzgórze, również otoczone stromymi zboczami, ale zazwyczaj mniejsze od płaskowyżu. Mesa jest często uważana za mniejszą formę płaskowyżu, która powstała w wyniku erozji większego płaskowyżu. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/P%C5%82askowy%C5%BC  
 https://www.nps.gov/subjects/nnlandmarks/plateaus-and-mesas.htm
 
