@@ -12,7 +12,7 @@ Nauka fizyki mówi nam, że nieorganiczny (pozbawiony życia) znany wszechświat
 
 Nauka genetyki, wraz z projektami badającymi genom, odkryła, że losowa zmiana zaledwie trzech nukleotydów jest śmiertelna dla organizmu. Rozważmy przypadek szympansa, uznawanego za „najbliższego krewnego” człowieka: różnica genetyczna między nami wynosi podobno około 1,6%. To może brzmieć nieznacznie, ale odpowiada około 48 milionom różnic w nukleotydach, a losowa zmiana już trzech nukleotydów zabija zwierzę – z tego wynika, że ewolucja szympansa w człowieka jest po prostu niemożliwa (około 15 milionów szympansów zginęłoby w takiej próbie, nie przekraczając nawet pierwszych trzech nukleotydów!)[^kreacjonizm-dowod-szympans]. Każdy odmienny typ zwierzęcia musiał zostać stworzony osobno, właśnie tak jak to potwierdza Księga Rodzaju. Każda hipoteza ewolucyjna, mająca wyjaśnić różne typy zwierząt (nie mówiąc już o ptakach, owadach, rybach, roślinach itd.), jest naukowo niemożliwa, absurdalnie, niepoważnie niemożliwa.
 
-Tak zwana "kolumna geologiczna"[^kolumna-geologiczna] to fikcja. W Australii znajdują się skamieniałe pnie drzew, stojące pionowo, przechodzące przez różne warstwy skał osadowych, które według "kolumny geologicznej" reprezentują wiele milionów lat – to po prostu głupie, absurdalnie niemożliwe! W USA jest wysokie plateau (mesa)[^plateau-mesa], z warstwą starszej skały na warstwie młodszej skały (według "kolumny"), ale obszar ten jest tak rozległy, że żadna znana siła nie byłaby w stanie pokonać tarcia powstałego przy próbie przesunięcia jednej warstwy po drugiej (stostowany argument) – to również jest niemożliwe dla "kolumny geologicznej"[^lewis-overthrust].
+Tak zwana "kolumna geologiczna"[^kolumna-geologiczna] to fikcja. W Australii znajdują się skamieniałe pnie drzew, stojące pionowo, przechodzące przez różne warstwy skał osadowych, które według "kolumny geologicznej" reprezentują wiele milionów lat[^skamieniale-pnie-drzew] – to po prostu głupie, absurdalnie niemożliwe! W USA jest wysokie plateau (mesa)[^plateau-mesa], z warstwą starszej skały na warstwie młodszej skały (według "kolumny"), ale obszar ten jest tak rozległy, że żadna znana siła nie byłaby w stanie pokonać tarcia powstałego przy próbie przesunięcia jednej warstwy po drugiej (stostowany argument) – to również jest niemożliwe dla "kolumny geologicznej"[^lewis-overthrust].
 
 [^rozmiar-opisu-wszechswiata]: TBD
 
@@ -24,8 +24,15 @@ _Why evolution is true - Jerry A. Coyne_
 [^kolumna-geologiczna]: Kolumna geologiczna, inaczej zwana kolumną stratygraficzną, to graficzny schemat przedstawiający warstwy skalne w kolejności od najstarszych (na dole) do najmłodszych (na górze). Jest to narzędzie używane w geologii do analizy budowy geologicznej i historii Ziemi. [przyp. tłum.]  
 https://study.com/academy/lesson/geologic-column-definition-example.html
 
+[^skamieniale-pnie-drzew]: W Australii odkryto pionowe skamieniałe pnie drzew przechodzące przez warstwy węgla i piaskowca, przykłady obejmują drzewa o średnicy do 1 metra, przebijające się przez wiele warstw osadowych. Zwolennicy teorii ewolucji uznają, że nie podważają one milionów lat ewolucji, a są wynikiem lokalnych, gwałtownych zdarzeń w ramach długotrwałych procesów, takich jak szybka sedymentacja (np. podczas powodzi, osuwisk), subsydencja terenu (np. w basenach przybrzeżnych lub riftowych). [przyp. tłum.]  
+https://creationresearch.net/wp-content/uploads/2020/05/evidence-no3-polystrate.pdf  
+https://en.wikipedia.org/wiki/Polystrate_fossil
+
 [^plateau-mesa]: Plateau inaczej płaskowyż, to obszar wysoko położony o płaskiej lub lekko falistej powierzchni i o stromych stokach, będący fragmentem wydźwigniętej powierzchni zrównania lub równiny wulkanicznej. Mesa to z kolei odizolowana, płaskodenna góra lub wzgórze, również otoczone stromymi zboczami, ale zazwyczaj mniejsze od płaskowyżu. Mesa jest często uważana za mniejszą formę płaskowyżu, która powstała w wyniku erozji większego płaskowyżu. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/P%C5%82askowy%C5%BC  
 https://www.nps.gov/subjects/nnlandmarks/plateaus-and-mesas.htm
 
-[^lewis-overthrust]: TBD
+[^lewis-overthrust]: Autorowi chodzi prawdopodobnie o _Lewis Overthrust_ o wymiarach ok. 450km długości, do 50km szerokości i wysokości od 7,5 do 13,5 km. Zwolennicy teorii ewolucji próbują dowieźć komputerowo i w eksperymentach laboratoryjnych możliwości przesuwania się mas skalnych w strefach nasunięć (overthrustów) dzięki obecności płynów, wysokiemu ciśnieniu i temperaturze, które znacząco redukują tarcie w skałach. [przyp. tłum.]  
+https://en.wikipedia.org/wiki/Lewis_Overthrust  
+https://creation.com/the-geologic-column-does-it-exist  
+https://personal.ems.psu.edu/~jte2/references/link170.pdf
