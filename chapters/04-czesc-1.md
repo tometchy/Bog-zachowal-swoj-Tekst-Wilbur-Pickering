@@ -17,11 +17,11 @@ Tak zwana "kolumna geologiczna"[^kolumna-geologiczna] to fikcja. W Australii zna
 Około 60 mil na południowy zachód od Dallas w Teksasie znajduje się miasteczko Glen Rose, położone blisko rzeki Paluxy. Tam właśnie znajduje się Park stanowy Dinosaur Valley (_Dinosaur Valley State Park_), ponieważ dno rzeki zachowało ślady dwóch rodzajów dinozaurów: trójpalczaste i czteropalczaste. W górę rzeki od parku paleontolog dr Carl Baugh zakupił znaczną ilość ziemi po obu stronach rzeki, aby móc prowadzić własne wykopaliska. Na swojej posesji posiada muzeum, które osobiście odwiedziłem. W tej samej warstwie skały osadowej natknął się na następujące znaleziska: dwa skamieniałe trylobity[^trylobity], które, według ewolucjonistów istniały 550 milionów lat temu, skamieniały mech zwany „lapidodendron”, który, według ewolucjonistów, istniał 250 milionów lat temu[^lapidodendron], kompletny szkielet dinozaura o nazwie „akrokantozaur” (12 metrów długości), który, według ewolucjonistów, istniał 100 milionów lat temu, siedem śladów ogromnego „kota”, który, według ewolucjonistów, istniał 6 milionów lat temu, 57 ludzkich odcisków stóp (niektóre znajdują się wewnątrz śladów dinozaurów)[^slady-kotow-i-ludzi], skamieniały czwarty palec lewej ręki kobiety[^skamienialy-palec], a nawet przedpotopowy żelazny młotek (jego żelazo nie rdzewieje, składa się w 96,6% z żelaza i 2,7% z chloru) – wszystko to w tej samej warstwie skalnej!
 
 ![Paluxy River Taylor Site, Glen Rose, Teksas. Dwa wydłużone ślady stóp](images/Paluxy_River_Taylor_Site,_Glen_Rose,_Texas._Two_elongate_footprints.png)  
- Dwa podłużne ślady stóp w rzece Paluxy [zdjęcie tłum.]  
+ Dwa podłużne ślady stóp w rzece Paluxy [zdj. tłum.]  
  [core.ac.uk/download/pdf/47225227.pdf](https://core.ac.uk/download/pdf/47225227.pdf)
 
 ![Creation Evidences Museum](images/Creation_Evidence_Museum_Original.jpeg)  
- Muzeum Dowodów Stworzenia [zdjęcie tłum.]  
+ Muzeum Dowodów Stworzenia [zdj. tłum.]  
  [creationwiki.org/Image:Cem2.jpg](http://creationwiki.org/Image:Cem2.jpg)
 
 [^rozmiar-opisu-wszechswiata]: Najmniejsze białka można opisać za pomocą znacznie mniejszej ilości bitów niż 1500, natomiast do opisu nieorganicznnego wszechświata potrzeba rzędy wielkości więcej niż 350 bitów. Autor prawdopodobnie odnosił się do teorii _Ukierunkowanej złożoność_ Williama Dembskiego, aczkolwiek podane liczby wydają się być pomyłką. [przyp. tłum.]  
