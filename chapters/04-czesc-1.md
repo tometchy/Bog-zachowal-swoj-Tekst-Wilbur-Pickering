@@ -14,6 +14,11 @@ Nauka genetyki, wraz z projektami badającymi genom, odkryła, że losowa zmiana
 
 Tak zwana "kolumna geologiczna"[^kolumna-geologiczna] to fikcja. W Australii znajdują się skamieniałe pnie drzew, stojące pionowo, przechodzące przez różne warstwy skał osadowych, które według "kolumny geologicznej" reprezentują wiele milionów lat[^skamieniale-pnie-drzew] – to po prostu głupie, absurdalnie niemożliwe! W USA jest wysokie plateau (mesa)[^plateau-mesa], z warstwą starszej skały na warstwie młodszej skały (według "kolumny"), ale obszar ten jest tak rozległy, że żadna znana siła nie byłaby w stanie pokonać tarcia powstałego przy próbie przesunięcia jednej warstwy po drugiej (stostowany argument) – to również jest niemożliwe dla "kolumny geologicznej"[^lewis-overthrust].
 
+
+![Góra Chief Mountain](images/Chief_Mountain.jpg)  
+ Góra _Chief Mountain_, to przykład formacji, która ma warstwy skalne „nie po kolei” w sensie geologicznym – rzekomo starsze skały leżą na rzekomo młodszych. [zdj. tłum.]  
+ [commons.wikimedia.org/wiki/File:Chief_Mountain.jpg](https://commons.wikimedia.org/wiki/File:Chief_Mountain.jpg)
+
 Około 60 mil na południowy zachód od Dallas w Teksasie znajduje się miasteczko Glen Rose, położone blisko rzeki Paluxy. Tam właśnie znajduje się Park stanowy Dinosaur Valley (_Dinosaur Valley State Park_), ponieważ dno rzeki zachowało ślady dwóch rodzajów dinozaurów: trójpalczaste i czteropalczaste. W górę rzeki od parku paleontolog dr Carl Baugh zakupił znaczną ilość ziemi po obu stronach rzeki, aby móc prowadzić własne wykopaliska. Na swojej posesji posiada muzeum, które osobiście odwiedziłem. W tej samej warstwie skały osadowej natknął się na następujące znaleziska: dwa skamieniałe trylobity[^trylobity], które, według ewolucjonistów istniały 550 milionów lat temu, skamieniały mech zwany „lapidodendron”, który, według ewolucjonistów, istniał 250 milionów lat temu[^lapidodendron], kompletny szkielet dinozaura o nazwie „akrokantozaur” (12 metrów długości), który, według ewolucjonistów, istniał 100 milionów lat temu, siedem śladów ogromnego „kota”, który, według ewolucjonistów, istniał 6 milionów lat temu, 57 ludzkich odcisków stóp (niektóre znajdują się wewnątrz śladów dinozaurów)[^slady-kotow-i-ludzi], skamieniały czwarty palec lewej ręki kobiety[^skamienialy-palec], a nawet przedpotopowy żelazny młotek (jego żelazo nie rdzewieje, składa się w 96,6% z żelaza i 2,7% z chloru) – wszystko to w tej samej warstwie skalnej!
 
 ![Paluxy River Taylor Site, Glen Rose, Teksas. Dwa wydłużone ślady stóp](images/Paluxy_River_Taylor_Site,_Glen_Rose,_Texas._Two_elongate_footprints.png)  
@@ -45,7 +50,7 @@ https://en.wikipedia.org/wiki/Polystrate_fossil
 https://pl.wikipedia.org/wiki/P%C5%82askowy%C5%BC  
 https://www.nps.gov/subjects/nnlandmarks/plateaus-and-mesas.htm
 
-[^lewis-overthrust]: Autorowi chodzi prawdopodobnie o _Lewis Overthrust_ o wymiarach ok. 450km długości, szerokości sięgającej do 50km i wysokości od 7,5 do 13,5 km. Zwolennicy teorii ewolucji próbują dowieźć komputerowo i w eksperymentach laboratoryjnych możliwości przesuwania się mas skalnych w strefach nasunięć (overthrustów) dzięki obecności płynów, wysokiemu ciśnieniu i temperaturze, które znacząco redukują tarcie w skałach. [przyp. tłum.]  
+[^lewis-overthrust]: Autorowi chodzi prawdopodobnie o _Lewis Overthrust_ obszar o wymiarach ok. 450km długości i szerokości sięgającej do 50km. Zwolennicy teorii ewolucji próbują dowieźć komputerowo i w eksperymentach laboratoryjnych możliwości przesuwania się mas skalnych w strefach nasunięć (overthrustów) dzięki obecności płynów, wysokiemu ciśnieniu i temperaturze, które znacząco redukują tarcie w skałach. [przyp. tłum.]  
 https://en.wikipedia.org/wiki/Lewis_Overthrust  
 https://creation.com/the-geologic-column-does-it-exist  
 https://personal.ems.psu.edu/~jte2/references/link170.pdf
