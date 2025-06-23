@@ -71,7 +71,7 @@ https://ncse.ngo/paluxy-man-creationist-piltdown
 [^skamienialy-palec]: Ewolucjoniści twierdzą, że skamieniały palec jest najprawdopodobniej naturalną formacją skalną lub artefaktem. [przyp. tłum.]  
 http://paleo.cc/paluxy/finger.htm
 
-[^pole-magnetyczne]: Naukowcy broniący teorii ewolucji, na podstawie analizy minerałów magnetycznych w zastygłej lawie uznają, że pole magnetyczne Ziemi podlega znacznym wahaniom i powtarzającym się odwróceniom biegunów (tzw. inwersje, średnio co około 250 tysięcy), dlatego odrzucają możliwość wyciągania trendu w tym obszarze z danych z Royal Observatory w Greenwich w Anglii, które są zbierane od około 1839 roku.  
+[^pole-magnetyczne]: Naukowcy broniący teorii ewolucji, na podstawie analizy minerałów magnetycznych w zastygłej lawie uznają, że pole magnetyczne Ziemi podlega znacznym wahaniom i powtarzającym się odwróceniom biegunów (tzw. inwersje, średnio co około 250 tysięcy lat), dlatego odrzucają możliwość wyciągania trendu w tym obszarze z danych z Royal Observatory w Greenwich w Anglii, które są zbierane od około 1839 roku.  
 https://pl.wikipedia.org/wiki/Przebiegunowanie_Ziemi  
 https://www.usgs.gov/faqs/it-true-earths-magnetic-field-occasionally-reverses-its-polarity  
 https://www.downtoearth.org.in/science-technology/earth-s-last-magnetic-field-flip-lasted-22-000-years-study-66101
