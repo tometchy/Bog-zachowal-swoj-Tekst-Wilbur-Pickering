@@ -32,6 +32,8 @@ Wynika z tego, że kolumna geologiczna nie istnieje, jest to przewrotny wynalaze
 
 Co więcej, Ziemia jest młoda. W królewskim obserwatorium w Anglii od 1839 roku co roku mierzą siłę pola magnetycznego otaczającego Ziemię. Stwierdzili, że siła magnetyczna maleje w stałym tempie lub w postępie geometrycznym: wykreślając roczne wartości na wykresie, tworzą one linię nachylenia (klin). Oznacza to, że można przedłużyć tę linię w obu kierunkach. Jeśli przedłużymy linię do punktu sprzed 10 000 lat, siła magnetyczna byłaby tak silna, że zmiażdżyłaby całe życie na planecie. Wynika z tego, że każda teoria wymagająca milionów lub miliardów lat jest absurdalnie, niedorzecznie niemożliwa[^pole-magnetyczne].
 
+Rzeka Missisipi wyrzuca 80 000 ton osadów do Zatoki Meksykańskiej co godzinę! Wystarczy zmierzyć deltę, by zobaczyć, że Ziemia jest młoda[^rzeka-missisipi]. Ewolucjoniści twierdzą, że granit krystalizował się przez 300 milionów lat, ale w granicie występują „pierścienie polonowe” (ang. Polonium haloes)[^pierscienie-polonowe] o okresach półtrwania wynoszących minuty lub nawet sekundy. Granit musiał powstać natychmiast. Symbiotyczne rośliny i owady musiały zostać stworzone jednocześnie i wymagają 24-godzinnych dni. I tak dalej.
+
 [^rozmiar-opisu-wszechswiata]: Najmniejsze białka można opisać za pomocą znacznie mniejszej ilości bitów niż 1500, natomiast do opisu nieorganicznnego wszechświata potrzeba rzędy wielkości więcej niż 350 bitów. Autor prawdopodobnie odnosił się do teorii _Ukierunkowanej złożoność_ Williama Dembskiego, aczkolwiek podane liczby wydają się być pomyłką. [przyp. tłum.]  
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3864261/  
 https://academic.oup.com/jrsssc/article/72/5/1310/7230752  
@@ -75,3 +77,9 @@ http://paleo.cc/paluxy/finger.htm
 https://pl.wikipedia.org/wiki/Przebiegunowanie_Ziemi  
 https://www.usgs.gov/faqs/it-true-earths-magnetic-field-occasionally-reverses-its-polarity  
 https://www.downtoearth.org.in/science-technology/earth-s-last-magnetic-field-flip-lasted-22-000-years-study-66101
+
+[^rzeka-missisipi]: Rzeka Missisipi może być młodsza niż cała ziemia. [przyp. tłum.]  
+https://www.talkorigins.org/faqs/hovind/howgood-yea2.html
+
+[^pierscienie-polonowe]: Pierścienie polonowe to drobne, kuliste obszary przebarwień minerałów, które można znaleźć w wielu skałach magmowych. Rozmiar niektórych pierścieni wskazuje, że zostały one spowodowane przez rozpad polonu (Po-218), którego okres półtrwania wynosi zaledwie 3 minuty. Praca Roberta Gentry'ego wykazała, że ​​granit Ziemi nigdy nie był w stanie stopionym, ponieważ pierścienie polonu przetrwały tylko w litej skale, a okres półtrwania polonu jest o wiele za krótki, aby przetrwać wielomilionowy okres chłodzenia. Jego wyniki zdają się wskazywać, że Ziemia została stworzona natychmiastowo, w chłodnym stanie. Jeśli to prawda, jest to wyraźny dowód na stworzenie i młodą Ziemię. Kontrargumenty do pracy Gentry'ego to mała liczba dowodów, że pierścienie powstały rzeczywiście przez polon, teoria że radon (z któego powstaje polon) mógł przedostać się do zastygłej skały przez mikroskopijne pęknięcia w minerałach i teoria, że szybkości rozpadu radiometrycznego zmieniły się od czasu stworzenia. [przyp. tłum.]  
+https://rationalwiki.org/wiki/Polonium_halos
