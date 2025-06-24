@@ -44,10 +44,10 @@ _The Chimpanzee Sequencing and Analysis Consortium, Nature, 2005_
 _Evolutionary Rate at the Molecular Level - Kimura, 1968_  
 _Why evolution is true - Jerry A. Coyne_
 
-[^kolumna-geologiczna]: Kolumna geologiczna, inaczej zwana kolumną stratygraficzną, to graficzny schemat przedstawiający warstwy skalne w kolejności od najstarszych (na dole) do najmłodszych (na górze). Jest to narzędzie używane w geologii do analizy budowy geologicznej i historii Ziemi. [przyp. tłum.]  
+[^kolumna-geologiczna]: Kolumna geologiczna, inaczej zwana kolumną stratygraficzną, to graficzny schemat przedstawiający warstwy skalne w kolejności od najstarszych (na dole) do najmłodszych (na górze). [przyp. tłum.]  
 https://study.com/academy/lesson/geologic-column-definition-example.html
 
-[^skamieniale-pnie-drzew]: W Australii odkryto pionowe skamieniałe pnie drzew przechodzące przez warstwy węgla i piaskowca, przykłady obejmują drzewa o średnicy do 1 metra, przebijające się przez wiele warstw osadowych. Zwolennicy teorii ewolucji uznają, że nie podważają one milionów lat ewolucji, a są wynikiem lokalnych, gwałtownych zdarzeń w ramach długotrwałych procesów, takich jak szybka sedymentacja (np. podczas powodzi, osuwisk), subsydencja terenu (np. w basenach przybrzeżnych lub riftowych). [przyp. tłum.]  
+[^skamieniale-pnie-drzew]: W Australii odkryto pionowe skamieniałe pnie drzew przechodzące przez warstwy węgla i piaskowca, przykłady obejmują drzewa o średnicy do 1 metra, przebijające się przez wiele warstw osadowych. Zwolennicy teorii ewolucji uznają, że nie podważają one milionów lat ewolucji, a są wynikiem lokalnych, gwałtownych zdarzeń w ramach długotrwałych procesów, takich jak szybka sedymentacja (np. podczas powodzi, osuwisk) czy subsydencja terenu (np. w basenach przybrzeżnych lub riftowych). [przyp. tłum.]  
 https://creationresearch.net/wp-content/uploads/2020/05/evidence-no3-polystrate.pdf  
 https://en.wikipedia.org/wiki/Polystrate_fossil
 
@@ -78,7 +78,7 @@ https://pl.wikipedia.org/wiki/Przebiegunowanie_Ziemi
 https://www.usgs.gov/faqs/it-true-earths-magnetic-field-occasionally-reverses-its-polarity  
 https://www.downtoearth.org.in/science-technology/earth-s-last-magnetic-field-flip-lasted-22-000-years-study-66101
 
-[^rzeka-missisipi]: Rzeka Missisipi może być młodsza niż cała ziemia. [przyp. tłum.]  
+[^rzeka-missisipi]: Nawet jeżeli obliczenia kreacjonistów, datujące deltę Rzeki Missisipi na 30 000 lat są poprawne, nie zmienia to faktu, że sama rzeka Missisipi może być młodsza niż cała ziemia. [przyp. tłum.]  
 https://www.talkorigins.org/faqs/hovind/howgood-yea2.html
 
 [^pierscienie-polonowe]: Pierścienie polonowe to drobne, kuliste obszary przebarwień minerałów, które można znaleźć w wielu skałach magmowych. Rozmiar niektórych pierścieni wskazuje, że zostały one spowodowane przez rozpad polonu (Po-218), którego okres półtrwania wynosi zaledwie 3 minuty. Praca Roberta Gentry'ego wykazała, że ​​granit Ziemi nigdy nie był w stanie stopionym, ponieważ pierścienie polonu przetrwały tylko w litej skale, a okres półtrwania polonu jest o wiele za krótki, aby przetrwać wielomilionowy okres chłodzenia. Jego wyniki zdają się wskazywać, że Ziemia została stworzona natychmiastowo, w chłodnym stanie. Jeśli to prawda, jest to wyraźny dowód na stworzenie i młodą Ziemię. Kontrargumenty do pracy Gentry'ego to mała liczba dowodów, że pierścienie powstały rzeczywiście przez polon, teoria że radon (z któego powstaje polon) mógł przedostać się do zastygłej skały przez mikroskopijne pęknięcia w minerałach i teoria, że szybkości rozpadu radiometrycznego zmieniły się od czasu stworzenia. [przyp. tłum.]  
