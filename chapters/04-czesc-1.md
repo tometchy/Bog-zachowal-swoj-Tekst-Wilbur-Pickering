@@ -42,6 +42,8 @@ Skoro istnieje Suwerenny Stwórca, posiada On absolutną władzę nad tym, co st
 
 Jeśli Stwórca miałby na celu jedynie przekazanie informacji określonej osobie lub grupie w danym momencie czasu, w konkretnym celu, mogłoby to zostać zrobione ustnie, bezpośrednio albo przez przedstawiciela. Jednak jeśli celem Stwórcy było nakierowanie ważne również dla kolejnych pokoleń, wówczas odpowiednią formą byłoby utrwalenie na piśmie. Weźmy pod uwagę 1 Kronik 16,15 - "słowo, które nakazał na tysiąc pokoleń". Cóż, od Adama minęło zaledwie około 300 pokoleń, więc pisemne objawienie Stwórcy będzie obowiązywać aż do końca świata. Jednak aby obowiązywało do końca, musi być dostępne aż do końca, ale wyprzedzam się trochę.
 
+Jeśli Suwerenny Stwórca istnieje i jeśli skierował do naszej rasy pisemne Objawienie, to nic nie jest dla nas ważniejsze niż wiedzieć co powiedział (z myślą o posłuszeństwie temu, jeśli jesteśmy mądrzy). Dzieje się tak dlatego, że takie objawienie będzie miało wobec nas obiektywny autorytet (choć Stwórca daje nam opcję odrzucenia tego autorytetu [ale należy zwrócić należytą uwagę na konsekwencje])[^konsekwencje-odrzucenia-autorytetu]. Obiektywny autorytet zależy od możliwego do zweryfikowania znaczenia, jeśli czytelnik/słuchacz może nadać przesłaniu dowolne znaczenie według własnego uznania, wszelki autorytet, jaki to przesłanie będzie dla niego miało, stanie się względny i subiektywny (to tzw. podejście „neoortodoksyjne”).
+
 [^rozmiar-opisu-wszechswiata]: Najmniejsze białka można opisać za pomocą znacznie mniejszej ilości bitów niż 1500, natomiast do opisu nieorganicznnego wszechświata potrzeba rzędy wielkości więcej niż 350 bitów. Autor prawdopodobnie odnosił się do teorii _Ukierunkowanej złożoność_ Williama Dembskiego, aczkolwiek podane liczby wydają się być pomyłką. [przyp. tłum.]  
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3864261/  
 https://academic.oup.com/jrsssc/article/72/5/1310/7230752  
@@ -93,3 +95,5 @@ https://www.talkorigins.org/faqs/hovind/howgood-yea2.html
 https://rationalwiki.org/wiki/Polonium_halos
 
 [^jezyk-ludzki]: Ponieważ ludzkim językiem rządzą reguły - fonologiczne, gramatyczne, semantyczne - Stwórca musiałby ograniczyć się do repertuaru możliwości oferowanych przez wybrany język.
+
+[^konsekwencje-odrzucenia-autorytetu]: Wróg zawsze rozumiał to lepiej niż większość z nas i już dawno rozpoczął swoje ataki – „Czy rzeczywiście Bóg powiedział…?” (Rdz 3, 1).
