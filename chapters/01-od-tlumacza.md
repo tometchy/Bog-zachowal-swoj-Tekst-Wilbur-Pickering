@@ -6,7 +6,7 @@ _Wilbur N. Pickering_
 
 Tłumaczenie wykonał Tomasz Skraskowski dla [Wydawnictwa Świadome Chrześcijaństwo](https://www.wswch.pl/). Zdjęcia dodane przez tłumacza zazaczone są adnotacją _[zdj. tłum.]_, przypisy dodane przez tłumacza zaznaczone są adnotacją _[przyp. tłum.]_.
 
-Tomasz Skraskowski nie jest tłumaczem z zawodu, podjął się tego przekładu pro publico bono, poświęcając mu swój wolny czas. W trakcie rozważań, czy podjąć się tego dzieła, wahając się, czy podoła, usłyszał od Pana:
+Tomasz Skraskowski nie jest profesjonalnym tłumaczem, podjął się niniejszego przekładu pro publico bono, gospodarując dla niego czas pomiędzy obowiązkami zawodowymi a rodzinnymi. W trakcie rozważań, czy podjąć się tego dzieła, wahając się, czy podoła, usłyszał od Pana:
 
 > Choćby to była rzecz najtrudniejsza, jest miła i wielka w oczach moich.
 
