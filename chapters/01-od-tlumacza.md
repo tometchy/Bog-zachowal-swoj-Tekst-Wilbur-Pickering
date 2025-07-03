@@ -1,6 +1,6 @@
 # Od tłumacza
 
-Tłumaczenie czwartej edycji książki [_GOD HAS PRESERVED HIS TEXT! The Divine Preservation of the New Testament_](https://github.com/tometchy/BogZachowalSwojTekst/blob/master/God-Has-Preserved-His-Text-4th.pdf)  
+Tłumaczenie czwartej edycji książki [_GOD HAS PRESERVED HIS TEXT! The Divine Preservation of the New Testament_](https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/blob/master/God-Has-Preserved-His-Text-4th.pdf)  
 ISBN: 978-0-9974686-9-4  
 _Wilbur N. Pickering_
 
