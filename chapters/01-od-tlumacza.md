@@ -6,6 +6,10 @@ _Wilbur N. Pickering_
 
 Tłumaczenie wykonał Tomasz Skraskowski dla [Wydawnictwa Świadome Chrześcijaństwo](https://www.wswch.pl/). Zdjęcia dodane przez tłumacza zazaczone są adnotacją _[zdj. tłum.]_, przypisy dodane przez tłumacza zaznaczone są adnotacją _[przyp. tłum.]_.
 
+Tomasz Skraskowski nie jest tłumaczem z zawodu, podjął się tego przekładu pro publico bono, poświęcając mu swój wolny czas. W trakcie rozważań, czy podjąć się tego dzieła, wahając się, czy podoła, usłyszał od Pana:
+
+> Choćby to była rzecz najtrudniejsza, jest miła i wielka w oczach moich.
+
 Tłumaczenie dostępne do pobrania z [tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering) w formatach:
 
 - [EPUB](https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub)
