@@ -18,9 +18,4 @@ Romans 14:24, “Now to Him who has power to establish you according to my Gospe
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
 
-[^greckie-manuskrypty]: 5,2% greckich manuskryptów umieszcza wersety 24-26 na końcu księgi, a nie tutaj. Paweł zwykle umieszcza doksologie w swoich listach - nie występują one tylko na
-końcu.
-
-5.2% of the Greek manuscripts place verses 24-26 at the end of the book, rather than
-here. Paul habitually places doxologies throughout his letters—they do not occur only at
-the end.
+[^greckie-manuskrypty]: 5,2% greckich manuskryptów umieszcza wersety 24-26 na końcu księgi, a nie tutaj. Paweł zwykle umieszcza doksologie poprzez całość swoich listów - nie występują one tylko na końcu.
