@@ -18,6 +18,15 @@ _Dowód_
 
 Uważam, że odpowiednio odniosłem się do twierdzenia, więc przejdę teraz do dowodów, czyli weryfikacji. Literatura, która twierdzi, że ma nadprzyrodzone pochodzenie, powinna być z natury nadprzyrodzona i powinna przynosić nadprzyrodzone rezultaty. Zacznę od nadprzyrodzonych rezultatów, które powiedzą nam również coś o celu Stwórcy w przekazaniu Objawienia.
 
+Paweł napisał do Tymoteusza: „Od dzieciństwa znasz Pisma Święte, które mogą cię uczynić mądrym ku zbawieniu przez wiarę, która jest w Chrystusie Jezusie. Całe Pismo jest natchnione przez Boga i pożyteczne do nauczania, do upominania, do poprawiania, do ćwiczenia w prawości, aby człowiek Boży był w pełni kompetentny, całkowicie przygotowany do wszelkiego dobrego dzieła” (2 Tymoteusza 3,15-17).
+Z pewnością jednym z najważniejszych celów Pisma jest pokazanie, jak można osiągnąć zbawienie wieczne. Paweł dalej wskazuje, że Pismo jest wartościowe z czterech powodów. Zwróć uwagę na kolejność: 1. Pismo dostarcza obiektywnie prawdziwych informacji;
+2. Następnie Duch Święty używa swego Miecza, aby przekonać o grzechu;
+3. To prowadzi do pokuty i nawrócenia;
+4. Wtedy Słowo staje się naszym pokarmem i wodą do duchowego wzrostu.
+W miarę jak sami wzrastamy, możemy pomagać innym przechodzić przez ten proces. Bardzo wielu chrześcijan na całym świecie doświadczyło prawdziwości powyższego w swoim życiu.
+
+Paul wrote to Timothy: “from infancy you have known the Sacred Scriptures which are able to make you wise into salvation through the faith that is in Christ Jesus. All Scripture is God-breathed and is valuable for teaching, for reproving, for correcting, for training in righteousness, so that the man of God may be fully competent, thoroughly equipped for every good work” (2 Timothy 3:15-17). Certainly one of the most important purposes is to show how to obtain eternal salvation. Paul goes on to say that Scripture is valuable for four things. Notice the sequence: 1) the Scripture provides objectively true information; 2) then the Holy Spirit uses His Sword to convict of sin; 3) this leads to repentance and con-version; 4) then the Word is our food and water for spiritual growth. As we grow, we can help others move through the sequence. A very great many Christians, from around the world, have found the above to be true in their personal experience.
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
