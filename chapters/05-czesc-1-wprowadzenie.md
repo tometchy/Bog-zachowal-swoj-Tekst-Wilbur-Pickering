@@ -14,6 +14,10 @@ Rzymian 16,24: „Teraz Temu, który ma moc utwierdzić was według mojej Ewange
 
 2 List Piotra 1,20-21: „Przede wszystkim wiedzcie, że żadne Proroctwo Pisma nie powstaje z osobistego wydania[^slowo-uwolnic], ponieważ żadne Proroctwo nigdy nie przyszło z woli człowieka, raczej święci mężowie Boży przemawiali, gdy byli prowadzeni przez Ducha Świętego”. Tutaj mamy imponujący opis procesu Natchnienia. Podoba mi się definicja Pism, którą znajdujemy w Liście do Rzymian 2,20: „mając w Prawie ucieleśnienie wiedzy i prawdy”. Któż, jeśli nie Suwerenny Stwórca, mógłby stworzyć spisane Objawienie, które ucieleśnia poznanie i prawdę?[^przytoczone-oswiadczenia-nie-podaja-tozsamosci]
 
+_Dowód_
+
+Uważam, że odpowiednio odniosłem się do twierdzenia, więc przejdę teraz do dowodów, czyli weryfikacji. Literatura, która twierdzi, że ma nadprzyrodzone pochodzenie, powinna być z natury nadprzyrodzona i powinna przynosić nadprzyrodzone rezultaty. Zacznę od nadprzyrodzonych rezultatów, które powiedzą nam również coś o celu Stwórcy w przekazaniu Objawienia.
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
