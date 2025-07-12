@@ -18,7 +18,7 @@ _Dowód_
 
 Uważam, że odpowiednio odniosłem się do twierdzenia, więc przejdę teraz do dowodów, czyli weryfikacji. Literatura, która twierdzi, że ma nadprzyrodzone pochodzenie, powinna być z natury nadprzyrodzona i powinna przynosić nadprzyrodzone rezultaty. Zacznę od nadprzyrodzonych rezultatów, które powiedzą nam również coś o celu Stwórcy w przekazaniu Objawienia.
 
-Paweł napisał do Tymoteusza: „Od dzieciństwa znasz Pisma Święte, które mogą cię uczynić mądrym ku zbawieniu przez wiarę, która jest w Chrystusie Jezusie. Całe Pismo jest natchnione przez Boga i pożyteczne do nauczania, do upominania, do poprawiania, do ćwiczenia w prawości, aby człowiek Boży był w pełni kompetentny, całkowicie wyposażony do wszelkiego wszelkiej dobrej pracy” (2 Tymoteusza 3,15-17). Z pewnością jednym z najważniejszych celów jest pokazanie, jak uzyskać wieczne zbawienie. Paweł kontynuuje, stwierdzając, że Pismo jest cenne ze względu na cztery rzeczy. Zwróć uwagę na kolejność: 
+Paweł napisał do Tymoteusza: „Od dzieciństwa znasz Pisma Święte, które mogą cię uczynić mądrym ku zbawieniu przez wiarę, która jest w Chrystusie Jezusie. Całe Pismo jest natchnione przez Boga i pożyteczne do nauczania, do upominania, do poprawiania, do ćwiczenia w prawości, aby człowiek Boży był w pełni kompetentny, całkowicie wyposażony do wszelkiej dobrej pracy” (2 Tymoteusza 3,15-17). Z pewnością jednym z najważniejszych celów jest pokazanie, jak uzyskać wieczne zbawienie. Paweł kontynuuje, stwierdzając, że Pismo jest cenne ze względu na cztery rzeczy. Zwróć uwagę na kolejność: 
 
 1. Pismo dostarcza obiektywnie prawdziwych informacji.
 2. Następnie Duch Święty używa Swego Miecza, aby przekonać o grzechu.
