@@ -31,6 +31,8 @@ Hebrajczyków 4,12-13: „Słowo Boże jest żywe i skuteczne, ostrzejsze niż j
 
 „Ta Księga Prawa niech nie oddala się od twoich ust, lecz powinieneś rozważać w niej dniem i nocą, czego masz przestrzegać, zgodnie ze wszystkim, co jest w niej napisane. Wtedy bowiem twoja droga będzie dostatnia, i wtedy odniesiesz duży sukces.” (Jozue 1,8). List Jakuba 1,25 mówi coś bardzo podobnego. Mojżesz powiedział Izraelitom: „Skierujcie swoje serca na wszystkie słowa, które dziś świadczę pośród was, które powinniście nakazać swoim dzieciom, aby starannie przestrzegały – wszystkie słowa tego prawa. Bo nie jest to dla was rzeczą daremną, ponieważ jest to wasze życie” (Powtórzonego Prawa 32,46-47). Bardzo wielu chrześcijan na całym świecie przekonało się, że powyższe jest prawdą, w swoim osobistym doświadczeniu.
 
+Romans 1:16-17, “I am not ashamed of the Gospel of Christ, because it is the power of God for the salvation of each one who believes (for the Jew first, then the Greek); because in it God’s righteousness is revealed, from faith to faith; just as it is written: ‘The righteous one will live by faith’.” The Gospel is the power for the salvation. As Sovereign Jesus said in John 14:6—“I am the way, the truth, and the life. No one comes to the Father except through me.” There are not many ways, only one. Millions of lives have been transformed by the power of God’s Word; so where did that power come from?
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
@@ -44,3 +46,9 @@ Hebrajczyków 4,12-13: „Słowo Boże jest żywe i skuteczne, ostrzejsze niż j
 [^dostep-do-pisma]: Dostęp do Pisma jest niezbędny do duchowego wzrostu i pracy.
 
 [^dusza-i-duch]: Jeśli dusza i duch mogą być rozdzielone, to oczywiście nie mogą być tym samym, tak jak stawy i szpik nie są tym samym.
+
+[^pojecie-wstydu]: Skąd Paweł wytrzasnął pojęcie „wstydu”? Świat kontrolowany przez Szatana robi wszystko, co w jego mocy, by stłamsić każdego, kto ośmiela się głosić Prawdę.
+
+[^]: Perhaps 3% of the Greek manuscripts omit “of Christ”, to be followed by NIV, NASB, TEV, etc.—an inferior proceeding.
+
+[^]: See Habakkuk 2:4. To ‘live by faith’ you must move from one exercise of faith to another.
