@@ -49,6 +49,6 @@ Romans 1:16-17, “I am not ashamed of the Gospel of Christ, because it is the p
 
 [^pojecie-wstydu]: Skąd Paweł wytrzasnął pojęcie „wstydu”? Świat kontrolowany przez Szatana robi wszystko, co w jego mocy, by stłamsić każdego, kto ośmiela się głosić Prawdę.
 
-[^]: Perhaps 3% of the Greek manuscripts omit “of Christ”, to be followed by NIV, NASB, TEV, etc.—an inferior proceeding.
+[^]: Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co powielają NIV [New International Version, przyp. tłum.], NASB[New American Standard Bible, przyp. tłum.], TEV[Today’s English Version, przyp. tłum.] itp. — nie najlepsze rozwiązanie [polskie przekłady, które pomijają ten zwrot to np. , przyp. tłum.].
 
 [^]: See Habakkuk 2:4. To ‘live by faith’ you must move from one exercise of faith to another.
