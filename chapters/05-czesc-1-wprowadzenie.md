@@ -51,6 +51,6 @@ Romans 1:16-17, “I am not ashamed of the Gospel of Christ, because it is the p
 
 [^pomysl-wstydu]: Skąd Paweł wziął pomysł „wstydu”? Świat kontrolowany przez Szatana robi wszystko, co w jego mocy, by stłamsić każdego, kto ośmiela się głosić Prawdę.
 
-[3-procent-rekopisow-pomija^]: Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co powielają NIV [New International Version, przyp. tłum.], NASB[New American Standard Bible, przyp. tłum.], TEV[Today’s English Version, przyp. tłum.] itp. — nie najlepsze rozwiązanie [polskie przekłady, które pomijają ten zwrot to np. TYSIĄCL.WYD5, WARSZ.PRASKA, EIB.BIBLIA.2016.LIT, EIB.BIBLIA.2016.LIT przyp. tłum.].
+[3-procent-rekopisow-pomija^]: Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co powielają NIV [New International Version, przyp. tłum.], NASB[New American Standard Bible, przyp. tłum.], TEV[Today’s English Version, przyp. tłum.] itp. — to nie najlepsze rozwiązanie [polskie przekłady, które pomijają ten zwrot to np. TYSIĄCL.WYD5, WARSZ.PRASKA, EIB.BIBLIA.2016.LIT, EIB.BIBLIA.2016.LIT przyp. tłum.].
 
 [^]: See Habakkuk 2:4. To ‘live by faith’ you must move from one exercise of faith to another.
