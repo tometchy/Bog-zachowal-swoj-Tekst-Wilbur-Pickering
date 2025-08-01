@@ -49,6 +49,6 @@ List do Rzymian 1,16-17: „Nie wstydzę się[^pomysl-wstydu] Ewangelii Chrystus
 
 [^pomysl-wstydu]: Skąd Paweł wziął pomysł „wstydu”? Świat kontrolowany przez Szatana robi wszystko, co w jego mocy, by stłamsić każdego, kto ośmiela się głosić Prawdę.
 
-[^3-procent-rekopisow-pomija]: Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co powielają NIV [New International Version, przyp. tłum.], NASB [New American Standard Bible, przyp. tłum.], TEV [Today’s English Version, przyp. tłum.] itp. — to nie najlepsze rozwiązanie [polskie przekłady, które pomijają ten zwrot to np. TYSIĄCL.WYD5, WARSZ.PRASKA, EIB.BIBLIA.2016.LIT, WUJEK.1923, przyp. tłum.].
+[^3-procent-rekopisow-pomija]: Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co powielają NIV [New International Version, przyp. tłum.], NASB [New American Standard Bible, przyp. tłum.], TEV [Today’s English Version, przyp. tłum.] itp. — to nie najlepsze rozwiązanie. [polskie przekłady, które pomijają ten zwrot to np. TYSIĄCL.WYD5, WARSZ.PRASKA, EIB.BIBLIA.2016.LIT, WUJEK.1923, przyp. tłum.]
 
 [^aby-zyc-z-wiary]: Zobacz Księgę Habakuka 2,4. Aby „żyć z wiary”, musisz przechodzić od jednego przejawu wiary do drugiego.
