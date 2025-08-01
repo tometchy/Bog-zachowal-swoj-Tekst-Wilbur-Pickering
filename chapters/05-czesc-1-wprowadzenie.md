@@ -33,6 +33,10 @@ Hebrajczyków 4,12-13: „Słowo Boże jest żywe i skuteczne, ostrzejsze niż j
 
 List do Rzymian 1,16-17: „Nie wstydzę się[^pomysl-wstydu] Ewangelii Chrystusa[^3-procent-rekopisow-pomija], ponieważ jest ona mocą Bożą dla zbawienia każdego, kto wierzy (najpierw Żyda, potem Greka). Bo w niej jest ujawniona sprawiedliwość Boża, z wiary w wiarę, tak jak jest napisane: 'Sprawiedliwy z wiary żyć będzie'.”[^aby-zyc-z-wiary] Ewangelia jest mocą ku zbawieniu. Jak powiedział Suwerenny Jezus w Ewangelii Jana 14,6 — „Ja jestem drogą, prawdą i życiem. Nikt nie przychodzi do Ojca inaczej jak tylko przeze Mnie.” Nie ma wielu dróg, tylko jedna. Miliony istnień zostały przemienione mocą Bożego Słowa. Skąd więc wzięła się ta moc?
 
+Natchnienie Świętego Tekstu jest cechą wewnętrzną – jest takie, ponieważ takie jest. Jednak możemy dostrzec tę wrodzoną cechę, porównując materiały natchnione z materiałami, które nie są natchnione. Przyjrzyj się naturze treści Biblii, jej przesłaniu: nie jest to coś, co człowiek chciałby napisać, nawet gdyby potrafił, ani coś, co potrafiłby napisać, nawet gdyby chciał. Do tego dochodzi jedność Biblii: chociaż 66 ksiąg zostało napisanych przez co najmniej trzydziestu różnych ludzkich autorów, na przestrzeni około 2000 lat, i w dwóch bardzo różnych językach (hebrajskim i greckim)[^niewiele-rozdzialow-w-aramejskim], całość jest spójna, nie przeczy sama sobie. Istnieją też konkretne i szczegółowe proroctwa, nawet z podaniem imienia osoby, które zostały przekazane na wiele wieków przed ich wypełnieniem, a mimo to spełniły się dokładnie.
+
+The inspiration of the Sacred Text is an intrinsic quality, it is because it is. However, we can perceive the inherent quality, comparing inspired material with material that is not inspired. Consider the nature of the Bible’s content, or message: it is not the sort of thing that the human being would wish to write, even if he could, nor is it the sort of thing that he could write, even if he wished to. And then there is the unity of the Bible: even though the 66 books were written by at least thirty different human authors, during some 2,000 years, and in two very different languages (Hebrew and Greek), the whole is coherent, it does not contradict itself. There are also specific and detailed prophecies, even including a person’s name, given centuries before the fact, that were precisely fulfilled.
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
@@ -52,3 +56,5 @@ List do Rzymian 1,16-17: „Nie wstydzę się[^pomysl-wstydu] Ewangelii Chrystus
 [^3-procent-rekopisow-pomija]: Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co powielają NIV [New International Version, przyp. tłum.], NASB [New American Standard Bible, przyp. tłum.], TEV [Today’s English Version, przyp. tłum.] itp. — to nie najlepsze rozwiązanie. [polskie przekłady, które pomijają ten zwrot to np. TYSIĄCL.WYD5, WARSZ.PRASKA, EIB.BIBLIA.2016.LIT, WUJEK.1923, przyp. tłum.]
 
 [^aby-zyc-z-wiary]: Zobacz Księgę Habakuka 2,4. Aby „żyć z wiary”, musisz przechodzić od jednego przejawu wiary do drugiego.
+
+[^niewiele-rozdzialow-w-aramejskim]: Bardzo niewiele rozdziałów zostało napisanych w języku aramejskim.
