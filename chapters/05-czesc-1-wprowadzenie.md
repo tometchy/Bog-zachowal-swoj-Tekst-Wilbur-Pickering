@@ -37,6 +37,8 @@ Natchnienie Świętego Tekstu jest cechą wewnętrzną – jest takie, ponieważ
 
 Dla tych, którzy wierzą, że Jezus Chrystus jest Bogiem, Jego postawa względem Starego Testamentu będzie istotna. Przypisywał On Staremu Testamentowi absolutny autorytet, w Janie 5,45-47 postawił On pisma Mojżesza na równi z Jego własnym słowem, które ogłosił jako mające ważność na wieki (Łukasz 21,33). Jak podano w czterech Ewangeliach, cytował On przynajmniej Księgę Rodzaju, Wyjścia, Liczb, Powtórzonego Prawa, Psalmy, Izajasza, Jeremiasza, Daniela, Ozeasza, Jonasza, Zachariasza oraz Malachiasza. W Ewangelii Łukasza 24,44 jasno uznał trzy części kanonu hebrajskiego: Prawo, Proroków i Pisma (Psalmy). Następnie jest Mateusza 23,35: „Aby przyszła na was wszelka krew sprawiedliwa, przelana na ziemi, od krwi sprawiedliwego Abla aż do krwi Zachariasza, syna Barachiasza, którego zamordowaliście między świątynią a ołtarzem”. Jezus kończy tutaj swoje potępienie uczonych w Piśmie i faryzeuszy. Morderstwo Abla to pierwsze morderstwo odnotowane w Biblii (Rodzaju 4,8). Zwróć, proszę uwagę, że Jezus potwierdza historyczność Abla, a ponieważ Abel miał rodziców, siłą rzeczy Jezus potwierdza też historyczność rodziców Abla, Adama i Ewy! Zachariasz był współczesnym Ezdrasza i Aggeusza w czasie budowy drugiej świątyni. Tak więc „wszelka krew sprawiedliwa, przelana” między tymi dwoma mężczyznami obejmuje cały Stary Testament, około 3 500 lat!
 
+Having said all of the above, however, I recognize that to affirm the divine inspiration of the Bible is a declaration of faith—an intelligent faith that is based on evidences, but still faith, since the evidences are not absolute, and they are not absolute for a very good reason. The Sovereign Creator deliberately does not allow the evidences to be absolute, because then there would be no true test. The Creator requires that men choose between good and evil, and the choice may not be coerced. That last night, in the upper room, Sovereign Jesus referred to the Holy Spirit as “the Spirit of the Truth” and declared that “He will guide you into all the truth” (John 16,13). It is the Holy Spirit’s prerogative to convict and convince.
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
@@ -58,3 +60,5 @@ Dla tych, którzy wierzą, że Jezus Chrystus jest Bogiem, Jego postawa względe
 [^aby-zyc-z-wiary]: Zobacz Księgę Habakuka 2,4. Aby „żyć z wiary”, musisz przechodzić od jednego przejawu wiary do drugiego.
 
 [^niewiele-rozdzialow-w-aramejskim]: Bardzo niewiele rozdziałów zostało napisanych w języku aramejskim.
+
+[^nie-scisla-nauka]: So we are not dealing with science, in an objective sense.
