@@ -49,6 +49,10 @@ Ale to nie wszystko. Sposób, w jaki działa natchnienie, różni się w zależn
 
 2. Informacje historyczne są nieco inne, natchnienie gwarantuje prawdziwość tego, co jest opisane — rzeczy wydarzyły się właśnie w ten sposób[^mowa-o-informacjach-w-Biblii]. Powinno być oczywiste, że opisy grzechu, kłamstwa, przestępstwa czy perwersyjności nie są normatywne, choć służą jako negatywne przykłady, żeby nas ostrzegać. Księga Rodzaju 3,4 rejestruje kłamstwo: „Wtedy wąż rzekł do kobiety: Na pewno nie umrzecie”. Oczywiście natchnienie nie zgadza się z kłamstwem, jedynie gwarantuje, że wąż powiedział dokładnie to. Informacje historyczne lub zapisy mogą zawierać orientację normatywną. Zawsze konieczne jest zwrócenie szczególnej uwagi na kontekst, który można słusznie nazwać „królem interpretacji”.
 
+3. Materiał poetycki jest trudniejszy. To gatunek komunikacji o własnych zasadach, gdzie najważniejszy jest kontekst. Pieśń nad Pieśniami składa się z trzynastu „pieśni” i nie jest przedstawiona jako normatywna. Ponieważ relacja między mężczyzną i kobietą jest fundamentalna dla ludzkiej egzystencji, naturalne jest, że ten temat pojawia się w objawieniu pisanym. To, że Stwórca wybrał gatunek poetycki, było Jego przywilejem i dobrze odpowiada tematowi — emocje często znajdują swój wyraz właśnie w formie poetyckiej.
+
+3. Poetic material is more difficult. It is a genre of communication that has its own rules, and the context is most important. The Song of Solomon is made up of thirteen ‘canticles’, they are not presented as being normative. Since the relationship between man and woman is fundamental to human existence, it is natural that the subject finds a place in the written Revelation. That the Creator chose the poetic genre, was His prerogative, and it goes with the subject matter, emotion often finds expression in poetic form.
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
