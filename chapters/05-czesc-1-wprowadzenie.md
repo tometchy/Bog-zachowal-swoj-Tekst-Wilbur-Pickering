@@ -51,6 +51,8 @@ Ale to nie wszystko. Sposób, w jaki działa natchnienie, różni się w zależn
 
 3. Materiał poetycki jest trudniejszy. To gatunek komunikacji, który ma własne zasady i kontekst jest najważniejszy. Pieśń nad Pieśniami składa się z trzynastu „kantyczek”[^kantyczka], które nie są przedstawione jako normatywne. Ponieważ relacja między mężczyzną i kobietą jest fundamentalna dla ludzkiego istnienia, naturalne jest, że ten temat pojawia się w pisemnym Objawieniu. To, że Stwórca wybrał gatunek poetycki, było Jego prerogatywą i to dobrze pasuje do tematu — emocje często znajdują wyraz w formie poetyckiej.
 
+Dla porównania, Księga Przysłów jest generalnie normatywna. W Księdze Koheleta 12,9-11 Salomon deklaruje natchnienie przysłów: zostały one „dane przez jednego Pasterza”.
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
