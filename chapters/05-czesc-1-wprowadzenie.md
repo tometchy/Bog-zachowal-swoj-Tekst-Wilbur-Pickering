@@ -57,6 +57,10 @@ Z drugiej strony, sam Salomon nie twierdzi tego samego o Księdze Koheleta, inne
 
 _Oświecenie_
 
+Twierdzę, że ważne jest, abyśmy rozróżniali między natchnieniem a oświeceniem w odniesieniu do Pisma Świętego. Natchnienie odnosi się do pisania materiałów biblijnych, a oświecenie odnosi się do interpretacji materiałów biblijnych. Zarówno natchnienie, jak i oświecenie są dziełem Ducha Świętego. Oświecenie jest zazwyczaj zarezerwowane dla tych, którzy zostali odrodzeni. „Człowiek zaś duszewny[^duszewnosc] nie przyjmuje rzeczy Ducha Bożego, bo są dla niego głupstwem, zaiste, nie może ich zrozumieć, ponieważ są one duchowo dostrzeżone” (1 List do Koryntian 2,14)
+
+Inspiration refers to the writing of biblical material, illumination refers to the interpretation of biblical material. Both of them, inspiration and illumination, are the work of the Holy Spirit. Illumination is usually reserved for those who have been regenerated. “Now a soulish man does not receive the things of the Spirit of God, for they are foolishness to him, indeed, he cannot understand them, because they are spiritually discerned” (1 Corinthians 2,14). That is what the Text says. A ‘soulish’ person cannot understand spiritual things, which sounds rather like a congenital defect. The concrete facts contained in an historical record can be understood by anyone. That David killed Goliath is a fact that anyone can understand. But to understand the Holy Spirit’s purpose behind an inspired statement depends on illumination, and to receive it one must be spiritual (1 Corinthians 2,15).
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
@@ -88,3 +92,6 @@ https://pl.wikipedia.org/wiki/Unia_hipostatyczna
 
 [^kantyczka]: Kantyczka (z łac. canticum = monolog, pieśń) – popularna pieśń religijna, np. kolędy, pastorałki, jasełka. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Kantyczka
+
+[^duszewnosc]:  
+https://pl.wikipedia.org/wiki/Duszewno%C5%9B%C4%87
