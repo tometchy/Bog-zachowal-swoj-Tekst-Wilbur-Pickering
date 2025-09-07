@@ -59,6 +59,10 @@ _Oświecenie_
 
 Twierdzę, że ważne jest, abyśmy rozróżniali między natchnieniem a oświeceniem w odniesieniu do Pisma Świętego. Natchnienie odnosi się do pisania materiałów biblijnych, a oświecenie odnosi się do interpretacji materiałów biblijnych. Zarówno natchnienie, jak i oświecenie są dziełem Ducha Świętego. Oświecenie jest zazwyczaj zarezerwowane dla tych, którzy zostali odrodzeni. „Człowiek zaś duszewny[^duszewnosc] nie przyjmuje rzeczy Ducha Bożego, bo są dla niego głupstwem, zaiste, nie może ich zrozumieć, ponieważ są one duchowo rozróżniane” (1 List do Koryntian 2,14). Tak właśnie mówi Tekst. Osoba „duszewna” nie jest w stanie pojąć spraw duchowych, co brzmi raczej jak wada wrodzona. Konkretne fakty zawarte w zapisach historycznych mogą być zrozumiane przez każdego. To, że Dawid zabił Goliata, jest faktem zrozumiałym dla każdego. Jednak zrozumienie celu Ducha Świętego stojącego za natchnionym stwierdzeniem zależy od oświecenia, a aby je otrzymać, trzeba być duchowym (1 Kor 2,15).
 
+_Kanon_
+
+I now come to the question of the canonicity of the Sacred Text: why does our Bible have the exact assortment of books that it has—no more, no less, and no others? Inspiration refers to divine activity in the act of writing the material, guaranteeing the result. In contrast, the canonizing of the Text refers to human activity, recognizing the divine quality of that material. The process of that recognition took place within the community of the Faith—the Hebrew community, for the OT, and the Christian community, for the NT. I have already referred to the attitude that the Lord Jesus Christ demonstrated with regard to the OT, which was all of the Bible that existed at that point. He evidently recognized the Canon of 39 books that had been defined by His time. He cited a number of books— taken from the Law, history, prophecy and poetry—and He did so as being God’s Word, something true, holy and authoritative. The human authors of the NT demonstrated the same respect for the OT, which was their Bible as well.
+
 [^dotychczasowe-ksiazki]: Do tej pory opublikowałem osiem, plus Tekst Grecki.
 
 [^wieczne-slowo]: Odniosłem się już do 1 Kronik 16,15.
