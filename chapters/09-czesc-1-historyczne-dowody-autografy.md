@@ -6,6 +6,7 @@ By the time that Matthew ‘published’ his Gospel in AD 38,XXX the production 
 A book the size of Matthew’s Gospel would represent a considerable investment of time and effort, as well as papyrus and ink. I believe the NT writings were prepared in book form from the first (not scroll), and the material used was probably papyrus.XXX However, papyrus cannot stand a lot of handling, and by the year 38 there were many Christian congregations just in the Jewish territory, not to mention elsewhere. If the Holy Spirit intended that the NT writings should have a wide circulation, which would seem to be obvious, it would be necessary to start out with multiple copies.
 
 [^XXX]: The colophones in 50% of the MSS, including Family 35, say that Matthew was 'published' eight years after the ascension of the Christ. Since Jesus ascended in 30 AD, Matthew was released in 38. The colophones say that Mark was published two years later (40), and Luke another five years later (45), and John in 62.
+Kolofony w 50% rękopisów, w tym w rodzinie 35, podają, że Ewangelia Mateusza została „opublikowana” osiem lat po wniebowstąpieniu Chrystusa. Ponieważ Jezus wstąpił do nieba w 30 r. n.e., Ewangelia Mateusza została wydana w 38 r. Kolofony podają, że Ewangelia Marka została opublikowana dwa lata później (40 r.), Ewangelia Łukasza kolejne pięć lat później (45 r.), a Ewangelia Jana w 62 r.
 
 [^XXX2]: “Bring the books, especially the parchments” (2 timothy 4:13). We may gather from this that parchment was already in use, but the ‘books’ were presumably on papyrus, otherwise, why the contrast?
 
@@ -13,3 +14,4 @@ Kolofon (stgr. κολοφών kolophōn „szczyt, wierzchołek; zwieńczenie pr
 https://pl.wikipedia.org/wiki/Kolofon
 
 Family 35 New Testament (Nowy Testament rodziny 35): To jest specyficzna, nieoficjalna wersja Nowego Testamentu, która została przetłumaczona i wydana przez grupę znanej jako "Family 35". Ta wersja podkreśla swoją autorytetę jako "przeciwieństwo" tradycyjnych przekładów, nawiązując do przestrogi z Odkrycia 22, które ostrzega przed dodawaniem lub odejmowaniem z księgi. Wersja ta jest dostępna w języku angielskim i ma charakter religijny.
+https://www.family35nt.org/
