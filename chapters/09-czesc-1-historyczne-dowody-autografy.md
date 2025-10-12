@@ -12,5 +12,6 @@ Kolofony [kolofon (stgr. κολοφών kolophōn „szczyt, wierzchołek; zwie�
 
 [^XXX2]: “Bring the books, especially the parchments” (2 timothy 4:13). We may gather from this that parchment was already in use, but the ‘books’ were presumably on papyrus, otherwise, why the contrast?
 
+Wilbur Pickering, the translator of the English Family 35 Bible, promotes a philosophy of translation that privileges a specific suite of manuscripts as divinely inspired. In Pickering’s exact words, the English Family 35 Bible contains the “precise original wording of the NT, and that we can, and do, know what it is based on an empirical procedure.” The English Family 35 Bible functions, in part, as an interlinear Bible which compares different families of well-known Biblical texts
 
  [Nowy Testament Rodzina 35 (ang. Family 35 Greek NT Text): To jest wersja Nowego Testamentu, która została przetłumaczona i wydana przez grupę znaną jako "Rodzina 35", w skład której wchodzi Wilbur N. Pickering. Ta wersja podkreśla swoją autorytetę jako "przeciwieństwo" tradycyjnych przekładów, nawiązując do przestrogi z Księgi Objawień, która ostrzega przed dodawaniem lub odejmowaniem z księgi. Wersja ta jest dostępna w języku angielskim i ma charakter religijny. https://www.family35nt.org/]
