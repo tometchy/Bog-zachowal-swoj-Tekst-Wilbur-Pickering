@@ -7,12 +7,163 @@
   <meta name="author" content="Wilbur N. Pickering" />
   <title>Bóg zachował swój Tekst!</title>
   <style>
+    html {
+      font-family: DejaVu Sans;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
     /*
      * Custom CSS file. Override it as you like.
      *
@@ -367,238 +518,1237 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#od-tłumacza">Od tłumacza</a>
+<li><a href="#od-tłumacza" id="toc-od-tłumacza">Od tłumacza</a>
 <ul>
-<li><a href="#wydawnictwo-świadome-chrześcijaństwo">Wydawnictwo Świadome Chrześcijaństwo</a></li>
+<li><a href="#wydawnictwo-świadome-chrześcijaństwo"
+id="toc-wydawnictwo-świadome-chrześcijaństwo">Wydawnictwo Świadome
+Chrześcijaństwo</a></li>
 </ul></li>
-<li><a href="#przedmowa">Przedmowa</a></li>
-<li><a href="#podziękowania">Podziękowania</a></li>
-<li><a href="#część-i-dowody-historyczne">CZĘŚĆ I: Dowody historyczne</a>
+<li><a href="#przedmowa" id="toc-przedmowa">Przedmowa</a></li>
+<li><a href="#podziękowania"
+id="toc-podziękowania">Podziękowania</a></li>
+<li><a href="#część-i-dowody-historyczne"
+id="toc-część-i-dowody-historyczne">CZĘŚĆ I: Dowody historyczne</a>
 <ul>
-<li><a href="#preambuła">Preambuła</a></li>
-<li><a href="#wprowadzenie">Wprowadzenie</a>
+<li><a href="#preambuła" id="toc-preambuła">Preambuła</a></li>
+<li><a href="#wprowadzenie" id="toc-wprowadzenie">Wprowadzenie</a>
 <ul>
-<li><a href="#natchnienie">Natchnienie</a></li>
-<li><a href="#oświecenie">Oświecenie</a></li>
-<li><a href="#kanon">Kanon</a></li>
+<li><a href="#natchnienie" id="toc-natchnienie">Natchnienie</a></li>
+<li><a href="#oświecenie" id="toc-oświecenie">Oświecenie</a></li>
+<li><a href="#kanon" id="toc-kanon">Kanon</a></li>
 </ul></li>
-<li><a href="#historyczne-dowody-na-zachowanie">Historyczne dowody na Zachowanie</a>
+<li><a href="#historyczne-dowody-na-zachowanie"
+id="toc-historyczne-dowody-na-zachowanie">Historyczne dowody na
+Zachowanie</a>
 <ul>
-<li><a href="#autografy">Autografy</a></li>
+<li><a href="#autografy" id="toc-autografy">Autografy</a></li>
 </ul></li>
 </ul></li>
 </ul>
 </nav>
 <h1 id="od-tłumacza">Od tłumacza</h1>
-<p>Tłumaczenie czwartej edycji książki <a href="https://web.archive.org/web/20240804201013/https://www.prunch.com.br/wp-content/uploads/2021/07/God-Has-Preserved-His-Text-4th.pdf"><em>GOD HAS PRESERVED HIS TEXT! The Divine Preservation of the New Testament</em></a><br />
+<p>Tłumaczenie czwartej edycji książki <a
+href="https://web.archive.org/web/20240804201013/https://www.prunch.com.br/wp-content/uploads/2021/07/God-Has-Preserved-His-Text-4th.pdf"><em>GOD
+HAS PRESERVED HIS TEXT! The Divine Preservation of the New
+Testament</em></a><br />
 ISBN: 978-0-9974686-9-4<br />
 <em>Wilbur N. Pickering</em></p>
-<p>Tłumaczenie wykonał Tomasz Skraskowski dla <a href="https://www.wswch.pl/">Wydawnictwa Świadome Chrześcijaństwo</a>. Zdjęcia dodane przez tłumacza zazaczone są adnotacją <em>[zdj. tłum.]</em>, przypisy dodane przez tłumacza zaznaczone są adnotacją <em>[przyp. tłum.]</em>.</p>
-<p>Tomasz Skraskowski nie jest profesjonalnym tłumaczem, podjął się niniejszego przekładu pro publico bono, gospodarując dla niego czas pomiędzy obowiązkami zawodowymi a rodzinnymi. W trakcie rozważań, czy podjąć się tego dzieła, wahając się, czy podoła, usłyszał od Pana:</p>
+<p>Tłumaczenie wykonał Tomasz Skraskowski dla <a
+href="https://www.wswch.pl/">Wydawnictwa Świadome Chrześcijaństwo</a>.
+Zdjęcia dodane przez tłumacza zazaczone są adnotacją <em>[zdj.
+tłum.]</em>, przypisy dodane przez tłumacza zaznaczone są adnotacją
+<em>[przyp. tłum.]</em>.</p>
+<p>Tomasz Skraskowski nie jest profesjonalnym tłumaczem, podjął się
+niniejszego przekładu pro publico bono, gospodarując dla niego czas
+pomiędzy obowiązkami zawodowymi a rodzinnymi. W trakcie rozważań, czy
+podjąć się tego dzieła, wahając się, czy podoła, usłyszał od Pana:</p>
 <blockquote>
-<p>Choćby to była rzecz najtrudniejsza, jest miła i wielka w oczach moich.</p>
+<p>Choćby to była rzecz najtrudniejsza, jest miła i wielka w oczach
+moich.</p>
 </blockquote>
-<p>Tłumaczenie dostępne do pobrania z <a href="https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering">tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering</a> w formatach:</p>
+<p>Tłumaczenie dostępne do pobrania z <a
+href="https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering">tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering</a>
+w formatach:</p>
 <ul>
-<li><a href="https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub">EPUB</a></li>
-<li><a href="https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf">PDF</a></li>
-<li><a href="https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/docx/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.docx">DOCX</a></li>
+<li><a
+href="https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub">EPUB</a></li>
+<li><a
+href="https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf">PDF</a></li>
+<li><a
+href="https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/docx/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.docx">DOCX</a></li>
 </ul>
 <p><em>© 2021 Wilbur N. Pickering</em><br />
 Oryginał dostępny na http://thechristiancommons.com.</p>
 <p>Udostępniono na licencji:<br />
-<em>Uznanie autorstwa - Na tych samych warunkach 4.0 Międzynarodowa</em><br />
-CC BY-SA 4.0 - <a href="https://creativecommons.org/licenses/by-sa/4.0/">creativecommons.org/licenses/by-sa/4.0</a></p>
+<em>Uznanie autorstwa - Na tych samych warunkach 4.0
+Międzynarodowa</em><br />
+CC BY-SA 4.0 - <a
+href="https://creativecommons.org/licenses/by-sa/4.0/">creativecommons.org/licenses/by-sa/4.0</a></p>
 <p>Licencja zezwala na:</p>
 <ul>
-<li><strong>Dzielenie się</strong> — kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie dla dowolnego celu, także komercyjnego.</li>
-<li><strong>Adaptacje</strong> - remiksuj, zmieniaj i twórz na bazie utworu dla dowolnego celu, także komercyjnego.</li>
+<li><strong>Dzielenie się</strong> — kopiuj i rozpowszechniaj utwór w
+dowolnym medium i formacie dla dowolnego celu, także komercyjnego.</li>
+<li><strong>Adaptacje</strong> - remiksuj, zmieniaj i twórz na bazie
+utworu dla dowolnego celu, także komercyjnego.</li>
 </ul>
-<p>Licencjodawca nie może odwołać udzielonych praw, o ile są przestrzegane warunki licencji:</p>
+<p>Licencjodawca nie może odwołać udzielonych praw, o ile są
+przestrzegane warunki licencji:</p>
 <ul>
-<li><strong>Uznanie autorstwa</strong> — Utwór należy oznaczyć słowami “<em>Oryginał dostępny na http://thechristiancommons.com.</em>”, podać link do licencji i <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-indicate-changes">wskazać jeśli zostały dokonane w nim zmiany</a>. Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór.</li>
-<li><strong>Na tych samych warunkach</strong> — Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-same-license">tej samej licencji</a>, co oryginał.</li>
-<li><strong>Brak dodatkowych ograniczeń</strong> — Nie możesz korzystać ze środków prawnych lub technologicznych, które ograniczają innych w korzystaniu z utworu na warunkach określonych w licencji.</li>
+<li><strong>Uznanie autorstwa</strong> — Utwór należy oznaczyć słowami
+“<em>Oryginał dostępny na http://thechristiancommons.com.</em>”, podać
+link do licencji i <a
+href="https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-indicate-changes">wskazać
+jeśli zostały dokonane w nim zmiany</a>. Możesz to zrobić w dowolny,
+rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę
+poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór.</li>
+<li><strong>Na tych samych warunkach</strong> — Remiksując utwór,
+przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło
+rozpowszechniać na <a
+href="https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-same-license">tej
+samej licencji</a>, co oryginał.</li>
+<li><strong>Brak dodatkowych ograniczeń</strong> — Nie możesz korzystać
+ze środków prawnych lub technologicznych, które ograniczają innych w
+korzystaniu z utworu na warunkach określonych w licencji.</li>
 </ul>
-<h2 id="wydawnictwo-świadome-chrześcijaństwo">Wydawnictwo Świadome Chrześcijaństwo</h2>
-<p>Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać wspólnie z nami dzieło tłumaczenia i wydawania Duchowej literatury dla naszego kraju, podajemy numer konta:</p>
+<h2 id="wydawnictwo-świadome-chrześcijaństwo">Wydawnictwo Świadome
+Chrześcijaństwo</h2>
+<p>Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać
+wspólnie z nami dzieło tłumaczenia i wydawania Duchowej literatury dla
+naszego kraju, podajemy numer konta:</p>
 <p><strong>Fundacja Świadome Chrześcijaństwo</strong><br />
 Nr rachunku: 51175000120000000034138044</p>
-<p>Pozostałe książki wydawnictwa dostępnepne pod adresem <a href="https://www.wswch.pl/">wswch.pl</a>.</p>
+<p>Pozostałe książki wydawnictwa dostępnepne pod adresem <a
+href="https://www.wswch.pl/">wswch.pl</a>.</p>
 <h1 id="przedmowa">Przedmowa</h1>
-<p>Wilbur N. Pickering jest chrześcijańskim misjonarzem, mieszkającym w Brasílii, stolicy Brazylii. Posiada tytuł magistra i doktora lingwistyki. Spośród osób aktywnie zaangażowanych w krytykę tekstu<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Nowego Testamentu, nikt nie ma bardziej radykalnego poglądu w obronie nieomylności i obiektywnego autorytetu Świętego Tekstu. Włącznie ze stanowiskiem, że dokładne oryginalne brzmienie zostało zachowane do naszych czasów i że możemy je poznać. Ta książka oferuje naukową obronę tego przekonania.</p>
-<p>Dr Pickering dołączył do Wycliffe Bible Translators<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> w 1958 roku. Po trzech latach przygotowań do pracy w terenie przybył do Brazylii w 1961 roku, gdzie wraz z żoną rozpoczęli pracę tłumaczenia wśród ludu Apurinã<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>. W 1996 roku zrezygnował z pracy w Wycliffe, aby zająć się innymi zainteresowaniami.</p>
-<p>Dr Pickering od pewnego czasu uważał, że spośród setek greckich rękopisów Nowego Testamentu, które są dziś znane, Bóg z pewnością zachował oryginalny tekst. Po latach poszukiwań i porównywania tych rękopisów doszedł do wniosku, że Bóg posłużył się określoną linią przekazu, aby zachować oryginał. Ta linia jest zdecydowanie największą i najbardziej spójną ze wszystkich grup lub rodzin manuskryptów. Wyróżnia się na tle innych grup wysokim poziomem staranności, z jaką była kopiowana (dr Pickering posiada kopie doskonałych rękopisów – archetypu tej rodziny – dla 22 z 27 ksiąg). Jest zarówno starożytna, jak i niezależna, i jako jedyna posiada dającą się udowodnić archetypową formę we wszystkich 27 księgach. Ta archetypowa forma została empirycznie, obiektywnie zidentyfikowana na podstawie szerokiego porównania przedstawicieli tej rodziny i rzeczywiście jest wolna od błędów. Jak się spodziewał, ten bezbłędny tekst nie różni się znacząco od innych „dobrych” greckich tekstów. Niemniej jednak, przygotował na jego podstawie angielskie tłumaczenie: <em>The Sovereign Creator Has Spoken: Objective Authority for Living, Second Edition</em>, dostępne na jego stronie www.prunch.org oraz na Amazon.com.</p>
+<p>Wilbur N. Pickering jest chrześcijańskim misjonarzem, mieszkającym w
+Brasílii, stolicy Brazylii. Posiada tytuł magistra i doktora
+lingwistyki. Spośród osób aktywnie zaangażowanych w krytykę tekstu<a
+href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a> Nowego Testamentu, nikt nie ma
+bardziej radykalnego poglądu w obronie nieomylności i obiektywnego
+autorytetu Świętego Tekstu. Włącznie ze stanowiskiem, że dokładne
+oryginalne brzmienie zostało zachowane do naszych czasów i że możemy je
+poznać. Ta książka oferuje naukową obronę tego przekonania.</p>
+<p>Dr Pickering dołączył do Wycliffe Bible Translators<a href="#fn2"
+class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> w
+1958 roku. Po trzech latach przygotowań do pracy w terenie przybył do
+Brazylii w 1961 roku, gdzie wraz z żoną rozpoczęli pracę tłumaczenia
+wśród ludu Apurinã<a href="#fn3" class="footnote-ref" id="fnref3"
+role="doc-noteref"><sup>3</sup></a>. W 1996 roku zrezygnował z pracy w
+Wycliffe, aby zająć się innymi zainteresowaniami.</p>
+<p>Dr Pickering od pewnego czasu uważał, że spośród setek greckich
+rękopisów Nowego Testamentu, które są dziś znane, Bóg z pewnością
+zachował oryginalny tekst. Po latach poszukiwań i porównywania tych
+rękopisów doszedł do wniosku, że Bóg posłużył się określoną linią
+przekazu, aby zachować oryginał. Ta linia jest zdecydowanie największą i
+najbardziej spójną ze wszystkich grup lub rodzin manuskryptów. Wyróżnia
+się na tle innych grup wysokim poziomem staranności, z jaką była
+kopiowana (dr Pickering posiada kopie doskonałych rękopisów – archetypu
+tej rodziny – dla 22 z 27 ksiąg). Jest zarówno starożytna, jak i
+niezależna, i jako jedyna posiada dającą się udowodnić archetypową formę
+we wszystkich 27 księgach. Ta archetypowa forma została empirycznie,
+obiektywnie zidentyfikowana na podstawie szerokiego porównania
+przedstawicieli tej rodziny i rzeczywiście jest wolna od błędów. Jak się
+spodziewał, ten bezbłędny tekst nie różni się znacząco od innych
+„dobrych” greckich tekstów. Niemniej jednak, przygotował na jego
+podstawie angielskie tłumaczenie: <em>The Sovereign Creator Has Spoken:
+Objective Authority for Living, Second Edition</em>, dostępne na jego
+stronie www.prunch.org oraz na Amazon.com.</p>
 <h1 id="podziękowania">Podziękowania</h1>
-<p>Pragnę wyrazić moją wdzięczność dr. Williamowi Penningowi (doktorat z astronomii) za sformatowanie tej książki. Jest on specjalistą komputerowym wspierającym tłumaczenie Biblii, głównie w Brazylii.</p>
-<p>Chciałbym również podziękować Danielowi Jore za udostępnienie zdjęcia na okładkę<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>.</p>
+<p>Pragnę wyrazić moją wdzięczność dr. Williamowi Penningowi (doktorat z
+astronomii) za sformatowanie tej książki. Jest on specjalistą
+komputerowym wspierającym tłumaczenie Biblii, głównie w Brazylii.</p>
+<p>Chciałbym również podziękować Danielowi Jore za udostępnienie zdjęcia
+na okładkę<a href="#fn4" class="footnote-ref" id="fnref4"
+role="doc-noteref"><sup>4</sup></a>.</p>
 <h1 id="część-i-dowody-historyczne">CZĘŚĆ I: Dowody historyczne</h1>
 <h2 id="preambuła">Preambuła</h2>
-<p>W każdej dyskusji dotyczącej interpretacji dowodów należy jasno odróżnić trzy rzeczy: dowody, interpretację oraz założenia wyjściowe. Prawdziwe dowody, obiektywna rzeczywistość, powinny być takie same dla wszystkich. Jednak interpretacja, jaką różni ludzie nadają tym dowodom, może się znacznie różnić. Różne interpretacje wynikają z odmiennych zestawów założeń wyjściowych. Ponieważ nie da się pracować bez założeń, nie należy krytykować nikogo za to, że je posiada. Jednakże, ponieważ założenia wyjściowe kontrolują lub przynajmniej silnie wpływają na interpretację, każdy uczciwy uczestnik dyskusji dotyczącej dowodów powinien rozumieć własne założenia i otarcie i wyraźnie je przedstawić. Niezadeklarowanie własnych założeń jest nieuczciwe i naganne. Krytykowanie przez kogoś, kto nie przedstawia własnych założeń, kogoś, kto je jasno deklaruje, jest zwyczajnie przewrotne, to haniebne postępowanie. Każda dyskusja dotycząca interpretacji dowodów powinna rozpoczynać się od przedstawienia założeń wyjściowych. W tym miejscu pojawia się pytanie: czy założenia można ocenić, a jeśli tak, to w jaki sposób? Oto moja próba rozpoczęcia tej analizy.</p>
-<p>Fundamentalnym pytaniem, które rządzi ludzką egzystencją na naszej planecie, jest pytanie o autorytet: kto go posiada, jeśli w ogóle go posiada, i na jakich warunkach. Rywalizacja między światopoglądami (ideologiami, religiami, filozofiami życia) na światowym rynku sprowadza się właśnie do tego pytania. Mam świadomość, że niewielu ludzi zajmuje się ostateczną przyczyną, zadowalając się życiem zgodnie z nakazami własnej kultury — choć może „zadowalają się” nie jest tu najlepszym określeniem, po prostu nie mają czasu ani możliwości, by wymyślać alternatywy. Ale co się dzieje, gdy pojawia się agent zmiany? Agent zmiany promuje alternatywny światopogląd, kwestionuje kulturę. Nawet jeśli pytanie o autorytet nie jest wyrażone wprost, to czai się w tle. Poddaję pod rozwagę, że najbardziej podstawowym czynnikiem jest istnienie (lub nieistnienie) Suwerennego Stwórcy. Jeśli taki Stwórca istnieje, to będzie miał absolutny autorytet nad tym, co stworzył. Gdy jest przedstawiony więcej niż jeden kandydat, właściwy wybór powinien zależeć od dowodów. We współczesnym świecie powszechne jest negowanie istnienia jakiegokolwiek Stwórcy, przypisując istnienie otaczającego nas wszechświata procesom ewolucyjnym.</p>
-<p>Cała prawdziwa nauka opiera się na zasadzie przyczyny i skutku – obserwujemy skutek i próbujemy wyizolować przyczynę, a jest logicznie niemożliwe, aby przyczyna wywołała skutek większy lub bardziej złożony niż ona sama. Każdy człowiek, który jest zarówno uczciwy, jak i inteligentny, stając wobec obserwowalnego wszechświata ze swoją niezwykłą organizacją i złożonością, jest zobowiązany dojść do wniosku, że musi istnieć PRZYCZYNA – Przyczyna obdarzona inteligencją i mocą przekraczającą nasze pojmowanie – odmowa, aby tego dokonać, jest przejawem przewrotności. Skoro my mamy osobowość, On także musi ją mieć.</p>
-<p>Jedyną alternatywą dla Przyczyny byłby przypadek działający z niczym. Ale jest to absurdalnie, niedorzecznie niemożliwe, żeby przypadek, działając z niczym, mógł cokolwiek wyprodukować. 10 × 0 = 0, 1000 × 0 = 0, 1 000 000 × 0 = 0, i tak dalej, bez względu na to, ile razy pomnożysz zero, wynik zawsze będzie równy zero. Jeśli będziesz mnożyć zero przez coś każdego dnia przez pięć miliardów (czy bilionów) lat, wynik zawsze będzie zerem. To, że przypadek plus nic wyprodukował wszechświat, jest głupio, śmiesznie niemożliwe. Nawet jeśli zaczyna się od zabobonu o „wielkim wybuchu” materii nieorganicznej (bez życia), to skąd wzięło się życie? (Pomijam tu kwestię, skąd wzięła się cała ta materia nieorganiczna.)</p>
-<p>Nauka fizyki mówi nam, że nieorganiczny (pozbawiony życia) znany wszechświat można opisać za pomocą 350 „bitów” informacji. Tymczasem do opisania najmniejszego białka potrzeba 1500 „bitów” informacji – jest ono tak małe, że nie może istnieć samodzielnie, ale stanowi część żywego systemu<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>. Jak więc ewolucja mogłaby wytworzyć życie? Gdzie przypadek znalazłby 1150 „bitów” nowej informacji, skoro w całym wszechświecie było ich tylko 350? Co więcej, bakteria E. coli wymaga około siedmiu milionów „bitów”, a jedna ludzka komórka – aż dwudziestu miliardów „bitów”! Teoria ewolucji, mająca wyjaśniać pochodzenie życia, jest absurdalnie, niedorzecznie niemożliwa!</p>
-<p>Nauka genetyki, wraz z projektami badającymi genom, odkryła, że losowa zmiana zaledwie trzech nukleotydów jest śmiertelna dla organizmu. Rozważmy przypadek szympansa, uznawanego za „najbliższego krewnego” człowieka: różnica genetyczna między nami wynosi podobno około 1,6%. To może brzmieć nieznacznie, ale odpowiada około 48 milionom różnic w nukleotydach, a losowa zmiana już trzech nukleotydów zabija zwierzę – z tego wynika, że ewolucja szympansa w człowieka jest po prostu niemożliwa (około 15 milionów szympansów zginęłoby w takiej próbie, nie przekraczając nawet pierwszych trzech nukleotydów!)<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>. Każdy odmienny typ zwierzęcia musiał zostać stworzony osobno, właśnie tak jak to potwierdza Księga Rodzaju. Każda hipoteza ewolucyjna, mająca wyjaśnić różne typy zwierząt (nie mówiąc już o ptakach, owadach, rybach, roślinach itd.), jest naukowo niemożliwa, absurdalnie, niedorzecznie niemożliwa.</p>
-<p>Tak zwana “kolumna geologiczna”<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> to fikcja. W Australii znajdują się skamieniałe pnie drzew, stojące pionowo, przechodzące przez różne warstwy skał osadowych, które według “kolumny geologicznej” reprezentują wiele milionów lat<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a> – to po prostu głupie, absurdalnie niemożliwe! W USA jest wysokie plateau (mesa)<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>, z warstwą starszej skały na warstwie młodszej skały (według “kolumny”), ale obszar ten jest tak rozległy, że żadna znana siła nie byłaby w stanie pokonać tarcia powstałego przy próbie przesunięcia jednej warstwy po drugiej (stosowany argument) – to również jest niemożliwe dla “kolumny geologicznej”<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a>.</p>
-<p><img src="images/Chief_Mountain.jpg" alt="Góra Chief Mountain" /><br />
-Góra <em>Chief Mountain</em>, to przykład formacji, która ma warstwy skalne „nie po kolei” w sensie geologicznym – rzekomo starsze skały leżą na rzekomo młodszych. [zdj. tłum.]<br />
-<a href="https://commons.wikimedia.org/wiki/File:Chief_Mountain.jpg">commons.wikimedia.org/wiki/File:Chief_Mountain.jpg</a></p>
-<p>Około 60 mil na południowy zachód od Dallas w Teksasie znajduje się miasteczko Glen Rose, położone blisko rzeki Paluxy. Tam właśnie znajduje się Park stanowy Dinosaur Valley (<em>Dinosaur Valley State Park</em>), ponieważ dno rzeki zachowało ślady dwóch rodzajów dinozaurów: trójpalczaste i czteropalczaste. W górę rzeki od parku paleontolog dr Carl Baugh zakupił znaczną ilość ziemi po obu stronach rzeki, aby móc prowadzić własne wykopaliska. Na swojej posesji posiada muzeum, które osobiście odwiedziłem. W <strong>tej samej warstwie</strong> skały osadowej natknął się na następujące znaleziska: dwa skamieniałe trylobity<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a>, które, według ewolucjonistów istniały 550 milionów lat temu, skamieniały mech zwany „lapidodendron”, który, według ewolucjonistów, istniał 250 milionów lat temu<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a>, kompletny szkielet dinozaura o nazwie „akrokantozaur” (12 metrów długości), który, według ewolucjonistów, istniał 100 milionów lat temu, siedem śladów ogromnego „kota”, który, według ewolucjonistów, istniał 6 milionów lat temu, 57 ludzkich odcisków stóp (niektóre znajdują się wewnątrz śladów dinozaurów)<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a>, skamieniały czwarty palec lewej ręki kobiety<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a>, a nawet przedpotopowy żelazny młotek (jego żelazo nie rdzewieje, składa się w 96,6% z żelaza i 2,7% z chloru) – <strong>wszystko to w tej samej warstwie skalnej!</strong></p>
-<p><img src="images/Paluxy_River_Taylor_Site,_Glen_Rose,_Texas._Two_elongate_footprints.png" alt="Paluxy River Taylor Site, Glen Rose, Teksas. Dwa wydłużone ślady stóp" /><br />
+<p>W każdej dyskusji dotyczącej interpretacji dowodów należy jasno
+odróżnić trzy rzeczy: dowody, interpretację oraz założenia wyjściowe.
+Prawdziwe dowody, obiektywna rzeczywistość, powinny być takie same dla
+wszystkich. Jednak interpretacja, jaką różni ludzie nadają tym dowodom,
+może się znacznie różnić. Różne interpretacje wynikają z odmiennych
+zestawów założeń wyjściowych. Ponieważ nie da się pracować bez założeń,
+nie należy krytykować nikogo za to, że je posiada. Jednakże, ponieważ
+założenia wyjściowe kontrolują lub przynajmniej silnie wpływają na
+interpretację, każdy uczciwy uczestnik dyskusji dotyczącej dowodów
+powinien rozumieć własne założenia i otarcie i wyraźnie je przedstawić.
+Niezadeklarowanie własnych założeń jest nieuczciwe i naganne.
+Krytykowanie przez kogoś, kto nie przedstawia własnych założeń, kogoś,
+kto je jasno deklaruje, jest zwyczajnie przewrotne, to haniebne
+postępowanie. Każda dyskusja dotycząca interpretacji dowodów powinna
+rozpoczynać się od przedstawienia założeń wyjściowych. W tym miejscu
+pojawia się pytanie: czy założenia można ocenić, a jeśli tak, to w jaki
+sposób? Oto moja próba rozpoczęcia tej analizy.</p>
+<p>Fundamentalnym pytaniem, które rządzi ludzką egzystencją na naszej
+planecie, jest pytanie o autorytet: kto go posiada, jeśli w ogóle go
+posiada, i na jakich warunkach. Rywalizacja między światopoglądami
+(ideologiami, religiami, filozofiami życia) na światowym rynku sprowadza
+się właśnie do tego pytania. Mam świadomość, że niewielu ludzi zajmuje
+się ostateczną przyczyną, zadowalając się życiem zgodnie z nakazami
+własnej kultury — choć może „zadowalają się” nie jest tu najlepszym
+określeniem, po prostu nie mają czasu ani możliwości, by wymyślać
+alternatywy. Ale co się dzieje, gdy pojawia się agent zmiany? Agent
+zmiany promuje alternatywny światopogląd, kwestionuje kulturę. Nawet
+jeśli pytanie o autorytet nie jest wyrażone wprost, to czai się w tle.
+Poddaję pod rozwagę, że najbardziej podstawowym czynnikiem jest
+istnienie (lub nieistnienie) Suwerennego Stwórcy. Jeśli taki Stwórca
+istnieje, to będzie miał absolutny autorytet nad tym, co stworzył. Gdy
+jest przedstawiony więcej niż jeden kandydat, właściwy wybór powinien
+zależeć od dowodów. We współczesnym świecie powszechne jest negowanie
+istnienia jakiegokolwiek Stwórcy, przypisując istnienie otaczającego nas
+wszechświata procesom ewolucyjnym.</p>
+<p>Cała prawdziwa nauka opiera się na zasadzie przyczyny i skutku –
+obserwujemy skutek i próbujemy wyizolować przyczynę, a jest logicznie
+niemożliwe, aby przyczyna wywołała skutek większy lub bardziej złożony
+niż ona sama. Każdy człowiek, który jest zarówno uczciwy, jak i
+inteligentny, stając wobec obserwowalnego wszechświata ze swoją
+niezwykłą organizacją i złożonością, jest zobowiązany dojść do wniosku,
+że musi istnieć PRZYCZYNA – Przyczyna obdarzona inteligencją i mocą
+przekraczającą nasze pojmowanie – odmowa, aby tego dokonać, jest
+przejawem przewrotności. Skoro my mamy osobowość, On także musi ją
+mieć.</p>
+<p>Jedyną alternatywą dla Przyczyny byłby przypadek działający z niczym.
+Ale jest to absurdalnie, niedorzecznie niemożliwe, żeby przypadek,
+działając z niczym, mógł cokolwiek wyprodukować. 10 × 0 = 0, 1000 × 0 =
+0, 1 000 000 × 0 = 0, i tak dalej, bez względu na to, ile razy pomnożysz
+zero, wynik zawsze będzie równy zero. Jeśli będziesz mnożyć zero przez
+coś każdego dnia przez pięć miliardów (czy bilionów) lat, wynik zawsze
+będzie zerem. To, że przypadek plus nic wyprodukował wszechświat, jest
+głupio, śmiesznie niemożliwe. Nawet jeśli zaczyna się od zabobonu o
+„wielkim wybuchu” materii nieorganicznej (bez życia), to skąd wzięło się
+życie? (Pomijam tu kwestię, skąd wzięła się cała ta materia
+nieorganiczna.)</p>
+<p>Nauka fizyki mówi nam, że nieorganiczny (pozbawiony życia) znany
+wszechświat można opisać za pomocą 350 „bitów” informacji. Tymczasem do
+opisania najmniejszego białka potrzeba 1500 „bitów” informacji – jest
+ono tak małe, że nie może istnieć samodzielnie, ale stanowi część żywego
+systemu<a href="#fn5" class="footnote-ref" id="fnref5"
+role="doc-noteref"><sup>5</sup></a>. Jak więc ewolucja mogłaby wytworzyć
+życie? Gdzie przypadek znalazłby 1150 „bitów” nowej informacji, skoro w
+całym wszechświecie było ich tylko 350? Co więcej, bakteria E. coli
+wymaga około siedmiu milionów „bitów”, a jedna ludzka komórka – aż
+dwudziestu miliardów „bitów”! Teoria ewolucji, mająca wyjaśniać
+pochodzenie życia, jest absurdalnie, niedorzecznie niemożliwa!</p>
+<p>Nauka genetyki, wraz z projektami badającymi genom, odkryła, że
+losowa zmiana zaledwie trzech nukleotydów jest śmiertelna dla organizmu.
+Rozważmy przypadek szympansa, uznawanego za „najbliższego krewnego”
+człowieka: różnica genetyczna między nami wynosi podobno około 1,6%. To
+może brzmieć nieznacznie, ale odpowiada około 48 milionom różnic w
+nukleotydach, a losowa zmiana już trzech nukleotydów zabija zwierzę – z
+tego wynika, że ewolucja szympansa w człowieka jest po prostu niemożliwa
+(około 15 milionów szympansów zginęłoby w takiej próbie, nie
+przekraczając nawet pierwszych trzech nukleotydów!)<a href="#fn6"
+class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>.
+Każdy odmienny typ zwierzęcia musiał zostać stworzony osobno, właśnie
+tak jak to potwierdza Księga Rodzaju. Każda hipoteza ewolucyjna, mająca
+wyjaśnić różne typy zwierząt (nie mówiąc już o ptakach, owadach, rybach,
+roślinach itd.), jest naukowo niemożliwa, absurdalnie, niedorzecznie
+niemożliwa.</p>
+<p>Tak zwana “kolumna geologiczna”<a href="#fn7" class="footnote-ref"
+id="fnref7" role="doc-noteref"><sup>7</sup></a> to fikcja. W Australii
+znajdują się skamieniałe pnie drzew, stojące pionowo, przechodzące przez
+różne warstwy skał osadowych, które według “kolumny geologicznej”
+reprezentują wiele milionów lat<a href="#fn8" class="footnote-ref"
+id="fnref8" role="doc-noteref"><sup>8</sup></a> – to po prostu głupie,
+absurdalnie niemożliwe! W USA jest wysokie plateau (mesa)<a href="#fn9"
+class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>, z
+warstwą starszej skały na warstwie młodszej skały (według “kolumny”),
+ale obszar ten jest tak rozległy, że żadna znana siła nie byłaby w
+stanie pokonać tarcia powstałego przy próbie przesunięcia jednej warstwy
+po drugiej (stosowany argument) – to również jest niemożliwe dla
+“kolumny geologicznej”<a href="#fn10" class="footnote-ref" id="fnref10"
+role="doc-noteref"><sup>10</sup></a>.</p>
+<p><img src="images/Chief_Mountain.jpg"
+alt="Góra Chief Mountain" /><br />
+Góra <em>Chief Mountain</em>, to przykład formacji, która ma warstwy
+skalne „nie po kolei” w sensie geologicznym – rzekomo starsze skały leżą
+na rzekomo młodszych. [zdj. tłum.]<br />
+<a
+href="https://commons.wikimedia.org/wiki/File:Chief_Mountain.jpg">commons.wikimedia.org/wiki/File:Chief_Mountain.jpg</a></p>
+<p>Około 60 mil na południowy zachód od Dallas w Teksasie znajduje się
+miasteczko Glen Rose, położone blisko rzeki Paluxy. Tam właśnie znajduje
+się Park stanowy Dinosaur Valley (<em>Dinosaur Valley State Park</em>),
+ponieważ dno rzeki zachowało ślady dwóch rodzajów dinozaurów:
+trójpalczaste i czteropalczaste. W górę rzeki od parku paleontolog dr
+Carl Baugh zakupił znaczną ilość ziemi po obu stronach rzeki, aby móc
+prowadzić własne wykopaliska. Na swojej posesji posiada muzeum, które
+osobiście odwiedziłem. W <strong>tej samej warstwie</strong> skały
+osadowej natknął się na następujące znaleziska: dwa skamieniałe
+trylobity<a href="#fn11" class="footnote-ref" id="fnref11"
+role="doc-noteref"><sup>11</sup></a>, które, według ewolucjonistów
+istniały 550 milionów lat temu, skamieniały mech zwany „lapidodendron”,
+który, według ewolucjonistów, istniał 250 milionów lat temu<a
+href="#fn12" class="footnote-ref" id="fnref12"
+role="doc-noteref"><sup>12</sup></a>, kompletny szkielet dinozaura o
+nazwie „akrokantozaur” (12 metrów długości), który, według
+ewolucjonistów, istniał 100 milionów lat temu, siedem śladów ogromnego
+„kota”, który, według ewolucjonistów, istniał 6 milionów lat temu, 57
+ludzkich odcisków stóp (niektóre znajdują się wewnątrz śladów
+dinozaurów)<a href="#fn13" class="footnote-ref" id="fnref13"
+role="doc-noteref"><sup>13</sup></a>, skamieniały czwarty palec lewej
+ręki kobiety<a href="#fn14" class="footnote-ref" id="fnref14"
+role="doc-noteref"><sup>14</sup></a>, a nawet przedpotopowy żelazny
+młotek (jego żelazo nie rdzewieje, składa się w 96,6% z żelaza i 2,7% z
+chloru) – <strong>wszystko to w tej samej warstwie skalnej!</strong></p>
+<p><img
+src="images/Paluxy_River_Taylor_Site,_Glen_Rose,_Texas._Two_elongate_footprints.png"
+alt="Paluxy River Taylor Site, Glen Rose, Teksas. Dwa wydłużone ślady stóp" /><br />
 Dwa podłużne ślady stóp w rzece Paluxy [zdj. tłum.]<br />
-<a href="https://core.ac.uk/download/pdf/47225227.pdf">core.ac.uk/download/pdf/47225227.pdf</a></p>
-<p><img src="images/Creation_Evidence_Museum_Original.jpeg" alt="Creation Evidences Museum" /><br />
+<a
+href="https://core.ac.uk/download/pdf/47225227.pdf">core.ac.uk/download/pdf/47225227.pdf</a></p>
+<p><img src="images/Creation_Evidence_Museum_Original.jpeg"
+alt="Creation Evidences Museum" /><br />
 Muzeum Dowodów Stworzenia [zdj. tłum.]<br />
-<a href="http://creationwiki.org/Image:Cem2.jpg">creationwiki.org/Image:Cem2.jpg</a></p>
-<p>Wynika z tego, że kolumna geologiczna nie istnieje, jest to przewrotny wynalazek, wynaleziony przez nieuczciwe i przewrotne osoby. Wszystkie te skamieniałości powstały w wyniku Potopu Noego, około 4365 lat temu, w przeciwnym razie, jak wytłumaczysz, że wszystkie te rzeczy znajdują się w dokładnie tej samej warstwie skalnej? (Na marginesie możemy odnotować, że obrońcy “kolumny geologicznej” często stosują błędne koło w rozumowaniu: wiek warstwy skalnej jest określony na podstawie zawartych w niej skamieniałości, podczas gdy wiek skamieniałości określa się na podstawie warstwy skalnej, w której ją znaleziono!)</p>
-<p>Co więcej, Ziemia jest młoda. W królewskim obserwatorium w Anglii od 1839 roku co roku mierzą siłę pola magnetycznego otaczającego Ziemię. Stwierdzili, że siła magnetyczna maleje w stałym tempie lub w postępie geometrycznym: wykreślając roczne wartości na wykresie, tworzą one linię nachylenia (klin). Oznacza to, że można przedłużyć tę linię w obu kierunkach. Jeśli przedłużymy linię do punktu sprzed 10 000 lat, siła magnetyczna byłaby tak silna, że zmiażdżyłaby całe życie na planecie. Wynika z tego, że każda teoria wymagająca milionów lub miliardów lat jest absurdalnie, niedorzecznie niemożliwa<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a>.</p>
-<p>Rzeka Missisipi wyrzuca 80 000 ton osadów do Zatoki Meksykańskiej co godzinę! Wystarczy zmierzyć deltę, by zobaczyć, że Ziemia jest młoda<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a>. Ewolucjoniści twierdzą, że granit krystalizował się przez 300 milionów lat, ale w granicie występują „pierścienie polonowe” (ang. Polonium haloes)<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a> o okresach półtrwania wynoszących minuty lub nawet sekundy. Granit musiał powstać natychmiast. Symbiotyczne rośliny i owady musiały zostać stworzone jednocześnie i wymagają 24-godzinnych dni. I tak dalej.</p>
-<p>W skrócie, hipoteza ewolucyjnego pochodzenia jest naukowo niemożliwa, absurdalnie, niedorzecznie niemożliwa. Kilka dekad temu uczony sir Frederick Hoyle otrzymał zlecenie oceny naukowego prawdopodobieństwa, że życie mogło pojawić się na Ziemi przez przypadek (miał nieograniczone fundusze i swobodny dostęp do bibliotek). Doszedł do następującego wniosku: łatwiej byłoby, żeby trąba powietrzna przeszła przez złomowisko i po drugiej stronie wyleciałby perfekcyjny Boeing 747, niż żeby życie pojawiło się na naszej planecie przez przypadek. No cóż, to, że życie mogło powstać w wyniku procesu ewolucyjnego, jest oczywiście absurdalnie, niedorzecznie niemożliwe. (Przy okazji, wszelkie pytania dotyczące moralności Stwórcy nie mają nic wspólnego z nauką.)</p>
-<p>Zatem musi istnieć Przyczyna, i Przyczyna ta musi być niezwykle inteligentna i potężna. Ta Przyczyna musi też mieć osobowość, skoro stworzył On istoty z osobowością. Tradycyjnym określeniem tej Przyczyny jest „Bóg”, ale ja użyję terminu „Suwerenny Stwórca”. Na globalnym rynku idei nie brakuje różnorodnych wyobrażeń na temat „Boga”. Księga Rodzaju 1,27 informuje nas, że „Bóg stworzył człowieka na swój obraz”, i od tego czasu człowiek próbuje się odwdzięczyć! Zastanawiam się, czy ludzie zdają sobie sprawę, że każdy bóg, którego tworzą, będzie od nich mniejszy.</p>
-<p>Skoro istnieje Suwerenny Stwórca, posiada On absolutną władzę nad tym, co stworzył. Ale w jaki sposób może być sprawowana ta władza? Może być sprawowana przez rozkaz, przez suwerenną interwencję, lecz stosowanie tego wobec istot stworzonych na obraz Boga uczyniłoby z nich roboty, co byłoby sprzeczne z celem stworzenia takich istot. Jak powiedział Suwerenny Samarytance, kiedy przemierzał tę ziemię: „prawdziwi czciciele będą czcili Ojca w duchu i w prawdzie, bo Ojciec szuka takich, którzy by Go tak czcili. Bóg jest Duchem, a ci, którzy oddają Mu cześć, mają to czynić w duchu i w prawdzie” (Ewangelia Jana 4,23-24). Jeśli Ojciec szuka spontanicznej, a przynajmniej dobrowolnej czci, to nie może ona być wymuszona ani narzucona. Ale skąd człowiek może wiedzieć, czego chce Suwerenny Stwórca? Musi istnieć komunikacja. Ale jaką formę mogłaby przyjąć taka komunikacja? Aby przekazać pojęcia, musiałby użyć ludzkiego języka<a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a>.</p>
-<p>Jeśli Stwórca miałby na celu jedynie przekazanie informacji określonej osobie lub grupie w danym momencie czasu, w konkretnym celu, mogłoby to zostać zrobione ustnie, bezpośrednio albo przez przedstawiciela. Jednak jeśli celem Stwórcy było nakierowanie ważne również dla kolejnych pokoleń, wówczas odpowiednią formą byłoby utrwalenie na piśmie. Weźmy pod uwagę 1 Kronik 16,15 - “słowo, które nakazał na tysiąc pokoleń”. Cóż, od Adama minęło zaledwie około 300 pokoleń, więc pisemne objawienie Stwórcy będzie obowiązywać aż do końca świata. Jednak aby obowiązywało do końca, musi być dostępne aż do końca, ale wyprzedzam się trochę.</p>
-<p>Jeśli Suwerenny Stwórca istnieje i jeśli skierował do naszej rasy pisemne Objawienie, to nic nie jest dla nas ważniejsze niż wiedzieć co powiedział (z myślą o posłuszeństwie temu, jeśli jesteśmy mądrzy). Dzieje się tak dlatego, że takie objawienie będzie miało wobec nas obiektywny autorytet (choć Stwórca daje nam opcję odrzucenia tego autorytetu [ale należy zwrócić należytą uwagę na konsekwencje])<a href="#fn19" class="footnote-ref" id="fnref19" role="doc-noteref"><sup>19</sup></a>. Obiektywny autorytet zależy od możliwego do zweryfikowania znaczenia, jeśli czytelnik/słuchacz może nadać przesłaniu dowolne znaczenie według własnego uznania, wszelki autorytet, jaki to przesłanie będzie dla niego miało, stanie się względny i subiektywny (to tzw. podejście „neoortodoksyjne”).</p>
-<p>Jako językoznawca (doktor) potwierdzam, że podstawową zasadą komunikacji jest to, że zarówno mówiący/piszący, jak i słuchający/czytający muszą respektować normy języka, w szczególności te dotyczące konkretnego używanego kodu. Jeśli kodujący narusza zasady, będzie wprowadzał dekodującego w błąd (celowo, jeśli wie, co robi). Jeśli dekodujący narusza zasady, będzie przekręcał kodującego (celowo, jeśli wie, co robi). W obu przypadkach komunikacja zostaje uszkodzona, zakres szkody zależy od okoliczności.</p>
-<p>Kilka razy Pan Jezus odnosił się do Ducha Świętego jako „Ducha Prawdy”, a List do Tytusa 1,2 potwierdza, że Bóg nie może kłamać – to jedyna rzecz, której nie może uczynić, ponieważ jest sprzeczna z Jego istotą, „Nie może zaprzeczyć samemu sobie” (2 Tymoteusza 2,13). Powinno być oczywiste dla każdego, że Suwerenny nie przyjmie przychylnie bycia nazwanym kłamcą. Interpretować Święty Tekst w sposób niewierny wobec zasad języka hebrajskiego i greckiego oznacza przypisywać Autorowi intencję zwiedzenia nas, nazywać Go kłamcą – co nie jest mądre. Lecz aby interpretować Tekst, musimy go posiadać, a kwestię jego zachowania poruszę poniżej.</p>
-<p>Ale najpierw, skąd możemy wiedzieć, czy Stwórca rzeczywiście skierował do nas pisemne objawienie, a jeśli to zrobił, jak możemy je zidentyfikować? Przyjmując punkt widzenia, że Suwerenny Stwórca postanowił zapewnić orientację naszej rasie, wiedziałby, że musi uczynić ją rozpoznawalną jako taką, a dowody musiałyby pozostać dostępne dla kolejnych pokoleń. Ale skąd możemy wiedzieć, jakich środków użyłby, aby uczynić Jego objawienie rozpoznawalnym? Możemy to wiedzieć, patrząc na to, co uczynił, i niejako cofając się w czasie. W tym miejscu muszę skoczyć do przodu, do tego, do czego doszedłem, na podstawie dowodów, a następnie cofnąć się, by sprawdzić, czy mój wniosek jest prawdziwy. Tutaj przedstawiam założenia, z jakimi podchodzę do tego zadania: Suwerenny Stwórca istnieje, przekazał naszej rasie pisemne Objawienie i zachował je nienaruszone do dziś w takim stopniu, że możemy wiedzieć, jakie ono jest, na podstawie obiektywnych kryteriów.</p>
+<a
+href="http://creationwiki.org/Image:Cem2.jpg">creationwiki.org/Image:Cem2.jpg</a></p>
+<p>Wynika z tego, że kolumna geologiczna nie istnieje, jest to
+przewrotny wynalazek, wynaleziony przez nieuczciwe i przewrotne osoby.
+Wszystkie te skamieniałości powstały w wyniku Potopu Noego, około 4365
+lat temu, w przeciwnym razie, jak wytłumaczysz, że wszystkie te rzeczy
+znajdują się w dokładnie tej samej warstwie skalnej? (Na marginesie
+możemy odnotować, że obrońcy “kolumny geologicznej” często stosują
+błędne koło w rozumowaniu: wiek warstwy skalnej jest określony na
+podstawie zawartych w niej skamieniałości, podczas gdy wiek
+skamieniałości określa się na podstawie warstwy skalnej, w której ją
+znaleziono!)</p>
+<p>Co więcej, Ziemia jest młoda. W królewskim obserwatorium w Anglii od
+1839 roku co roku mierzą siłę pola magnetycznego otaczającego Ziemię.
+Stwierdzili, że siła magnetyczna maleje w stałym tempie lub w postępie
+geometrycznym: wykreślając roczne wartości na wykresie, tworzą one linię
+nachylenia (klin). Oznacza to, że można przedłużyć tę linię w obu
+kierunkach. Jeśli przedłużymy linię do punktu sprzed 10 000 lat, siła
+magnetyczna byłaby tak silna, że zmiażdżyłaby całe życie na planecie.
+Wynika z tego, że każda teoria wymagająca milionów lub miliardów lat
+jest absurdalnie, niedorzecznie niemożliwa<a href="#fn15"
+class="footnote-ref" id="fnref15"
+role="doc-noteref"><sup>15</sup></a>.</p>
+<p>Rzeka Missisipi wyrzuca 80 000 ton osadów do Zatoki Meksykańskiej co
+godzinę! Wystarczy zmierzyć deltę, by zobaczyć, że Ziemia jest młoda<a
+href="#fn16" class="footnote-ref" id="fnref16"
+role="doc-noteref"><sup>16</sup></a>. Ewolucjoniści twierdzą, że granit
+krystalizował się przez 300 milionów lat, ale w granicie występują
+„pierścienie polonowe” (ang. Polonium haloes)<a href="#fn17"
+class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a> o
+okresach półtrwania wynoszących minuty lub nawet sekundy. Granit musiał
+powstać natychmiast. Symbiotyczne rośliny i owady musiały zostać
+stworzone jednocześnie i wymagają 24-godzinnych dni. I tak dalej.</p>
+<p>W skrócie, hipoteza ewolucyjnego pochodzenia jest naukowo niemożliwa,
+absurdalnie, niedorzecznie niemożliwa. Kilka dekad temu uczony sir
+Frederick Hoyle otrzymał zlecenie oceny naukowego prawdopodobieństwa, że
+życie mogło pojawić się na Ziemi przez przypadek (miał nieograniczone
+fundusze i swobodny dostęp do bibliotek). Doszedł do następującego
+wniosku: łatwiej byłoby, żeby trąba powietrzna przeszła przez złomowisko
+i po drugiej stronie wyleciałby perfekcyjny Boeing 747, niż żeby życie
+pojawiło się na naszej planecie przez przypadek. No cóż, to, że życie
+mogło powstać w wyniku procesu ewolucyjnego, jest oczywiście
+absurdalnie, niedorzecznie niemożliwe. (Przy okazji, wszelkie pytania
+dotyczące moralności Stwórcy nie mają nic wspólnego z nauką.)</p>
+<p>Zatem musi istnieć Przyczyna, i Przyczyna ta musi być niezwykle
+inteligentna i potężna. Ta Przyczyna musi też mieć osobowość, skoro
+stworzył On istoty z osobowością. Tradycyjnym określeniem tej Przyczyny
+jest „Bóg”, ale ja użyję terminu „Suwerenny Stwórca”. Na globalnym rynku
+idei nie brakuje różnorodnych wyobrażeń na temat „Boga”. Księga Rodzaju
+1,27 informuje nas, że „Bóg stworzył człowieka na swój obraz”, i od tego
+czasu człowiek próbuje się odwdzięczyć! Zastanawiam się, czy ludzie
+zdają sobie sprawę, że każdy bóg, którego tworzą, będzie od nich
+mniejszy.</p>
+<p>Skoro istnieje Suwerenny Stwórca, posiada On absolutną władzę nad
+tym, co stworzył. Ale w jaki sposób może być sprawowana ta władza? Może
+być sprawowana przez rozkaz, przez suwerenną interwencję, lecz
+stosowanie tego wobec istot stworzonych na obraz Boga uczyniłoby z nich
+roboty, co byłoby sprzeczne z celem stworzenia takich istot. Jak
+powiedział Suwerenny Samarytance, kiedy przemierzał tę ziemię:
+„prawdziwi czciciele będą czcili Ojca w duchu i w prawdzie, bo Ojciec
+szuka takich, którzy by Go tak czcili. Bóg jest Duchem, a ci, którzy
+oddają Mu cześć, mają to czynić w duchu i w prawdzie” (Ewangelia Jana
+4,23-24). Jeśli Ojciec szuka spontanicznej, a przynajmniej dobrowolnej
+czci, to nie może ona być wymuszona ani narzucona. Ale skąd człowiek
+może wiedzieć, czego chce Suwerenny Stwórca? Musi istnieć komunikacja.
+Ale jaką formę mogłaby przyjąć taka komunikacja? Aby przekazać pojęcia,
+musiałby użyć ludzkiego języka<a href="#fn18" class="footnote-ref"
+id="fnref18" role="doc-noteref"><sup>18</sup></a>.</p>
+<p>Jeśli Stwórca miałby na celu jedynie przekazanie informacji
+określonej osobie lub grupie w danym momencie czasu, w konkretnym celu,
+mogłoby to zostać zrobione ustnie, bezpośrednio albo przez
+przedstawiciela. Jednak jeśli celem Stwórcy było nakierowanie ważne
+również dla kolejnych pokoleń, wówczas odpowiednią formą byłoby
+utrwalenie na piśmie. Weźmy pod uwagę 1 Kronik 16,15 - “słowo, które
+nakazał na tysiąc pokoleń”. Cóż, od Adama minęło zaledwie około 300
+pokoleń, więc pisemne objawienie Stwórcy będzie obowiązywać aż do końca
+świata. Jednak aby obowiązywało do końca, musi być dostępne aż do końca,
+ale wyprzedzam się trochę.</p>
+<p>Jeśli Suwerenny Stwórca istnieje i jeśli skierował do naszej rasy
+pisemne Objawienie, to nic nie jest dla nas ważniejsze niż wiedzieć co
+powiedział (z myślą o posłuszeństwie temu, jeśli jesteśmy mądrzy).
+Dzieje się tak dlatego, że takie objawienie będzie miało wobec nas
+obiektywny autorytet (choć Stwórca daje nam opcję odrzucenia tego
+autorytetu [ale należy zwrócić należytą uwagę na konsekwencje])<a
+href="#fn19" class="footnote-ref" id="fnref19"
+role="doc-noteref"><sup>19</sup></a>. Obiektywny autorytet zależy od
+możliwego do zweryfikowania znaczenia, jeśli czytelnik/słuchacz może
+nadać przesłaniu dowolne znaczenie według własnego uznania, wszelki
+autorytet, jaki to przesłanie będzie dla niego miało, stanie się
+względny i subiektywny (to tzw. podejście „neoortodoksyjne”).</p>
+<p>Jako językoznawca (doktor) potwierdzam, że podstawową zasadą
+komunikacji jest to, że zarówno mówiący/piszący, jak i
+słuchający/czytający muszą respektować normy języka, w szczególności te
+dotyczące konkretnego używanego kodu. Jeśli kodujący narusza zasady,
+będzie wprowadzał dekodującego w błąd (celowo, jeśli wie, co robi).
+Jeśli dekodujący narusza zasady, będzie przekręcał kodującego (celowo,
+jeśli wie, co robi). W obu przypadkach komunikacja zostaje uszkodzona,
+zakres szkody zależy od okoliczności.</p>
+<p>Kilka razy Pan Jezus odnosił się do Ducha Świętego jako „Ducha
+Prawdy”, a List do Tytusa 1,2 potwierdza, że Bóg nie może kłamać – to
+jedyna rzecz, której nie może uczynić, ponieważ jest sprzeczna z Jego
+istotą, „Nie może zaprzeczyć samemu sobie” (2 Tymoteusza 2,13). Powinno
+być oczywiste dla każdego, że Suwerenny nie przyjmie przychylnie bycia
+nazwanym kłamcą. Interpretować Święty Tekst w sposób niewierny wobec
+zasad języka hebrajskiego i greckiego oznacza przypisywać Autorowi
+intencję zwiedzenia nas, nazywać Go kłamcą – co nie jest mądre. Lecz aby
+interpretować Tekst, musimy go posiadać, a kwestię jego zachowania
+poruszę poniżej.</p>
+<p>Ale najpierw, skąd możemy wiedzieć, czy Stwórca rzeczywiście
+skierował do nas pisemne objawienie, a jeśli to zrobił, jak możemy je
+zidentyfikować? Przyjmując punkt widzenia, że Suwerenny Stwórca
+postanowił zapewnić orientację naszej rasie, wiedziałby, że musi uczynić
+ją rozpoznawalną jako taką, a dowody musiałyby pozostać dostępne dla
+kolejnych pokoleń. Ale skąd możemy wiedzieć, jakich środków użyłby, aby
+uczynić Jego objawienie rozpoznawalnym? Możemy to wiedzieć, patrząc na
+to, co uczynił, i niejako cofając się w czasie. W tym miejscu muszę
+skoczyć do przodu, do tego, do czego doszedłem, na podstawie dowodów, a
+następnie cofnąć się, by sprawdzić, czy mój wniosek jest prawdziwy.
+Tutaj przedstawiam założenia, z jakimi podchodzę do tego zadania:
+Suwerenny Stwórca istnieje, przekazał naszej rasie pisemne Objawienie i
+zachował je nienaruszone do dziś w takim stopniu, że możemy wiedzieć,
+jakie ono jest, na podstawie obiektywnych kryteriów.</p>
 <h2 id="wprowadzenie">Wprowadzenie</h2>
 <h3 id="natchnienie">Natchnienie</h3>
-<p>Gdy piszę książkę<a href="#fn20" class="footnote-ref" id="fnref20" role="doc-noteref"><sup>20</sup></a>, identyfikuję siebie jako autora i zwykle podaję pewne wskazania dotyczące celu, w jakim ją napisałem. Jako chrześcijanin, zostałem nauczony, że nasza Biblia (zawierająca 66 ksiąg) jest spisanym Objawieniem danym przez Suwerennego Stwórcę. Zatem pytam: czy Biblia sama siebie identyfikuje, czy twierdzi, że jest natchniona przez Boga? Zaczynam od twierdzenia, a następnie próbuję je zweryfikować.</p>
+<p>Gdy piszę książkę<a href="#fn20" class="footnote-ref" id="fnref20"
+role="doc-noteref"><sup>20</sup></a>, identyfikuję siebie jako autora i
+zwykle podaję pewne wskazania dotyczące celu, w jakim ją napisałem. Jako
+chrześcijanin, zostałem nauczony, że nasza Biblia (zawierająca 66 ksiąg)
+jest spisanym Objawieniem danym przez Suwerennego Stwórcę. Zatem pytam:
+czy Biblia sama siebie identyfikuje, czy twierdzi, że jest natchniona
+przez Boga? Zaczynam od twierdzenia, a następnie próbuję je
+zweryfikować.</p>
 <p><em>Twierdzenie</em></p>
-<p>Księga Rodzaju 1,1: „Na początku Bóg stworzył niebo i ziemię”. Jedyną Osobą, która mogła przekazać tę informację Adamowi (jak zakładam), był sam Stwórca, Autor identyfikuje siebie. Adam z pewnością rozwinął pisemną formę dla języka, który otrzymał od Boga, i sporządziłby pisemny zapis wszystkiego, co Stwórca mu powiedział o początku tej planety. Setki, jeśli nie tysiące razy w Biblii spotykamy się ze zwrotami „Bóg powiedział” lub „Pan powiedział”. Księgi prorockie wyraźnie twierdzą, że są wiadomościami danymi przez Boga. Oto tylko jeden przykład: „Słowo PANA, które przyszło do Micheasza z Moreszetu za czasów Jotama, Achaza i Ezechiasza, królów judzkich” (Księga Micheasza 1,1).</p>
-<p>Psalm 138,2: „Wywyższyłeś Słowo swoje ponad wszelkie imię Twoje”. Ponieważ imię osoby reprezentuje tę osobę, sens tego stwierdzenia wydaje się być taki, że Słowo Boże reprezentuje Jego osobę jeszcze lepiej niż Jego imię. „Na wieki, O PANIE, Słowo Twoje jest ustalone w niebie” (Psalm 119,89). Jeśli Słowo jest w niebie, to musi być Boże, a tylko wieczny Byt mógł dać wieczne Słowo. 1 List Piotra 1,25 cytuje Izajasza 40,8: „Słowo, PANA trwa na wieki” i istnieje wiele innych fragmentów, które zasadniczo mówią to samo. Ponownie, <strong>tylko wieczny Byt mógł wydać wieczne Słowo</strong><a href="#fn21" class="footnote-ref" id="fnref21" role="doc-noteref"><sup>21</sup></a>.</p>
-<p>Mateusza 5,18: „Zaprawdę bowiem powiadam wam, dopóki nie przeminie niebo i ziemia, ani jedna jota, ani jedna kreska nie przeminie z Prawa, aż wszystko się spełni”. Suwerenny Jezus składa oświadczenie o zachowaniu w czasie dokładnej formy Świętego Tekstu. Tylko Najwyższy Autorytet mógłby coś takiego zagwarantować. „Całe Pismo przez Boga jest natchnione” (2 Tymoteusza 3,16). Paweł tworzy wyrażenie, by opisać intymny związek między Bogiem, a Jego spisanym Objawieniem – jest ono jak Jego własny oddech.</p>
-<p>Rzymian 16,24: „Teraz Temu, który ma moc utwierdzić was według mojej Ewangelii i proklamacji Jezusa Chrystusa, według objawienia tajemnicy przez długie wieki ukrytej, lecz teraz ujawnionej i oznajmionej przez Pisma prorockie, zgodnie z rozkazem odwiecznego Boga, w celu posłuszeństwa wiary wśród wszystkich narodów etnicznych.”<a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a> Skoro jest to objawione dopiero „teraz”, te „Pisma prorockie” muszą być pismami Nowego Testamentu, danymi przez Boga!</p>
-<p>2 List Piotra 1,20-21: „Przede wszystkim wiedzcie, że żadne Proroctwo Pisma nie powstaje z osobistego wydania<a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a>, ponieważ żadne Proroctwo nigdy nie przyszło z woli człowieka, raczej święci mężowie Boży przemawiali, gdy byli prowadzeni przez Ducha Świętego”. Tutaj mamy imponujący opis procesu Natchnienia. Podoba mi się definicja Pism, którą znajdujemy w Liście do Rzymian 2,20: „mając w Prawie ucieleśnienie wiedzy i prawdy”. Któż, jeśli nie Suwerenny Stwórca, mógłby stworzyć spisane Objawienie, które ucieleśnia poznanie i prawdę?<a href="#fn24" class="footnote-ref" id="fnref24" role="doc-noteref"><sup>24</sup></a></p>
+<p>Księga Rodzaju 1,1: „Na początku Bóg stworzył niebo i ziemię”. Jedyną
+Osobą, która mogła przekazać tę informację Adamowi (jak zakładam), był
+sam Stwórca, Autor identyfikuje siebie. Adam z pewnością rozwinął
+pisemną formę dla języka, który otrzymał od Boga, i sporządziłby pisemny
+zapis wszystkiego, co Stwórca mu powiedział o początku tej planety.
+Setki, jeśli nie tysiące razy w Biblii spotykamy się ze zwrotami „Bóg
+powiedział” lub „Pan powiedział”. Księgi prorockie wyraźnie twierdzą, że
+są wiadomościami danymi przez Boga. Oto tylko jeden przykład: „Słowo
+PANA, które przyszło do Micheasza z Moreszetu za czasów Jotama, Achaza i
+Ezechiasza, królów judzkich” (Księga Micheasza 1,1).</p>
+<p>Psalm 138,2: „Wywyższyłeś Słowo swoje ponad wszelkie imię Twoje”.
+Ponieważ imię osoby reprezentuje tę osobę, sens tego stwierdzenia wydaje
+się być taki, że Słowo Boże reprezentuje Jego osobę jeszcze lepiej niż
+Jego imię. „Na wieki, O PANIE, Słowo Twoje jest ustalone w niebie”
+(Psalm 119,89). Jeśli Słowo jest w niebie, to musi być Boże, a tylko
+wieczny Byt mógł dać wieczne Słowo. 1 List Piotra 1,25 cytuje Izajasza
+40,8: „Słowo, PANA trwa na wieki” i istnieje wiele innych fragmentów,
+które zasadniczo mówią to samo. Ponownie, <strong>tylko wieczny Byt mógł
+wydać wieczne Słowo</strong><a href="#fn21" class="footnote-ref"
+id="fnref21" role="doc-noteref"><sup>21</sup></a>.</p>
+<p>Mateusza 5,18: „Zaprawdę bowiem powiadam wam, dopóki nie przeminie
+niebo i ziemia, ani jedna jota, ani jedna kreska nie przeminie z Prawa,
+aż wszystko się spełni”. Suwerenny Jezus składa oświadczenie o
+zachowaniu w czasie dokładnej formy Świętego Tekstu. Tylko Najwyższy
+Autorytet mógłby coś takiego zagwarantować. „Całe Pismo przez Boga jest
+natchnione” (2 Tymoteusza 3,16). Paweł tworzy wyrażenie, by opisać
+intymny związek między Bogiem, a Jego spisanym Objawieniem – jest ono
+jak Jego własny oddech.</p>
+<p>Rzymian 16,24: „Teraz Temu, który ma moc utwierdzić was według mojej
+Ewangelii i proklamacji Jezusa Chrystusa, według objawienia tajemnicy
+przez długie wieki ukrytej, lecz teraz ujawnionej i oznajmionej przez
+Pisma prorockie, zgodnie z rozkazem odwiecznego Boga, w celu
+posłuszeństwa wiary wśród wszystkich narodów etnicznych.”<a href="#fn22"
+class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a>
+Skoro jest to objawione dopiero „teraz”, te „Pisma prorockie” muszą być
+pismami Nowego Testamentu, danymi przez Boga!</p>
+<p>2 List Piotra 1,20-21: „Przede wszystkim wiedzcie, że żadne Proroctwo
+Pisma nie powstaje z osobistego wydania<a href="#fn23"
+class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a>,
+ponieważ żadne Proroctwo nigdy nie przyszło z woli człowieka, raczej
+święci mężowie Boży przemawiali, gdy byli prowadzeni przez Ducha
+Świętego”. Tutaj mamy imponujący opis procesu Natchnienia. Podoba mi się
+definicja Pism, którą znajdujemy w Liście do Rzymian 2,20: „mając w
+Prawie ucieleśnienie wiedzy i prawdy”. Któż, jeśli nie Suwerenny
+Stwórca, mógłby stworzyć spisane Objawienie, które ucieleśnia poznanie i
+prawdę?<a href="#fn24" class="footnote-ref" id="fnref24"
+role="doc-noteref"><sup>24</sup></a></p>
 <p><em>Dowód</em></p>
-<p>Uważam, że odpowiednio odniosłem się do twierdzenia, więc przejdę teraz do dowodów, czyli weryfikacji. Literatura, która twierdzi, że ma nadprzyrodzone pochodzenie, powinna być z natury nadprzyrodzona i powinna przynosić nadprzyrodzone rezultaty. Zacznę od nadprzyrodzonych rezultatów, które powiedzą nam również coś o celu Stwórcy w przekazaniu Objawienia.</p>
-<p>Paweł napisał do Tymoteusza: „Od dzieciństwa znasz Pisma Święte, które mogą cię uczynić mądrym ku zbawieniu przez wiarę, która jest w Chrystusie Jezusie. Całe Pismo jest natchnione przez Boga i pożyteczne do nauczania, do upominania, do poprawiania, do ćwiczenia w prawości, aby człowiek Boży był w pełni kompetentny, całkowicie wyposażony do wszelkiej dobrej pracy”<a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a> (2 Tymoteusza 3,15-17). Z pewnością jednym z najważniejszych celów jest pokazanie, jak uzyskać wieczne zbawienie. Paweł kontynuuje, stwierdzając, że Pismo jest cenne ze względu na cztery rzeczy. Zwróć uwagę na kolejność:</p>
+<p>Uważam, że odpowiednio odniosłem się do twierdzenia, więc przejdę
+teraz do dowodów, czyli weryfikacji. Literatura, która twierdzi, że ma
+nadprzyrodzone pochodzenie, powinna być z natury nadprzyrodzona i
+powinna przynosić nadprzyrodzone rezultaty. Zacznę od nadprzyrodzonych
+rezultatów, które powiedzą nam również coś o celu Stwórcy w przekazaniu
+Objawienia.</p>
+<p>Paweł napisał do Tymoteusza: „Od dzieciństwa znasz Pisma Święte,
+które mogą cię uczynić mądrym ku zbawieniu przez wiarę, która jest w
+Chrystusie Jezusie. Całe Pismo jest natchnione przez Boga i pożyteczne
+do nauczania, do upominania, do poprawiania, do ćwiczenia w prawości,
+aby człowiek Boży był w pełni kompetentny, całkowicie wyposażony do
+wszelkiej dobrej pracy”<a href="#fn25" class="footnote-ref" id="fnref25"
+role="doc-noteref"><sup>25</sup></a> (2 Tymoteusza 3,15-17). Z pewnością
+jednym z najważniejszych celów jest pokazanie, jak uzyskać wieczne
+zbawienie. Paweł kontynuuje, stwierdzając, że Pismo jest cenne ze
+względu na cztery rzeczy. Zwróć uwagę na kolejność:</p>
 <ol type="1">
 <li>Pismo dostarcza obiektywnie prawdziwych informacji.</li>
-<li>Następnie Duch Święty używa Swego Miecza, aby przekonać o grzechu.</li>
+<li>Następnie Duch Święty używa Swego Miecza, aby przekonać o
+grzechu.</li>
 <li>To prowadzi do pokuty i nawrócenia.</li>
-<li>Wtedy Słowo staje się naszym pokarmem i wodą do duchowego wzrostu.</li>
+<li>Wtedy Słowo staje się naszym pokarmem i wodą do duchowego
+wzrostu.</li>
 </ol>
-<p>W miarę jak wzrastamy, możemy pomagać innym przechodzić przez tę sekwencję. Bardzo wielu chrześcijan na całym świecie przekonało się, że powyższe jest prawdą, w swoim osobistym doświadczeniu.</p>
-<p>Hebrajczyków 4,12-13: „Słowo Boże jest żywe i skuteczne, ostrzejsze niż jakikolwiek miecz obosieczny, przenikające do punktu rozdzielenia duszy i ducha<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a>, stawów i szpiku, w rzeczywistości jest w stanie ocenić refleksje i intencje serca. Nic w całym stworzeniu nie jest ukryte przed Jego wzrokiem, raczej wszystkie rzeczy są nagie i otwarte dla oczu Jego, któremu musimy zdać rachunek.” Rozważanie Słowa Bożego potrafi być dość niekomfortowe, jest ono „zwierciadłem”, które mówi nam prawdę o nas samych (Jakuba 1,25). Efezjan 6,17 nazywa je „mieczem Ducha”. Słowo, które potrafi oddzielić duszę od ducha, musi być nadprzyrodzone. Bardzo wielu chrześcijan na całym świecie przekonało się, że powyższe jest prawdą, w swoim osobistym doświadczeniu. Wracając do Hebrajczyków 4,13 – musimy zdać rachunek Sędziemu, który zna WSZYSTKIE fakty. Ta wiedza naprawdę powinna przemienić nas w poważnych ludzi, pilnych poszukiwaczy Boga, ale…</p>
-<p>„Ta Księga Prawa niech nie oddala się od twoich ust, lecz powinieneś rozważać w niej dniem i nocą, czego masz przestrzegać, zgodnie ze wszystkim, co jest w niej napisane. Wtedy bowiem twoja droga będzie dostatnia, i wtedy odniesiesz duży sukces.” (Jozue 1,8). List Jakuba 1,25 mówi coś bardzo podobnego. Mojżesz powiedział Izraelitom: „Skierujcie swoje serca na wszystkie słowa, które dziś świadczę pośród was, które powinniście nakazać swoim dzieciom, aby starannie przestrzegały – wszystkie słowa tego prawa. Bo nie jest to dla was rzeczą daremną, ponieważ jest to wasze życie” (Powtórzonego Prawa 32,46-47). Bardzo wielu chrześcijan na całym świecie przekonało się, że powyższe jest prawdą, w swoim osobistym doświadczeniu.</p>
-<p>List do Rzymian 1,16-17: „Nie wstydzę się<a href="#fn27" class="footnote-ref" id="fnref27" role="doc-noteref"><sup>27</sup></a> Ewangelii Chrystusa<a href="#fn28" class="footnote-ref" id="fnref28" role="doc-noteref"><sup>28</sup></a>, ponieważ jest ona mocą Bożą dla zbawienia każdego, kto wierzy (najpierw Żyda, potem Greka). Bo w niej jest ujawniona sprawiedliwość Boża, z wiary w wiarę, tak jak jest napisane: ‘Sprawiedliwy z wiary żyć będzie’.”<a href="#fn29" class="footnote-ref" id="fnref29" role="doc-noteref"><sup>29</sup></a> Ewangelia jest mocą ku zbawieniu. Jak powiedział Suwerenny Jezus w Ewangelii Jana 14,6 — „Ja jestem drogą, prawdą i życiem. Nikt nie przychodzi do Ojca inaczej jak tylko przeze Mnie.” Nie ma wielu dróg, tylko jedna. Miliony istnień zostały przemienione mocą Bożego Słowa. Skąd więc wzięła się ta moc?</p>
-<p>Natchnienie Świętego Tekstu jest cechą wewnętrzną – jest takie, ponieważ takie jest. Jednakże, możemy dostrzec tę wrodzoną cechę, porównując materiały natchnione z materiałami, które nie są natchnione. Rozważ naturę treści Biblii, lub przesłanie: nie jest to tego rodzaju rzecz, jaką człowiek chciałaby napisać, nawet gdyby mógł, ani coś, co mógłby napisać, nawet gdyby chciał. A następnie jest jedność Biblii: chociaż 66 ksiąg zostało napisanych przez co najmniej trzydziestu różnych ludzkich autorów, na przestrzeni około 2000 lat, i w dwóch bardzo różnych językach (hebrajskim i greckim)<a href="#fn30" class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a>, całość jest spójna, nie przeczy sama sobie. Istnieją też konkretne i szczegółowe proroctwa, nawet włączające imię osoby, podane wieki przed faktem, które zostały dokładnie spełnione.</p>
-<p>Dla tych, którzy wierzą, że Jezus Chrystus jest Bogiem, Jego postawa względem Starego Testamentu będzie istotna. Przypisywał On Staremu Testamentowi absolutny autorytet, w Janie 5,45-47 postawił On pisma Mojżesza na równi z Jego własnym słowem, które ogłosił jako mające ważność na wieki (Łukasz 21,33). Jak podano w czterech Ewangeliach, cytował On przynajmniej Księgę Rodzaju, Wyjścia, Liczb, Powtórzonego Prawa, Psalmy, Izajasza, Jeremiasza, Daniela, Ozeasza, Jonasza, Zachariasza oraz Malachiasza. W Ewangelii Łukasza 24,44 jasno uznał trzy części kanonu hebrajskiego: Prawo, Proroków i Pisma (Psalmy). Następnie jest Mateusza 23,35: „Aby przyszła na was wszelka krew sprawiedliwa, przelana na ziemi, od krwi sprawiedliwego Abla aż do krwi Zachariasza, syna Barachiasza, którego zamordowaliście między świątynią a ołtarzem”. Jezus kończy tutaj swoje potępienie uczonych w Piśmie i faryzeuszy. Morderstwo Abla to pierwsze morderstwo odnotowane w Biblii (Rodzaju 4,8). Zwróć, proszę uwagę, że Jezus potwierdza historyczność Abla, a ponieważ Abel miał rodziców, siłą rzeczy Jezus potwierdza też historyczność rodziców Abla, Adama i Ewy! Zachariasz był współczesnym Ezdrasza i Aggeusza w czasie budowy drugiej świątyni. Tak więc „wszelka krew sprawiedliwa, przelana” między tymi dwoma mężczyznami obejmuje cały Stary Testament, około 3 500 lat!</p>
-<p>Powiedziawszy wszystko powyższe, mimo wszystko uznaję, iż stwierdzenie Bożego natchnienia Biblii jest wyznaniem wiary — inteligentnej wiary, opartej na dowodach, ale wciąż wiary, ponieważ dowody nie są absolutne<a href="#fn31" class="footnote-ref" id="fnref31" role="doc-noteref"><sup>31</sup></a>, i nie są absolutne z bardzo ważnego powodu. Suwerenny Stwórca celowo nie pozwala, by dowody były absolutne, ponieważ wtedy nie byłoby prawdziwej próby. Stwórca wymaga, aby ludzie wybierali między dobrem a złem, a wybór ten nie może być wymuszony. Tej ostatniej nocy, w górnej sali, Suwerenny Jezus odniósł się do Ducha Świętego jako „Ducha Prawdy” i oświadczył, że „On was poprowadzi we wszelką prawdę” (Jana 16,13). Jest to prerogatywa Ducha Świętego, aby uświadamiać i przekonywać.</p>
+<p>W miarę jak wzrastamy, możemy pomagać innym przechodzić przez tę
+sekwencję. Bardzo wielu chrześcijan na całym świecie przekonało się, że
+powyższe jest prawdą, w swoim osobistym doświadczeniu.</p>
+<p>Hebrajczyków 4,12-13: „Słowo Boże jest żywe i skuteczne, ostrzejsze
+niż jakikolwiek miecz obosieczny, przenikające do punktu rozdzielenia
+duszy i ducha<a href="#fn26" class="footnote-ref" id="fnref26"
+role="doc-noteref"><sup>26</sup></a>, stawów i szpiku, w rzeczywistości
+jest w stanie ocenić refleksje i intencje serca. Nic w całym stworzeniu
+nie jest ukryte przed Jego wzrokiem, raczej wszystkie rzeczy są nagie i
+otwarte dla oczu Jego, któremu musimy zdać rachunek.” Rozważanie Słowa
+Bożego potrafi być dość niekomfortowe, jest ono „zwierciadłem”, które
+mówi nam prawdę o nas samych (Jakuba 1,25). Efezjan 6,17 nazywa je
+„mieczem Ducha”. Słowo, które potrafi oddzielić duszę od ducha, musi być
+nadprzyrodzone. Bardzo wielu chrześcijan na całym świecie przekonało
+się, że powyższe jest prawdą, w swoim osobistym doświadczeniu. Wracając
+do Hebrajczyków 4,13 – musimy zdać rachunek Sędziemu, który zna
+WSZYSTKIE fakty. Ta wiedza naprawdę powinna przemienić nas w poważnych
+ludzi, pilnych poszukiwaczy Boga, ale…</p>
+<p>„Ta Księga Prawa niech nie oddala się od twoich ust, lecz powinieneś
+rozważać w niej dniem i nocą, czego masz przestrzegać, zgodnie ze
+wszystkim, co jest w niej napisane. Wtedy bowiem twoja droga będzie
+dostatnia, i wtedy odniesiesz duży sukces.” (Jozue 1,8). List Jakuba
+1,25 mówi coś bardzo podobnego. Mojżesz powiedział Izraelitom:
+„Skierujcie swoje serca na wszystkie słowa, które dziś świadczę pośród
+was, które powinniście nakazać swoim dzieciom, aby starannie
+przestrzegały – wszystkie słowa tego prawa. Bo nie jest to dla was
+rzeczą daremną, ponieważ jest to wasze życie” (Powtórzonego Prawa
+32,46-47). Bardzo wielu chrześcijan na całym świecie przekonało się, że
+powyższe jest prawdą, w swoim osobistym doświadczeniu.</p>
+<p>List do Rzymian 1,16-17: „Nie wstydzę się<a href="#fn27"
+class="footnote-ref" id="fnref27" role="doc-noteref"><sup>27</sup></a>
+Ewangelii Chrystusa<a href="#fn28" class="footnote-ref" id="fnref28"
+role="doc-noteref"><sup>28</sup></a>, ponieważ jest ona mocą Bożą dla
+zbawienia każdego, kto wierzy (najpierw Żyda, potem Greka). Bo w niej
+jest ujawniona sprawiedliwość Boża, z wiary w wiarę, tak jak jest
+napisane: ‘Sprawiedliwy z wiary żyć będzie’.”<a href="#fn29"
+class="footnote-ref" id="fnref29" role="doc-noteref"><sup>29</sup></a>
+Ewangelia jest mocą ku zbawieniu. Jak powiedział Suwerenny Jezus w
+Ewangelii Jana 14,6 — „Ja jestem drogą, prawdą i życiem. Nikt nie
+przychodzi do Ojca inaczej jak tylko przeze Mnie.” Nie ma wielu dróg,
+tylko jedna. Miliony istnień zostały przemienione mocą Bożego Słowa.
+Skąd więc wzięła się ta moc?</p>
+<p>Natchnienie Świętego Tekstu jest cechą wewnętrzną – jest takie,
+ponieważ takie jest. Jednakże, możemy dostrzec tę wrodzoną cechę,
+porównując materiały natchnione z materiałami, które nie są natchnione.
+Rozważ naturę treści Biblii, lub przesłanie: nie jest to tego rodzaju
+rzecz, jaką człowiek chciałaby napisać, nawet gdyby mógł, ani coś, co
+mógłby napisać, nawet gdyby chciał. A następnie jest jedność Biblii:
+chociaż 66 ksiąg zostało napisanych przez co najmniej trzydziestu
+różnych ludzkich autorów, na przestrzeni około 2000 lat, i w dwóch
+bardzo różnych językach (hebrajskim i greckim)<a href="#fn30"
+class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a>,
+całość jest spójna, nie przeczy sama sobie. Istnieją też konkretne i
+szczegółowe proroctwa, nawet włączające imię osoby, podane wieki przed
+faktem, które zostały dokładnie spełnione.</p>
+<p>Dla tych, którzy wierzą, że Jezus Chrystus jest Bogiem, Jego postawa
+względem Starego Testamentu będzie istotna. Przypisywał On Staremu
+Testamentowi absolutny autorytet, w Janie 5,45-47 postawił On pisma
+Mojżesza na równi z Jego własnym słowem, które ogłosił jako mające
+ważność na wieki (Łukasz 21,33). Jak podano w czterech Ewangeliach,
+cytował On przynajmniej Księgę Rodzaju, Wyjścia, Liczb, Powtórzonego
+Prawa, Psalmy, Izajasza, Jeremiasza, Daniela, Ozeasza, Jonasza,
+Zachariasza oraz Malachiasza. W Ewangelii Łukasza 24,44 jasno uznał trzy
+części kanonu hebrajskiego: Prawo, Proroków i Pisma (Psalmy). Następnie
+jest Mateusza 23,35: „Aby przyszła na was wszelka krew sprawiedliwa,
+przelana na ziemi, od krwi sprawiedliwego Abla aż do krwi Zachariasza,
+syna Barachiasza, którego zamordowaliście między świątynią a ołtarzem”.
+Jezus kończy tutaj swoje potępienie uczonych w Piśmie i faryzeuszy.
+Morderstwo Abla to pierwsze morderstwo odnotowane w Biblii (Rodzaju
+4,8). Zwróć, proszę uwagę, że Jezus potwierdza historyczność Abla, a
+ponieważ Abel miał rodziców, siłą rzeczy Jezus potwierdza też
+historyczność rodziców Abla, Adama i Ewy! Zachariasz był współczesnym
+Ezdrasza i Aggeusza w czasie budowy drugiej świątyni. Tak więc „wszelka
+krew sprawiedliwa, przelana” między tymi dwoma mężczyznami obejmuje cały
+Stary Testament, około 3 500 lat!</p>
+<p>Powiedziawszy wszystko powyższe, mimo wszystko uznaję, iż
+stwierdzenie Bożego natchnienia Biblii jest wyznaniem wiary —
+inteligentnej wiary, opartej na dowodach, ale wciąż wiary, ponieważ
+dowody nie są absolutne<a href="#fn31" class="footnote-ref" id="fnref31"
+role="doc-noteref"><sup>31</sup></a>, i nie są absolutne z bardzo
+ważnego powodu. Suwerenny Stwórca celowo nie pozwala, by dowody były
+absolutne, ponieważ wtedy nie byłoby prawdziwej próby. Stwórca wymaga,
+aby ludzie wybierali między dobrem a złem, a wybór ten nie może być
+wymuszony. Tej ostatniej nocy, w górnej sali, Suwerenny Jezus odniósł
+się do Ducha Świętego jako „Ducha Prawdy” i oświadczył, że „On was
+poprowadzi we wszelką prawdę” (Jana 16,13). Jest to prerogatywa Ducha
+Świętego, aby uświadamiać i przekonywać.</p>
 <p><em>Natura Tekstu</em></p>
-<p>Używamy terminu „natchnienie” w odniesieniu do procesu, którego Suwerenny Stwórca użył do stworzenia Swojego pisemnego Objawienia. Stwórca zdecydował się posłużyć ludzkimi autorami, z wyjątkiem kamiennych tablic zawierających Dekalog, które Stwórca Sam wyrył (Wyjścia 31,18; 32,16). Porównując styl ksiąg napisanych przez różnych ludzi, widać wyraźnie, że osobowość autora nie została stłumiona lub zablokowana: Paweł pisze w jeden sposób, Jan pisze w inny sposób i tak dalej. A ten sam autor zmieni styl w zależności od docelowych odbiorców lub adresata. Więc gdy Piotr pisze, że autorzy byli „niesieni przez Ducha Świętego” (2 Piotra 1,21), możemy rozumieć, że „niesienie” gwarantowało, iż zapisane słowa poprawnie wyrażały znaczenie, jakie Duch Święty chciał przekazać. Zarówno żywe Słowo, jak i spisane Słowo obejmują unię hipostatyczną<a href="#fn32" class="footnote-ref" id="fnref32" role="doc-noteref"><sup>32</sup></a>: jak Jezus Chrystus może być w 100% Bogiem i jednocześnie w 100% człowiekiem jest tajemnicą, jak spisane Słowo może być w 100% boskie i jednocześnie w 100% ludzkie, również jest tajemnicą.</p>
-<p>Ale to nie wszystko. Sposób, w jaki działa natchnienie, różni się w zależności od rodzaju literatury.</p>
+<p>Używamy terminu „natchnienie” w odniesieniu do procesu, którego
+Suwerenny Stwórca użył do stworzenia Swojego pisemnego Objawienia.
+Stwórca zdecydował się posłużyć ludzkimi autorami, z wyjątkiem
+kamiennych tablic zawierających Dekalog, które Stwórca Sam wyrył
+(Wyjścia 31,18; 32,16). Porównując styl ksiąg napisanych przez różnych
+ludzi, widać wyraźnie, że osobowość autora nie została stłumiona lub
+zablokowana: Paweł pisze w jeden sposób, Jan pisze w inny sposób i tak
+dalej. A ten sam autor zmieni styl w zależności od docelowych odbiorców
+lub adresata. Więc gdy Piotr pisze, że autorzy byli „niesieni przez
+Ducha Świętego” (2 Piotra 1,21), możemy rozumieć, że „niesienie”
+gwarantowało, iż zapisane słowa poprawnie wyrażały znaczenie, jakie Duch
+Święty chciał przekazać. Zarówno żywe Słowo, jak i spisane Słowo
+obejmują unię hipostatyczną<a href="#fn32" class="footnote-ref"
+id="fnref32" role="doc-noteref"><sup>32</sup></a>: jak Jezus Chrystus
+może być w 100% Bogiem i jednocześnie w 100% człowiekiem jest tajemnicą,
+jak spisane Słowo może być w 100% boskie i jednocześnie w 100% ludzkie,
+również jest tajemnicą.</p>
+<p>Ale to nie wszystko. Sposób, w jaki działa natchnienie, różni się w
+zależności od rodzaju literatury.</p>
 <ol type="1">
-<li><p>Ściśle rzecz biorąc, „objawienie” oznacza informację przekazaną bezpośrednio komuś przez Stwórcę (czasem wykorzystując anioła). Prawdziwe proroctwo to prorok powtarzający słowo w słowo to, co Stwórca do niego powiedział: „słowo PANA przyszło do mnie mówiące” (Jeremiasz 1,4). Z konieczności, informacje zawarte w pierwszym rozdziale Księgi Rodzaju, zostały przekazane przez Stwórcę bezpośrednio Adamowi. Podobnie, informacje zawarte w Księdze Hioba 1,6-12 i 2,1-7 musiały zostać przekazane bezpośrednio autorowi księgi (być może Elihu, synowi Barachela — Księga Hioba 32,2). Dzieje Apostolskie 1,16 mówią, że Duch Święty przemówił ustami Dawida. W odniesieniu do „Wieczerzy Pańskiej” Paweł napisał: „Otrzymałem od Pana to, co również przekazałem, wam” (1 Koryntian 11,23). Mógłbym przywołać kolejne fragmenty, ale podałem już wystarczająco dużo, aby zilustrować „objawienie”. Takie objawienie jest zazwyczaj normatywne, służy ukierunkowaniu naszego postępowania.</p></li>
-<li><p>Informacje historyczne są nieco inne, natchnienie gwarantuje prawdziwość tego, co jest opisane — rzeczy wydarzyły się właśnie w ten sposób<a href="#fn33" class="footnote-ref" id="fnref33" role="doc-noteref"><sup>33</sup></a>. Powinno być oczywiste, że opisy grzechu, kłamstwa, przestępstwa czy perwersyjności nie są normatywne, choć służą jako negatywne przykłady, żeby nas ostrzegać. Księga Rodzaju 3,4 rejestruje kłamstwo: „Wtedy wąż rzekł do kobiety: Na pewno nie umrzecie”. Oczywiście natchnienie nie zgadza się z kłamstwem, jedynie gwarantuje, że wąż powiedział dokładnie to. Informacje historyczne lub zapisy mogą zawierać orientację normatywną. Zawsze konieczne jest zwrócenie szczególnej uwagi na kontekst, który można słusznie nazwać „królem interpretacji”.</p></li>
-<li><p>Materiał poetycki jest trudniejszy. To gatunek komunikacji, który ma własne zasady i kontekst jest najważniejszy. Pieśń nad Pieśniami składa się z trzynastu „kantyczek”<a href="#fn34" class="footnote-ref" id="fnref34" role="doc-noteref"><sup>34</sup></a>, które nie są przedstawione jako normatywne. Ponieważ relacja między mężczyzną i kobietą jest fundamentalna dla ludzkiego istnienia, naturalne jest, że ten temat pojawia się w pisemnym Objawieniu. To, że Stwórca wybrał gatunek poetycki, było Jego prerogatywą i to dobrze pasuje do tematu — emocje często znajdują wyraz w formie poetyckiej.</p></li>
+<li><p>Ściśle rzecz biorąc, „objawienie” oznacza informację przekazaną
+bezpośrednio komuś przez Stwórcę (czasem wykorzystując anioła).
+Prawdziwe proroctwo to prorok powtarzający słowo w słowo to, co Stwórca
+do niego powiedział: „słowo PANA przyszło do mnie mówiące” (Jeremiasz
+1,4). Z konieczności, informacje zawarte w pierwszym rozdziale Księgi
+Rodzaju, zostały przekazane przez Stwórcę bezpośrednio Adamowi.
+Podobnie, informacje zawarte w Księdze Hioba 1,6-12 i 2,1-7 musiały
+zostać przekazane bezpośrednio autorowi księgi (być może Elihu, synowi
+Barachela — Księga Hioba 32,2). Dzieje Apostolskie 1,16 mówią, że Duch
+Święty przemówił ustami Dawida. W odniesieniu do „Wieczerzy Pańskiej”
+Paweł napisał: „Otrzymałem od Pana to, co również przekazałem, wam” (1
+Koryntian 11,23). Mógłbym przywołać kolejne fragmenty, ale podałem już
+wystarczająco dużo, aby zilustrować „objawienie”. Takie objawienie jest
+zazwyczaj normatywne, służy ukierunkowaniu naszego
+postępowania.</p></li>
+<li><p>Informacje historyczne są nieco inne, natchnienie gwarantuje
+prawdziwość tego, co jest opisane — rzeczy wydarzyły się właśnie w ten
+sposób<a href="#fn33" class="footnote-ref" id="fnref33"
+role="doc-noteref"><sup>33</sup></a>. Powinno być oczywiste, że opisy
+grzechu, kłamstwa, przestępstwa czy perwersyjności nie są normatywne,
+choć służą jako negatywne przykłady, żeby nas ostrzegać. Księga Rodzaju
+3,4 rejestruje kłamstwo: „Wtedy wąż rzekł do kobiety: Na pewno nie
+umrzecie”. Oczywiście natchnienie nie zgadza się z kłamstwem, jedynie
+gwarantuje, że wąż powiedział dokładnie to. Informacje historyczne lub
+zapisy mogą zawierać orientację normatywną. Zawsze konieczne jest
+zwrócenie szczególnej uwagi na kontekst, który można słusznie nazwać
+„królem interpretacji”.</p></li>
+<li><p>Materiał poetycki jest trudniejszy. To gatunek komunikacji, który
+ma własne zasady i kontekst jest najważniejszy. Pieśń nad Pieśniami
+składa się z trzynastu „kantyczek”<a href="#fn34" class="footnote-ref"
+id="fnref34" role="doc-noteref"><sup>34</sup></a>, które nie są
+przedstawione jako normatywne. Ponieważ relacja między mężczyzną i
+kobietą jest fundamentalna dla ludzkiego istnienia, naturalne jest, że
+ten temat pojawia się w pisemnym Objawieniu. To, że Stwórca wybrał
+gatunek poetycki, było Jego prerogatywą i to dobrze pasuje do tematu —
+emocje często znajdują wyraz w formie poetyckiej.</p></li>
 </ol>
-<p>Dla porównania, Księga Przysłów jest generalnie normatywna. W Księdze Koheleta 12,9-11 Salomon deklaruje natchnienie przysłów: zostały one „dane przez jednego Pasterza”.</p>
-<p>Z drugiej strony, sam Salomon nie twierdzi tego samego o Księdze Koheleta, innej księdze, którą napisał. Drugi werset: „Marność nad marnościami, mówi kaznodzieja, marność nad marnościami, wszystko jest marnością”, oczywiście nie zgadza się z resztą Biblii. Służenie Bogu nie jest marnością, zbawienie w Chrystusie nie jest marnością i tak dalej. Rzeczywiście, Salomon otwarcie deklaruje, w jaki sposób powstała ta księga: „Nastawiłem serce swoje, aby szukało i znajdowało mądrością” (1,13), „Rozmawiałem z sercem swoim” (1,16), „Nastawiłem serce swoje na poznanie mądrości i szaleństwa i głupoty” (1,17), „Szukałem w sercu swoim, jak zaspokoić ciało swe” (2,3). Księga wyraźnie jest próbą zrozumienia życia i świata poprzez czysto humanistyczną analizę, z pominięciem Suwerennego Stwórcy. Takiej analizy podjął się człowiek, który był bardzo inteligentny. Przyjmuję, że księga została włączona do kanonu dokładnie po to, aby pokazać, do jakiego wniosku czysto humanistyczna analiza musi doprowadzić — do pustki i rozpaczy. Jednakże, autor podsumował księgę poprzez stwierdzenie prawdziwej prawdy, aby nikt nie został zwiedziony: „Posłuchajmy więc wniosku całej tej sprawy: Bój się Boga i przestrzegaj Jego przykazań, bo to jest wszystko u człowieka. Bóg bowiem przywiedzie pod osąd każde dzieło, w tym każdą tajemnicę, czy to dobrą, czy złą”.</p>
+<p>Dla porównania, Księga Przysłów jest generalnie normatywna. W Księdze
+Koheleta 12,9-11 Salomon deklaruje natchnienie przysłów: zostały one
+„dane przez jednego Pasterza”.</p>
+<p>Z drugiej strony, sam Salomon nie twierdzi tego samego o Księdze
+Koheleta, innej księdze, którą napisał. Drugi werset: „Marność nad
+marnościami, mówi kaznodzieja, marność nad marnościami, wszystko jest
+marnością”, oczywiście nie zgadza się z resztą Biblii. Służenie Bogu nie
+jest marnością, zbawienie w Chrystusie nie jest marnością i tak dalej.
+Rzeczywiście, Salomon otwarcie deklaruje, w jaki sposób powstała ta
+księga: „Nastawiłem serce swoje, aby szukało i znajdowało mądrością”
+(1,13), „Rozmawiałem z sercem swoim” (1,16), „Nastawiłem serce swoje na
+poznanie mądrości i szaleństwa i głupoty” (1,17), „Szukałem w sercu
+swoim, jak zaspokoić ciało swe” (2,3). Księga wyraźnie jest próbą
+zrozumienia życia i świata poprzez czysto humanistyczną analizę, z
+pominięciem Suwerennego Stwórcy. Takiej analizy podjął się człowiek,
+który był bardzo inteligentny. Przyjmuję, że księga została włączona do
+kanonu dokładnie po to, aby pokazać, do jakiego wniosku czysto
+humanistyczna analiza musi doprowadzić — do pustki i rozpaczy. Jednakże,
+autor podsumował księgę poprzez stwierdzenie prawdziwej prawdy, aby nikt
+nie został zwiedziony: „Posłuchajmy więc wniosku całej tej sprawy: Bój
+się Boga i przestrzegaj Jego przykazań, bo to jest wszystko u człowieka.
+Bóg bowiem przywiedzie pod osąd każde dzieło, w tym każdą tajemnicę, czy
+to dobrą, czy złą”.</p>
 <h3 id="oświecenie">Oświecenie</h3>
-<p>Twierdzę, że ważne jest, abyśmy rozróżniali między natchnieniem a oświeceniem w odniesieniu do Pisma Świętego. Natchnienie odnosi się do pisania materiałów biblijnych, a oświecenie odnosi się do interpretacji materiałów biblijnych. Zarówno natchnienie, jak i oświecenie są dziełem Ducha Świętego. Oświecenie jest zazwyczaj zarezerwowane dla tych, którzy zostali odrodzeni. „Człowiek zaś duszewny<a href="#fn35" class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a> nie przyjmuje rzeczy Ducha Bożego, bo są dla niego głupstwem, zaiste, nie może ich zrozumieć, ponieważ są one duchowo rozróżniane” (1 List do Koryntian 2,14). Tak właśnie mówi Tekst. Osoba „duszewna” nie jest w stanie pojąć spraw duchowych, co brzmi raczej jak wada wrodzona. Konkretne fakty zawarte w zapisach historycznych mogą być zrozumiane przez każdego. To, że Dawid zabił Goliata, jest faktem zrozumiałym dla każdego. Jednak zrozumienie celu Ducha Świętego stojącego za natchnionym stwierdzeniem zależy od oświecenia, a aby je otrzymać, trzeba być duchowym (1 Kor 2,15).</p>
+<p>Twierdzę, że ważne jest, abyśmy rozróżniali między natchnieniem a
+oświeceniem w odniesieniu do Pisma Świętego. Natchnienie odnosi się do
+pisania materiałów biblijnych, a oświecenie odnosi się do interpretacji
+materiałów biblijnych. Zarówno natchnienie, jak i oświecenie są dziełem
+Ducha Świętego. Oświecenie jest zazwyczaj zarezerwowane dla tych, którzy
+zostali odrodzeni. „Człowiek zaś duszewny<a href="#fn35"
+class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a>
+nie przyjmuje rzeczy Ducha Bożego, bo są dla niego głupstwem, zaiste,
+nie może ich zrozumieć, ponieważ są one duchowo rozróżniane” (1 List do
+Koryntian 2,14). Tak właśnie mówi Tekst. Osoba „duszewna” nie jest w
+stanie pojąć spraw duchowych, co brzmi raczej jak wada wrodzona.
+Konkretne fakty zawarte w zapisach historycznych mogą być zrozumiane
+przez każdego. To, że Dawid zabił Goliata, jest faktem zrozumiałym dla
+każdego. Jednak zrozumienie celu Ducha Świętego stojącego za natchnionym
+stwierdzeniem zależy od oświecenia, a aby je otrzymać, trzeba być
+duchowym (1 Kor 2,15).</p>
 <h3 id="kanon">Kanon</h3>
-<p>Przechodzę teraz do kwestii kanoniczności Świętego Tekstu: dlaczego nasza Biblia zawiera dokładnie taki dobór ksiąg, jaki ma – ani więcej, ani mniej, ani żadnych innych? Natchnienie odnosi się do boskiej aktywności w akcie spisywania materiału, gwarantującej wynik. Jednakże, kanonizacja Tekstu odnosi się do ludzkiej aktywności, rozpoznawania boskiej jakości tego materiału. Proces tego rozpoznawania miał miejsce w społeczności Wiary – społeczności hebrajskiej w przypadku Starego Testamentu i społeczności chrześcijańskiej w przypadku Nowego Testamentu. Odnosiłem się już do postawy, jaką Pan Jezus Chrystus wykazywał w odniesieniu do Starego Testamentu, który był całą istniejącą w tym momencie Biblią. Ewidentnie uznał Kanon 39 ksiąg, który był ustalony w Jego czasach. Cytował wiele ksiąg – wziętych z Prawa, historii, proroctw i poezji – i czynił to, traktując je jako Boże Słowo, coś prawdziwego, świętego i autorytatywnego. Ludzcy autorzy Nowego Testamentu wykazywali taki sam szacunek dla Starego Testamentu, który był również ich Biblią.</p>
-<p>Powiedziałem, że Stary Testament zawiera 39 ksiąg i tak było aż do XVI wieku ery chrześcijańskiej. Sobór Trydencki był reakcją Kościoła rzymskokatolickiego przeciwko Reformacji Protestanckiej. Rozpoczął się w 1545 roku i zakończył swoje prace w 1563 roku. Sobór dodał do Starego Testamentu czternaście „ksiąg”, chociaż te czternaście nigdy nie zostało uznane przez społeczność hebrajską. W kręgach protestanckich księgi te są ogólnie określane jako „apokryfy”, natomiast w kręgach rzymskokatolickich jako „deuterokanoniczne”. Kanon Nowego Testamentu został formalnie zamknięty przez sobór w Kartaginie w 397 r. n.e., natomiast kanon Starego Testamentu został zamknięty stulecia wcześniej. Z pewnością rok 1563 był zdecydowanie za późno, żeby dodawać księgi do Świętego Tekstu.<a href="#fn36" class="footnote-ref" id="fnref36" role="doc-noteref"><sup>36</sup></a></p>
-<p>A zatem kanonizacja ma wszystko wspólnego z zachowaniem Tekstu. Z pewnością, ponieważ społeczność Wiary zajmowałaby się wyłącznie przekazywaniem i ochroną ksiąg „kanonicznych”, tych, które uznano za natchnione.<a href="#fn37" class="footnote-ref" id="fnref37" role="doc-noteref"><sup>37</sup></a> Kiedy podejmuję kwestię zachowania, poniżej, argumentuję, że to właśnie zachowanie Tekstu dowodzi jego kanoniczności. Ludzki udział w przekazywaniu Tekstu jest oczywisty, ale czy istniała również boska aktywność, chroniąca Tekst (w tym jego dokładne słowa)? I jak można „zmierzyć” taką boską aktywność? Widzę dwa odpowiednie „narzędzia” do dokonania pomiaru: logikę i historię. Zaczynam od argumentu opartego na logice.</p>
-<p>Natchnienie jest wynikiem lub cechą Objawienia – tym stwierdzeniem potwierdzamy, że Suwerenny Stwórca postanowił przekazać ludzkiej rasie pewne obiektywne informacje. Gdyby Stwórca troszczył się jedynie o przekazanie informacji danej osobie lub grupie w określonym momencie czasu, w konkretnym celu, mogłoby to zostać dokonane ustnie. Jeśli jednak Jego celem było dotarcie do kolejnych pokoleń (aż do tysiąca z nich, 1 Kronik 16,15), wówczas odpowiednią formą byłaby forma pisemna. Jeśli więc Stwórca zamierzał, aby Jego Objawienie dotarło nienaruszone, a przynajmniej w całości i w wiarygodnym stanie, do XXI wieku, absolutnie musiałby czuwać nad procesem przekazywania przez wieki. Musiałby zabronić nieodwracalnej utraty jakichkolwiek autentycznych materiałów, a także zabronić jakichkolwiek nierozpoznawalnych wstawek fałszywych materiałów. Oryginalne sformułowania powinny być dostępne, we wszystkich pokoleniach, dla osób, które byłyby wystarczająco zainteresowane posiadaniem tych sformułowań, aby zapłacić niezbędną cenę (czas, podróż, pieniądze) za ich uzyskanie. (Ogólnie rzecz biorąc, ludzie byliby zadowoleni z posiadanych sformułowań, o ile uważaliby je za wiarygodne). Tak więc osoba wierząca na przykład w boskie natchnienie Nowego Testamentu powinna również wierzyć w boskie zachowanie Nowego Testamentu – jest to kwestia logiki. Ale co z dowodami historycznymi, czy są one zgodne z naszą logiką, czy nie? Teraz przejdę do tego pytania.</p>
-<h2 id="historyczne-dowody-na-zachowanie">Historyczne dowody na Zachowanie</h2>
-<p>Na początek, uważam, że poniższe odniesienia można rozsądnie rozumieć jako oświadczenie Suwerennego Stwórcy, że zamierzał zachować swój Tekst, ale nie dał żadnych wskazówek, w jaki sposób zamierzał to zrobić. Musimy zacząć od tego, co zrobił. Ale najpierw odniesienia:</p>
-<p>1 Kronik 16,14-15 jest częścią psalmu uwielbienia dla Boga, który śpiewano, gdy Arka została przyniesiona do Jerozolimy. „On jest PANEM, naszym Bogiem, Jego osądy są na całej ziemi. Pamiętajcie Jego rozkaz na zawsze, słowo, które On nakazał na tysiąc pokoleń”. Aby Słowo było wiążące aż do tysiącznego pokolenia, musiałoby być zachowane aż do tego pokolenia i musiałoby być dostępne dla każdego pokolenia po drodze. Przyjmuję, że „tysiąc pokoleń” jest równoznaczne z „na zawsze”. „Na zawsze, PANIE, Twoje słowo jest osadzone w niebie. Twoja wierność jest do wszystkich pokoleń” (Psalm 119,89-90). „Na zawsze” jest równoznaczne z „wszystkimi pokoleniami”. „Trawa usycha, kwiat więdnie, ale słowo naszego Boga trwa na wieki” (Izajasz 40,8). Aby „trwać” na wieki, musi być zachowane na wieki. (Psalm 102,18 i 1 List do Koryntian 10,11)</p>
-<p>Mateusz 5,17-18 to fragment tzw. Kazania na Górze, wygłoszonego przez Suwerennego Jezusa, podczas gdy chodził po tej ziemi. „Nie sądźcie, że przyszedłem znieść Prawo lub Proroków. Nie przyszedłem znieść, ale wypełnić. Zaprawdę bowiem powiadam wam, dopóki nie przeminie niebo i ziemia, ani jedna jota, ani jedna kreska nie przeminie z Prawa, aż wszystko się spełni”. Pan wypowiada tu imponująco mocne stwierdzenie dotyczące zachowania w czasie dokładnej formy Świętego Tekstu. Ponieważ jedyny dostęp do znaczenia mamy poprzez formę, każda zmiana formy zmieni znaczenie. (Jednym z najskuteczniejszych sposobów unieważnienia przykazania jest naruszenie Tekstu – coś, co Szatan rozumie całkiem dobrze). „Łatwiej jest niebu i ziemi przeminąć, niż jednej kresce z Prawa zawieść” (Łk 16,17). „Niebo i ziemia przeminą, ale moje słowa w żadnym razie nie przeminą” (Łk 21,33). Suwerenny Jezus oświadcza, że Jego słowa mają wieczną ważność i dlatego są na równi z pisemnym Objawieniem Bożym (zob. Ps 119,89).</p>
-<p>W Ewangelii Mateusza 4,4 Suwerenny Jezus powstrzymuje Szatana, cytując Księgę Powtórzonego Prawa 8,3. „Napisano: «Nie samym chlebem żyje człowiek, ale każdym słowem, które pochodzi z ust Bożych»”. Jeśli mamy żyć „każdym słowem”, to każde słowo musi być dostępne.<a href="#fn38" class="footnote-ref" id="fnref38" role="doc-noteref"><sup>38</sup></a> Zwróć również uwagę na Księgę Powtórzonego Prawa 29,29, „Rzeczy tajemne należą do PANA, naszego Boga, ale te, które zostały ujawnione, należą do nas i do naszych dzieci na zawsze, abyśmy mogli wypełniać wszystkie słowa tego prawa”. „Wszystkie słowa” obejmują każde pojedyncze słowo, które składa się na całość, a aby trzysta pokoleń mogło je wszystkie przestrzegać, wszystkie muszą być nadal dostępne. Rozważ też Księgę Izajasza 59,21: „A co do mnie” – mówi PAN – „oto Moje przymierze z nimi: Duch Mój, który spoczywa na tobie, i słowa Moje, które włożyłem w twoje usta, nie odejdą z twoich ust, ani z ust twoich potomków, ani z ust potomków twoich potomków” – mówi PAN – „od teraz i na wieki”. „Słowa moje” obejmują każde pojedyncze słowo, które składa się na całość, i mają być dostępne „od teraz i na wieki”, co obejmuje wszystkie pokolenia pośrednie. Księga Objawienia 22,18-19 również kładzie nacisk na poszczególne słowa.</p>
-<p>Twierdzę, że powyższe odniesienia można rozsądnie rozumieć jako stanowiące deklarację, że Suwerenny Stwórca zamierza, aby Jego pisemne Objawienie było dostępne dla wszystkich pokoleń aż do końca świata – Jego troska rozciąga się na poszczególne słowa, a nawet litery (Mt 5,18)! Ponieważ jednak nie podał On żadnych wskazówek, w jaki sposób zamierza to osiągnąć, musimy wywnioskować odpowiedź, analizując to, co uczynił. Zacznę od Nowego Testamentu. Przechodzę do przedstawienia dowodów.</p>
+<p>Przechodzę teraz do kwestii kanoniczności Świętego Tekstu: dlaczego
+nasza Biblia zawiera dokładnie taki dobór ksiąg, jaki ma – ani więcej,
+ani mniej, ani żadnych innych? Natchnienie odnosi się do boskiej
+aktywności w akcie spisywania materiału, gwarantującej wynik. Jednakże,
+kanonizacja Tekstu odnosi się do ludzkiej aktywności, rozpoznawania
+boskiej jakości tego materiału. Proces tego rozpoznawania miał miejsce w
+społeczności Wiary – społeczności hebrajskiej w przypadku Starego
+Testamentu i społeczności chrześcijańskiej w przypadku Nowego
+Testamentu. Odnosiłem się już do postawy, jaką Pan Jezus Chrystus
+wykazywał w odniesieniu do Starego Testamentu, który był całą istniejącą
+w tym momencie Biblią. Ewidentnie uznał Kanon 39 ksiąg, który był
+ustalony w Jego czasach. Cytował wiele ksiąg – wziętych z Prawa,
+historii, proroctw i poezji – i czynił to, traktując je jako Boże Słowo,
+coś prawdziwego, świętego i autorytatywnego. Ludzcy autorzy Nowego
+Testamentu wykazywali taki sam szacunek dla Starego Testamentu, który
+był również ich Biblią.</p>
+<p>Powiedziałem, że Stary Testament zawiera 39 ksiąg i tak było aż do
+XVI wieku ery chrześcijańskiej. Sobór Trydencki był reakcją Kościoła
+rzymskokatolickiego przeciwko Reformacji Protestanckiej. Rozpoczął się w
+1545 roku i zakończył swoje prace w 1563 roku. Sobór dodał do Starego
+Testamentu czternaście „ksiąg”, chociaż te czternaście nigdy nie zostało
+uznane przez społeczność hebrajską. W kręgach protestanckich księgi te
+są ogólnie określane jako „apokryfy”, natomiast w kręgach
+rzymskokatolickich jako „deuterokanoniczne”. Kanon Nowego Testamentu
+został formalnie zamknięty przez sobór w Kartaginie w 397 r. n.e.,
+natomiast kanon Starego Testamentu został zamknięty stulecia wcześniej.
+Z pewnością rok 1563 był zdecydowanie za późno, żeby dodawać księgi do
+Świętego Tekstu.<a href="#fn36" class="footnote-ref" id="fnref36"
+role="doc-noteref"><sup>36</sup></a></p>
+<p>A zatem kanonizacja ma wszystko wspólnego z zachowaniem Tekstu. Z
+pewnością, ponieważ społeczność Wiary zajmowałaby się wyłącznie
+przekazywaniem i ochroną ksiąg „kanonicznych”, tych, które uznano za
+natchnione.<a href="#fn37" class="footnote-ref" id="fnref37"
+role="doc-noteref"><sup>37</sup></a> Kiedy podejmuję kwestię zachowania,
+poniżej, argumentuję, że to właśnie zachowanie Tekstu dowodzi jego
+kanoniczności. Ludzki udział w przekazywaniu Tekstu jest oczywisty, ale
+czy istniała również boska aktywność, chroniąca Tekst (w tym jego
+dokładne słowa)? I jak można „zmierzyć” taką boską aktywność? Widzę dwa
+odpowiednie „narzędzia” do dokonania pomiaru: logikę i historię.
+Zaczynam od argumentu opartego na logice.</p>
+<p>Natchnienie jest wynikiem lub cechą Objawienia – tym stwierdzeniem
+potwierdzamy, że Suwerenny Stwórca postanowił przekazać ludzkiej rasie
+pewne obiektywne informacje. Gdyby Stwórca troszczył się jedynie o
+przekazanie informacji danej osobie lub grupie w określonym momencie
+czasu, w konkretnym celu, mogłoby to zostać dokonane ustnie. Jeśli
+jednak Jego celem było dotarcie do kolejnych pokoleń (aż do tysiąca z
+nich, 1 Kronik 16,15), wówczas odpowiednią formą byłaby forma pisemna.
+Jeśli więc Stwórca zamierzał, aby Jego Objawienie dotarło nienaruszone,
+a przynajmniej w całości i w wiarygodnym stanie, do XXI wieku,
+absolutnie musiałby czuwać nad procesem przekazywania przez wieki.
+Musiałby zabronić nieodwracalnej utraty jakichkolwiek autentycznych
+materiałów, a także zabronić jakichkolwiek nierozpoznawalnych wstawek
+fałszywych materiałów. Oryginalne sformułowania powinny być dostępne, we
+wszystkich pokoleniach, dla osób, które byłyby wystarczająco
+zainteresowane posiadaniem tych sformułowań, aby zapłacić niezbędną cenę
+(czas, podróż, pieniądze) za ich uzyskanie. (Ogólnie rzecz biorąc,
+ludzie byliby zadowoleni z posiadanych sformułowań, o ile uważaliby je
+za wiarygodne). Tak więc osoba wierząca na przykład w boskie natchnienie
+Nowego Testamentu powinna również wierzyć w boskie zachowanie Nowego
+Testamentu – jest to kwestia logiki. Ale co z dowodami historycznymi,
+czy są one zgodne z naszą logiką, czy nie? Teraz przejdę do tego
+pytania.</p>
+<h2 id="historyczne-dowody-na-zachowanie">Historyczne dowody na
+Zachowanie</h2>
+<p>Na początek, uważam, że poniższe odniesienia można rozsądnie rozumieć
+jako oświadczenie Suwerennego Stwórcy, że zamierzał zachować swój Tekst,
+ale nie dał żadnych wskazówek, w jaki sposób zamierzał to zrobić. Musimy
+zacząć od tego, co zrobił. Ale najpierw odniesienia:</p>
+<p>1 Kronik 16,14-15 jest częścią psalmu uwielbienia dla Boga, który
+śpiewano, gdy Arka została przyniesiona do Jerozolimy. „On jest PANEM,
+naszym Bogiem, Jego osądy są na całej ziemi. Pamiętajcie Jego rozkaz na
+zawsze, słowo, które On nakazał na tysiąc pokoleń”. Aby Słowo było
+wiążące aż do tysiącznego pokolenia, musiałoby być zachowane aż do tego
+pokolenia i musiałoby być dostępne dla każdego pokolenia po drodze.
+Przyjmuję, że „tysiąc pokoleń” jest równoznaczne z „na zawsze”. „Na
+zawsze, PANIE, Twoje słowo jest osadzone w niebie. Twoja wierność jest
+do wszystkich pokoleń” (Psalm 119,89-90). „Na zawsze” jest równoznaczne
+z „wszystkimi pokoleniami”. „Trawa usycha, kwiat więdnie, ale słowo
+naszego Boga trwa na wieki” (Izajasz 40,8). Aby „trwać” na wieki, musi
+być zachowane na wieki. (Psalm 102,18 i 1 List do Koryntian 10,11)</p>
+<p>Mateusz 5,17-18 to fragment tzw. Kazania na Górze, wygłoszonego przez
+Suwerennego Jezusa, podczas gdy chodził po tej ziemi. „Nie sądźcie, że
+przyszedłem znieść Prawo lub Proroków. Nie przyszedłem znieść, ale
+wypełnić. Zaprawdę bowiem powiadam wam, dopóki nie przeminie niebo i
+ziemia, ani jedna jota, ani jedna kreska nie przeminie z Prawa, aż
+wszystko się spełni”. Pan wypowiada tu imponująco mocne stwierdzenie
+dotyczące zachowania w czasie dokładnej formy Świętego Tekstu. Ponieważ
+jedyny dostęp do znaczenia mamy poprzez formę, każda zmiana formy zmieni
+znaczenie. (Jednym z najskuteczniejszych sposobów unieważnienia
+przykazania jest naruszenie Tekstu – coś, co Szatan rozumie całkiem
+dobrze). „Łatwiej jest niebu i ziemi przeminąć, niż jednej kresce z
+Prawa zawieść” (Łk 16,17). „Niebo i ziemia przeminą, ale moje słowa w
+żadnym razie nie przeminą” (Łk 21,33). Suwerenny Jezus oświadcza, że
+Jego słowa mają wieczną ważność i dlatego są na równi z pisemnym
+Objawieniem Bożym (zob. Ps 119,89).</p>
+<p>W Ewangelii Mateusza 4,4 Suwerenny Jezus powstrzymuje Szatana,
+cytując Księgę Powtórzonego Prawa 8,3. „Napisano: «Nie samym chlebem
+żyje człowiek, ale każdym słowem, które pochodzi z ust Bożych»”. Jeśli
+mamy żyć „każdym słowem”, to każde słowo musi być dostępne.<a
+href="#fn38" class="footnote-ref" id="fnref38"
+role="doc-noteref"><sup>38</sup></a> Zwróć również uwagę na Księgę
+Powtórzonego Prawa 29,29, „Rzeczy tajemne należą do PANA, naszego Boga,
+ale te, które zostały ujawnione, należą do nas i do naszych dzieci na
+zawsze, abyśmy mogli wypełniać wszystkie słowa tego prawa”. „Wszystkie
+słowa” obejmują każde pojedyncze słowo, które składa się na całość, a
+aby trzysta pokoleń mogło je wszystkie przestrzegać, wszystkie muszą być
+nadal dostępne. Rozważ też Księgę Izajasza 59,21: „A co do mnie” – mówi
+PAN – „oto Moje przymierze z nimi: Duch Mój, który spoczywa na tobie, i
+słowa Moje, które włożyłem w twoje usta, nie odejdą z twoich ust, ani z
+ust twoich potomków, ani z ust potomków twoich potomków” – mówi PAN –
+„od teraz i na wieki”. „Słowa moje” obejmują każde pojedyncze słowo,
+które składa się na całość, i mają być dostępne „od teraz i na wieki”,
+co obejmuje wszystkie pokolenia pośrednie. Księga Objawienia 22,18-19
+również kładzie nacisk na poszczególne słowa.</p>
+<p>Twierdzę, że powyższe odniesienia można rozsądnie rozumieć jako
+stanowiące deklarację, że Suwerenny Stwórca zamierza, aby Jego pisemne
+Objawienie było dostępne dla wszystkich pokoleń aż do końca świata –
+Jego troska rozciąga się na poszczególne słowa, a nawet litery (Mt
+5,18)! Ponieważ jednak nie podał On żadnych wskazówek, w jaki sposób
+zamierza to osiągnąć, musimy wywnioskować odpowiedź, analizując to, co
+uczynił. Zacznę od Nowego Testamentu. Przechodzę do przedstawienia
+dowodów.</p>
 <h3 id="autografy">Autografy</h3>
-<p>Kiedy mówię o boskim zachowaniu Tekstu Nowego Testamentu, odnoszę się do jego dokładnej treści w oryginalnych dokumentach, Autografach. Kiedy mówię o zachowaniu, zakładam boskie natchnienie, są one logicznie współzależne. Po co Bóg miałby natchnąć pisemne objawienie, gdyby nie zamierzał go zachować? Po co Bóg miałby zachowywać pisma, których nie natchnął? Uważam, że zachowanie Tekstu Nowego Testamentu jest być może najsilniejszym argumentem przemawiającym za jego natchnionym charakterem. To samo dotyczy precyzyjnego doboru ksiąg, które składają się na Kanon Nowego Testamentu. Ponieważ uważam, że Ewangelia Mateusza była pierwszą księgą Nowego Testamentu, która została udostępniona publicznie („opublikowana”), zacznę od niej.</p>
-<p>Kiedy Mateusz „opublikował” swoją Ewangelię w 38 roku n.e.<a href="#fn39" class="footnote-ref" id="fnref39" role="doc-noteref"><sup>39</sup></a>, produkcja książek w Imperium Rzymskim była powszechna, ale nie istniało coś takiego jak „prawa autorskie”. Gdy tylko książka trafiała do obiegu, stawała się „domeną publiczną” i każdy mógł z niej korzystać oraz wprowadzać w niej zmiany. Jeśli więc Duch Święty chciał chronić dzieła, które natchnął, przed swobodną edycją, co mógł zrobić? Sugeruję, że najbardziej oczywistym sposobem byłoby „opublikowanie” tych dzieł w formie wielu egzemplarzy. Dzisiaj pierwszy nakład książki wynosi zazwyczaj tysiące egzemplarzy, ale w tamtych czasach każdy egzemplarz musiał być napisany ręcznie (rękopis).</p>
-<p>Książka wielkości Ewangelii Mateusza wymagałaby znacznego nakładu czasu i wysiłku, a także papirusu i atramentu. Wierzę, że pisma Nowego Testamentu od początku były przygotowywane w formie książkowej (a nie zwojów), a wykorzystanym materiałem był prawdopodobnie papirus.<a href="#fn40" class="footnote-ref" id="fnref40" role="doc-noteref"><sup>40</sup></a> Jednakże papirus nie wytrzymuje częstego używania, a do roku 38 było wiele chrześcijańskich zborów na samym na terytorium żydowskim, nie wspominając o innych miejscach. Jeśli Duch Święty zamierzał, aby pisma Nowego Testamentu miały szeroki obieg, co wydaje się oczywiste, konieczne byłoby zacząć od wielu egzemplarzy.</p>
-<p>Jeden egzemplarz Ewangelii Mateusza rozpadłby się, zanim dotarłby do dwudziestego zboru (gdyby był na papirusie).</p>
-<p>Ale dlaczego nalegam na papirus zamiast pergaminu? Cóż, pojedynczy egzemplarz Ewangelii Mateusza wymagałby około piętnastu owiec lub kóz, zatem kto mógłby sobie pozwolić na wiele kopii? Niemniej jednak, oryginalny egzemplarz mógł rzeczywiście zostać wykonany na pergaminie z dwóch powodów:</p>
+<p>Kiedy mówię o boskim zachowaniu Tekstu Nowego Testamentu, odnoszę się
+do jego dokładnej treści w oryginalnych dokumentach, Autografach. Kiedy
+mówię o zachowaniu, zakładam boskie natchnienie, są one logicznie
+współzależne. Po co Bóg miałby natchnąć pisemne objawienie, gdyby nie
+zamierzał go zachować? Po co Bóg miałby zachowywać pisma, których nie
+natchnął? Uważam, że zachowanie Tekstu Nowego Testamentu jest być może
+najsilniejszym argumentem przemawiającym za jego natchnionym
+charakterem. To samo dotyczy precyzyjnego doboru ksiąg, które składają
+się na Kanon Nowego Testamentu. Ponieważ uważam, że Ewangelia Mateusza
+była pierwszą księgą Nowego Testamentu, która została udostępniona
+publicznie („opublikowana”), zacznę od niej.</p>
+<p>Kiedy Mateusz „opublikował” swoją Ewangelię w 38 roku n.e.<a
+href="#fn39" class="footnote-ref" id="fnref39"
+role="doc-noteref"><sup>39</sup></a>, produkcja książek w Imperium
+Rzymskim była powszechna, ale nie istniało coś takiego jak „prawa
+autorskie”. Gdy tylko książka trafiała do obiegu, stawała się „domeną
+publiczną” i każdy mógł z niej korzystać oraz wprowadzać w niej zmiany.
+Jeśli więc Duch Święty chciał chronić dzieła, które natchnął, przed
+swobodną edycją, co mógł zrobić? Sugeruję, że najbardziej oczywistym
+sposobem byłoby „opublikowanie” tych dzieł w formie wielu egzemplarzy.
+Dzisiaj pierwszy nakład książki wynosi zazwyczaj tysiące egzemplarzy,
+ale w tamtych czasach każdy egzemplarz musiał być napisany ręcznie
+(rękopis).</p>
+<p>Książka wielkości Ewangelii Mateusza wymagałaby znacznego nakładu
+czasu i wysiłku, a także papirusu i atramentu. Wierzę, że pisma Nowego
+Testamentu od początku były przygotowywane w formie książkowej (a nie
+zwojów), a wykorzystanym materiałem był prawdopodobnie papirus.<a
+href="#fn40" class="footnote-ref" id="fnref40"
+role="doc-noteref"><sup>40</sup></a> Jednakże papirus nie wytrzymuje
+częstego używania, a do roku 38 było wiele chrześcijańskich zborów na
+samym na terytorium żydowskim, nie wspominając o innych miejscach. Jeśli
+Duch Święty zamierzał, aby pisma Nowego Testamentu miały szeroki obieg,
+co wydaje się oczywiste, konieczne byłoby zacząć od wielu
+egzemplarzy.</p>
+<p>Jeden egzemplarz Ewangelii Mateusza rozpadłby się, zanim dotarłby do
+dwudziestego zboru (gdyby był na papirusie).</p>
+<p>Ale dlaczego nalegam na papirus zamiast pergaminu? Cóż, pojedynczy
+egzemplarz Ewangelii Mateusza wymagałby około piętnastu owiec lub kóz,
+zatem kto mógłby sobie pozwolić na wiele kopii? Niemniej jednak,
+oryginalny egzemplarz mógł rzeczywiście zostać wykonany na pergaminie z
+dwóch powodów:</p>
 <ul>
-<li>jeśli oryginalny egzemplarz miał być przechowywany, w celu kontroli jakości, powinien być wykonany na trwałym materiale</li>
-<li>jeśli wiele kopii oryginalnego egzemplarza miało zostać sporządzonych przed udostępnieniem publicznie, oryginalny egzemplarz na papirusie mógłby nie przetrwać</li>
+<li>jeśli oryginalny egzemplarz miał być przechowywany, w celu kontroli
+jakości, powinien być wykonany na trwałym materiale</li>
+<li>jeśli wiele kopii oryginalnego egzemplarza miało zostać
+sporządzonych przed udostępnieniem publicznie, oryginalny egzemplarz na
+papirusie mógłby nie przetrwać</li>
 </ul>
-<p>Pomysł wydania książki w wielu egzemplarzach można wywnioskować z Listów. 2 List do Koryntian został napisany do „kościoła Bożego, który jest w Koryncie, wraz ze wszystkimi świętymi, którzy są w całej Achai” (werset 1). Ile zborów było „w całej Achai”? Czy Paweł myślał o wielu egzemplarzach? 1 List do Koryntian był zaadresowany do „wszystkich tych, wszędzie, którzy wzywają imienia naszego Pana Jezusa Chrystusa” (werset 2). Teraz, ile egzemplarzy byłoby <strong>do tego</strong> potrzebnych? List do Galacjan został napisany do „kościołów w Galacji” (werset 2). Czy jeden egzemplarz mógłby trafić do nich wszystkich?</p>
-<p>Rozważ przypadek pierwszego listu Piotra: jest on zaadresowany do wiernych w „Ponto, Galacji, Kapadocji, Azji i Bitynii” (werset 1). Zatem, na jakiej podstawie Piotr (apostoł obrzezanych, Galacjan 2,8) mógł pisać do ludzi w tych miejscach? Prawdopodobnie wielu starszych przywódców było z Piotrem w dniu Pięćdziesiątnicy i</p>
-<p>Consider the case of Peter’s first letter: it is addressed to believers in “Pontus, Galatia, Cappadocia, Asia and Bithynia” (verse 1). Well now, what basis could Peter (apostle to the circumcised, Galatians 2,8) have for writing to people in those places? Probably a good number of the older leaders had been with Peter at Pentecost, and had sat under his ministry until the persecution under Saul sent them packing back home, presumably (Acts 8,4). Notice that the list of places in Acts 2,9-11 includes the following places in Asia Minor: Asia, Cappadocia, Pamphylia, Phrygia and Pontus. Three of the five are in Peter’s list, and we need not assume that his list was exhaustive, for that matter, the list in Acts 2,9-11 is probably not exhaustive.</p>
-<p>1 Corinthians was addressed to “all those everywhere who call on the name of our Lord Jesus Christ” (verse 2). Now how many copies would that take? Galatians was written to “the churches of Galatia” (verse 2). Could a single copy get to all of them?</p>
-<section class="footnotes" role="doc-endnotes">
+<p>Pomysł wydania książki w wielu egzemplarzach można wywnioskować z
+Listów. 2 List do Koryntian został napisany do „kościoła Bożego, który
+jest w Koryncie, wraz ze wszystkimi świętymi, którzy są w całej Achai”
+(werset 1). Ile zborów było „w całej Achai”? Czy Paweł myślał o wielu
+egzemplarzach? 1 List do Koryntian był zaadresowany do „wszystkich tych,
+wszędzie, którzy wzywają imienia naszego Pana Jezusa Chrystusa” (werset
+2). Teraz, ile egzemplarzy byłoby <strong>do tego</strong> potrzebnych?
+List do Galacjan został napisany do „kościołów w Galacji” (werset 2).
+Czy jeden egzemplarz mógłby trafić do nich wszystkich?</p>
+<p>Rozważ przypadek pierwszego listu Piotra: jest on zaadresowany do
+wiernych w „Ponto, Galacji, Kapadocji, Azji i Bitynii” (werset 1).
+Zatem, na jakiej podstawie Piotr (apostoł obrzezanych, Galacjan 2,8)
+mógł pisać do ludzi w tych miejscach? Prawdopodobnie wielu starszych
+przywódców było z Piotrem w dniu Pięćdziesiątnicy i osiadło podczas jego
+posługi, dopóki prześladowania pod wodzą Saula nie zmusiły ich do
+powrotu do domu, przypuszczalnie (Dz 8,4). Zwróć uwagę, że lista miejsc
+w Dziejach Apostolskich 2,9-11 obejmuje następujące miejsca w Azji
+Mniejszej: Azja, Kapadocja, Pamfylia, Frygia i Pont. Trzy z tych pięciu
+miejsc znajdują się na liście Piotra i nie musimy zakładać, że jego
+lista była kompletna, tak samo, jak lista w Dziejach Apostolskich 2,9-11
+prawdopodobnie nie jest kompletna.</p>
+<p>Czy kiedykolwiek spojrzałeś na mapę, aby zobaczyć położenie pięciu
+prowincji Piotra? Zasadniczo obejmują one całą Azję Mniejszą (dzisiejszą
+Turcję)! Wydaje się, że termin „Azja” był używany w różny sposób. W
+Dziejach Apostolskich 27,2 Azja obejmuje Cylicję i Pamfilię (werset 5).
+Uwielbiony Chrystus umieścił siedem kościołów w Azji (Objawienie 1,4). W
+Dziejach Apostolskich 16,6 termin ten wydaje się odnosić do bardziej
+ograniczonego obszaru, który, jednakże, prawdopodobnie obejmował Efez,
+do którego Paweł powrócił później. Prokonsularna Azja<a href="#fn41"
+class="footnote-ref" id="fnref41" role="doc-noteref"><sup>41</sup></a>
+obejmowała Mysję i Frygię. Ile więc mogło być wszystkich zborów w Azji
+Mniejszej? I jak pojedynczy egzemplarz mógł trafić do wszystkich z nich?
+Jeżeli list był napisany na papirusie (co wydaje się prawdopodobne –
+tańszy, łatwiej dostępny), rozpadłby się po dotarciu do dwudziestego
+zboru, jeśli nie wcześniej (papirus nie wytrzymuje tak dużego
+obciążenia).</p>
+<p>Załóżmy teraz, dla celów dyskusji, że Piotr wysłał pięć kopii swojego
+listu, po jednej do każdej prowincji. Jakie implikacje miałoby to dla
+przekazywania tego Tekstu? Oznacza to, że zwielokrotniasz proces i
+postęp przekazywania pięciokrotnie! Oznacza to, że masz początki „tekstu
+większościowego” już na bardzo wczesnym etapie. Oznacza to, że
+podstawowa integralność tekstu byłaby zagwarantowana (tym bardziej,
+jeśli Bóg nadzorował ten proces). Gdyby Piotr wysłał więcej niż pięć
+kopii, tym lepiej. A co z Jakubem, ile kopii potrzeba, aby dotrzeć do
+„dwunastu plemion, które są w rozproszeniu” (werset 1)? (Czy samo
+określenie „rozproszenie” nie sugeruje, że byli oni szeroko rozsiani? A
+co, jeśli „dwanaście plemion” jest dosłowne?) Drugi list Piotra nie
+wymienia pięciu prowincji, ale 3,1 wydaje się wskazywać, że celował on w
+ten sam obszar.</p>
+<p>To see that I did not pull the idea of multiple copies out of thin
+air, let us consider 2 Peter 1,12-15. Verses 12 &amp; 13 refer to
+repeated reminders while he is still in his ‘tent’, which would be his
+own ongoing activity; so why the ‘moreover’ in verse 15? In the NKJV
+verse 15 reads: “Moreover, I will be careful to ensure that you always
+have a reminder of these things after my decease”. Well, how can you
+‘ensure’ that someone will ‘always have a reminder’ of something? It
+seems clear to me that the something has to be written down; a reminder
+has to be in writing, to be guaranteed. So what is Peter’s intention? He
+specifies “a reminder of these things”, so what are the ‘these things’?
+They are evidently the things he will discuss in this letter. But he
+must be referring to something more than the initial draft of the letter
+(or the verse becomes meaningless)—hence, multiple copies. <a
+href="#fn42" class="footnote-ref" id="fnref42"
+role="doc-noteref"><sup>42</sup></a></p>
+<aside id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>Krytyka tekstu (łac. <em>critica textus</em>) – dział filologii, odgałęzienie krytyki literackiej, poświęcony pracom edytorskim nad dawnymi dziełami zachowanymi w manuskryptach. Krytyka tekstu ma na celu odtworzyć pierwotne brzmienie dzieła, którego oryginalne dokumenty zostały utracone. Krytyka tekstu jest potrzebna dla wszystkich 27 ksiąg Nowego Testamentu, gdyż żaden oryginalny dokument Nowego Testamentu nie ostał się do dzisiaj, a kopie, które dzisiaj posiadamy, różnią się pomiędzy sobą. [przyp. tłum.]<br />
+<li id="fn1"><p>Krytyka tekstu (łac. <em>critica textus</em>) – dział
+filologii, odgałęzienie krytyki literackiej, poświęcony pracom
+edytorskim nad dawnymi dziełami zachowanymi w manuskryptach. Krytyka
+tekstu ma na celu odtworzyć pierwotne brzmienie dzieła, którego
+oryginalne dokumenty zostały utracone. Krytyka tekstu jest potrzebna dla
+wszystkich 27 ksiąg Nowego Testamentu, gdyż żaden oryginalny dokument
+Nowego Testamentu nie ostał się do dzisiaj, a kopie, które dzisiaj
+posiadamy, różnią się pomiędzy sobą. [przyp. tłum.]<br />
 https://pl.wikipedia.org/wiki/Krytyka_tekstu<br />
-https://kosciolzbawiciela.pl/pl/blog/65/<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p>Wycliffe Bible Translators – międzywyznaniowa organizacja dążąca do przetłumaczenia Biblii na wszystkie języki świata, zwłaszcza w kulturach o małym wpływie chrześcijaństwa. [przyp. tłum.]<br />
-https://pl.wikipedia.org/wiki/Wycliffe_Bible_Translators<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3" role="doc-endnote"><p>Wilbur Norman Pickering jako misjonarz przez 10 lat mieszkał w amazońskiej dżungli z ludem Apurinã, aby nauczyć się ich dialektu i rozpocząć tłumaczenie Biblii na język tubylczy. [przyp. tłum.]<br />
-https://creationwiki.org/Wilbur_Pickering<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4" role="doc-endnote"><p>Oryginalna okładka i formatowanie nie zostało wykorzystane w polskim tłumaczeniu. [przyp. tłum.]<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5" role="doc-endnote"><p>Najmniejsze białka można opisać za pomocą znacznie mniejszej ilości bitów niż 1500, natomiast do opisu nieorganicznnego wszechświata potrzeba rzędy wielkości więcej niż 350 bitów. Autor prawdopodobnie odnosił się do teorii <em>Ukierunkowanej złożoności</em> Williama Dembskiego, aczkolwiek podane liczby wydają się być pomyłką. [przyp. tłum.]<br />
+https://kosciolzbawiciela.pl/pl/blog/65/<a href="#fnref1"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Wycliffe Bible Translators – międzywyznaniowa
+organizacja dążąca do przetłumaczenia Biblii na wszystkie języki świata,
+zwłaszcza w kulturach o małym wpływie chrześcijaństwa. [przyp.
+tłum.]<br />
+https://pl.wikipedia.org/wiki/Wycliffe_Bible_Translators<a
+href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Wilbur Norman Pickering jako misjonarz przez 10 lat
+mieszkał w amazońskiej dżungli z ludem Apurinã, aby nauczyć się ich
+dialektu i rozpocząć tłumaczenie Biblii na język tubylczy. [przyp.
+tłum.]<br />
+https://creationwiki.org/Wilbur_Pickering<a href="#fnref3"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Oryginalna okładka i formatowanie nie zostało
+wykorzystane w polskim tłumaczeniu. [przyp. tłum.]<a href="#fnref4"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Najmniejsze białka można opisać za pomocą znacznie
+mniejszej ilości bitów niż 1500, natomiast do opisu nieorganicznnego
+wszechświata potrzeba rzędy wielkości więcej niż 350 bitów. Autor
+prawdopodobnie odnosił się do teorii <em>Ukierunkowanej złożoności</em>
+Williama Dembskiego, aczkolwiek podane liczby wydają się być pomyłką.
+[przyp. tłum.]<br />
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3864261/<br />
 https://academic.oup.com/jrsssc/article/72/5/1310/7230752<br />
-https://www.universetoday.com/articles/there-are-6x1080-bits-of-information-in-the-observable-universe<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn6" role="doc-endnote"><p>Wśród zwolenników kreacjonizmu i ewolucjonizmu występuje zgoda co do liczby różnic w sekwencji DNA człowieka i szympansa (48 milionów różnic), jednak ewolucjoniści utrzymują, że to nie tylko zmiany pojedynczych nukleotydów, ale także duplikacje, delecje i zmiany strukturalne, a wiele z tych różnic nie ma znaczenia funkcjonalnego. Naukowcy w ramach obrony teorii ewolucji argumentują, że w historii ewolucji ssaków, zmiany aminokwasów zachodziły mniej więcej z szybkością jednej zmiany aminokwasu na 10 000 000 lat, a śmiertelne zmiany są elementem mechanizmu tak zwanej selekcji naturalnej. [przyp. tłum.]<br />
-<em>The Chimpanzee Sequencing and Analysis Consortium, Nature, 2005</em><br />
+https://www.universetoday.com/articles/there-are-6x1080-bits-of-information-in-the-observable-universe<a
+href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Wśród zwolenników kreacjonizmu i ewolucjonizmu występuje
+zgoda co do liczby różnic w sekwencji DNA człowieka i szympansa (48
+milionów różnic), jednak ewolucjoniści utrzymują, że to nie tylko zmiany
+pojedynczych nukleotydów, ale także duplikacje, delecje i zmiany
+strukturalne, a wiele z tych różnic nie ma znaczenia funkcjonalnego.
+Naukowcy w ramach obrony teorii ewolucji argumentują, że w historii
+ewolucji ssaków, zmiany aminokwasów zachodziły mniej więcej z szybkością
+jednej zmiany aminokwasu na 10 000 000 lat, a śmiertelne zmiany są
+elementem mechanizmu tak zwanej selekcji naturalnej. [przyp.
+tłum.]<br />
+<em>The Chimpanzee Sequencing and Analysis Consortium, Nature,
+2005</em><br />
 <em>Evolutionary Rate at the Molecular Level - Kimura, 1968</em><br />
-<em>Why evolution is true - Jerry A. Coyne</em><a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn7" role="doc-endnote"><p>Kolumna geologiczna, inaczej zwana kolumną stratygraficzną, to graficzny schemat przedstawiający warstwy skalne w kolejności od najstarszych (na dole) do najmłodszych (na górze). [przyp. tłum.]<br />
-https://study.com/academy/lesson/geologic-column-definition-example.html<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn8" role="doc-endnote"><p>W Australii odkryto pionowe skamieniałe pnie drzew przechodzące przez warstwy węgla i piaskowca, przykłady obejmują drzewa o średnicy do 1 metra, przebijające się przez wiele warstw osadowych. Zwolennicy teorii ewolucji uznają, że nie podważają one milionów lat ewolucji, a są wynikiem lokalnych, gwałtownych zdarzeń w ramach długotrwałych procesów, takich jak szybka sedymentacja (np. podczas powodzi, osuwisk) czy subsydencja terenu (np. w basenach przybrzeżnych lub riftowych). [przyp. tłum.]<br />
+<em>Why evolution is true - Jerry A. Coyne</em><a href="#fnref6"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Kolumna geologiczna, inaczej zwana kolumną
+stratygraficzną, to graficzny schemat przedstawiający warstwy skalne w
+kolejności od najstarszych (na dole) do najmłodszych (na górze). [przyp.
+tłum.]<br />
+https://study.com/academy/lesson/geologic-column-definition-example.html<a
+href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>W Australii odkryto pionowe skamieniałe pnie drzew
+przechodzące przez warstwy węgla i piaskowca, przykłady obejmują drzewa
+o średnicy do 1 metra, przebijające się przez wiele warstw osadowych.
+Zwolennicy teorii ewolucji uznają, że nie podważają one milionów lat
+ewolucji, a są wynikiem lokalnych, gwałtownych zdarzeń w ramach
+długotrwałych procesów, takich jak szybka sedymentacja (np. podczas
+powodzi, osuwisk) czy subsydencja terenu (np. w basenach przybrzeżnych
+lub riftowych). [przyp. tłum.]<br />
 https://creationresearch.net/wp-content/uploads/2020/05/evidence-no3-polystrate.pdf<br />
-https://en.wikipedia.org/wiki/Polystrate_fossil<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn9" role="doc-endnote"><p>Plateau, inaczej płaskowyż, to obszar wysoko położony o płaskiej lub lekko falistej powierzchni i o stromych stokach, będący fragmentem wydźwigniętej powierzchni zrównania lub równiny wulkanicznej. Mesa to z kolei odizolowana, płaskodenna góra lub wzgórze, również otoczone stromymi zboczami, ale zazwyczaj mniejsze od płaskowyżu. Mesa jest często uważana za mniejszą formę płaskowyżu, która powstała w wyniku erozji większego płaskowyżu. [przyp. tłum.]<br />
+https://en.wikipedia.org/wiki/Polystrate_fossil<a href="#fnref8"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>Plateau, inaczej płaskowyż, to obszar wysoko położony o
+płaskiej lub lekko falistej powierzchni i o stromych stokach, będący
+fragmentem wydźwigniętej powierzchni zrównania lub równiny wulkanicznej.
+Mesa to z kolei odizolowana, płaskodenna góra lub wzgórze, również
+otoczone stromymi zboczami, ale zazwyczaj mniejsze od płaskowyżu. Mesa
+jest często uważana za mniejszą formę płaskowyżu, która powstała w
+wyniku erozji większego płaskowyżu. [przyp. tłum.]<br />
 https://pl.wikipedia.org/wiki/P%C5%82askowy%C5%BC<br />
-https://www.nps.gov/subjects/nnlandmarks/plateaus-and-mesas.htm<a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn10" role="doc-endnote"><p>Autorowi prawdopodobnie chodzi o <em>Lewis Overthrust</em>, obszar o wymiarach ok. 450km długości i szerokości sięgającej do 50km. Zwolennicy teorii ewolucji próbują dowieźć komputerowo i w eksperymentach laboratoryjnych możliwości przesuwania się mas skalnych w strefach nasunięć (overthrustów) dzięki obecności płynów, wysokiemu ciśnieniu i temperaturze, które znacząco redukują tarcie w skałach. [przyp. tłum.]<br />
+https://www.nps.gov/subjects/nnlandmarks/plateaus-and-mesas.htm<a
+href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>Autorowi prawdopodobnie chodzi o <em>Lewis
+Overthrust</em>, obszar o wymiarach ok. 450km długości i szerokości
+sięgającej do 50km. Zwolennicy teorii ewolucji próbują dowieźć
+komputerowo i w eksperymentach laboratoryjnych możliwości przesuwania
+się mas skalnych w strefach nasunięć (overthrustów) dzięki obecności
+płynów, wysokiemu ciśnieniu i temperaturze, które znacząco redukują
+tarcie w skałach. [przyp. tłum.]<br />
 https://en.wikipedia.org/wiki/Lewis_Overthrust<br />
 https://creation.com/the-geologic-column-does-it-exist<br />
-https://personal.ems.psu.edu/~jte2/references/link170.pdf<a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn11" role="doc-endnote"><p>Trylobity (Trilobita, z gr. treis ‘trzy’ + lobos ‘płat’) – wymarła gromada morskich stawonogów o owalnym i spłaszczonym grzbietobrzusznie ciele, z wyraźnie wyróżnioną częścią głowową, tułowiową i ogonową. Od strony grzbietu przykryte kalcytowym pancerzem. [przyp. tłum.]<br />
-https://pl.wikipedia.org/wiki/Trylobity<a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn12" role="doc-endnote"><p>Zgodnie z aktualną wiedzą paleobotaniczną, Lepidodendron był dominującym drzewem w okresie karbonu, który trwał od około 359 do 299 milionów lat temu [przyp. tłum.]<br />
-https://www.britannica.com/plant/Lepidodendron<a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn13" role="doc-endnote"><p>Ewolucjoniści twierdzą, że ślady kotów i ludzi w rzece Paluxy to fałszerstwo [przyp. tłum.]<br />
+https://personal.ems.psu.edu/~jte2/references/link170.pdf<a
+href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>Trylobity (Trilobita, z gr. treis ‘trzy’ + lobos
+‘płat’) – wymarła gromada morskich stawonogów o owalnym i spłaszczonym
+grzbietobrzusznie ciele, z wyraźnie wyróżnioną częścią głowową,
+tułowiową i ogonową. Od strony grzbietu przykryte kalcytowym pancerzem.
+[przyp. tłum.]<br />
+https://pl.wikipedia.org/wiki/Trylobity<a href="#fnref11"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>Zgodnie z aktualną wiedzą paleobotaniczną,
+Lepidodendron był dominującym drzewem w okresie karbonu, który trwał od
+około 359 do 299 milionów lat temu [przyp. tłum.]<br />
+https://www.britannica.com/plant/Lepidodendron<a href="#fnref12"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>Ewolucjoniści twierdzą, że ślady kotów i ludzi w rzece
+Paluxy to fałszerstwo [przyp. tłum.]<br />
 https://pl.wikipedia.org/wiki/Paluxy<br />
-https://ncse.ngo/paluxy-man-creationist-piltdown<a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn14" role="doc-endnote"><p>Ewolucjoniści twierdzą, że skamieniały palec jest najprawdopodobniej naturalną formacją skalną lub artefaktem. [przyp. tłum.]<br />
-http://paleo.cc/paluxy/finger.htm<a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn15" role="doc-endnote"><p>Naukowcy broniący teorii ewolucji, na podstawie analizy minerałów magnetycznych w zastygłej lawie uznają, że pole magnetyczne Ziemi podlega znacznym wahaniom i powtarzającym się odwróceniom biegunów (tzw. inwersje, średnio co około 250 tysięcy lat), dlatego odrzucają możliwość wyciągania trendu w tym obszarze z danych z Royal Observatory w Greenwich w Anglii, które są zbierane od około 1839 roku. [przyp. tłum.]<br />
+https://ncse.ngo/paluxy-man-creationist-piltdown<a href="#fnref13"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p>Ewolucjoniści twierdzą, że skamieniały palec jest
+najprawdopodobniej naturalną formacją skalną lub artefaktem. [przyp.
+tłum.]<br />
+http://paleo.cc/paluxy/finger.htm<a href="#fnref14"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p>Naukowcy broniący teorii ewolucji, na podstawie analizy
+minerałów magnetycznych w zastygłej lawie uznają, że pole magnetyczne
+Ziemi podlega znacznym wahaniom i powtarzającym się odwróceniom biegunów
+(tzw. inwersje, średnio co około 250 tysięcy lat), dlatego odrzucają
+możliwość wyciągania trendu w tym obszarze z danych z Royal Observatory
+w Greenwich w Anglii, które są zbierane od około 1839 roku. [przyp.
+tłum.]<br />
 https://pl.wikipedia.org/wiki/Przebiegunowanie_Ziemi<br />
 https://www.usgs.gov/faqs/it-true-earths-magnetic-field-occasionally-reverses-its-polarity<br />
-https://www.downtoearth.org.in/science-technology/earth-s-last-magnetic-field-flip-lasted-22-000-years-study-66101<a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn16" role="doc-endnote"><p>Nawet jeżeli obliczenia kreacjonistów, datujące deltę Rzeki Missisipi na 30 000 lat są poprawne, nie zmienia to faktu, że sama rzeka Missisipi może być młodsza niż cała ziemia. [przyp. tłum.]<br />
-https://www.talkorigins.org/faqs/hovind/howgood-yea2.html<a href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn17" role="doc-endnote"><p>Pierścienie polonowe to drobne, kuliste obszary przebarwień minerałów, które można znaleźć w wielu skałach magmowych. Rozmiar niektórych pierścieni wskazuje, że zostały one spowodowane przez rozpad polonu (Po-218), którego okres półtrwania wynosi zaledwie 3 minuty. Praca Roberta Gentry’ego wykazała, że ​​granit Ziemi nigdy nie był w stanie stopionym, ponieważ pierścienie polonu przetrwały tylko w litej skale, a okres półtrwania polonu jest o wiele za krótki, aby przetrwać wielomilionowy okres chłodzenia. Jego wyniki zdają się wskazywać, że Ziemia została stworzona natychmiastowo, w chłodnym stanie. Jeśli to prawda, jest to wyraźny dowód na stworzenie i młodą Ziemię. Kontrargumenty do pracy Gentry’ego to mała liczba dowodów, że pierścienie powstały rzeczywiście przez polon, teoria że radon (z któego powstaje polon) mógł przedostać się do zastygłej skały przez mikroskopijne pęknięcia w minerałach i teoria, że szybkości rozpadu radiometrycznego zmieniły się od czasu stworzenia. [przyp. tłum.]<br />
-https://rationalwiki.org/wiki/Polonium_halos<a href="#fnref17" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn18" role="doc-endnote"><p>Ponieważ ludzkim językiem rządzą reguły - fonologiczne, gramatyczne, semantyczne - Stwórca musiałby ograniczyć się do repertuaru możliwości oferowanych przez wybrany język.<a href="#fnref18" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn19" role="doc-endnote"><p>Wróg zawsze rozumiał to lepiej niż większość z nas i już dawno rozpoczął swoje ataki – „Czy rzeczywiście Bóg powiedział…?” (Rdz 3, 1).<a href="#fnref19" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn20" role="doc-endnote"><p>Do tej pory opublikowałem osiem, plus Tekst Grecki.<a href="#fnref20" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn21" role="doc-endnote"><p>Odniosłem się już do 1 Kronik 16,15.<a href="#fnref21" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn22" role="doc-endnote"><p>5,2% greckich manuskryptów umieszcza wersety 24-26 na końcu księgi, a nie tutaj. Paweł zwykle wplata doksologie w różnych miejscach swoich listów - nie występują one tylko na końcu.<a href="#fnref22" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn23" role="doc-endnote"><p>Słowo przetłumaczone jako „wydanie” [ang. <em>release</em>, gr. <em>epilysys</em>, przyp. tłum.] występuje w Nowym Testamencie tylko tutaj, ale podstawowym znaczeniem jego korzenia jest „poluzować” lub „uwolnić”. W odniesieniu do proroczego słowa, może ono odnosić się albo do jego ogłoszenia/pochodzenia, albo do jego interpretacji. Werset 21 sprawia, że jasnym jest, że tutaj jest to pochodzenie. Fałszywe lub podrobione proroctwa wywodzą się z woli „proroka” (lub demonicznego wpływu), ale prawdziwe proroctwo nigdy tego nie robi.<a href="#fnref23" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn24" role="doc-endnote"><p>Przyjmuję, że przytoczone przeze mnie oświadczenia potwierdzają istnienie spisanego Objawienia, ale nie podają nam tożsamości natchnionych pism, które tworzą to objawienie, skład Kanonu. Zajmę się tym zagadnieniem w swoim czasie.<a href="#fnref24" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn25" role="doc-endnote"><p>Dostęp do Pisma jest niezbędny do duchowego wzrostu i pracy.<a href="#fnref25" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn26" role="doc-endnote"><p>Jeśli dusza i duch mogą być rozdzielone, to oczywiście nie mogą być tym samym, tak jak stawy i szpik nie są tym samym.<a href="#fnref26" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn27" role="doc-endnote"><p>Skąd Paweł wziął pomysł „wstydu”? Świat kontrolowany przez Szatana robi wszystko, co w jego mocy, by stłamsić każdego, kto ośmiela się głosić Prawdę.<a href="#fnref27" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn28" role="doc-endnote"><p>Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co powielają NIV [New International Version, przyp. tłum.], NASB [New American Standard Bible, przyp. tłum.], TEV [Today’s English Version, przyp. tłum.] itp. — to nie najlepsze rozwiązanie. [Polskie przekłady, które pomijają ten zwrot to np. TYSIĄCL.WYD5, WARSZ.PRASKA, EIB.BIBLIA.2016.LIT, WUJEK.1923, przyp. tłum.]<a href="#fnref28" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn29" role="doc-endnote"><p>Zobacz Księgę Habakuka 2,4. Aby „żyć z wiary”, musisz przechodzić od jednego przejawu wiary do drugiego.<a href="#fnref29" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn30" role="doc-endnote"><p>Bardzo niewiele rozdziałów zostało napisanych w języku aramejskim.<a href="#fnref30" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn31" role="doc-endnote"><p>Więc nie mamy tu do czynienia z nauką w sensie obiektywnym.<a href="#fnref31" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn32" role="doc-endnote"><p>Unia hipostatyczna, także unia natur - jeden z podstawowych terminów chrystologicznych określający związek boskiej i ludzkiej natury Jezusa Chrystusa po wcieleniu. [przyp. tłum.]<br />
-https://pl.wikipedia.org/wiki/Unia_hipostatyczna<a href="#fnref32" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn33" role="doc-endnote"><p>Mowa o informacjach historycznych w Biblii, w porównaniu do proroctw. [przyp. tłum.]<a href="#fnref33" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn34" role="doc-endnote"><p>Kantyczka (z łac. canticum = monolog, pieśń) – popularna pieśń religijna, np. kolędy, pastorałki, jasełka. [przyp. tłum.]<br />
-https://pl.wikipedia.org/wiki/Kantyczka<a href="#fnref34" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn35" role="doc-endnote"><p>Duszewność (ang. soulishness) – działanie w sferze religii poprzez nieprzemienioną przez współpracę z łaską Bożą aktywność naturalnych władz duszy: rozumu, woli, pamięci i uczuć oraz mylące uważanie tego za autentyczne życie wiarą wypływające z ducha ludzkiego złączonego z Trójcą Świętą. [przyp. tłum.]<br />
-https://pl.wikipedia.org/wiki/Duszewno%C5%9B%C4%87<a href="#fnref35" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn36" role="doc-endnote"><p>1 Księga Machabejska (ok. 175-135 p.n.e.) nie twierdzi, że jest Pismem Świętym, a nawet twierdzi, że została napisana po epoce proroków (zob. 9,27; 4,46; 14,41). 1 Księga Machabejska 9,27 uznaje, że sukcesja proroków Starego Testamentu już się zakończyła. 1 Księga Machabejska 4,46 mówi, że Izrael czekał na Mesjasza, kiedy to może powstać prorok, aby im powiedzieć, co mają zrobić ze stertą kamieni. Najwyraźniej w czasie pisania nie było żadnego proroka. Brak proroków można dostrzec w 1 Mch 14,41; 2 Esdrasza 14,45 itp. Tak więc w prologu do Księgi Syracha wnuk wyjaśnia, że ben Sirach był po prostu mądrym człowiekiem i zajmował się po prostu tłumaczeniem. Zobacz przeprosiny autora w 2 Księdze Machabejskiej 15,38: „A jeśli postąpiłem dobrze i stosownie do opowieści, to jest to, czego pragnąłem, jeśli jednak postąpiłem słabo i marnie, to jest to, co mogłem osiągnąć”. Prorok przemawiałby z autorytetem, a nie przepraszał za to, jak słabo napisał. (Informację tę zawdzięczam dr. Phillipowi Kayserowi).<a href="#fnref36" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn37" role="doc-endnote"><p>Na przykład, są tacy, którzy spierają się, że autograf Mateusza został napisany w języku hebrajskim. Ale jest mały problem z tą tezą: nie ma ani jednej znanej kopii tej Ewangelii w języku hebrajskim. Ponieważ Kościół chronił i przekazywał wyłącznie grecką wersję Ewangelii Mateusza, to oczywiste jest, że autograf został napisany w języku greckim. Jednak wydaje mi się równie oczywiste, że Mateusz i każdy inny, kto potrafił pisać, wypełniał „zeszyty” swoimi adnotacjami dotyczącymi tego, co powiedział i zrobił Jezus. Tak, ponieważ Łukasz 1:1 stwierdza, że „wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy”. Wszystkie notatki sporządzane na poczekaniu musiały być w języku hebrajskim, ponieważ był to język, którego używał Jezus. Ponieważ Mateusz napisał swoją Ewangelię w języku greckim, z pewnością korzystał ze swoich notatek napisanych w języku hebrajskim. Brak choćby jednej greckiej kopii takich rzeczy jak Ewangelia Tomasza, Judasza czy innych wskazuje, że nie były one natchnione i nie zostały uznane przez Kościół.<a href="#fnref37" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn38" role="doc-endnote"><p>Łukasz 4,4 jest dokładnie analogiczny, gdzie mniej niż pół procenta zachowanych greckich rękopisów, o obiektywnie gorszej jakości, pomija słowa „ale każdym słowem Bożym” (co niestety powtarzają NIV [New International Version, przyp. tłum.], NASB [New American Standard Bible, przyp. tłum.], LB [The Living Bible, przyp. tłum.], TEV [Today’s English Version, przyp. tłum.] itp.). [Polskie przekłady, które pomijają ten zwrot to np. TYSIĄCL.WYD5, BRYTYJKA, WARSZ.PRASKA, EIB.BIBLIA.2016.LIT, przyp. tłum.]<a href="#fnref38" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn39" role="doc-endnote"><p>Kolofony [kolofon (stgr. κολοφών kolophōn „szczyt, wierzchołek, zwieńczenie pracy”) – formuła umieszczona na końcu średniowiecznej książki rękopiśmiennej, zawierająca tytuł dzieła, datację, imię pisarza itp. https://pl.wikipedia.org/wiki/Kolofon przyp. tłum.] w 50% rękopisów, włącznie z “Rodziną 35” [Nowy Testament Rodzina 35 (ang. Family 35 NT) – wersja Nowego Testamentu, która została przetłumaczona przez Wilbura N. Pickeringa, według którego angielskie wydanie tej Biblii zawiera dokładnie oryginalne sformułowania. Pickering porównał setki znanych greckich rękopisów NT, aby określić jedyną linię transmisji, która ma wykazalny archetyp dla każdej księgi NT. Wersja ta została przetłumaczona na język angielski, chiński, filipiński, portugalski i hiszpański. https://www.family35nt.org przyp. tłum.], podają, że Ewangelia Mateusza została „opublikowana” osiem lat po wniebowstąpieniu Chrystusa. Ponieważ Jezus wstąpił do nieba w 30 r. n.e., Ewangelia Mateusza została wydana w 38 r. Kolofony podają, że Ewangelia Marka została opublikowana dwa lata później (40 r.), a Ewangelia Łukasza kolejne pięć lat później (45 r.), a Ewangelia Jana w 62 r.<a href="#fnref39" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn40" role="doc-endnote"><p>„Przynieś księgi, zwłaszcza pergaminy” (2 Tymoteusza 4,13). Możemy z tego wywnioskować, że pergamin był już w użyciu, ale „księgi” były prawdopodobnie na papirusie, w przeciwnym wypadku, po co ten kontrast?<a href="#fnref40" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+https://www.downtoearth.org.in/science-technology/earth-s-last-magnetic-field-flip-lasted-22-000-years-study-66101<a
+href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16"><p>Nawet jeżeli obliczenia kreacjonistów, datujące deltę
+Rzeki Missisipi na 30 000 lat są poprawne, nie zmienia to faktu, że sama
+rzeka Missisipi może być młodsza niż cała ziemia. [przyp. tłum.]<br />
+https://www.talkorigins.org/faqs/hovind/howgood-yea2.html<a
+href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17"><p>Pierścienie polonowe to drobne, kuliste obszary
+przebarwień minerałów, które można znaleźć w wielu skałach magmowych.
+Rozmiar niektórych pierścieni wskazuje, że zostały one spowodowane przez
+rozpad polonu (Po-218), którego okres półtrwania wynosi zaledwie 3
+minuty. Praca Roberta Gentry’ego wykazała, że ​​granit Ziemi nigdy nie był
+w stanie stopionym, ponieważ pierścienie polonu przetrwały tylko w litej
+skale, a okres półtrwania polonu jest o wiele za krótki, aby przetrwać
+wielomilionowy okres chłodzenia. Jego wyniki zdają się wskazywać, że
+Ziemia została stworzona natychmiastowo, w chłodnym stanie. Jeśli to
+prawda, jest to wyraźny dowód na stworzenie i młodą Ziemię.
+Kontrargumenty do pracy Gentry’ego to mała liczba dowodów, że
+pierścienie powstały rzeczywiście przez polon, teoria że radon (z któego
+powstaje polon) mógł przedostać się do zastygłej skały przez
+mikroskopijne pęknięcia w minerałach i teoria, że szybkości rozpadu
+radiometrycznego zmieniły się od czasu stworzenia. [przyp. tłum.]<br />
+https://rationalwiki.org/wiki/Polonium_halos<a href="#fnref17"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn18"><p>Ponieważ ludzkim językiem rządzą reguły - fonologiczne,
+gramatyczne, semantyczne - Stwórca musiałby ograniczyć się do repertuaru
+możliwości oferowanych przez wybrany język.<a href="#fnref18"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn19"><p>Wróg zawsze rozumiał to lepiej niż większość z nas i
+już dawno rozpoczął swoje ataki – „Czy rzeczywiście Bóg powiedział…?”
+(Rdz 3, 1).<a href="#fnref19" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn20"><p>Do tej pory opublikowałem osiem, plus Tekst Grecki.<a
+href="#fnref20" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn21"><p>Odniosłem się już do 1 Kronik 16,15.<a href="#fnref21"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn22"><p>5,2% greckich manuskryptów umieszcza wersety 24-26 na
+końcu księgi, a nie tutaj. Paweł zwykle wplata doksologie w różnych
+miejscach swoich listów - nie występują one tylko na końcu.<a
+href="#fnref22" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn23"><p>Słowo przetłumaczone jako „wydanie” [ang.
+<em>release</em>, gr. <em>epilysys</em>, przyp. tłum.] występuje w Nowym
+Testamencie tylko tutaj, ale podstawowym znaczeniem jego korzenia jest
+„poluzować” lub „uwolnić”. W odniesieniu do proroczego słowa, może ono
+odnosić się albo do jego ogłoszenia/pochodzenia, albo do jego
+interpretacji. Werset 21 sprawia, że jasnym jest, że tutaj jest to
+pochodzenie. Fałszywe lub podrobione proroctwa wywodzą się z woli
+„proroka” (lub demonicznego wpływu), ale prawdziwe proroctwo nigdy tego
+nie robi.<a href="#fnref23" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn24"><p>Przyjmuję, że przytoczone przeze mnie oświadczenia
+potwierdzają istnienie spisanego Objawienia, ale nie podają nam
+tożsamości natchnionych pism, które tworzą to objawienie, skład Kanonu.
+Zajmę się tym zagadnieniem w swoim czasie.<a href="#fnref24"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn25"><p>Dostęp do Pisma jest niezbędny do duchowego wzrostu i
+pracy.<a href="#fnref25" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn26"><p>Jeśli dusza i duch mogą być rozdzielone, to oczywiście
+nie mogą być tym samym, tak jak stawy i szpik nie są tym samym.<a
+href="#fnref26" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn27"><p>Skąd Paweł wziął pomysł „wstydu”? Świat kontrolowany
+przez Szatana robi wszystko, co w jego mocy, by stłamsić każdego, kto
+ośmiela się głosić Prawdę.<a href="#fnref27" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn28"><p>Może 3% greckich rękopisów pomija zwrot „Chrystusa”, co
+powielają NIV [New International Version, przyp. tłum.], NASB [New
+American Standard Bible, przyp. tłum.], TEV [Today’s English Version,
+przyp. tłum.] itp. — to nie najlepsze rozwiązanie. [Polskie przekłady,
+które pomijają ten zwrot to np. TYSIĄCL.WYD5, WARSZ.PRASKA,
+EIB.BIBLIA.2016.LIT, WUJEK.1923, przyp. tłum.]<a href="#fnref28"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn29"><p>Zobacz Księgę Habakuka 2,4. Aby „żyć z wiary”, musisz
+przechodzić od jednego przejawu wiary do drugiego.<a href="#fnref29"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn30"><p>Bardzo niewiele rozdziałów zostało napisanych w języku
+aramejskim.<a href="#fnref30" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn31"><p>Więc nie mamy tu do czynienia z nauką w sensie
+obiektywnym.<a href="#fnref31" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn32"><p>Unia hipostatyczna, także unia natur - jeden z
+podstawowych terminów chrystologicznych określający związek boskiej i
+ludzkiej natury Jezusa Chrystusa po wcieleniu. [przyp. tłum.]<br />
+https://pl.wikipedia.org/wiki/Unia_hipostatyczna<a href="#fnref32"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn33"><p>Mowa o informacjach historycznych w Biblii, w
+porównaniu do proroctw. [przyp. tłum.]<a href="#fnref33"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn34"><p>Kantyczka (z łac. canticum = monolog, pieśń) –
+popularna pieśń religijna, np. kolędy, pastorałki, jasełka. [przyp.
+tłum.]<br />
+https://pl.wikipedia.org/wiki/Kantyczka<a href="#fnref34"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn35"><p>Duszewność (ang. soulishness) – działanie w sferze
+religii poprzez nieprzemienioną przez współpracę z łaską Bożą aktywność
+naturalnych władz duszy: rozumu, woli, pamięci i uczuć oraz mylące
+uważanie tego za autentyczne życie wiarą wypływające z ducha ludzkiego
+złączonego z Trójcą Świętą. [przyp. tłum.]<br />
+https://pl.wikipedia.org/wiki/Duszewno%C5%9B%C4%87<a href="#fnref35"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn36"><p>1 Księga Machabejska (ok. 175-135 p.n.e.) nie twierdzi,
+że jest Pismem Świętym, a nawet twierdzi, że została napisana po epoce
+proroków (zob. 9,27; 4,46; 14,41). 1 Księga Machabejska 9,27 uznaje, że
+sukcesja proroków Starego Testamentu już się zakończyła. 1 Księga
+Machabejska 4,46 mówi, że Izrael czekał na Mesjasza, kiedy to może
+powstać prorok, aby im powiedzieć, co mają zrobić ze stertą kamieni.
+Najwyraźniej w czasie pisania nie było żadnego proroka. Brak proroków
+można dostrzec w 1 Mch 14,41; 2 Esdrasza 14,45 itp. Tak więc w prologu
+do Księgi Syracha wnuk wyjaśnia, że ben Sirach był po prostu mądrym
+człowiekiem i zajmował się po prostu tłumaczeniem. Zobacz przeprosiny
+autora w 2 Księdze Machabejskiej 15,38: „A jeśli postąpiłem dobrze i
+stosownie do opowieści, to jest to, czego pragnąłem, jeśli jednak
+postąpiłem słabo i marnie, to jest to, co mogłem osiągnąć”. Prorok
+przemawiałby z autorytetem, a nie przepraszał za to, jak słabo napisał.
+(Informację tę zawdzięczam dr. Phillipowi Kayserowi).<a href="#fnref36"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn37"><p>Na przykład, są tacy, którzy spierają się, że autograf
+Mateusza został napisany w języku hebrajskim. Ale jest mały problem z tą
+tezą: nie ma ani jednej znanej kopii tej Ewangelii w języku hebrajskim.
+Ponieważ Kościół chronił i przekazywał wyłącznie grecką wersję Ewangelii
+Mateusza, to oczywiste jest, że autograf został napisany w języku
+greckim. Jednak wydaje mi się równie oczywiste, że Mateusz i każdy inny,
+kto potrafił pisać, wypełniał „zeszyty” swoimi adnotacjami dotyczącymi
+tego, co powiedział i zrobił Jezus. Tak, ponieważ Łukasz 1:1 stwierdza,
+że „wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy”.
+Wszystkie notatki sporządzane na poczekaniu musiały być w języku
+hebrajskim, ponieważ był to język, którego używał Jezus. Ponieważ
+Mateusz napisał swoją Ewangelię w języku greckim, z pewnością korzystał
+ze swoich notatek napisanych w języku hebrajskim. Brak choćby jednej
+greckiej kopii takich rzeczy jak Ewangelia Tomasza, Judasza czy innych
+wskazuje, że nie były one natchnione i nie zostały uznane przez
+Kościół.<a href="#fnref37" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn38"><p>Łukasz 4,4 jest dokładnie analogiczny, gdzie mniej niż
+pół procenta zachowanych greckich rękopisów, o obiektywnie gorszej
+jakości, pomija słowa „ale każdym słowem Bożym” (co niestety powtarzają
+NIV [New International Version, przyp. tłum.], NASB [New American
+Standard Bible, przyp. tłum.], LB [The Living Bible, przyp. tłum.], TEV
+[Today’s English Version, przyp. tłum.] itp.). [Polskie przekłady, które
+pomijają ten zwrot to np. TYSIĄCL.WYD5, BRYTYJKA, WARSZ.PRASKA,
+EIB.BIBLIA.2016.LIT, przyp. tłum.]<a href="#fnref38"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn39"><p>Kolofony [kolofon (stgr. κολοφών kolophōn „szczyt,
+wierzchołek, zwieńczenie pracy”) – formuła umieszczona na końcu
+średniowiecznej książki rękopiśmiennej, zawierająca tytuł dzieła,
+datację, imię pisarza itp. https://pl.wikipedia.org/wiki/Kolofon przyp.
+tłum.] w 50% rękopisów, włącznie z “Rodziną 35” [Nowy Testament Rodzina
+35 (ang. Family 35 NT) – wersja Nowego Testamentu, która została
+przetłumaczona przez Wilbura N. Pickeringa, według którego angielskie
+wydanie tej Biblii zawiera dokładnie oryginalne sformułowania. Pickering
+porównał setki znanych greckich rękopisów NT, aby określić jedyną linię
+transmisji, która ma wykazalny archetyp dla każdej księgi NT. Wersja ta
+została przetłumaczona na język angielski, chiński, filipiński,
+portugalski i hiszpański. https://www.family35nt.org przyp. tłum.],
+podają, że Ewangelia Mateusza została „opublikowana” osiem lat po
+wniebowstąpieniu Chrystusa. Ponieważ Jezus wstąpił do nieba w 30 r.
+n.e., Ewangelia Mateusza została wydana w 38 r. Kolofony podają, że
+Ewangelia Marka została opublikowana dwa lata później (40 r.), a
+Ewangelia Łukasza kolejne pięć lat później (45 r.), a Ewangelia Jana w
+62 r.<a href="#fnref39" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn40"><p>„Przynieś księgi, zwłaszcza pergaminy” (2 Tymoteusza
+4,13). Możemy z tego wywnioskować, że pergamin był już w użyciu, ale
+„księgi” były prawdopodobnie na papirusie, w przeciwnym wypadku, po co
+ten kontrast?<a href="#fnref40" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn41"><p>Azja Prokonsularna (prowincja w Imperium Rzymskim) -
+region Azji Mniejszej, rządzony przez prokonsulów w czasach Cesarstwa
+Rzymskiego. Obszar ten był istotny dla społeczności chrześcijańskiej,
+szczególnie w okresie wczesnego chrześcijaństwa, ponieważ
+charakteryzowały się tam znaczące interakcje między miejscowymi
+wyznawcami. [przyp. tłum.]<br />
+https://www.diki.pl/slownik-angielskiego?q=Proconsular+Asia<br />
+https://www.wisdomlib.org/christianity/concept/proconsular-asia<a
+href="#fnref41" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn42"><p>It was Dr. Mike Loehrer, a pastor in California, who
+called 2 Peter 1,12-15 to my attention and got me started thinking about
+it. With reference to verse 15 he wrote me the following: “Could
+choosing to use mneme with poieo in the middle voice mean to ensure a
+way of always being able to validate a memory? In those days most people
+could not afford their own copy of a writing, and the church would no
+doubt become the repository of an autograph anyway. The usual way of
+getting the Scripture back then was by committing it to memory when
+hearing it during the public reading. Having multiple autographs in
+multiple locations would definitely ensure a way of validating a memory.
+Even if the leaders of a church or synagogue were imprisoned and their
+autograph was seized or destroyed, they could rest assured that they
+could locate another autograph to validate their memory of the way a
+verse or passage was actually written.” The idea of validating a memory
+is as interesting as it is suggestive. Peter’s use of μνημη, basically
+reflexive, with ποιεω in the middle voice, makes Mike’s suggestion a
+reasonable one, as it seems to me. It goes along with the multiple
+copies. Irenaeus puzzled over verse 15 and came up with the suggestion
+that Peter intended to get copies of Mark’s Gospel to those regions.
+Evidently the idea of multiple copies was not strange to him. And how
+about other books?<a href="#fnref42" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
 </ol>
-</section>
+</aside>
 </body>
 </html>
