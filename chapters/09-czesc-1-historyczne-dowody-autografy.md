@@ -30,5 +30,53 @@ To see that I did not pull the idea of multiple copies out of thin air, let us c
 https://www.diki.pl/slownik-angielskiego?q=Proconsular+Asia  
 https://www.wisdomlib.org/christianity/concept/proconsular-asia
 
-[^FOOTNOTE]: It was Dr. Mike Loehrer, a pastor in California, who called 2 Peter 1,12-15 to my attention and got me started thinking about it. With reference to verse 15 he wrote me the following: “Could choosing to use mneme with poieo in the middle voice mean to ensure a way of always being able to validate a memory? In those days most people could not afford their own copy of a writing, and the church would no doubt become the repository of an autograph anyway. The usual way of getting the Scripture back then was by committing it to memory when hearing it during the public reading. Having multiple autographs in multiple locations would definitely ensure a way of validating a memory. Even if the leaders of a church or synagogue were imprisoned and their autograph was seized or destroyed, they could rest assured that they could locate another autograph to validate their memory of the way a verse or passage was actually written.”
+[^FOOTNOTE]: To dr Mike Loehrer, pastor z Kalifornii, zwrócił moją uwagę na 2 List Piotra 1,12-15 i sprawił, że zacząłem się nad tym zastanawiać. W odniesieniu do wersetu 15 napisał mi następujące słowa: „Czy wybór słowa mneme wraz z poieo stronie medialnej może oznaczać zapewnienie sposobu, aby zawsze móc weryfikować pamięć? W tamtych czasach większość ludzi nie mogła sobie pozwolić na własny egzemplarz pisma, a kościół bez wątpienia stał by się magazynem autografów tak czy inaczej. W tamtych czasach standardowym sposobem pozyskiwania Pisma było zapamiętywanie go w trakcie słuchania, podczas publicznego czytania. Posiadanie wielu autografów w wielu różnych miejscach z pewnością zapewniałoby sposób na weryfikację pamięci. Nawet gdyby przywódcy kościoła lub synagogi zostali uwięzieni, a ich autografy skonfiskowane lub zniszczone, mogliby być spokojni, że będą mogli znaleźć inny autograf, aby zweryfikować swoją pamięć o tym, jak dany werset lub fragment został faktycznie napisany”.
+
+It was Dr. Mike Loehrer, a pastor in California, who called 2 Peter 1,12-15 to my attention and got me started thinking about it. With reference to verse 15 he wrote me the following: “Could choosing to use mneme with poieo in the middle voice mean to ensure a way of always being able to validate a memory? In those days most people could not afford their own copy of a writing, and the church would no doubt become the repository of an autograph anyway. The usual way of getting the Scripture back then was by committing it to memory when hearing it during the public reading. Having multiple autographs in multiple locations would definitely ensure a way of validating a memory. Even if the leaders of a church or synagogue were imprisoned and their autograph was seized or destroyed, they could rest assured that they could locate another autograph to validate their memory of the way a verse or passage was actually written.”
 The idea of validating a memory is as interesting as it is suggestive. Peter’s use of μνημη, basically reflexive, with ποιεω in the middle voice, makes Mike’s suggestion a reasonable one, as it seems to me. It goes along with the multiple copies. Irenaeus puzzled over verse 15 and came up with the suggestion that Peter intended to get copies of Mark’s Gospel to those regions. Evidently the idea of multiple copies was not strange to him. And how about other books?
+
+
+
+Świetne pytanie — to zdanie jest dość zawiłe językowo i filozoficznie, więc rozłóżmy je na części 🙂
+
+---
+
+### 🧩 Oryginał:
+
+> "Could choosing to use *mneme* with *poieo* in the middle voice mean to ensure a way of always being able to validate a memory?"
+
+---
+
+### 🔹 **Kontekst językowy:**
+
+* **mnēme (μνήμη)** — greckie słowo oznaczające *pamięć* lub *wspomnienie*.
+* **poieō (ποιέω)** — *tworzyć, czynić, wytwarzać*; od tego pochodzi np. słowo *poezja (poiēsis)*.
+* **middle voice** — tzw. *strona medialna* w grece; oznacza działanie, które podmiot **wykonuje dla siebie** lub **z którego sam korzysta** (pomiędzy czynnością aktywną a bierną).
+
+---
+
+### 🔹 **Dosłowna parafraza po angielsku:**
+
+„Czy wybranie użycia *mneme* (pamięci) razem z *poieo* (tworzyć) w stronie medialnej mogłoby oznaczać zapewnienie sobie sposobu na zawsze móc potwierdzić (zweryfikować) wspomnienie?”
+
+---
+
+### 🔹 **Tłumaczenie po polsku (bardziej naturalne):**
+
+> „Czy połączenie pojęcia *mneme* z *poieo* w stronie medialnej mogłoby oznaczać tworzenie pamięci w taki sposób, by zawsze można ją było samodzielnie potwierdzić (zweryfikować)?”
+
+---
+
+### 🔹 **Sens filozoficzny:**
+
+To zdanie spekuluje nad tym, że jeśli „tworzenie” (*poieo*) rozumie się w sposób, w którym działanie jest **refleksyjne** (czyli skierowane na siebie – jak w stronie medialnej), to „tworzenie pamięci” może oznaczać **czynne konstruowanie wspomnienia**, które jest **samo-potwierdzające** — pamięć, której autentyczność można zawsze sprawdzić, bo została „stworzona” w sposób świadomy i wewnętrznie spójny.
+
+Inaczej mówiąc:
+➡️ *Czy można tak tworzyć wspomnienia, by ich prawdziwość była zawsze oczywista, bo sam akt tworzenia pamięci zawiera mechanizm jej potwierdzania?*
+
+---
+
+Chcesz, żebym Ci pokazał, jak to zdanie można by przepisać po angielsku w prostszy sposób (z zachowaniem sensu filozoficznego)?
+
+
+https://pl.wikipedia.org/wiki/Strona_medialna
