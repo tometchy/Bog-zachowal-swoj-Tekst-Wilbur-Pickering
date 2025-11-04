@@ -1,4 +1,4 @@
-## Historyczne dowody na Zachowanie
+## Historyczne Dowody na Zachowanie
 Na początek, uważam, że poniższe odniesienia można rozsądnie rozumieć jako oświadczenie Suwerennego Stwórcy, że zamierzał zachować swój Tekst, ale nie dał żadnych wskazówek, w jaki sposób zamierzał to zrobić. Musimy zacząć od tego, co zrobił. Ale najpierw odniesienia:
 
 1 Kronik 16,14-15 jest częścią psalmu uwielbienia dla Boga, który śpiewano, gdy Arka została przyniesiona do Jerozolimy. „On jest PANEM, naszym Bogiem, Jego osądy są na całej ziemi. Pamiętajcie Jego rozkaz na zawsze, słowo, które On nakazał na tysiąc pokoleń”. Aby Słowo było wiążące aż do tysiącznego pokolenia, musiałoby być zachowane aż do tego pokolenia i musiałoby być dostępne dla każdego pokolenia po drodze. Przyjmuję, że „tysiąc pokoleń” jest równoznaczne z „na zawsze”. „Na zawsze, PANIE, Twoje słowo jest osadzone w niebie. Twoja wierność jest do wszystkich pokoleń” (Psalm 119,89-90). „Na zawsze” jest równoznaczne z „wszystkimi pokoleniami”. „Trawa usycha, kwiat więdnie, ale słowo naszego Boga trwa na wieki” (Izajasz 40,8). Aby „trwać” na wieki, musi być zachowane na wieki. (Psalm 102,18 i 1 List do Koryntian 10,11)
