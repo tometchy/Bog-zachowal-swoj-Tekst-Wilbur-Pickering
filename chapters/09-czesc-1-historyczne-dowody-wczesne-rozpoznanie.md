@@ -1,6 +1,13 @@
 ### Wczesne Rozpoznanie [^reprodukcja-rozdzialu]
 Krytycy naturalistyczni lubią zakładać, że pisma Nowego Testamentu nie były uznawane za Pismo Święte, kiedy pojawiły się po raz pierwszy, i dlatego, w wyniku niedbałości przy przepisywaniu, tekst został pomieszany, a oryginalne sformułowania „zagubione” (w tym sensie, że nikt nie wiedział na pewno, jakie one były) już na samym początku. Zatem Colwell powiedział: „Większość obecnie drukowanych instrukcji i podręczników (w tym mój!) powie ci, że te różnice były owocem niedbałego traktowania, które było możliwe, ponieważ księgi Nowego Testamentu nie osiągnęły jeszcze silnej pozycji jako «Biblia».”[^cowel-zrodlo] A Hort powiedział:
 
+> Czystość tekstu, o ile można to ocenić na podstawie zachowanej literatury, nie wzbudzała prawie żadnego zainteresowania. Nie ma dowodów na to, by generalnie zwracano uwagę na wybór do przepisywania egzemplarzy, które najbardziej pretendowały do miana autentycznych, jeśli rzeczywiście dysponowano niezbędną wiedzą i umiejętnościami.
+
+Textual purity, as far as can be judged from the extant literature, attracted hardly any interest. There is no evidence to show that care was generally taken to choose out for transcription the exemplars having the highest claims to be regarded as authentic, if indeed the requisite knowledge and skill were forthcoming.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
+
+[^X]: B.F. Westcott i F.J.A. Hort, „The New Testament in the Original Greek” (2 tomy; Londyn: Macmillan and Co., 1881), II „Introduction”, str. 9. Patrz str. 7. Jasne jest, że Hort uważał „zachowaną literaturę” za reprezentatywną dla obrazu tekstowego we wczesnych wiekach. Ta nieuzasadniona i myląca koncepcja nadal stanowi ważny czynnik w myśleniu niektórych współczesnych uczonych.
+B.F. Westcott and F.J.A. Hort, The New Testament in the Original Greek (2 vols.; London: Macmillan and Co., 1881), II, “Introduction”, p. 9. Cf. p. 7. It is clear that Hort regarded the “extant literature” as representative of the textual picture in the early centuries. This gratuitous and misleading idea continues to be an important factor in the thinking of some scholars today.
