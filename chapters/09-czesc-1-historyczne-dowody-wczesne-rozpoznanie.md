@@ -3,6 +3,10 @@ Krytycy naturalistyczni lubią zakładać, że pisma Nowego Testamentu nie były
 
 > Czystość tekstu, o ile można to oceniać na podstawie zachowanej literatury, nie wzbudzała prawie żadnego zainteresowania. Nie ma dowodów na to, by generalnie przywiązywano wagę, aby wybierać egzemplarze do przepisywania, które najbardziej pretendowały do miana autentycznych, jeśli rzeczywiście dysponowano niezbędną wiedzą i umiejętnościami.[^hort-zrodlo]
 
+*Okres apostolski*
+
+Jest jasne, że przynajmniej apostoł Paweł uważał swoje pisma za posiadające boski autorytet
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
