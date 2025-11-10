@@ -12,3 +12,6 @@ Jest jasne, że przynajmniej apostoł Paweł uważał swoje pisma za posiadając
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
 
 [^hort-zrodlo]: B.F. Westcott i F.J.A. Hort, „The New Testament in the Original Greek” (2 tomy; Londyn: Macmillan and Co., 1881) [grecki tekst Nowego Testamentu opracowany przez Brooke’a Westcotta i Fentona Horta opublikowany w 1881 roku, przyp. tłum.], II „Wstęp” [ang. „Introduction”, przyp. tłum.], str. 9. Patrz str. 7. Jasne jest, że Hort uważał „zachowaną literaturę” za reprezentatywną dla obrazu tekstowego we wczesnych wiekach. Ta nieuzasadniona i myląca koncepcja nadal stanowi ważny czynnik w myśleniu niektórych współczesnych uczonych.
+
+[^X]: Według 95% greckich manuskryptów, prawidłowa pozycja fragmentu 16,24-26 to 14,24-26, przy czym sformułowanie pozostaje dokładnie takie samo.
+According to 95% of the Greek manuscripts, the correct position for 16,24-26 is 14,24-26, while the wording remains exactly the same.
