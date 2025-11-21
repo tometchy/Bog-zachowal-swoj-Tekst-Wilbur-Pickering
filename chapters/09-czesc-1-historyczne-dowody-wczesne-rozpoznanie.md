@@ -13,6 +13,10 @@ List do Efezjan 3,5: „która w różnych pokoleniach nie była uczyniona znan�
 
 1 List do Tesaloniczan 2,13: „gdy otrzymaliście od nas ustne Słowo Boże, powitaliście je nie jako słowo ludzi, ale jako to, czym faktycznie jest, Słowem Bożym”. Paweł odnosi się do mówienia lub stosowania Słowa, podkreślając jego boskie pochodzenie. 2 List do Tesaloniczan 2,15 również zajmuje się kwestią autorytetu Słowa Bożego, czy to mówionego, czy pisanego.
 
+Jest oczywiste, że Paweł oczekiwał, iż jego pisma dotrą do szerszego grona odbiorców niż tylko konkretny wspomniany kościół. W rzeczywistości w Liście do Galacjan 1,2 zwraca się on do „kościołów w Galacji”, nie wspominając już o 2 Liście do Koryntian 1,1: „wszyscy święci w Achai” oraz 1 Liście do Koryntian 1,2: „wszyscy ci, którzy w każdym miejscu”! W rzeczywistości, jak już sugerowałem, prawdopodobne jest, że Paweł wysłał wiele kopii swoich listów.
+
+It is clear that Paul expected his writings to have a wider audience than just the particular church addressed. In fact, in Galatians 1,2 he addresses “the churches of Galatia”, not to mention 2 Corinthians 1,1: “all the saints in Achaia”, and 1 Corinthians 1:2, “all who in every place”! In fact, as I have already suggested, it is probable that Paul sent out multiple copies of his letters.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
