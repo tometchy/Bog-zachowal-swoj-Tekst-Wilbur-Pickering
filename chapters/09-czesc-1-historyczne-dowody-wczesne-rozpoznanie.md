@@ -17,7 +17,7 @@ Jest oczywiste, że Paweł oczekiwał, iż jego pisma dotrą do szerszego grona 
 
 Jan również wyraża się dość jasno – Księga Objawienia 1,1-2. „Objawienie Jezusa Chrystusa, które Bóg Mu dał, aby pokazał Jego niewolnikom – rzeczy, które muszą się wkrótce wydarzyć. I zakomunikował On to, wysyłając to przez Swojego anioła do Swojego niewolnika Jana, który dał świadectwo słowu Bożemu, nawet świadectwu Jezusa Chrystusa – rzeczom, które On (Jezus) widział, zarówno tym, które są, jak i tym, które muszą się wydarzyć po nich”. Tak zaczyna się ta księga, a oto jak się kończy, 22,20: „On, który świadczy o tych rzeczach mówi: «Tak, nadchodzę prędko!» O tak!! Przyjdź, Suwerenny Jezu!” Innymi słowy, cała księga jest tym, co uwielbony Chrystus świadczy, co objawia – jako naoczny świadek!! Tak więc cała księga jest natchniona.
 
-[^X]
+[^faktograficzne-notatki]
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
@@ -27,5 +27,4 @@ Jan również wyraża się dość jasno – Księga Objawienia 1,1-2. „Objawie
 
 [^rzymian-poprawne-umiejscowienie]: Według 95% greckich manuskryptów, prawidłowa pozycja fragmentu 16,24-26 to 14,24-26, przy czym sformułowanie pozostaje dokładnie takie samo.
 
-[^X]: Po zastanowieniu wydaje się oczywiste, że każdy, kto umiał pisać, prawdopodobnie zanotowałby najważniejsze punkty o Jezusie, ale Łukasz potwierdza, że było „wielu”, którzy próbowali dokonać relacji na poważnie. Takie zapisy mogły dostarczyć materiału, prawdopodobnie opartego na faktach, do fałszywych „ulepszeń” dodanych do czterech natchnionych relacji w pierwszych dziesięcioleciach kopiowania.
-Upon reflection it seems obvious that anyone who knew how to write would likely jot down salient points about Jesus, but Luke affirms that there were ‘many’ who attempted a serious account. Such records may well have furnished material, presumably factual, for spurious ‘improvements’ added to the four inspired accounts in the early decades of copying.
+[^faktograficzne-notatki]: Po namyśle wydaje się oczywiste, że każdy, kto umiał pisać, prawdopodobnie zanotowałby najważniejsze punkty o Jezusie, ale Łukasz potwierdza, że było „wielu”, którzy próbowali dokonać relacji na poważnie. Takie zapisy mogły dostarczyć materiału, przypuszczalnie faktograficznego, do fałszywych „ulepszeń” dodanych do czterech natchnionych relacji w pierwszych dziesięcioleciach kopiowania.
