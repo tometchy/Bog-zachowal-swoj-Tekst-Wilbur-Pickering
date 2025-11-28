@@ -21,7 +21,7 @@ Tak samo jasno wyraża się Piotr. W 1 Liście Piotra 1,12 mówi on w odniesieni
 
 Przyjmuję, że w 1,3 Łukasz również stwierdza boskie natchnienie, oto pierwsze cztery wersety:
 
-[^faktograficzne-notatki]
+Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy, które naprawdę miały miejsce pośród nas,[^faktograficzne-notatki]
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
