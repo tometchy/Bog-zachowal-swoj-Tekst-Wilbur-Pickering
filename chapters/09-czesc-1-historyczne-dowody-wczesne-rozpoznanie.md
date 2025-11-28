@@ -23,6 +23,10 @@ Przyjmuję, że w 1,3 Łukasz również stwierdza boskie natchnienie, oto pierws
 
 Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy, które naprawdę miały miejsce pośród nas,[^faktograficzne-notatki]
 
+**Above**, **know**
+
+[^x1], [^x2], [^x3]
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
@@ -32,3 +36,9 @@ Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczą
 [^rzymian-poprawne-umiejscowienie]: Według 95% greckich manuskryptów, prawidłowa pozycja fragmentu 16,24-26 to 14,24-26, przy czym sformułowanie pozostaje dokładnie takie samo.
 
 [^faktograficzne-notatki]: Po namyśle wydaje się oczywiste, że każdy, kto umiał pisać, prawdopodobnie zanotowałby najważniejsze punkty o Jezusie, ale Łukasz potwierdza, że było „wielu”, którzy próbowali dokonać relacji na poważnie. Takie zapisy mogły dostarczyć materiału, przypuszczalnie faktograficznego, do fałszywych „ulepszeń” dodanych do czterech natchnionych relacji w pierwszych dziesięcioleciach kopiowania.
+
+[^x1]: Luke nalega, że jego informacje pochodzą od odpowiedzialnych naocznych świadków, którzy byli tam przez cały czas.
+
+[^x2]: W rzeczywistości, z kilkoma wyjątkami, narracja Łukasza przebiega w porządku chronologicznym, a jako lekarz bez wątpienia cenił on precyzję.
+
+[^x3]: Biorąc pod uwagę deklarowany przez Łukasza cel napisania tej księgi, jego relacja musi być zgodna z prawdą historyczną. Zwróć uwagę, że Teofil otrzymał już jakieś instrukcje.
