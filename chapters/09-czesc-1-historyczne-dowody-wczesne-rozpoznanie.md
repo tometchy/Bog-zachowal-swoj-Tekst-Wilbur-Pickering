@@ -21,7 +21,12 @@ Tak samo jasno wyraża się Piotr. W 1 Liście Piotra 1,12 mówi on w odniesieni
 
 Przyjmuję, że w 1,3 Łukasz również stwierdza boskie natchnienie, oto pierwsze cztery wersety:
 
-Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy, które naprawdę miały miejsce pośród nas,[^faktograficzne-notatki]
+Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy, które naprawdę miały miejsce pośród nas,[^faktograficzne-notatki] tak jak ci, którzy stali się naocznymi świadkami, od początku, i słudzy Słowa dostarczyli nam je,[^lukasz-nalega] również mi się to wydawało słuszne, najdoskonalszy Teofilu, po starannym zapoznaniu się ze wszystkim z **Góry**, napisać do ciebie dokładnie i po kolei,[^lekarz-cenil-precyzje]
+
+just as those who became eyewitnesses, from the beginning, and ministers of the Word delivered them to us, 
+it seemed good to me also, most excellent Theophilus, having taken careful note of everything from Above, to write to you with precision and in sequence,
+
+so that you may know the certainty of the things in which you were instructed.3
 
 **Above**, **know**
 
@@ -37,8 +42,8 @@ Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczą
 
 [^faktograficzne-notatki]: Po namyśle wydaje się oczywiste, że każdy, kto umiał pisać, prawdopodobnie zanotowałby najważniejsze punkty o Jezusie, ale Łukasz potwierdza, że było „wielu”, którzy próbowali dokonać relacji na poważnie. Takie zapisy mogły dostarczyć materiału, przypuszczalnie faktograficznego, do fałszywych „ulepszeń” dodanych do czterech natchnionych relacji w pierwszych dziesięcioleciach kopiowania.
 
-[^x1]: Luke nalega, że jego informacje pochodzą od odpowiedzialnych naocznych świadków, którzy byli tam przez cały czas.
+[^lukasz-nalega]: Luke nalega, że jego informacje pochodzą od odpowiedzialnych naocznych świadków, którzy byli tam przez cały czas.
 
-[^x2]: W rzeczywistości, z kilkoma wyjątkami, narracja Łukasza przebiega w porządku chronologicznym, a jako lekarz bez wątpienia cenił on precyzję.
+[^lekarz-cenil-precyzje]: W rzeczywistości, z kilkoma wyjątkami, narracja Łukasza przebiega w porządku chronologicznym, a jako lekarz bez wątpienia cenił on precyzję.
 
 [^x3]: Biorąc pod uwagę deklarowany przez Łukasza cel napisania tej księgi, jego relacja musi być zgodna z prawdą historyczną. Zwróć uwagę, że Teofil otrzymał już jakieś instrukcje.
