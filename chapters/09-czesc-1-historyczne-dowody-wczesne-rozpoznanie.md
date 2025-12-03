@@ -21,16 +21,9 @@ Tak samo jasno wyraża się Piotr. W 1 Liście Piotra 1,12 mówi on w odniesieni
 
 Przyjmuję, że w 1,3 Łukasz również stwierdza boskie natchnienie, oto pierwsze cztery wersety:
 
-Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy, które naprawdę miały miejsce pośród nas,[^faktograficzne-notatki] tak jak ci, którzy stali się naocznymi świadkami, od początku, i słudzy Słowa dostarczyli nam je,[^lukasz-nalega] również mi się to wydawało słuszne, najdoskonalszy Teofilu, po starannym zapoznaniu się ze wszystkim z **Góry**, napisać do ciebie dokładnie i po kolei,[^lekarz-cenil-precyzje]
+Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy, które naprawdę miały miejsce pośród nas,[^faktograficzne-notatki] tak jak ci, którzy stali się naocznymi świadkami, od początku, i słudzy Słowa dostarczyli nam je,[^lukasz-nalega] również mi się to wydawało słuszne, najdoskonalszy Teofilu, po starannym zapoznaniu się ze wszystkim z **Góry**, napisać do ciebie dokładnie i po kolei,[^lekarz-cenil-precyzje] abyś mógł **poznać** pewność tych rzeczy, o których zostałeś poinstruowany.[^relacja-musi-byc-prawda-historyczna]
 
-just as those who became eyewitnesses, from the beginning, and ministers of the Word delivered them to us, 
-it seemed good to me also, most excellent Theophilus, having taken careful note of everything from Above, to write to you with precision and in sequence,
-
-so that you may know the certainty of the things in which you were instructed.3
-
-**Above**, **know**
-
-[^x1], [^x2], [^x3]
+Given that many have undertaken to set in order a narrative concerning those things that really did take place among us,1 just as those who became eyewitnesses, from the beginning, and ministers of the Word delivered them to us,1 it seemed good to me also, most excellent Theophilus, having taken careful note of everything from Above, to write to you with precision and in sequence,2 so that you may know the certainty of the things in which you were instructed.3
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
@@ -46,4 +39,4 @@ so that you may know the certainty of the things in which you were instructed.3
 
 [^lekarz-cenil-precyzje]: W rzeczywistości, z kilkoma wyjątkami, narracja Łukasza przebiega w porządku chronologicznym, a jako lekarz bez wątpienia cenił on precyzję.
 
-[^x3]: Biorąc pod uwagę deklarowany przez Łukasza cel napisania tej księgi, jego relacja musi być zgodna z prawdą historyczną. Zwróć uwagę, że Teofil otrzymał już jakieś instrukcje.
+[^relacja-musi-byc-prawda-historyczna]: Biorąc pod uwagę deklarowany przez Łukasza cel napisania tej księgi, jego relacja musi być zgodna z prawdą historyczną. Zwróć uwagę, że Teofil otrzymał już jakieś instrukcje.
