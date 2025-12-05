@@ -23,9 +23,7 @@ Przyjmuję, że w 1,3 Łukasz również stwierdza boskie natchnienie, oto pierws
 
 Biorąc pod uwagę, że wielu podjęło się uporządkowania opowieści dotyczących tych rzeczy, które naprawdę miały miejsce pośród nas,[^faktograficzne-notatki] tak jak ci, którzy stali się naocznymi świadkami, od początku, i słudzy Słowa dostarczyli nam je,[^lukasz-obstaje] mnie również się to wydawało dobre, najdoskonalszy Teofilu, po starannym zapoznaniu się ze wszystkim z **Góry**, napisać do ciebie dokładnie i po kolei,[^lekarz-cenil-precyzje] abyś mógł **poznać** pewność tych rzeczy, o których zostałeś pouczony.[^relacja-musi-byc-prawda-historyczna]
 
-Jak można zauważyć, przetłumaczyłem „wszystko z góry”, zamiast „wszystko od początku”. Normalne znaczenie greckiego słowa tutaj, ανωθεν, to dokładnie „z góry” i nie widzę powodu, aby odrzucać to znaczenie. Tym bardziej, że w poprzednim wersecie użył już normalnego wyrażenia, απ αρχης, które oznacza „od początku”. Przyjmuję, że Łukasz deklaruje natchnienie boskie wprost.
-
-It will be noticed that I rendered “everything from Above”, rather than ‘everything from the beginning’. The normal meaning of the Greek word here, ανωθεν, is precisely ‘from above’, and I see no reason to reject that meaning. The more so since in the prior verse he already used the normal phrase, απ αρχης, that means ‘from the beginning’. I take it that Luke is claiming divine inspiration, up front.
+Jak można zauważyć, przetłumaczyłem „wszystko z góry”, zamiast „wszystko od początku”. Normalne znaczenie greckiego słowa tutaj, ανωθεν, to dokładnie „z góry” i nie widzę powodu, aby odrzucać to znaczenie. Tym bardziej, że w poprzednim wersecie użył już normalnego wyrażenia, απ αρχης, które oznacza „od początku”. Przyjmuję, że Łukasz deklaruje natchnienie boskie, wprost.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
