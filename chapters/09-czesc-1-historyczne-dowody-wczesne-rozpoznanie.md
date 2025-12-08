@@ -29,8 +29,6 @@ Teraz rozważę kilka wersetów, w których jeden apostoł rozpoznaje, że inny 
 
 W 2 Liście Piotra 3,15-16 Piotr stawia Listy Pawła na równi z „innymi Pismami”. Chociaż niektóre z nich były dostępne już prawdopodobnie od piętnastu lat, atrament na innych ledwie zdążył wyschnąć, a być może 2 List do Tymoteusza nie został jeszcze napisany, kiedy Piotr pisał. Pisma Pawła zostały rozpoznane i ogłoszone przez autorytet apostolski jako Pismo Święte, gdy tylko się pojawiły.
 
-In 2 Peter 3,15-16, Peter puts the Epistles of Paul on the same level as “the other Scriptures”. Although some had been out for perhaps fifteen years, the ink was scarcely dry on others, and perhaps 2 Timothy had not yet been penned when Peter wrote. Paul's writings were recognized and declared by apostolic authority to be Scripture as soon as they appeared.
-
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
