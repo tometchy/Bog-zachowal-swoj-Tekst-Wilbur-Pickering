@@ -29,6 +29,13 @@ Teraz rozważę kilka wersetów, w których jeden apostoł rozpoznaje, że inny 
 
 W 2 Liście Piotra 3,15-16 Piotr stawia Listy Pawła na równi z „innymi Pismami”. Chociaż niektóre z nich były dostępne już prawdopodobnie od piętnastu lat, atrament na innych ledwie zdążył wyschnąć, a być może 2 List do Tymoteusza nie został jeszcze napisany, kiedy Piotr pisał. Pisma Pawła zostały rozpoznane i ogłoszone przez autorytet apostolski jako Pismo Święte, gdy tylko się pojawiły.
 
+1 List do Koryntian 15,4 brzmi następująco: „i że został On pogrzebany, i że został On podniesiony trzeciego dnia zgodnie z Pismem”. „Pismo” odnosi się tu prawdopodobnie do Ewangelii, ponieważ „trzeciego dnia” nie można znaleźć w Starym Testamencie. Załapałeś? Ponieważ „trzeciego dnia” nie ma w Starym Testamencie, odniesienie to dotyczy przypuszczalnie Ewangeli.
+
+1 Corinthians 15,4 reads like this: “and that He was buried, and that He was raised on the third day according to the Scriptures”. “The Scriptures” here presumably refers to the Gospels, because “on the third day” is not to be found in the OT. Did you get that? Since “on the third day” is not in the OT, the reference is to the Gospels, presumably.
+
+<ins>text</ins>
+<u>text</u>
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
