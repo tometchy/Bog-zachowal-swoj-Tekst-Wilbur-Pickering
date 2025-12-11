@@ -35,6 +35,8 @@ W Ewangelii Jana 2,22 przetłumaczyłbym, „więc uwierzyli Pismu, nawet słowu
 
 In John 2,22 I would translate, “so they believed the Scripture, even the word that Jesus had spoken”—what Jesus said in John 2,19 was already circulating as ‘Scripture’ in Matthew 26,61 and 27,40 (when John wrote, in 62 AD).
 
+[^X]
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
@@ -50,3 +52,5 @@ In John 2,22 I would translate, “so they believed the Scripture, even the word
 [^lekarz-cenil-precyzje]: W rzeczywistości, z kilkoma wyjątkami, narracja Łukasza przebiega w porządku chronologicznym, a jako lekarz bez wątpienia cenił on precyzję.
 
 [^relacja-musi-byc-prawda-historyczna]: Biorąc pod uwagę deklarowany przez Łukasza cel napisania tej księgi, jego relacja musi być zgodna z prawdą historyczną. Zwróć uwagę, że Teofil otrzymał już jakieś instrukcje.
+
+[^X]: I am aware that it could be Proverbs 3,12 (LXX) rather than Hebrews 12,6. Clement quotes from both books repeatedly throughout the letter, so they are equal candidates on that score. But, Clement agrees verbatim with Hebrews while Proverbs (LXX) differs in one important word. Further, the main point of Clement's chapter 56 is that correction is to be received graciously and as from the Lord, which is also the point of Hebrews 12,3-11. Since Clement evidently had both books in front of him (in the next chapter he quotes nine consecutive verses, Proverbs 1,23-31) the verbatim agreement with Hebrews is significant. If he deliberately chose the wording of Hebrews over that of Proverbs, what might that imply about their rank?
