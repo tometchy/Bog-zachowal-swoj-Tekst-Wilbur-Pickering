@@ -33,8 +33,6 @@ W 2 Liście Piotra 3,15-16 Piotr stawia Listy Pawła na równi z „innymi Pisma
 
 W Ewangelii Jana 2,22 przetłumaczyłbym, „więc uwierzyli Pismu, nawet słowu, które wypowiedział Jezus” – to, co Jezus powiedział w Ewangelii Jana 2,19, krążyło już jako „Pismo” w Ewangelii Mateusza 26,61 i 27,40 (kiedy Jan pisał, w 62 r. n.e.).
 
-In John 2,22 I would translate, “so they believed the Scripture, even the word that Jesus had spoken”—what Jesus said in John 2,19 was already circulating as ‘Scripture’ in Matthew 26,61 and 27,40 (when John wrote, in 62 AD).
-
 [^X]
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
