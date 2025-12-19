@@ -10,6 +10,18 @@ Tomasz Skraskowski nie jest profesjonalnym tłumaczem, podjął się niniejszego
 
 > Choćby to była rzecz najtrudniejsza, jest miła i wielka w oczach moich.
 
+Tłumaczenie stawia wierność oryginałowi ponad płynność współczesnej polszczyzny i tam, gdzie autor używa specyficznych, nienaturalnych dla języka angielskiego zwrotów, tłumaczenie oddaje je na polski w miarę możliwości analogicznie, korzystając również z nienaturalnych sformułowań, dla przykładu zdanie:
+
+> It means this: that
+
+przetłumaczono na:
+
+> Oznacza to to: że
+
+chociaż bardziej naturalnie brzmiałoby:
+
+> Oznacza to, że
+
 Tłumaczenie dostępne do pobrania z [tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering) w formatach:
 
 - [EPUB](https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub)
