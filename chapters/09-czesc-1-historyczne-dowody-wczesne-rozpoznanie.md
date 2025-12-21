@@ -39,6 +39,8 @@ List Barnaby, różnie datowany na lata 70-135 n.e., mówi w 4,14: „bądźmy o
 
 Autor, kimkolwiek był, wyraźnie przypisuje boskie autorstwo temu cytatowi, który wydaje się pochodzić z 2 Listu Piotra 3,8.[^cytaty-barnaby] Innymi słowy, 2 List Piotra jest tutaj uznawany za Pismo Święte, jak również Ewangelia Mateusza i List do Rzymian. List Barnaby zawiera również możliwe aluzje do 1 i 2 Listu do Koryntian, Listu do Efezjan, Listu do Kolosan, 1 i 2 Listu do Tymoteusza, Listu do Tytusa, Listu do Hebrajczyków i 1 Listu Piotra.
 
+*Drugi wiek*
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
