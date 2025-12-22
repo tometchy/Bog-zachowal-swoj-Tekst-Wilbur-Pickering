@@ -41,6 +41,10 @@ Autor, kimkolwiek był, wyraźnie przypisuje boskie autorstwo temu cytatowi, kt�
 
 *Drugi wiek*
 
+Siedem listów Ignacego (ok. 110 r. n.e.) zawierają prawdopodobne aluzje do Ewangelii Mateusza, Ewangelii Jana, Listu do Rzymian, 1 Listu do Koryntian i Listu do Efezjan (w swoim własnym liście do Efezjan Ignacy mówi, że są one wspomniane we „wszystkich listach Pawła” – jest to trochę hiperbola, ale był on wyraźnie świadomy korpusu Pawłowego[^korpus-pawlowy]) oraz możliwe aluzje do Ewangelii Łukasza, Dziejów Apostolskich, Listu do Galacjan, Listu do Filipian, Listu do Kolosan, 1 Listu do Tesaloniczan, 1 i 2 Listu do Tymoteusza oraz Listu do Tytusa, ale bardzo niewiele z nich to wyraźne cytaty, a nawet one nie są jako takie zidentyfikowane.
+
+The seven letters of Ignatius (c. AD 110) contain probable allusions to Matthew, John, Romans, 1 Corinthians and Ephesians (in his own letter to the Ephesians Ignatius says they are mentioned in “all the epistles of Paul”—a bit of hyperbole, but he was clearly aware of a Pauline corpus), and possible allusions to Luke, Acts, Galatians, Philippians, Colossians, 1 Thessalonians, 1 and 2 Timothy, and Titus, but very few are clear quotations and even they are not identified as such.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
@@ -62,3 +66,5 @@ Autor, kimkolwiek był, wyraźnie przypisuje boskie autorstwo temu cytatowi, kt�
 [^tlumczenie-glimm]: Skorzystałem z tłumaczenia Francisa Glimma zawartego w książce The Apostolic Fathers (Nowy Jork: Cima Publishing Co., Inc., 1947), należącej do serii The Fathers of the Church, red. Ludwig Schopp.
 
 [^cytaty-barnaby]: J.V. Bartlet mówi o formułach cytatów używanych w Liście Barnaby do wprowadzenia cytatów z Pisma Świętego: „ogólnym rezultatem jest absolutna doktryna natchnienia”, ale nie jest skłonny rozważać, że użyto 2 Listu Piotra. Oxford Society of Historical Research, The New Testament in the Apostolic Fathers (Oxford: Clarendon Press, 1905), str. 2, 15.
+
+[^korpus-pawlowy]: Korpus Pawłowy (łac. corpus Paulinum) - zbiór listów przypisywanych apostołowi Pawłowi. [przyp. tłum.]
