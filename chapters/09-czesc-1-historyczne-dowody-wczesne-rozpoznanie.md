@@ -47,6 +47,10 @@ Z drugiej strony, Polikarp, pisząc do kościoła w Filippi (ok. 115 r. n.e.?), 
 
 On the other hand, Polycarp, writing to the Philippian church (c. 115 AD?), weaves an almost continuous string of clear quotations and allusions to New Testament writings. His heavy use of Scripture is reminiscent of Clement of Rome; however, Clement used mostly the Old Testament while Polycarp mainly used the New. There are perhaps fifty clear quotations taken from Matthew, Luke, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, 1 and 2 Peter, and 1 John, and many allusions including to Mark, Hebrews, James, and 2 and 3 John. (The only NT writer not included is Jude! But remember that the above refers to only one letter— if Polycarp wrote other letters he may well have quoted Jude.) Please note that the idea of a NT ‘canon’ evidently already existed in 115 AD, and Polycarp’s ‘canon’ was quite similar to ours.
 
+Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, że jesteście dobrze wyszkoleni w świętych Pismach,... A teraz, jak jest to powiedziane w tych Pismach: «Gniewajcie się, ale nie grzeszcie» i «Niech słońce nie zachodzi nad waszym gniewem». Błogosławiony ten, kto to pamięta”.[^ponownie-glimm]
+
+His attitude toward the New Testament writings is clear from 12,1: “I am sure that you are well trained in the sacred Scriptures,... Now, as it is said in these Scriptures: ‘Be angry and sin not,’ and ‘Let not the sun go down upon your wrath.’ Blessed is he who remembers this.” Both parts of the quotation could come from Ephesians 4,26 but since Polycarp split it up he may have been referring to Psalm 4,5 (LXX) in the first half. In either case he is declaring Ephesians to be “sacred Scripture”. A further insight into his attitude is found in 3,1-2.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
@@ -70,3 +74,5 @@ On the other hand, Polycarp, writing to the Philippian church (c. 115 AD?), weav
 [^cytaty-barnaby]: J.V. Bartlet mówi o formułach cytatów używanych w Liście Barnaby do wprowadzenia cytatów z Pisma Świętego: „ogólnym rezultatem jest absolutna doktryna natchnienia”, ale nie jest skłonny rozważać, że użyto 2 Listu Piotra. Oxford Society of Historical Research, The New Testament in the Apostolic Fathers (Oxford: Clarendon Press, 1905), str. 2, 15.
 
 [^korpus-pawlowy]: Korpus Pawłowy (łac. corpus Paulinum) - zbiór listów przypisywanych apostołowi Pawłowi. [przyp. tłum.]
+
+[^ponownie-glimm]: Francis Glimm, ponownie.
