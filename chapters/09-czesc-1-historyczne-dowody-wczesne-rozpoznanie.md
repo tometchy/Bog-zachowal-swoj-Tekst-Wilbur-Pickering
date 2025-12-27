@@ -47,7 +47,13 @@ Z drugiej strony, Polikarp, pisząc do kościoła w Filippi (ok. 115 r. n.e.?), 
 
 Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, że jesteście dobrze wyszkoleni w świętych Pismach,... A teraz, jak jest to powiedziane w tych Pismach: «Gniewajcie się, ale nie grzeszcie» i «Niech słońce nie zachodzi nad waszym gniewem». Błogosławiony ten, kto to pamięta”.[^ponownie-glimm] Obie części cytatu mogły pochodzić z Listu do Efezjan 4,26, ale ponieważ Polikarp podzielił go, w pierwszej połowie mógł odnosić się do Psalmu 4,5 (LXX). W obu przypadkach deklaruje, że List do Efezjan jest „świętym Pismem”. Dalszy wgląd w jego postawę można znaleźć w 3,1-2.
 
-> Brethren, I write you this concerning righteousness, not on my own initiative, but because you first invited me. For neither I, nor anyone like me, is able to rival the wisdom of the blessed and glorious Paul, who, when living among you, carefully and steadfastly taught the word of truth face to face with his contemporaries and, when he was absent, wrote you letters. By the careful perusal of his letters you will be able to strengthen yourselves in the faith given to you, “which is the mother of us all”,...[^Ibid]
+> Bracia, piszę wam to dotyczące prawości, nie z własnej inicjatywy, ale dlatego, że wy pierwsi zaprosiliście mnie. Gdyż ani ja, ani nikt podobny do mnie, nie jest w stanie rywalizować z mądrością błogosławionego i chwalebnego Pawła, który, kiedy żył wśród was, starannie i niezłomnie nauczał słowo prawdy twarzą w twarz ze swoimi współczesnymi, a kiedy był nieobecny, pisał do was listy. Dzięki uważnej lekturze jego listów będziecie mogli umocnić się w danej wam wierze, „która jest matką nas wszystkich”...[^Ibid]
+
+(To od osoby, która była być może najbardziej szanowanym biskupem w Azji Mniejszej w swoich czasach. Został zamęczony w 156 r. n.e.)
+
+> Brethren, I write you this concerning righteousness, not on my own initiative, but because you first invited me. For neither I, nor anyone like me, is able to rival the wisdom of the blessed and glorious Paul, who, when living among you, carefully and steadfastly taught the word of truth face to face with his contemporaries and, when he was absent, wrote you letters. By the careful perusal of his letters you will be able to strengthen yourselves in the faith given to you, “which is the mother of us all”,...
+
+(This from one who was perhaps the most respected bishop in Asia Minor, in his day. He was martyred in AD 156.)
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
