@@ -51,6 +51,8 @@ Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, �
 
 (To od osoby, która była być może najbardziej szanowanym biskupem w Azji Mniejszej w swoich czasach. Został zamęczony w 156 r. n.e.)
 
+The so-called second letter of Clement of Rome is usually dated before AD 150 and seems clearly to quote from Matthew, Mark, Luke, Acts, l Corinthians, Ephesians, 1 Timothy, Hebrews, James, and 1 Peter, with possible allusions to 2 Peter, Jude, and Revelation. After quoting and discussing a passage from the Old Testament, the author goes on to say in 2,4, “Another Scripture says: ‘I came not to call the just, but sinners’” (Matthew 9,13; Mark 2,17; Luke 5,32). Here is another author who recognized the New Testament writings to be Scripture.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
