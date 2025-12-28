@@ -51,10 +51,6 @@ Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, �
 
 (To od osoby, która była być może najbardziej szanowanym biskupem w Azji Mniejszej w swoich czasach. Został zamęczony w 156 r. n.e.)
 
-> Brethren, I write you this concerning righteousness, not on my own initiative, but because you first invited me. For neither I, nor anyone like me, is able to rival the wisdom of the blessed and glorious Paul, who, when living among you, carefully and steadfastly taught the word of truth face to face with his contemporaries and, when he was absent, wrote you letters. By the careful perusal of his letters you will be able to strengthen yourselves in the faith given to you, “which is the mother of us all”,...
-
-(This from one who was perhaps the most respected bishop in Asia Minor, in his day. He was martyred in AD 156.)
-
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
