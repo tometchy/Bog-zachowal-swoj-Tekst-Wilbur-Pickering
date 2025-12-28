@@ -51,6 +51,8 @@ Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, �
 
 (To od osoby, która była być może najbardziej szanowanym biskupem w Azji Mniejszej w swoich czasach. Został zamęczony w 156 r. n.e.)
 
+Tak zwany Drugi List Klemensa do Koryntian[^drugi-list-klemensa-do-koryntian]
+
 The so-called second letter of Clement of Rome is usually dated before AD 150 and seems clearly to quote from Matthew, Mark, Luke, Acts, l Corinthians, Ephesians, 1 Timothy, Hebrews, James, and 1 Peter, with possible allusions to 2 Peter, Jude, and Revelation. After quoting and discussing a passage from the Old Testament, the author goes on to say in 2,4, “Another Scripture says: ‘I came not to call the just, but sinners’” (Matthew 9,13; Mark 2,17; Luke 5,32). Here is another author who recognized the New Testament writings to be Scripture.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
@@ -80,3 +82,6 @@ The so-called second letter of Clement of Rome is usually dated before AD 150 an
 [^ponownie-glimm]: Francis Glimm, ponownie.
 
 [^Ibid]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.]
+
+[^drugi-list-klemensa-do-koryntian]: Drugi List Klemensa do Koryntian – pismo ze schyłku okresu ojców apostolskich, wcześniej mylnie przypisywane biskupowi Rzymu św. Klemensowi. [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/2._List_Klemensa_do_Koryntian
