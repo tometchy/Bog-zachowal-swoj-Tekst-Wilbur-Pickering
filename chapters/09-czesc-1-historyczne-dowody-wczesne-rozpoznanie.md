@@ -51,7 +51,7 @@ Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, �
 
 (To od osoby, która była być może najbardziej szanowanym biskupem w Azji Mniejszej w swoich czasach. Został zamęczony w 156 r. n.e.)
 
-Tak zwany Drugi List Klemensa do Koryntian[^drugi-list-klemensa-do-koryntian]
+Tak zwany Drugi List Klemensa do Koryntian[^drugi-list-klemensa-do-koryntian] datowany jest zazwyczaj na okres przed 150 r. n.e. i wydaje się wyraźnie cytować Ewangelię Mateusza, Ewangelię Marka, Ewangelię Łukasza, Dzieje Apostolskie, 1 List do Koryntian, List do Efezjan, 1 List do Tymoteusza, List do Hebrajczyków, List Jakuba i 1 List Piotra, z możliwymi aluzjami do 2 Listu Piotra, List Judy i Apokalipsę św. Jana. Po zacytowaniu i omówieniu fragmentu ze Starego Testamentu, autor mówi dalej w 2,4: „Inne Pismo mówi: «Nie przyszedłem wzywać sprawiedliwych, ale grzeszników»” (Ewangelia Mateusza 9,13; Ewangelia Marka 2,17; Ewangelia Łukasza 5,32). Oto kolejny autor, który uznał pisma Nowego Testamentu za Pismo Święte.
 
 The so-called second letter of Clement of Rome is usually dated before AD 150 and seems clearly to quote from Matthew, Mark, Luke, Acts, l Corinthians, Ephesians, 1 Timothy, Hebrews, James, and 1 Peter, with possible allusions to 2 Peter, Jude, and Revelation. After quoting and discussing a passage from the Old Testament, the author goes on to say in 2,4, “Another Scripture says: ‘I came not to call the just, but sinners’” (Matthew 9,13; Mark 2,17; Luke 5,32). Here is another author who recognized the New Testament writings to be Scripture.
 
