@@ -55,6 +55,8 @@ Tak zwany Drugi List Klemensa do Koryntian[^drugi-list-klemensa-do-koryntian] da
 
 The so-called second letter of Clement of Rome is usually dated before AD 150 and seems clearly to quote from Matthew, Mark, Luke, Acts, l Corinthians, Ephesians, 1 Timothy, Hebrews, James, and 1 Peter, with possible allusions to 2 Peter, Jude, and Revelation. After quoting and discussing a passage from the Old Testament, the author goes on to say in 2,4, “Another Scripture says: ‘I came not to call the just, but sinners’” (Matthew 9,13; Mark 2,17; Luke 5,32). Here is another author who recognized the New Testament writings to be Scripture.
 
+Two other early works, the *Didache* and the letter to Diognetus, employ New Testament writings as being authoritative but without expressly calling them Scripture. The *Didache* apparently quotes from Matthew, Luke, 1 Corinthians, Hebrews, and 1 Peter and has possible allusions to Acts, Romans, Ephesians, 1 and 2 Thessalonians and Revelation. The letter to Diognetus quotes from Acts, 1 and 2 Corinthians while alluding to Mark, John, Romans, Ephesians, Philippians, 1 Timothy, Titus, 1 Peter and 1 John.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
