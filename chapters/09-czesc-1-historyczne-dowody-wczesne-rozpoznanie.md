@@ -53,9 +53,9 @@ Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, �
 
 Tak zwany Drugi List Klemensa do Koryntian[^drugi-list-klemensa-do-koryntian] datowany jest zazwyczaj na okres przed 150 r. n.e. i wydaje się wyraźnie cytować Ewangelię Mateusza, Ewangelię Marka, Ewangelię Łukasza, Dzieje Apostolskie, 1 List do Koryntian, List do Efezjan, 1 List do Tymoteusza, List do Hebrajczyków, List Jakuba i 1 List Piotra, z możliwymi aluzjami do 2 Listu Piotra, List Judy i Objawienie Jana. Po zacytowaniu i omówieniu fragmentu ze Starego Testamentu, autor mówi dalej w 2,4: „Inne Pismo mówi: «Nie przyszedłem wzywać sprawiedliwych, ale grzeszników»” (Ewangelia Mateusza 9,13; Ewangelia Marka 2,17; Ewangelia Łukasza 5,32). Oto kolejny autor, który uznał pisma Nowego Testamentu za Pismo Święte.
 
-Dwa inne wczesne dzieła, *Didache* i List do Diogneta, posługują się pismami Nowego Testamentu jako autorytatywnymi, ale bez wyraźnego nazywania ich Pismem Świętym. *Didache* najwyraźniej cytuje z Ewangelii Mateusza, Ewangelii Łukasza, 1 Listu do Koryntian, Listu do Hebrajczyków i 1 Listu Piotra, a także zawiera możliwe aluzje do Dziejów Apostolskich, Listu do Rzymian, Listu do Efezjan, 1 i 2 Listu do Tesaloniczan oraz Objawienia Jana. List do Diogneta cytuje z Dziejów Apostolskich, 1 i 2 Listu do Koryntian, jednocześnie nawiązując do Ewangelii Marka, Ewangelii Jana, Listu do Rzymian, Listu do Efezjan, Listu do Filipian, 1 Listu Tymoteusza, Listu do Tytusa, 1 Listu Piotra i 1 Listu Jana.
+Dwa inne wczesne dzieła, *Didache*[^didache] i List do Diogneta[^do-diogneta], posługują się pismami Nowego Testamentu jako autorytatywnymi, ale bez wyraźnego nazywania ich Pismem Świętym. *Didache* najwyraźniej cytuje z Ewangelii Mateusza, Ewangelii Łukasza, 1 Listu do Koryntian, Listu do Hebrajczyków i 1 Listu Piotra, a także zawiera możliwe aluzje do Dziejów Apostolskich, Listu do Rzymian, Listu do Efezjan, 1 i 2 Listu do Tesaloniczan oraz Objawienia Jana. List do Diogneta cytuje z Dziejów Apostolskich, 1 i 2 Listu do Koryntian, jednocześnie nawiązując do Ewangelii Marka, Ewangelii Jana, Listu do Rzymian, Listu do Efezjan, Listu do Filipian, 1 Listu do Tymoteusza, Listu do Tytusa, 1 Listu Piotra i 1 Listu Jana.
 
-Two other early works, the *Didache* and the letter to Diognetus, employ New Testament writings as being authoritative but without expressly calling them Scripture. The *Didache* apparently quotes from Matthew, Luke, 1 Corinthians, Hebrews, and 1 Peter and has possible allusions to Acts, Romans, Ephesians, 1 and 2 Thessalonians and Revelation. The letter to Diognetus quotes from Acts, 1 and 2 Corinthians while alluding to Mark, John, Romans, Ephesians, Philippians, 1 Timothy, Titus, 1 Peter and 1 John.
+Another early work—the Shepherd of Hermas—widely used in the second and third centuries, has fairly clear allusions to Matthew, Mark, 1 Corinthians, Ephesians, Hebrews, and especially James.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
@@ -87,3 +87,9 @@ Two other early works, the *Didache* and the letter to Diognetus, employ New Tes
 
 [^drugi-list-klemensa-do-koryntian]: Drugi List Klemensa do Koryntian – pismo ze schyłku okresu ojców apostolskich, wcześniej mylnie przypisywane biskupowi Rzymu św. Klemensowi. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/2._List_Klemensa_do_Koryntian
+
+[^didache]: Didache lub Nauka dwunastu apostołów (gr. Διδαχὴ) – anonimowy krótki traktat starożytnego chrześcijaństwa, jedno ze starszych pism Ojców apostolskich. [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/Didache
+
+[^do-diogneta]: Do Diogneta (stgr. Ἐπιστολὴ πρὸς Διόγνητον Epistole pros Diogneton, łac. Epistula ad Diognetum, znane także jako List do Diogneta) – niewielka objętościowo (12 rozdziałów) apologia chrześcijańska anonimowego autora, dawniej przypisywana Justynowi lub Kwadratowi. [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/Do_Diogneta
