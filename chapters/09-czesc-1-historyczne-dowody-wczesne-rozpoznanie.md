@@ -55,7 +55,7 @@ Tak zwany Drugi List Klemensa do Koryntian[^drugi-list-klemensa-do-koryntian] da
 
 Dwa inne wczesne dzieła, *Didache*[^didache] i List do Diogneta[^do-diogneta], posługują się pismami Nowego Testamentu jako autorytatywnymi, ale bez wyraźnego nazywania ich Pismem Świętym. *Didache* najwyraźniej cytuje z Ewangelii Mateusza, Ewangelii Łukasza, 1 Listu do Koryntian, Listu do Hebrajczyków i 1 Listu Piotra, a także zawiera możliwe aluzje do Dziejów Apostolskich, Listu do Rzymian, Listu do Efezjan, 1 i 2 Listu do Tesaloniczan oraz Objawienia Jana. List do Diogneta cytuje z Dziejów Apostolskich, 1 i 2 Listu do Koryntian, jednocześnie nawiązując do Ewangelii Marka, Ewangelii Jana, Listu do Rzymian, Listu do Efezjan, Listu do Filipian, 1 Listu do Tymoteusza, Listu do Tytusa, 1 Listu Piotra i 1 Listu Jana.
 
-Inne wczesne dzieło – Pasterz Hermasa – szeroko stosowane w II i III wieku, zawiera dość wyraźne aluzje do Ewangelii Mateusza, Ewangelii Marka, 1 Listu do Koryntian, Listu do Efezjan, Listu do Hebrajczyków, a zwłaszcza Listu Jakuba.
+Inne wczesne dzieło – Pasterz Hermasa[^pasterz-hermasa] – szeroko stosowane w II i III wieku, zawiera dość wyraźne aluzje do Ewangelii Mateusza, Ewangelii Marka, 1 Listu do Koryntian, Listu do Efezjan, Listu do Hebrajczyków, a zwłaszcza Listu Jakuba.
 
 Another early work—the Shepherd of Hermas—widely used in the second and third centuries, has fairly clear allusions to Matthew, Mark, 1 Corinthians, Ephesians, Hebrews, and especially James.
 
@@ -95,3 +95,6 @@ https://pl.wikipedia.org/wiki/Didache
 
 [^do-diogneta]: Do Diogneta (stgr. Ἐπιστολὴ πρὸς Διόγνητον Epistole pros Diogneton, łac. Epistula ad Diognetum, znane także jako List do Diogneta) – niewielka objętościowo (12 rozdziałów) apologia chrześcijańska anonimowego autora, dawniej przypisywana Justynowi lub Kwadratowi. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Do_Diogneta
+
+[^pasterz-hermasa]: Pasterz Hermasa (gr.: Ποιμὴν τοῦ Ἑρμᾶ, łac.: Pastor Hermae) – apokryficzne dzieło literackie napisane w języku greckim, powstałe w środowisku rzymskim pomiędzy 140 a 150 r. [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/Pasterz_Hermasa
