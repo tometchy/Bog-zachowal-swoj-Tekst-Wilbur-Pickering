@@ -55,6 +55,8 @@ Tak zwany Drugi List Klemensa do Koryntian[^drugi-list-klemensa-do-koryntian] da
 
 Dwa inne wczesne dzieła, *Didache*[^didache] i List do Diogneta[^do-diogneta], posługują się pismami Nowego Testamentu jako autorytatywnymi, ale bez wyraźnego nazywania ich Pismem Świętym. *Didache* najwyraźniej cytuje z Ewangelii Mateusza, Ewangelii Łukasza, 1 Listu do Koryntian, Listu do Hebrajczyków i 1 Listu Piotra, a także zawiera możliwe aluzje do Dziejów Apostolskich, Listu do Rzymian, Listu do Efezjan, 1 i 2 Listu do Tesaloniczan oraz Objawienia Jana. List do Diogneta cytuje z Dziejów Apostolskich, 1 i 2 Listu do Koryntian, jednocześnie nawiązując do Ewangelii Marka, Ewangelii Jana, Listu do Rzymian, Listu do Efezjan, Listu do Filipian, 1 Listu do Tymoteusza, Listu do Tytusa, 1 Listu Piotra i 1 Listu Jana.
 
+Inne wczesne dzieło – Pasterz Hermasa – szeroko stosowane w II i III wieku, zawiera dość wyraźne aluzje do Ewangelii Mateusza, Ewangelii Marka, 1 Listu do Koryntian, Listu do Efezjan, Listu do Hebrajczyków, a zwłaszcza Listu Jakuba.
+
 Another early work—the Shepherd of Hermas—widely used in the second and third centuries, has fairly clear allusions to Matthew, Mark, 1 Corinthians, Ephesians, Hebrews, and especially James.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
