@@ -57,6 +57,8 @@ Dwa inne wczesne dzieła, *Didache*[^didache] i List do Diogneta[^do-diogneta], 
 
 Inne wczesne dzieło – Pasterz Hermasa[^pasterz-hermasa] – szeroko stosowane w II i III wieku, zawiera dość wyraźne aluzje do Ewangelii Mateusza, Ewangelii Marka, 1 Listu do Koryntian, Listu do Efezjan, Listu do Hebrajczyków, a zwłaszcza Listu Jakuba.
 
+Dotarły do nas dość rozgległe prace Justyna Męczennika (zamęczonego w 165 r.), pochodzące mniej więcej z połowy II wieku.
+
 From around the middle of the second century fairly extensive works by Justin Martyr (martyred in 165) have come down to us. His “Dialogue with Trypho” shows a masterful knowledge of the Old Testament to which he assigns the highest possible authority, evidently holding to a dictation view of inspiration—in Trypho 34 he says, “to persuade you that you have not understood anything of the Scriptures, I will remind you of another psalm, dictated to David by the Holy Spirit.”1 The whole point of Trypho is to prove that Jesus is Christ and God and therefore what He said and commanded was of highest authority.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
