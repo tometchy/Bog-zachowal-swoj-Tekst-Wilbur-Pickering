@@ -59,7 +59,11 @@ Inne wczesne dzieło – Pasterz Hermasa[^pasterz-hermasa] – szeroko stosowane
 
 Dotarły do nas dość rozgległe prace Justyna Męczennika (zamęczonego w 165 r.), pochodzące mniej więcej z połowy II wieku.
 
-From around the middle of the second century fairly extensive works by Justin Martyr (martyred in 165) have come down to us. His “Dialogue with Trypho” shows a masterful knowledge of the Old Testament to which he assigns the highest possible authority, evidently holding to a dictation view of inspiration—in Trypho 34 he says, “to persuade you that you have not understood anything of the Scriptures, I will remind you of another psalm, dictated to David by the Holy Spirit.”1 The whole point of Trypho is to prove that Jesus is Christ and God and therefore what He said and commanded was of highest authority.
+Dotarły do nas dość rozgległe prace Justyna Męczennika (zamęczonego w 165 r.), pochodzące mniej więcej z połowy II wieku. Jego „Dialog z Tryfonem” ukazuje mistrzowską znajomość Starego Testamentu, któremu przypisuje on najwyższy możliwy autorytet, ewidentnie trzymając się poglądu o natchnieniu jako dyktacie – w Tryfonie 34 mówi: „Aby przekonać cię, że nie zrozumiałeś nic ze Świętych Pism, przypomnę ci inny psalm, podyktowany Dawidowi przez Ducha Świętego”. Całe sedno Tryfona polega na udowodnieniu, że Jezus jest Chrystusem i Bogiem, a zatem to, co powiedział i nakazał, miało najwyższy autorytet.
+
+From around the middle of the second century fairly extensive works by Justin Martyr (martyred in 165) have come down to us. His “Dialogue with Trypho” shows a masterful knowledge of the Old Testament to which he assigns the highest possible authority, evidently holding to a dictation view of inspiration—in Trypho 34 he says, “to persuade you that you have not understood anything of the Scriptures, I will remind you of another psalm, dictated to David by the Holy Spirit.” The whole point of Trypho is to prove that Jesus is Christ and God and therefore what He said and commanded was of highest authority.
+
+footnote: I have used the translation in Vol. I of The Ante-Nicene Fathers, ed., A. Roberts and J. Donaldson (Grand Rapids: Wm. B. Eerdmans Publishing Co., 1956)
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
