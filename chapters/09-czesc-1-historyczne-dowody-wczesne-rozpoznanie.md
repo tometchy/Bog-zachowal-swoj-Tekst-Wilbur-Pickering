@@ -93,5 +93,4 @@ https://pl.wikipedia.org/wiki/2._List_Klemensa_do_Koryntian
 [^didache]: Didache lub Nauka dwunastu apostołów (gr. Διδαχὴ) – anonimowy krótki traktat starożytnego chrześcijaństwa, jedno ze starszych pism Ojców apostolskich. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Didache
 
-[^tlumaczenie-ante-nicene-fathers]: Wykorzystałem tłumaczenie zawarte w tomie I dzieła The Ante-Nicene Fathers, pod redakcją A. Robertsa i J. Donaldsona (Grand Rapids: Wm. B. Eerdmans Publishing Co., 1956).
-I have used the translation in Vol. I of The Ante-Nicene Fathers, ed., A. Roberts and J. Donaldson (Grand Rapids: Wm. B. Eerdmans Publishing Co., 1956)
+[^tlumaczenie-ante-nicene-fathers]: Skorzystałem z tłumaczenia zamieszczonego w tomie I The Ante-Nicene Fathers, red. A. Roberts i J. Donaldson (Grand Rapids: Wm. B. Eerdmans Publishing Co., 1956).
