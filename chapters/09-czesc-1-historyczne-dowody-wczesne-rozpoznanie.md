@@ -59,6 +59,10 @@ Inne wczesne dzieło – Pasterz Hermasa – szeroko stosowane w II i III wieku,
 
 Dotarły do nas dość rozległe prace Justyna Męczennika (zamęczonego w 165 r.), pochodzące mniej więcej z połowy II wieku. Jego „Dialog z Tryfonem” ukazuje mistrzowską znajomość Starego Testamentu, któremu przypisuje on najwyższy możliwy autorytet, ewidentnie trzymając się poglądu o natchnieniu jako dyktowaniu – w Tryfonie 34 mówi: „aby przekonać cię, że nie zrozumiałeś nic z Pism Świętych, przypomnę ci inny psalm, podyktowany Dawidowi przez Ducha Świętego”[^tlumaczenie-ante-nicene-fathers]. Całe sedno Tryfona polega na udowodnieniu, że Jezus jest Chrystusem i Bogiem, a zatem to, co powiedział i nakazał, miało najwyższy autorytet.
 
+W Apologii I, 66 Justyn mówi: „Albowiem apostołowie w sporządzonych przez siebie pamiętnikach, które zwane są Ewangeliami, w ten sposób przekazali to, co zostało im nakazane…”[^tlumaczenie-eehardy]. A w Dialogu z Żydem Tryfonem 119 mówi, że tak jak Abraham uwierzył głosowi Boga, „tak samo my, uwierzywszy głosowi Boga wypowiedzianemu przez apostołów Chrystusa...”
+
+In Apol. i.66 Justin says, “For the apostles in the memoirs composed by them, which are called Gospels, thus handed down what was commanded them...”[^tlumaczenie-eehardy] And in Trypho 119 he says that just as Abraham believed the voice of God, “in like manner we, having believed God’s voice spoken by the apostles of Christ...”
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
@@ -94,3 +98,5 @@ https://pl.wikipedia.org/wiki/2._List_Klemensa_do_Koryntian
 https://pl.wikipedia.org/wiki/Didache
 
 [^tlumaczenie-ante-nicene-fathers]: Skorzystałem z tłumaczenia zamieszczonego w tomie I The Ante-Nicene Fathers, red. A. Roberts i J. Donaldson (Grand Rapids: Wm. B. Eerdmans Publishing Co., 1956).
+
+[^tlumaczenie-eehardy]: Skorzystałem z tłumaczenia autorstwa E. R. Hardy’ego w Early Christian Fathers, red. C. C. Richardson (Philadelphia: The Westminster Press, 1953).
