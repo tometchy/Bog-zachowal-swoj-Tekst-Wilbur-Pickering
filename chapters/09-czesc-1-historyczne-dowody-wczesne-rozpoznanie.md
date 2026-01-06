@@ -61,9 +61,7 @@ Dotarły do nas dość rozległe prace Justyna Męczennika (zamęczonego w 165 r
 
 W *Apologii I*, 66 Justyn mówi: „Albowiem apostołowie w sporządzonych przez siebie pamiętnikach, które zwane są Ewangeliami, w ten sposób przekazali to, co zostało im nakazane…”[^tlumaczenie-eehardy]. A w *Dialogu z Żydem Tryfonem* 119 mówi, że tak jak Abraham uwierzył głosowi Boga, „tak samo my, uwierzywszy głosowi Boga wypowiedzianemu przez apostołów Chrystusa...”
 
-Z *Dialogu z Żydem Tryfonem* 120 wynika również jasno, że Justyn uważał pisma Nowego Testamentu za Pismo Święte. Niezwykle interesujące jest jednoznaczne odniesienie do Księgi Objawienia w *Dialogu z Żydem Tryfonem* 81. „Ponadto był z nami pewien człowiek imieniem Jan, jeden z apostołów Chrystusa, który prorokował, na podstawie objawienia, które zostało mu dane, że ci, którzy wierzą w naszego Chrystusa, będą mieszkać tysiąc lat w Jerozolimie”.
-
-It also seems clear from *Trypho* 120 that Justin considered New Testament writings to be Scripture. Of considerable interest is an unequivocal reference to the book of Revelation in *Trypho* 81. “And further, there was a certain man with us whose name was John, one of the apostles of Christ, who prophesied, by a revelation that was made to him, that those who believe in our Christ would dwell a thousand years in Jerusalem.”[^ponownie-roberts-donaldson]
+Z *Dialogu z Żydem Tryfonem* 120 wynika również jasno, że Justyn uważał pisma Nowego Testamentu za Pismo Święte. Niezwykle interesujące jest jednoznaczne odniesienie do Księgi Objawienia w *Dialogu z Żydem Tryfonem* 81. „Ponadto, był z nami pewien człowiek, który miał na imię Jan, jeden z apostołów Chrystusa, który prorokował, na podstawie objawienia, które zostało mu dane, że ci, którzy wierzą w naszego Chrystusa, będą mieszkać tysiąc lat w Jerozolimie”.[^ponownie-roberts-donaldson]
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
