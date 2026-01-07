@@ -63,9 +63,7 @@ W *Apologii I*, 66 Justyn mówi: „Albowiem apostołowie w sporządzonych przez
 
 Z *Dialogu z Żydem Tryfonem* 120 wynika również jasno, że Justyn uważał pisma Nowego Testamentu za Pismo Święte. Niezwykle interesujące jest jednoznaczne odniesienie do Księgi Objawienia w *Dialogu z Żydem Tryfonem* 81. „Ponadto, był z nami pewien człowiek, który miał na imię Jan, jeden z apostołów Chrystusa, który prorokował, na podstawie objawienia, które zostało mu dane, że ci, którzy wierzą w naszego Chrystusa, będą mieszkać tysiąc lat w Jerozolimie”.[^ponownie-roberts-donaldson]
 
-Justin mówi dalej: „Tak jak nasz Pan również powiedział” i cytuje Ewangelię Łukasza 20,35, więc najwyraźniej uważał Księgę Objawnienia za autorytatywną. (Skoro już mowa o Księdze Objawnienia, w 165 roku Meliton, biskup Sardes, napisał komentarz do tej księgi).
-
-Justin goes right on to say, “Just as our Lord also said”, and quotes Luke 20,35, so evidently he considered Revelation to be authoritative. (While on the subject of Revelation, in 165 Melito, Bishop of Sardis, wrote a commentary on the book.)
+Justin kontynuuje, mówiąc: „Tak jak również nasz Pan powiedział” i cytuje Ewangelię Łukasza 20,35, więc najwyraźniej uważał Księgę Objawnienia za autorytatywną. (Skoro już mowa o Księdze Objawnienia, w 165 roku Meliton, biskup Sardes, napisał komentarz do tej księgi).
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
