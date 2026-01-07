@@ -65,6 +65,10 @@ Z *Dialogu z Żydem Tryfonem* 120 wynika również jasno, że Justyn uważał pi
 
 Justin kontynuuje, mówiąc: „Tak jak również nasz Pan powiedział” i cytuje Ewangelię Łukasza 20,35, więc najwyraźniej uważał Księgę Objawnienia za autorytatywną. (Skoro już mowa o Księdze Objawnienia, w 165 roku Meliton, biskup Sardes, napisał komentarz do tej księgi).
 
+Najbardziej pouczający fragment występuje w *Apologii I* 67.
+
+> And on the day called Sunday there is a meeting in one place of those who live in cities or the country, and the memoirs of the apostles or the writings of the prophets are read as long as time permits. When the reader has finished, the president in a discourse urges and invites us to the imitation of these noble things.4
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
