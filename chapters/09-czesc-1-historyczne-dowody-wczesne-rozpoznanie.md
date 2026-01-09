@@ -59,7 +59,7 @@ Inne wczesne dzieło – Pasterz Hermasa – szeroko stosowane w II i III wieku,
 
 Dotarły do nas dość rozległe prace Justyna Męczennika (zamęczonego w 165 r.), pochodzące mniej więcej z połowy II wieku. Jego „Dialog z Tryfonem” ukazuje mistrzowską znajomość Starego Testamentu, któremu przypisuje on najwyższy możliwy autorytet, ewidentnie trzymając się poglądu o natchnieniu jako dyktowaniu – w Tryfonie 34 mówi: „aby przekonać cię, że nie zrozumiałeś nic z Pism Świętych, przypomnę ci inny psalm, podyktowany Dawidowi przez Ducha Świętego”[^tlumaczenie-ante-nicene-fathers]. Całe sedno Tryfona polega na udowodnieniu, że Jezus jest Chrystusem i Bogiem, a zatem to, co powiedział i nakazał, miało najwyższy autorytet.
 
-W *Apologii I*, 66 Justyn mówi: „Albowiem apostołowie w sporządzonych przez siebie pamiętnikach, które zwane są Ewangeliami, w ten sposób przekazali to, co zostało im nakazane…”[^tlumaczenie-eehardy]. A w *Dialogu z Żydem Tryfonem* 119 mówi, że tak jak Abraham uwierzył głosowi Boga, „tak samo my, uwierzywszy głosowi Boga wypowiedzianemu przez apostołów Chrystusa...”
+W *Apologii I*, 66 Justyn mówi: „Albowiem apostołowie w sporządzonych przez siebie wspomnieniach, które zwane są Ewangeliami, w ten sposób przekazali to, co zostało im nakazane…”[^tlumaczenie-eehardy]. A w *Dialogu z Żydem Tryfonem* 119 mówi, że tak jak Abraham uwierzył głosowi Boga, „tak samo my, uwierzywszy głosowi Boga wypowiedzianemu przez apostołów Chrystusa...”
 
 Z *Dialogu z Żydem Tryfonem* 120 wynika również jasno, że Justyn uważał pisma Nowego Testamentu za Pismo Święte. Niezwykle interesujące jest jednoznaczne odniesienie do Księgi Objawienia w *Dialogu z Żydem Tryfonem* 81. „Ponadto, był z nami pewien człowiek, który miał na imię Jan, jeden z apostołów Chrystusa, który prorokował, na podstawie objawienia, które zostało mu dane, że ci, którzy wierzą w naszego Chrystusa, będą mieszkać tysiąc lat w Jerozolimie”.[^ponownie-roberts-donaldson]
 
@@ -67,9 +67,7 @@ Justin kontynuuje, mówiąc: „Tak jak również nasz Pan powiedział” i cytu
 
 Najbardziej pouczający fragment występuje w *Apologii I* 67.
 
-> A w dzień zwany niedzielą odbywa się spotkanie w jednym miejscu tych, którzy mieszkają w miastach lub na wsi, i czytane są wspomnienia apostołów lub pisma proroków, o ile pozwala na to czas. Kiedy czytelnik kończy, przewodniczący w dyskursie namawia nas i zachęca do naśladowania tych szlachetnych rzeczy.[^4]
-
-> And on the day called Sunday there is a meeting in one place of those who live in cities or the country, and the memoirs of the apostles or the writings of the prophets are read as long as time permits. When the reader has finished, the president in a discourse urges and invites us to the imitation of these noble things.4
+> A w dzień zwany niedzielą odbywa się spotkanie w jednym miejscu tych, którzy mieszkają w miastach lub na wsi, i czytane są wspomnienia apostołów lub pisma proroków, dopóki pozwala na to czas. Kiedy czytelnik kończy, przewodniczący w dyskursie namawia nas i zachęca do naśladowania tych szlachetnych rzeczy.[^roberts-wniosek-o-skali-ruchu]
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
@@ -111,5 +109,6 @@ https://pl.wikipedia.org/wiki/Didache
 
 [^ponownie-roberts-donaldson]: Roberts i Donaldson, ponownie.
 
-[^4]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku:
+[^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie z pism świętych przez lokalne społeczności” (Manuscript, Society and Belief in Early Christian Egypt [Londyn: Oxford Univ. Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 wnioskuje on również, że kopia dzieła Ireneusza Adversus Haereses, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (tamże, str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
+
 E.R. Hardy, again. His careful study of the early Christian literary papyri has led C.H. Roberts to conclude: “This points to the careful and regular use of the scriptures by the local communities” (Manuscript, Society and Belief in Early Christian Egypt [London: Oxford Univ. Press, 1979], p. 25). He also infers from P. Oxy. iii. 405 that a copy of Irenaeus' Adversus Haereses, written in Lyons, was brought to Oxyrhynchus within a very few years after it was written (Ibid., pp. 23, 53), eloquent testimony to the extent of the traffic among the early churches.
