@@ -69,6 +69,8 @@ Najbardziej pouczający fragment występuje w *Apologii I* 67.
 
 > A w dzień zwany niedzielą odbywa się spotkanie w jednym miejscu tych, którzy mieszkają w miastach lub na wsi, i czytane są wspomnienia apostołów lub pisma proroków, dopóki pozwala na to czas. Kiedy czytelnik kończy, przewodniczący w dyskursie namawia nas i zachęca do naśladowania tych szlachetnych rzeczy.[^roberts-wniosek-o-skali-ruchu]
 
+Whether or not the order suggests that the Gospels were preferred to the Prophets, it is clear that they both were considered to be authoritative and equally enjoined upon the hearers. **Notice further that each assembly must have had its own copy of the apostles’ writings to read from**, and that such reading took place every week.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
