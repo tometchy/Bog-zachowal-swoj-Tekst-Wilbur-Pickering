@@ -71,8 +71,6 @@ Najbardziej pouczający fragment występuje w *Apologii I* 67.
 
 Niezależnie od tego, czy kolejność ta sugeruje, że Ewangelie były preferowane względem Proroków, jasne jest, że oba były uważane za autorytatywne i w równym stopniu zalecane słuchaczom. **Zwróć następnie uwagę, że każde zgromadzenie musiało posiadać własną kopię pism apostołów do czytania**, a takie czytanie miało miejsce co tydzień.
 
-NAJPIERW SPRAWDZ FOOTNOTE
-
 Whether or not the order suggests that the Gospels were preferred to the Prophets, it is clear that they both were considered to be authoritative and equally enjoined upon the hearers. **Notice further that each assembly must have had its own copy of the apostles’ writings to read from**, and that such reading took place every week.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
@@ -115,6 +113,4 @@ https://pl.wikipedia.org/wiki/Didache
 
 [^ponownie-roberts-donaldson]: Roberts i Donaldson, ponownie.
 
-[^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie z pism świętych przez lokalne społeczności” (Manuscript, Society and Belief in Early Christian Egypt [Londyn: Oxford Univ. Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 wnioskuje on również, że kopia dzieła Ireneusza Adversus Haereses, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (tamże, str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
-
-E.R. Hardy, again. His careful study of the early Christian literary papyri has led C.H. Roberts to conclude: “This points to the careful and regular use of the scriptures by the local communities” (Manuscript, Society and Belief in Early Christian Egypt [London: Oxford Univ. Press, 1979], p. 25). He also infers from P. Oxy. iii. 405 that a copy of Irenaeus' Adversus Haereses, written in Lyons, was brought to Oxyrhynchus within a very few years after it was written (Ibid., pp. 23, 53), eloquent testimony to the extent of the traffic among the early churches.
+[^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie z pism świętych przez lokalne społeczności” (*Manuscript, Society and Belief in Early Christian Egypt* [Londyn: Oxford University Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 [Papirus z Oksyrynchos tom III, nr 405, przyp. tłum.] wnioskuje on również, że kopia dzieła Ireneusza, *Adversus Haereses*, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (*Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
