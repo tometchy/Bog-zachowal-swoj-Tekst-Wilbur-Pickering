@@ -71,6 +71,8 @@ Najbardziej pouczający fragment występuje w *Apologii I* 67.
 
 Niezależnie od tego, czy kolejność ta sugeruje, że Ewangelie były preferowane względem Proroków, jasne jest, że zarówno jedne, jak i drugie, były uważane za autorytatywne i w równym stopniu nakazywane słuchaczom. **Zwróć następnie uwagę, że każde zgromadzenie musiało posiadać własną kopię pism apostołów do czytania**, a takie czytanie miało miejsce co tydzień.
 
+Athenagorus, in his “Plea”, written in early 177, quotes Matthew 5,28 as Scripture: “...we are not even allowed to indulge in a lustful glance. For, says the Scripture, ‘He who looks at a woman lustfully, has already committed adultery in his heart’” (32).1 He similarly treats Matthew 19,9, or Mark 10,11, in 33.
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
