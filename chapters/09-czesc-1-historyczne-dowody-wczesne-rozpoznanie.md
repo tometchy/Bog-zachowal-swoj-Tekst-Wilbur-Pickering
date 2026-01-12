@@ -71,7 +71,8 @@ Najbardziej pouczający fragment występuje w *Apologii I* 67.
 
 Niezależnie od tego, czy kolejność ta sugeruje, że Ewangelie były preferowane względem Proroków, jasne jest, że zarówno jedne, jak i drugie, były uważane za autorytatywne i w równym stopniu nakazywane słuchaczom. **Zwróć następnie uwagę, że każde zgromadzenie musiało posiadać własną kopię pism apostołów do czytania**, a takie czytanie miało miejsce co tydzień.
 
-Athenagorus, in his “Plea”, written in early 177, quotes Matthew 5,28 as Scripture: “...we are not even allowed to indulge in a lustful glance. For, says the Scripture, ‘He who looks at a woman lustfully, has already committed adultery in his heart’” (32).1 He similarly treats Matthew 19,9, or Mark 10,11, in 33.
+
+Athenagorus, in his “Plea”[^prosba-za-chrzescijanami-atenagoras], written in early 177, quotes Matthew 5,28 as Scripture: “...we are not even allowed to indulge in a lustful glance. For, says the Scripture, ‘He who looks at a woman lustfully, has already committed adultery in his heart’” (32).[^tlumaczenie-richardson-fathers] He similarly treats Matthew 19,9, or Mark 10,11, in 33.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
@@ -114,3 +115,7 @@ https://pl.wikipedia.org/wiki/Didache
 [^ponownie-roberts-donaldson]: Roberts i Donaldson, ponownie.
 
 [^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie z pism świętych przez lokalne społeczności” (*Manuscript, Society and Belief in Early Christian Egypt* [Londyn: Oxford University Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 [Papirus z Oksyrynchos tom III, nr 405, przyp. tłum.] wnioskuje on również, że kopia dzieła Ireneusza, *Adversus Haereses*, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (*Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
+
+[^tlumaczenie-richardson-fathers]: Skorzystałem z tłumaczenia autorstwa C.C. Richardsona z książki Early Christian Fathers.
+
+[^prosba-za-chrzescijanami-atenagoras]: *A Plea for the Christians*, na język polski przetłumaczony S. Kalinkowski (tłum.), Warszawa: IW PAX, 1985. [przyp. tłum.]
