@@ -118,4 +118,4 @@ https://pl.wikipedia.org/wiki/Didache
 
 [^tlumaczenie-richardson-fathers]: Skorzystałem z tłumaczenia autorstwa C.C. Richardsona z książki Early Christian Fathers.
 
-[^prosba-za-chrzescijanami-atenagoras]: *A Plea for the Christians*, na język polski przetłumaczony S. Kalinkowski (tłum.), Warszawa: IW PAX, 1985. [przyp. tłum.]
+[^prosba-za-chrzescijanami-atenagoras]: Atenagoras z Aten napisał książkę *Πρεσβεία περὶ Χριστιανῶν*, w języku angielskim znaną jako *A Plea for the Christians* albo *An Embassy for the Christians*, na język polski przetłumaczoną przez Stanisława Kalinkowskiego pod tytułem „Prośba za chrześcijanami”, Warszawa: Instytut Wydawniczy PAX, 1985. [przyp. tłum.]
