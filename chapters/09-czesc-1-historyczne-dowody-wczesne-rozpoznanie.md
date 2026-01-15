@@ -71,9 +71,7 @@ Najbardziej pouczający fragment występuje w *Apologii I* 67.
 
 Niezależnie od tego, czy kolejność ta sugeruje, że Ewangelie były preferowane względem Proroków, jasne jest, że zarówno jedne, jak i drugie, były uważane za autorytatywne i w równym stopniu nakazywane słuchaczom. **Zwróć następnie uwagę, że każde zgromadzenie musiało posiadać własną kopię pism apostołów do czytania**, a takie czytanie miało miejsce co tydzień.
 
-Atenagoras, w swoim dziele „Plea”[^prosba-za-chrzescijanami-atenagoras], napisanym na początku 177 roku, cytuje Ewangelię Mateusza 5,28 jako Pismo Święte: „...Albowiem, jak mówi Pismo Święte, «Ten, kto patrzy na kobietę pożądliwie, już popełnił cudzołóstwo w swoim sercu»” (32)[^tlumaczenie-richardson-fathers]. Podobnie traktuje Ewangelię Mateusza 19,9 lub Ewangelię Marka 10,11 w rozdziale 33.
-
-Athenagorus, in his “Plea”[^prosba-za-chrzescijanami-atenagoras], written in early 177, quotes Matthew 5,28 as Scripture: “...we are not even allowed to indulge in a lustful glance. For, says the Scripture, ‘He who looks at a woman lustfully, has already committed adultery in his heart’” (32).[^tlumaczenie-richardson-fathers] He similarly treats Matthew 19,9, or Mark 10,11, in 33.
+Atenagoras, w swoim dziele „Plea”[^prosba-za-chrzescijanami-atenagoras], napisanym na początku 177 roku, cytuje z Ewangelii Mateusza 5,28 jako z Pisma Świętego: „...nie wolno nam nawet oddawać się pożądliwemu spojrzeniu. Albowiem, Pismo Święte mówi, «Ten, kto patrzy na kobietę pożądliwie, już popełnił cudzołóstwo w swoim sercu»” (32)[^tlumaczenie-richardson-fathers]. Podobnie traktuje on  Ewangelię Mateusza 19,9 lub Ewangelię Marka 10,11 w rozdziale 33.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
