@@ -16,7 +16,7 @@ Tłumaczenie stawia wierność oryginałowi ponad płynność współczesnej po
 
 przetłumaczono na:
 
-> Oznacza to to: że
+> To oznacza to: że
 
 chociaż bardziej naturalnie brzmiałoby:
 
