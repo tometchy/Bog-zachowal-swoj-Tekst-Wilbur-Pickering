@@ -73,7 +73,7 @@ Niezależnie od tego, czy kolejność ta sugeruje, że Ewangelie były preferowa
 
 Atenagoras, w swoim dziele „Plea”[^prosba-za-chrzescijanami-atenagoras], napisanym na początku 177 roku, cytuje z Ewangelii Mateusza 5,28 jako z Pisma Świętego: „...nie wolno nam nawet oddawać się pożądliwemu spojrzeniu. Albowiem, Pismo Święte mówi, «Ten, kto patrzy na kobietę pożądliwie, już popełnił cudzołóstwo w swoim sercu»” (32)[^tlumaczenie-richardson-fathers]. Podobnie traktuje on  Ewangelię Mateusza 19,9 lub Ewangelię Marka 10,11 w rozdziale 33.
 
-Teofil, biskup Antiochii[teofil-z-antiochii], w swoim traktacie do Autolikusa cytuje 1 List do Tymoteusza 2,1 i List do Rzymian 13,7 jako „Słowo Boże” (iii.14), cytuje czwartą Ewangelię, mówiąc, że Jan był „natchniony przez Ducha” (ii.22) , w jednym akapicie wspomina o Księdze Izajasza i „Ewangelii” jako o Piśmie Świętym (iii.14) i w kilku fragmentach obstaje, że autorzy nigdy nie zaprzeczali sobie nawzajem: „Oświadczenia Proroków i Ewangelii okazują się spójne, ponieważ wszystkie były natchnione jednym Duchem Bożym” (ii.9; ii.35; iii.17).[^wziete-z-gd-barry-52]
+Teofil, biskup Antiochii[^teofil-z-antiochii], w swoim traktacie do Autolikusa cytuje 1 List do Tymoteusza 2,1 i List do Rzymian 13,7 jako „Słowo Boże” (iii.14), cytuje czwartą Ewangelię, mówiąc, że Jan był „natchniony przez Ducha” (ii.22) , w jednym akapicie wspomina o Księdze Izajasza i „Ewangelii” jako o Piśmie Świętym (iii.14) i w kilku fragmentach obstaje, że autorzy nigdy nie zaprzeczali sobie nawzajem: „Oświadczenia Proroków i Ewangelii okazują się spójne, ponieważ wszystkie były natchnione jednym Duchem Bożym” (ii.9; ii.35; iii.17).[^wziete-z-gd-barry-52]
 
 Theophilus, bishop of Antioch, in his treatise to Autolycus, quotes 1 Timothy 2,1 and Romans 13,7 as “the Divine Word” (iii.14); quotes from the fourth Gospel, saying that John was “inspired by the Spirit” (ii.22); Isaiah and “the Gospel” are mentioned in one paragraph as Scripture (iii.14), and he insists in several passages that the writers never contradicted each other: “The statements of the Prophets and of the Gospels are found to be consistent, because all were inspired by the one Spirit of God” (ii.9; ii.35; iii.17).2
 
@@ -121,9 +121,9 @@ https://pl.wikipedia.org/wiki/Didache
 
 [^tlumaczenie-richardson-fathers]: Skorzystałem z tłumaczenia autorstwa C.C. Richardsona z książki Early Christian Fathers.
 
-[^prosba-za-chrzescijanami-atenagoras]: Atenagoras z Aten napisał książkę *Πρεσβεία περὶ Χριστιανῶν*, w języku angielskim znaną jako *A Plea for the Christians* albo *An Embassy for the Christians*, na język polski przetłumaczoną przez Stanisława Kalinkowskiego pod tytułem „Prośba za chrześcijanami”, Warszawa: Instytut Wydawniczy PAX, 1985. [przyp. tłum.]
+[^prosba-za-chrzescijanami-atenagoras]: Atenagoras z Aten napisał rozprawę *Πρεσβεία περὶ Χριστιανῶν*, w języku angielskim znaną jako *A Plea for the Christians* albo *An Embassy for the Christians*, na język polski przetłumaczoną przez Stanisława Kalinkowskiego pod tytułem „Prośba za chrześcijanami”, Warszawa: Instytut Wydawniczy PAX, 1985. [przyp. tłum.]
 
-[teofil-z-antiochii]: Teofil z Antiochii, biskup Antiochii Syryjskiej w latach 169–182. [przyp. tłum.]  
+[^teofil-z-antiochii]: Teofil z Antiochii, biskup Antiochii Syryjskiej w latach 169–182. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Teofil_z_Antiochii
 
 [^wziete-z-gd-barry-52]: Wzięte z G.D. Barry, The Inspiration and Authority of Holy Scripture (Nowy Jork: The McMillan Company, 1919), str. 52.
