@@ -22,6 +22,8 @@ chociaż bardziej naturalnie brzmiałoby:
 
 > Oznacza to, że
 
+Tyczy się to również cytowanych przez autora fragmentów Biblii - są one tłumaczone na język polski, żeby odwołania do konkretnych słów i wyrażeń pozostały w książce spójne i zrozumiałe.
+
 Tłumaczenie dostępne do pobrania z [tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering) w formatach:
 
 - [EPUB](https://github.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/raw/refs/heads/master/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub)
