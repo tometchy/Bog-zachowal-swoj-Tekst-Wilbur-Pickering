@@ -75,7 +75,7 @@ Atenagoras, w swoim dziele „Plea”[^prosba-za-chrzescijanami-atenagoras], nap
 
 Teofil, biskup Antiochii[^teofil-z-antiochii], w swoim traktacie do Autolikusa cytuje 1 List do Tymoteusza 2,1 i List do Rzymian 13,7 jako „Słowo Boże” (iii.14), cytuje z czwartej Ewangelii, mówiąc, że Jan był „natchniony przez Ducha” (ii.22), Księga Izajasza i „Ewangelia” są wspomniane w jednym akapicie jako Pismo Święte (iii.14) i obstaje on w kilku fragmentach, że autorzy nigdy nie zaprzeczali sobie nawzajem: „Oświadczenia Proroków i Ewangelii okazują się spójne, ponieważ wszystkie były natchnione przez jednego Ducha Bożego” (ii.9; ii.35; iii.17).[^wziete-z-gd-barry-52]
 
-Dzieła Ireneusza (zm. 202 r.), które zachowały się do dziś, w tym jego główne dzieło Przeciw heretykom napisane około 185 r., są mniej więcej równe pod względem objętości do wszystkich poprzedzajacych dzieł Ojców Kościoła razem wziętych.
+Dzieła Ireneusza (zm. 202 r.), które zachowały się do dziś, w tym jego główne dzieło Przeciw heretykom napisane około 185 r., są mniej więcej równe pod względem objętości do wszystkich poprzedzajacych dzieł Ojców razem wziętych.
 
 The surviving writings of Irenaeus (died in 202), his major work *Against Heretics* being written about 185, are about equal in volume to those of all the preceding Fathers put together.
 
