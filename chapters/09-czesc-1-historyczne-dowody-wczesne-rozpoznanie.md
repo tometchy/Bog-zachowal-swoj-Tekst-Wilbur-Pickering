@@ -47,7 +47,7 @@ Z drugiej strony, Polikarp, pisząc do kościoła w Filippi (ok. 115 r. n.e.?), 
 
 Jego stosunek do pism Nowego Testamentu jasno wynika z 12,1: „Jestem pewien, że jesteście dobrze wyszkoleni w świętych Pismach,... A teraz, jak jest to powiedziane w tych Pismach: «Gniewajcie się, ale nie grzeszcie» i «Niech słońce nie zachodzi nad waszym gniewem». Błogosławiony ten, kto to pamięta”.[^ponownie-glimm] Obie części cytatu mogły pochodzić z Listu do Efezjan 4,26, ale ponieważ Polikarp podzielił go, w pierwszej połowie mógł odnosić się do Psalmu 4,5 (LXX). W obu przypadkach deklaruje, że List do Efezjan jest „świętym Pismem”. Dalszy wgląd w jego postawę można znaleźć w 3,1-2.
 
-> Bracia, piszę wam to dotyczące prawości, nie z własnej inicjatywy, ale dlatego, że wy pierwsi zaprosiliście mnie. Gdyż ani ja, ani nikt podobny do mnie, nie jest w stanie rywalizować z mądrością błogosławionego i chwalebnego Pawła, który, kiedy żył wśród was, starannie i niezłomnie nauczał słowo prawdy twarzą w twarz ze swoimi współczesnymi, a kiedy był nieobecny, pisał do was listy. Dzięki uważnej lekturze jego listów będziecie mogli umocnić się w danej wam wierze, „która jest matką nas wszystkich”...[^Ibid]
+> Bracia, piszę wam to dotyczące prawości, nie z własnej inicjatywy, ale dlatego, że wy pierwsi zaprosiliście mnie. Gdyż ani ja, ani nikt podobny do mnie, nie jest w stanie rywalizować z mądrością błogosławionego i chwalebnego Pawła, który, kiedy żył wśród was, starannie i niezłomnie nauczał słowo prawdy twarzą w twarz ze swoimi współczesnymi, a kiedy był nieobecny, pisał do was listy. Dzięki uważnej lekturze jego listów będziecie mogli umocnić się w danej wam wierze, „która jest matką nas wszystkich”...[^ibid]
 
 (To od osoby, która była być może najbardziej szanowanym biskupem w Azji Mniejszej w swoich czasach. Został zamęczony w 156 r. n.e.)
 
@@ -77,6 +77,10 @@ Teofil, biskup Antiochii[^teofil-z-antiochii], w swoim traktacie do Autolikusa c
 
 Dzieła Ireneusza (zm. 202 r.)[^ireneusz-z-lyonu], które zachowały się do dziś, jego główne dzieło *Przeciw heretykom*[^przeciwko-herezjom] napisane około 185 r., są mniej więcej równe pod względem objętości do dzieł wszystkich poprzedzających Ojców razem wziętych.
 
+Jego świadectwo dotyczące autorytetu i natchnienia Pisma Świętego jest jasne i jednoznaczne. Przenika ono całość jego pism, a świadectwo to ma ponadprzeciętną wartość, ponieważ należy je traktować jako bezpośrednio reprezentujące co najmniej trzy kościoły, tych z Lyonu, Azji Mniejszej i Rzymu. Autorytatywne wykorzystanie obu Testamentów jest jasno określone.[^ibid-53]
+
+His testimony to the authority and inspiration of Holy Scripture is clear and unequivocal. It pervades the whole of his writings; and this testimony is more than ordinarily valuable because it must be regarded as directly representing three churches at least, those of Lyons, Asia Minor, and Rome. The authoritative use of both Testaments is clearly laid down.[^ibid-53]
+
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
 [^cowel-zrodlo]: Colwell, „Jaki jest najlepszy Nowy Testament?” [ang. „What is the Best New Testament?”, przyp. tłum.], s. 53. (Później zmienił zdanie.)
@@ -103,7 +107,7 @@ Dzieła Ireneusza (zm. 202 r.)[^ireneusz-z-lyonu], które zachowały się do dzi
 
 [^ponownie-glimm]: Francis Glimm, ponownie.
 
-[^Ibid]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.]
+[^ibid]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.]
 
 [^drugi-list-klemensa-do-koryntian]: Drugi List Klemensa do Koryntian – pismo ze schyłku okresu ojców apostolskich, wcześniej mylnie przypisywane biskupowi Rzymu św. Klemensowi. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/2._List_Klemensa_do_Koryntian
@@ -133,3 +137,5 @@ https://pl.wikipedia.org/wiki/Ireneusz_z_Lyonu
 
 [^przeciwko-herezjom]: Autor prawdopodobnie ma na myśli dzieło znane w Polsce jako _Przeciwko herezjom_ (_Adversus haereses_). [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Adversus_haereses
+
+[^ibid-53]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], strona 53.
