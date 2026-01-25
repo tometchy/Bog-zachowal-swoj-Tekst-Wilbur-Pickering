@@ -1,3 +1,5 @@
 ### Czy pierwsi chrześcijanie byli staranni?
 
+Zostało szeroko przyjęte, że pierwsi chrześcijanie byli albo obojętni, albo niezdolni do czuwania nad czystością tekstu. (Przypomnijmy słowa Horta przytoczone powyżej). Ponownie konieczny jest przegląd założeń. Wielu z pierwszych wierzących było pobożnymi Żydami, którzy mieli głęboko zakorzeniony szacunek i troskę o Pismo Starego Testamentu, sięgające najdrobniejszej kropki lub kreski. Ten szacunek i troska w naturalny sposób rozciągały się również na Pismo Nowego Testamentu.
+
 It has been widely affirmed that the early Christians were either unconcerned or unable to watch over the purity of the text. (Recall Hort’s words given above.) Again a review of the premises is called for. Many of the first believers had been devout Jews who had an ingrained reverence and care for the Old Testament Scriptures which extended to the very jots and tittles. This reverence and care would naturally be extended to the New Testament Scriptures.
