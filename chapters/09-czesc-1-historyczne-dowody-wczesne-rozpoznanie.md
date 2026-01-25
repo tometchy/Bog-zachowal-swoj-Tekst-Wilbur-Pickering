@@ -83,9 +83,7 @@ Ireneusz stwierdził, że apostołowie nauczali, iż Bóg jest Autorem obu Testa
 
 Od czasów Ireneusza nie może być żadnych wątpliwości dotyczących stosunku Kościoła do pism Nowego Testamentu – są one Pismem Świętym. Tertulian (w 208 r.) powiedział o Kościele w Rzymie: „prawo i proroków łączy w jednym tomie z pismami ewangelistów i apostołów” (*Recepta przeciw heretykom* [ang. *Prescription against Heretics*, przyp. tłum.], 36).
 
-Proszę o uwagę! Jak dotąd przedstawione dowody wnoszą do naszej dyskusji następujący wkład: implikacje ich stosunku do Tekstu. To, czy ktoś dzisiaj zgadza się z nimi, czy nie, jest nieistotne. Pierwsi Chrześcijanie wierzyli, że „księgi” Nowego Testamentu były natchnione przez Boga, stanowiąc drugi Kanon. W wyniku swojej wiary traktowali te pisma z troską i szacunkiem.
-
-Attention please! The contribution of the evidence so far presented to our discussion is this: the implications of their attitude towards the Text. Whether or not someone today agrees with them is beside the point. The early Christians believed that the NT ‘books’ were divinely inspired, constituting a second Canon. As a consequence of their belief, they would treat those writings with care and respect.
+Proszę o uwagę! Jak dotąd przedstawione dowody wnoszą do naszej dyskusji następujący wkład: implikacje ich stosunku wobec Tekstu. To, czy ktoś dzisiaj zgadza się z nimi, czy nie, nie ma związku. Pierwsi Chrześcijanie wierzyli, że „księgi” Nowego Testamentu były natchnione przez Boga, stanowiąc drugi Kanon. W wyniku swojej wiary traktowali te pisma z troską i szacunkiem.
 
 [^reprodukcja-rozdzialu]: Od tego momentu, ta Część I stanowi w zasadzie reprodukcję (z kilkoma upiększeniami) większości Rozdziału 5 mojej książki „The Identity of the New Testament Text IV” („Tożsamość Tekstu Nowego Testamentu IV”), dostępnej na Amazon.com, a także na mojej stronie internetowej, www.prunch.org.
 
