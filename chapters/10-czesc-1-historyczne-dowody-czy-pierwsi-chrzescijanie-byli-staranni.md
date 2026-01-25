@@ -1,0 +1,3 @@
+### Czy pierwsi chrześcijanie byli staranni?
+
+It has been widely affirmed that the early Christians were either unconcerned or unable to watch over the purity of the text. (Recall Hort’s words given above.) Again a review of the premises is called for. Many of the first believers had been devout Jews who had an ingrained reverence and care for the Old Testament Scriptures which extended to the very jots and tittles. This reverence and care would naturally be extended to the New Testament Scriptures.
