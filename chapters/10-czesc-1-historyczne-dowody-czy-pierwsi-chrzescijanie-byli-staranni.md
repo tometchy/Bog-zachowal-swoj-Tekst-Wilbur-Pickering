@@ -10,6 +10,10 @@ Apostołowie nie tylko sami ogłosili pisma Nowego Testamentu Pismem Świętym, 
 
 Rozważ teraz List do Galacjan 1,6-9. „Jestem niemiło zaskoczony, że tak szybko odwracacie się od tego, który powołał was łaską Chrystusa, ku innej ewangelii – nie jest to jedynie wariant, ale niektórzy ludzie niepokoją was i chcą zniekształcić Ewangelię Chrystusa. A nawet gdybyśmy my lub anioł z nieba głosił wam ewangelię inną niż ta, którą wam głosiliśmy, niech będzie przeklęty! Tak jak właśnie powiedzieliśmy, powtarzam tutaj stanowczo: jeśli ktoś głosi wam ewangelię inną niż ta, którą otrzymaliście, niech będzie przeklęty!!”[^inne-ewangelie-w-duzych-ilosciach] Czy Paweł mógłby wyrazić się jeszcze bardziej stanowczo? Zwróć uwagę, że Paweł twierdzi, iż jest kompetentny do zdefiniowania jedynej prawdziwej Ewangelii Chrystusa, a mógł to zrobić prawdziwie tylko dzięki natchnieniu boskiemu.
 
+Rozważ teraz 2 List Piotra 2,1-2. „Jednakże, byli również fałszywi prorocy wśród ludu, tak jak, rzeczywiście, będą wśród was fałszywi nauczyciele, którzy wprowadzą destrukcyjne herezje, nawet zaprzeczać Właścicielowi, który ich wykupił (sprowadzając na siebie szybką zagładę). I wielu pójdzie za ich rozwiązłymi drogami, przez co droga Prawdy zostanie zniesławiona”. Piotr ostrzegł wierzących, aby mieli się na baczności przed fałszywymi nauczycielami.
+
+Now consider 2 Peter 2,1-2. “However, there were also false prophets among the people, just as, indeed, there will be false teachers among you, who will introduce destructive heresies, even denying the Owner who bought them (bringing on themselves swift destruction). And many will follow their licentious ways, because of which the way of the Truth will be defamed.” Peter warned the believers to be on their guard against false teachers.
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
