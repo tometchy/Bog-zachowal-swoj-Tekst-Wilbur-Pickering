@@ -12,6 +12,15 @@ Rozważ teraz List do Galacjan 1,6-9. „Jestem niemiło zaskoczony, że tak szy
 
 Rozważ teraz 2 List Piotra 2,1-2. „Jednakże, byli również fałszywi prorocy pośród ludu, tak jak, w istocie, będą pośród was fałszywi nauczyciele, którzy wprowadzą destrukcyjne herezje, nawet zaprzeczając Właściciela, który ich wykupił (przynosząc na siebie szybką zagładę). I wielu pójdzie ich rozwiązłymi drogami, przez co droga Prawdy zostanie zniesławiona”. Piotr ostrzegł wierzących, aby mieli się na baczności przed fałszywymi nauczycielami.
 
+And then there is 2 John 7 and 9-11. “Now many deceivers have come into the world,[^X] who do not acknowledge Jesus Christ as coming in flesh[^X2]—this is the deceiver, even the Antichrist!” “Anyone who turns aside and does not continue in the teaching of Christ does not have God; but whoever continues in Christ’s teaching does have both the Father and the Son. If anyone comes to you and does not bring this teaching, do not receive him into your house; do not even tell him, “I wish you well”, because whoever tells him, “I wish you well”, participates in his malignant works.”[^X3] Some might feel that John’s language is a little strong, but he was definitely warning them. Going back to verse 7, The Text has “coming”, not ‘having come’, so evidently John is referring to Christ’s second coming, which will certainly be “in flesh”. Recall the word of the angels in Acts 1,11.
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
+
+[^X]: Około 82% greckich manuskryptów zawiera sformułowanie „przyszło” zamiast „wyszło” (jak w większości wersji). Pozostałe 18% prawdopodobnie opisuje oszustów wychodzących z kościoła do świata, ale nie o to chodziło Janowi. Oszuści zostali wprowadzeni do świata przez szatana, oryginalnego i głównego oszusta.
+Some 82% of the Greek manuscripts have “come into” rather than ‘go out into’ (as in most versions). The 18% presumably have the deceivers going out from the church into the world, but that is not John’s point. The deceivers have been introduced into the world by Satan, the original and boss deceiver.
+
+[^X1]: Recall the word of the angels in Acts 1,11, “This very Jesus who is being taken up from you into the sky, He will come again in the precise manner that you observed Him going into the sky.” The angels are emphatic; the return is going to be just like the departure. I take it that the Lord will return with the same glorified human body, visibly, come out of a cloud, and His feet will touch down at the same spot where they left (see Matthew 24,30, “coming on the clouds”, and Zechariah 14,4, “His feet will stand on the Mount of Olives”).
+
+[^X2]: People who do not believe and teach what Christ taught are on the other side. To be malignant is to be aggressively evil. Obviously, we should avoid anything that might be interpreted as identification with such people.
