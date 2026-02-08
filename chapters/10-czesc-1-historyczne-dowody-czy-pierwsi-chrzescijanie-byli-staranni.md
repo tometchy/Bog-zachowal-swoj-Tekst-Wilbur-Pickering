@@ -16,6 +16,8 @@ A dalej jest 2 List Jana 1,7;9-11. „Gdyż wielu oszustów przyszło na świat,
 
 Oświadczenie Piotra dotyczące „przekręcania”, któremu poddawano słowa Pawła (2 List Piotra 3,16) sugeruje, że istniała świadomość i troska co do tekstu i sposobu, w jaki się z nim obchodzono. Uznaję, że Apostołowie skupiali się na interpretacji zamiast na kopiowaniu tekstu, a jednak, jako że każda zmiana tekstu może skutkować odmienną interpretacją, możemy rozsądnie wnioskować, że ich troska o prawdę obejmowała wierne przekazywanie tekstu.
 
+Indeed, we could scarcely ask for a clearer expression of this concern than that given in Revelation 22,18-19. “I myself testify to everyone who hears the words of the prophecy of this book: If any one adds to them, may God add to **him** the seven plagues written in this book! And if anyone takes away from the word**s**[^3] of the book of this prophecy, may God remove his share from the tree of life and out of the Holy City, that stand written in this book!” Since it is the glorified Christ who is speaking, would not any true follower of His pay careful attention?
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
