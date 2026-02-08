@@ -49,7 +49,7 @@ Licencja zezwala na:
 - **Brak dodatkowych ograniczeń** — Nie możesz korzystać ze środków prawnych lub technologicznych, które ograniczają innych w korzystaniu z utworu na warunkach określonych w licencji.
 
 ## Wydawnictwo Świadome Chrześcijaństwo
-Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać wspólnie z nami dzieło tłumaczenia i wydawania Duchowej literatury dla naszego kraju, podajemy numer konta:
+Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać razem z nami dzieło tłumaczenia i wydawania Duchowej literatury dla naszego kraju, podajemy numer konta:
 
 **Fundacja Świadome Chrześcijaństwo**  
 Nr rachunku: 51175000120000000034138044
