@@ -54,4 +54,4 @@ Dla tych, którzy żyjąc Bożym życiem, a nie teorią, chcą wspierać wspóln
 **Fundacja Świadome Chrześcijaństwo**  
 Nr rachunku: 51175000120000000034138044
 
-Pozostałe książki wydawnictwa dostępnepne pod adresem [wswch.pl](https://www.wswch.pl/).
+Pozostałe książki wydawnictwa dostępne pod adresem [wswch.pl](https://www.wswch.pl/).
