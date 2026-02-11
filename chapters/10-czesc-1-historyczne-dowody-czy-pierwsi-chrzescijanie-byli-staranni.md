@@ -18,8 +18,6 @@ Oświadczenie Piotra dotyczące „przekręcania”, któremu poddawano słowa P
 
 Rzeczywiście, trudno byłoby znaleźć wyraźniejsze odzwierciedlenie tej troski niż to zawarte w Objawieniach Jana 22,18-19. „Ja sam świadczę wszystkim, którzy słyszą słów proroctwa tej księgi: Jeśli ktokolwiek doda do nich, niech Bóg doda **mu** siedem plag wypisanych w tej księdze! A jeśli ktokolwiek zabierze ze sł**ów**[^slow-w-libczbie-mnogiej] księgi tego proroctwa, niech Bóg odejmie jego udział z drzewa życia i ze Świętego Miasta, które są opisane w tej księdze!” Ponieważ to uwielbiony Chrystus przemawia, czyż każdy prawdziwy Jego naśladowca nie zwróci szczególną uwagę?
 
-Indeed, we could scarcely ask for a clearer expression of this concern than that given in Revelation 22,18-19. “I myself testify to everyone who hears the words of the prophecy of this book: If any one adds to them, may God add to **him** the seven plagues written in this book! And if anyone takes away from the word**s**[^3] of the book of this prophecy, may God remove his share from the tree of life and out of the Holy City, that stand written in this book!” Since it is the glorified Christ who is speaking, would not any true follower of His pay careful attention?
-
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
