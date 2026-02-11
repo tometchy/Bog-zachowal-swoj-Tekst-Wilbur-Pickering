@@ -1,4 +1,4 @@
-### Czy pierwsi chrześcijanie byli staranni?
+### Czy pierwsi chrześcijanie byli ostrożni?
 
 Zostało szeroko przyjęte, że pierwsi Chrześcijanie byli albo obojętni, albo niezdolni do czuwania nad czystością tekstu. (Przypomnij sobie słowa Horta przytoczone powyżej). Ponownie konieczny jest przegląd założeń. Wielu z pierwszych wierzących było pobożnymi Żydami, którzy mieli zakorzeniony szacunek i troskę o Pismo Starego Testamentu, sięgające najdrobniejszej kropki czy kreski. Ten szacunek i troska w naturalny sposób rozciągały się również na Pismo Nowego Testamentu.
 
@@ -17,6 +17,12 @@ A dalej jest 2 List Jana 1,7;9-11. „Gdyż wielu oszustów przyszło na świat,
 Oświadczenie Piotra dotyczące „przekręcania”, któremu poddawano słowa Pawła (2 List Piotra 3,16) sugeruje, że istniała świadomość i troska co do tekstu i sposobu, w jaki się z nim obchodzono. Uznaję, że Apostołowie skupiali się na interpretacji zamiast na kopiowaniu tekstu, a jednak, jako że każda zmiana tekstu może skutkować odmienną interpretacją, możemy rozsądnie wnioskować, że ich troska o prawdę obejmowała wierne przekazywanie tekstu.
 
 Rzeczywiście, trudno byłoby znaleźć wyraźniejsze odzwierciedlenie tej troski niż to zawarte w Objawieniach Jana 22,18-19. „Ja sam świadczę wszystkim, którzy słyszą słów proroctwa tej księgi: Jeśli ktokolwiek doda do nich, niech Bóg doda **mu** siedem plag wypisanych w tej księdze! A jeśli ktokolwiek zabierze ze sł**ów**[^slow-w-libczbie-mnogiej] księgi tego proroctwa, niech Bóg odejmie jego udział z drzewa życia i ze Świętego Miasta, które są opisane w tej księdze!” Ponieważ to uwielbiony Chrystus przemawia, czyż każdy prawdziwy Jego naśladowca nie zwróci szczególną uwagę?
+
+Suwerenny Jezus wyraźnie wyraził tę ochronną troskę na początku Swojej ziemskiej służby. W Ewangelii Mateusza 5,19 czytamy: „ktokolwiek unieważni jedno z najmniejszych z tych przykazań i tak naucza ludzi...”. Zwróć uwagę na słowa „jedno z najmniejszych” – troska Pana rozciąga się nawet na „najmniejsze”.
+
+Sovereign Jesus clearly expressed this protective concern early in His earthly ministry. In Matthew 5:19 we read: “whoever annuls one of the least of these commandments, and teaches men so...” Note, “one of the least”; the Lord’s concern extends down to “the least”.
+
+*Pierwsi liderzy*
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
