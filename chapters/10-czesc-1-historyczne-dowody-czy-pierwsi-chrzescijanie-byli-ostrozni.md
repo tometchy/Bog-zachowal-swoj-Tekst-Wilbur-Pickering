@@ -18,11 +18,13 @@ Oświadczenie Piotra dotyczące „przekręcania”, któremu poddawano słowa P
 
 Rzeczywiście, trudno byłoby znaleźć wyraźniejsze odzwierciedlenie tej troski niż to zawarte w Objawieniach Jana 22,18-19. „Ja sam świadczę wszystkim, którzy słyszą słów proroctwa tej księgi: Jeśli ktokolwiek doda do nich, niech Bóg doda **mu** siedem plag wypisanych w tej księdze! A jeśli ktokolwiek zabierze ze sł**ów**[^slow-w-libczbie-mnogiej] księgi tego proroctwa, niech Bóg odejmie jego udział z drzewa życia i ze Świętego Miasta, które są opisane w tej księdze!” Ponieważ to uwielbiony Chrystus przemawia, czyż każdy prawdziwy Jego naśladowca nie zwróci szczególną uwagę?
 
-Suwerenny Jezus wyraźnie wyraził tę ochronną troskę na początku Swojej ziemskiej służby. W Ewangelii Mateusza 5,19 czytamy: „ktokolwiek unieważni jedno z najmniejszych z tych przykazań i tak naucza ludzi...”. Zwróć uwagę na słowa „jedno z najmniejszych” – troska Pana rozciąga się nawet na „najmniejsze”.
-
-Sovereign Jesus clearly expressed this protective concern early in His earthly ministry. In Matthew 5:19 we read: “whoever annuls one of the least of these commandments, and teaches men so...” Note, “one of the least”; the Lord’s concern extends down to “the least”.
+Suwerenny Jezus wyraźnie wyraził tę ochronną troskę na początku Swojej ziemskiej służby. W Ewangelii Mateusza 5,19 czytamy: „ktokolwiek unieważni jedno z najmniejszych z tych przykazań i tak naucza ludzi...”. Zwróć uwagę, „jedno z najmniejszych” – troska Pana rozciąga się nawet na „najmniejsze”.
 
 *Pierwsi liderzy*
+
+Pierwsi liderzy dostarczają kilku pomocnych wskazówek dotyczących sytuacji w ich czasach. Listy Ignacego zawierają kilka odniesień do intensywnych kontaktów między kościołami (Azji Mniejszej, Grecji i Rzymu) za pośrednictwem posłańców (często oficjalnych), co wydaje się wskazywać na głębokie poczucie solidarności łączącej je ze sobą oraz szerokie rozpowszechnianie wiadomości i opinii – problem z heretykiem w jednym miejscu szybko stawał się znany wszędzie itp. Że istniało silne przekonanie o integralności Pisma Świętego, jasno pokazuje Polikarp (7,1): „Ktokolwiek wypacza słowa Pana... ten jest pierworodnym Szatana”. Współcześni krytycy mogą nie lubić terminologii Polikarpa, ale użycie przez niego tak mocnych słów jasno pokazuje, że nie był on tylko świadomy i zaniepokojony, był udręczony.
+
+The early leaders furnish a few helpful clues as to the state of affairs in their day. The letters of Ignatius contain several references to a considerable traffic between the churches (of Asia Minor, Greece and Rome) by way of messengers (often official), which seems to indicate a deep sense of solidarity binding them together, and a wide circulation of news and attitudes—a problem with a heretic in one place would soon be known all over, etc. That there was strong feeling about the integrity of the Scriptures is made clear by Polycarp (7,1), “Whoever perverts the sayings of the Lord… that one is the firstborn of Satan”. Present-day critics may not like Polycarp’s terminology, but for him to use such strong language makes clear that he was not merely aware and concerned; he was **exercised**.
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
