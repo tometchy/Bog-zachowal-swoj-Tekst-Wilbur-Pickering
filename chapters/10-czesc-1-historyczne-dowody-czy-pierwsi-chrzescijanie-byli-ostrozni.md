@@ -22,7 +22,11 @@ Suwerenny Jezus wyraźnie wyraził tę ochronną troskę na początku Swojej zie
 
 *Pierwsi liderzy*
 
-Pierwsi liderzy dostarczają kilku pomocnych wskazówek dotyczących stanu rzeczy w ich czasach. Listy Ignacego zawierają kilka odniesień do intensywnych kontaktów między kościołami (Azji Mniejszej, Grecji i Rzymu) za pośrednictwem posłańców (często oficjalnych), co wydaje się wskazywać na głębokie poczucie solidarności łączącej ich ze sobą oraz szerokie rozpowszechnianie wiadomości i opinii – problem z heretykiem w jednym miejscu szybko stawał się znany wszędzie, itd. Że istniało silne przekonanie o integralności Świętych Pism, jasno pokazuje Polikarp (7,1): „Ktokolwiek wypacza słowa Pana... ten jest pierworodnym Szatana”. Współcześni krytycy mogą nie lubić terminologii Polikarpa, ale użycie przez niego tak mocnych słów jasno pokazuje, że nie był on jedynie świadomy i zaniepokojony, on był **udręczony**.
+Pierwsi liderzy dostarczają kilku pomocnych wskazówek dotyczących stanu rzeczy w ich czasach. Listy Ignacego zawierają kilka odniesień do intensywnych kontaktów między kościołami (Azji Mniejszej, Grecji i Rzymu) za pośrednictwem posłańców (często oficjalnych), co wydaje się wskazywać na głębokie poczucie solidarności łączącej ich ze sobą oraz szerokie rozpowszechnianie wiadomości i opinii – problem z heretykiem w jednym miejscu szybko stawał się znany wszędzie, itd. Że istniało silne przekonanie o integralności Świętych Pism, jasno pokazuje Polikarp (7,1): „Ktokolwiek wypacza słowa Pana... ten jest pierworodnym Szatana”. Współcześni krytycy mogą nie lubić terminologii Polikarpa, ale użycie przez niego tak mocnych słów jasno pokazuje, że nie był on jedynie świadomy i zaniepokojony, on był **wzburzony**.
+
+Podobnie Justyn Męczennik mówi (Apologia I[^justyn-apologia-i],58): „niegodziwe demony wysunęły także Marcjona z Pontu”. Ponadto użycie tak mocnego języka jasno pokazuje, że był on nie tylko świadomy i zaniepokojony, lecz głęboko poruszony. A w Dialogu z Żydem Tryfonem (rozdz. 35)[^dialog-z-zydem-tryfonem] mówi o heretykach głoszących nauki duchów błędu, że fakt ten „sprawia, iż my, którzy jesteśmy uczniami prawdziwej i czystej nauki Jezusa Chrystusa, stajemy się bardziej wierni i niezłomni w nadziei przez Niego ogłoszonej.”
+
+Similarly, Justin Martyr says (Apol. i.58), “the wicked demons have also put forward Marcion of Pontus”. Again, such strong language makes clear that he was aware and concerned. And in Trypho xxxv he says of heretics teaching doctrines of the spirits of error, that fact “causes us who are disciples of the true and pure doctrine of Jesus Christ to be more faithful and steadfast in the hope announced by Him.”
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
@@ -35,3 +39,9 @@ Pierwsi liderzy dostarczają kilku pomocnych wskazówek dotyczących stanu rzecz
 [^ludzie-po-drugiej-stronie]: Ludzie, którzy nie wierzą i nie nauczają tego, czego nauczał Chrystus, są po drugiej stronie. Bycie złowrogim oznacza bycie agresywnie złym. Oczywiście powinniśmy unikać wszystkiego, co mogłoby być interpretowane jako identyfikowanie się z takimi ludźmi.
 
 [^slow-w-libczbie-mnogiej]: „Słów”, w liczbie mnogiej, obejmuje poszczególne słowa, które składają się na całość. Ci krytycy tekstu, którzy bez skrupułów usunęli słowa z Tekstu, opierając się na inspirowanych przez szatana założeniach, są wykluczeni. Ci, którzy interpretują Tekst w taki sposób, aby uniknąć jego oczywistego znaczenia, podobnie. Jehowa Syn potwierdza, że słowa są „prawdziwe i **wierne**” i oczekuje od nas, że będziemy je tak interpretować.
+
+[^justyn-apologia-i]: Apologia pierwsza powstała około 155 r. do cesarza Antonina Piusa. [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
+
+[^dialog-z-zydem-tryfonem]: Dialog z Żydem Tryfonem relacja z dwudniowej, być może fikcyjnej rozmowy Justyna z rabinem (reprezentantem hellenistycznej diaspory), która odbyła się w Efezie, spisana w 142 rozdziałach. Nie zachowała się w całości, brakuje części wstępu i 74 rozdziału. [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
