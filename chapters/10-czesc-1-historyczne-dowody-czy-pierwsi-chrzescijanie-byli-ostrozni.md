@@ -28,6 +28,8 @@ Podobnie, Justyn Męczennik mówi (Apologia I[^justyn-apologia-i], 58): „okrop
 
 Wydaje się oczywiste, że działalność heretycka miałaby dokładnie taki skutek, postawienia wiernych na baczności i zmuszenia ich do zdefiniowania w swoich własnych umysłach tego, czego zamierzają bronić. Tak więc okrojony kanon Marcjona ewidentnie pobudził wiernych do zdefiniowania prawdziwego kanonu. Ale Marcjon zmienił również sformułowania Listów Łukasza i Pawła, a z ich gorzkich skarg jasno wynika, że wierni byli zarówno świadomi, jak i zaniepokojeni. Na marginesie możemy zauważyć, że działalność heretycka dostarcza również niebezpośredniego dowodu na to, że pisma Nowego Testamentu były uważane za Pismo Święte – po co fatygować się fałszowaniem ich, jeśli nie miały one autorytetu?
 
+Dionizy, biskup Koryntu (168-176), skarżył się, że jego własne listy zostały przerobione, a co gorsza, również Pismo Święte.
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
