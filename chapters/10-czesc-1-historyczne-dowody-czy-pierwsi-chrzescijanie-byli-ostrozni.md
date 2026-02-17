@@ -30,6 +30,11 @@ Wydaje się oczywiste, że działalność heretycka miałaby dokładnie taki sku
 
 Dionizy, biskup Koryntu (168-176), skarżył się, że jego własne listy zostały przerobione, a co gorsza, również Pismo Święte.
 
+ *Przeciw heretykom* _Przeciwko herezjom_ (_Adversus haereses_). [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/Adversus_haereses
+
+And they insisted that they had received a pure tradition. Thus Irenaeus said that the doctrine of the apostles had been handed down by the succession of bishops, being guarded and preserved, without any forging of the Scriptures, allowing neither addition nor curtailment, involving public reading without falsification (Against Heretics IV. 32:8).
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
