@@ -32,7 +32,7 @@ Dionizy, biskup Koryntu (168-176), skarżył się, że jego własne listy zosta�
 
 I upierali się, że otrzymali czystą tradycję. Tak więc Ireneusz powiedział, że doktryna apostołów została przekazana przez sukcesję biskupów, strzeżona i zachowana, bez żadnego podrabiania Świętych Pism, nie dopuszczając ani dodatków, ani skrótów, obejmując publiczne czytanie bez zafałszowań (*Przeciw heretykom* IV. 32:8).
 
-And they insisted that they had received a pure tradition. Thus Irenaeus said that the doctrine of the apostles had been handed down by the succession of bishops, being guarded and preserved, without any forging of the Scriptures, allowing neither addition nor curtailment, involving public reading without falsification (Against Heretics IV. 32:8).
+And they insisted that they had received a pure tradition. Thus Irenaeus said that the doctrine of the apostles had been handed down by the succession of bishops, being guarded and preserved, without any forging of the Scriptures, allowing neither addition nor curtailment, involving public reading without falsification (Against Heretics IV. 32,8).
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
