@@ -57,7 +57,7 @@ Dwa inne wczesne dzieła, *Didache*[^didache] i List do Diogneta, posługują si
 
 Inne wczesne dzieło – Pasterz Hermasa – szeroko stosowane w II i III wieku, zawiera dość wyraźne aluzje do Ewangelii Mateusza, Ewangelii Marka, 1 Listu do Koryntian, Listu do Efezjan, Listu do Hebrajczyków, a zwłaszcza Listu Jakuba.
 
-Dotarły do nas dość rozległe prace Justyna Męczennika (zamęczonego w 165 r.), pochodzące mniej więcej z połowy II wieku. Jego „Dialog z Tryfonem” ukazuje mistrzowską znajomość Starego Testamentu, któremu przypisuje on najwyższy możliwy autorytet, ewidentnie trzymając się poglądu o natchnieniu jako dyktowaniu – w Tryfonie 34 mówi: „aby przekonać cię, że nie zrozumiałeś nic z Pism Świętych, przypomnę ci inny psalm, podyktowany Dawidowi przez Ducha Świętego”[^tlumaczenie-ante-nicene-fathers]. Całe sedno Tryfona polega na udowodnieniu, że Jezus jest Chrystusem i Bogiem, a zatem to, co powiedział i nakazał, miało najwyższy autorytet.
+Dotarły do nas dość rozległe prace Justyna Męczennika (zamęczonego w 165 r.), pochodzące mniej więcej z połowy II wieku. Jego „Dialog z Tryfonem” ukazuje mistrzowską znajomość Starego Testamentu, któremu przypisuje on najwyższy możliwy autorytet, ewidentnie trzymając się poglądu o natchnieniu jako dyktowaniu – w Tryfonie 34 mówi: „aby przekonać cię, że nie zrozumiałeś nic ze Świętych Pism, przypomnę ci inny psalm, podyktowany Dawidowi przez Ducha Świętego”[^tlumaczenie-ante-nicene-fathers]. Całe sedno Tryfona polega na udowodnieniu, że Jezus jest Chrystusem i Bogiem, a zatem to, co powiedział i nakazał, miało najwyższy autorytet.
 
 W *Apologii I*, 66 Justyn mówi: „Albowiem apostołowie w sporządzonych przez siebie wspomnieniach, które zwane są Ewangeliami, w ten sposób przekazali to, co zostało im nakazane…”[^tlumaczenie-eehardy]. A w *Dialogu z Żydem Tryfonem* 119 mówi, że tak jak Abraham uwierzył głosowi Boga, „tak samo my, uwierzywszy głosowi Boga wypowiedzianemu przez apostołów Chrystusa...”
 
@@ -125,7 +125,7 @@ https://pl.wikipedia.org/wiki/Didache
 
 [^ponownie-roberts-donaldson]: Roberts i Donaldson, ponownie.
 
-[^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie z pism świętych przez lokalne społeczności” (*Manuscript, Society and Belief in Early Christian Egypt* [Londyn: Oxford University Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 [Papirus z Oksyrynchos tom III, nr 405, przyp. tłum.] wnioskuje on również, że kopia dzieła Ireneusza, *Adversus Haereses*, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (*Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
+[^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie ze świętych pism przez lokalne społeczności” (*Manuscript, Society and Belief in Early Christian Egypt* [Londyn: Oxford University Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 [Papirus z Oksyrynchos tom III, nr 405, przyp. tłum.] wnioskuje on również, że kopia dzieła Ireneusza, *Adversus Haereses*, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (*Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
 
 [^tlumaczenie-richardson-fathers]: Skorzystałem z tłumaczenia autorstwa C.C. Richardsona z książki Early Christian Fathers.
 
@@ -139,7 +139,7 @@ https://pl.wikipedia.org/wiki/Teofil_z_Antiochii
 [^ireneusz-z-lyonu]: Ireneusz z Lyonu - ur. ok. 140 w Smyrnie w Azji Mniejszej, zm. ok. 202 w Lugdunum) – biskup Vienne, teolog, apologeta, ojciec i Doktor Kościoła, męczennik chrześcijański, święty Kościoła katolickiego i prawosławnego. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Ireneusz_z_Lyonu
 
-[^przeciwko-herezjom]: Autor prawdopodobnie ma na myśli dzieło znane w Polsce jako _Przeciwko herezjom_ (_Adversus haereses_). [przyp. tłum.]  
+[^przeciwko-herezjom]: Autor prawdopodobnie ma na myśli dzieło znane w Polsce jako *Przeciwko herezjom* (*Adversus haereses*). [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Adversus_haereses
 
 [^ibid-53]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], strona 53.

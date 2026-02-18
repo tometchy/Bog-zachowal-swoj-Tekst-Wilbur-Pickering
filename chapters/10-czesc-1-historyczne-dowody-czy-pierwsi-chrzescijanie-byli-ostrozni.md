@@ -30,8 +30,7 @@ Wydaje się oczywiste, że działalność heretycka miałaby dokładnie taki sku
 
 Dionizy, biskup Koryntu (168-176), skarżył się, że jego własne listy zostały przerobione, a co gorsza, również Pismo Święte.
 
- *Przeciw heretykom* _Przeciwko herezjom_ (_Adversus haereses_). [przyp. tłum.]  
-https://pl.wikipedia.org/wiki/Adversus_haereses
+I upierali się, że otrzymali czystą tradycję. Tak więc Ireneusz powiedział, że doktryna apostołów została przekazana przez sukcesję biskupów, strzeżona i zachowana, bez żadnego podrabiania Świętych Pism, nie dopuszczając ani dodatków, ani skrótów, obejmując publiczne czytanie bez zafałszowań (*Przeciw heretykom* IV. 32:8).
 
 And they insisted that they had received a pure tradition. Thus Irenaeus said that the doctrine of the apostles had been handed down by the succession of bishops, being guarded and preserved, without any forging of the Scriptures, allowing neither addition nor curtailment, involving public reading without falsification (Against Heretics IV. 32:8).
 
