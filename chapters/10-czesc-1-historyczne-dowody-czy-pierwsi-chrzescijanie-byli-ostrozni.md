@@ -32,6 +32,9 @@ Dionizy, biskup Koryntu (168-176), skarżył się, że jego własne listy zosta�
 
 I upierali się, że otrzymali czystą tradycję. Tak więc Ireneusz powiedział, że doktryna apostołów została przekazana przez sukcesję biskupów, strzeżona i zachowana, bez żadnego podrabiania Świętych Pism, nie dopuszczając ani dodatków, ani skrótów, obejmując publiczne czytanie bez zafałszowań (*Przeciw heretykom* IV. 32:8).
 
+[^X]
+Tertullian, also, says of his right to the New Testament Scriptures, “I hold sure title-deeds from the original owners themselves… I am the heir of the apostles. Just as they carefully prepared their will and testament, and committed it to a trust… even so I hold it.” 1
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
@@ -49,3 +52,5 @@ https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
 
 [^dialog-z-zydem-tryfonem]: Dialog z Żydem Tryfonem - relacja z dwudniowej, być może fikcyjnej rozmowy Justyna z rabinem (reprezentantem hellenistycznej diaspory), która odbyła się w Efezie, spisana w 142 rozdziałach. Nie zachowała się w całości, brakuje części wstępu i 74 rozdziału. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
+
+[^X]: *Recepta przeciw heretykom* [ang. *Prescription against Heretics*, przyp. tłum.], 37. I have used the translation done by Peter Holmes in Vol. III of The Ante-Nicene Fathers.
