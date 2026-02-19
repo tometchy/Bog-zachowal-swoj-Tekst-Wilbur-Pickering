@@ -32,7 +32,8 @@ Dionizy, biskup Koryntu (168-176), skarżył się, że jego własne listy zosta�
 
 I upierali się, że otrzymali czystą tradycję. Tak więc Ireneusz powiedział, że doktryna apostołów została przekazana przez sukcesję biskupów, strzeżona i zachowana, bez żadnego podrabiania Świętych Pism, nie dopuszczając ani dodatków, ani skrótów, obejmując publiczne czytanie bez zafałszowań (*Przeciw heretykom* IV. 32:8).
 
-[^against-heretics-peter-holmes-iii]
+Również Tertulian mówi o swoim prawie do Pism Nowego Testamentu: „Posiadam pewne akty własności od samych pierwotnych właścicieli... Jestem spadkobiercą apostołów. Tak jak oni starannie przygotowali swoją wolę i testament, i powierzyli je w zarząd... tak samo ja je posiadam”.[^against-heretics-peter-holmes-iii]
+
 Tertullian, also, says of his right to the New Testament Scriptures, “I hold sure title-deeds from the original owners themselves… I am the heir of the apostles. Just as they carefully prepared their will and testament, and committed it to a trust… even so I hold it.” 1
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
