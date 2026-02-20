@@ -34,6 +34,13 @@ I upierali się, że otrzymali czystą tradycję. Tak więc Ireneusz powiedział
 
 Tertulian, również, mówi o swoim prawie do Pism Nowego Testamentu: „Posiadam pewne akty własności od samych pierwotnych właścicieli... Jestem spadkobiercą apostołów. Tak jak oni starannie przygotowali swoją wolę i testament, i powierzyli je w zarząd... tak samo ja je posiadam”.[^against-heretics-peter-holmes-iii]
 
+*Ireneusz*
+
+W celu zapewnienia dokładności transkrypcji
+[^bm-metzger-str-21]
+
+In order to ensure accuracy in transcription, authors would sometimes add at the close of their literary works an adjuration directed to future copyists. So, for example, Irenaeus attached to the close of his treatise On the Ogdoad the following note: “I adjure you who shall copy out this book, by our Lord Jesus Christ and by his glorious advent when he comes to judge the living and the dead, that you compare what you transcribe, and correct it carefully against this manuscript from which you copy, and also that you transcribe this adjuration and insert it in the copy.”2
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
@@ -53,3 +60,5 @@ https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
 https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
 
 [^against-heretics-peter-holmes-iii]: *Recepta przeciw heretykom* [ang. *Prescription against Heretics*, przyp. tłum.], 37. Skorzystałem z tłumaczenia Petera Holmesa zamieszczonego w tomie III serii *The Ante-Nicene Fathers*.
+
+[^bm-metzger-str-21]: B.M. Metzger, *Tekst Nowego Testamentu* [ang. *The Text of the New Testament*, przyp. tłum.] (Londyn: Oxford University Press, 1964), str. 21.
