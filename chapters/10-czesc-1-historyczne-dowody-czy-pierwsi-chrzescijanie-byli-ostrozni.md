@@ -36,8 +36,7 @@ Tertulian, również, mówi o swoim prawie do Pism Nowego Testamentu: „Posiada
 
 *Ireneusz*
 
-W celu zapewnienia dokładności transkrypcji
-[^bm-metzger-str-21]
+W celu zapewnienia dokładności transkrypcji autorzy czasami dodawali na końcu swoich dzieł literackich wezwanie skierowane do przyszłych kopistów. Dlatego, na przykład, Ireneusz dołączył na końcu swojego traktatu *O Ogdoadzie* następującą notatkę: „Zaklinam was, którzy będziecie kopiować tę książkę, przez naszego Pana Jezusa Chrystusa i Jego chwalebne nadejście, kiedy przyjdzie osądzić żywych i umarłych, abyście porównywali to, co przepisujecie, i starannie poprawiali w oparciu o ten rękopis, z którego kopiujecie, a także abyście przepisali to wezwanie i umieścili je w kopii”.[^bm-metzger-str-21]
 
 In order to ensure accuracy in transcription, authors would sometimes add at the close of their literary works an adjuration directed to future copyists. So, for example, Irenaeus attached to the close of his treatise On the Ogdoad the following note: “I adjure you who shall copy out this book, by our Lord Jesus Christ and by his glorious advent when he comes to judge the living and the dead, that you compare what you transcribe, and correct it carefully against this manuscript from which you copy, and also that you transcribe this adjuration and insert it in the copy.”2
 
