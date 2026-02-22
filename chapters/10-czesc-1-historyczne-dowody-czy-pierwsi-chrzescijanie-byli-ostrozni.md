@@ -38,7 +38,7 @@ Tertulian, również, mówi o swoim prawie do Pism Nowego Testamentu: „Posiada
 
 W celu zapewnienia dokładności transkrypcji autorzy czasami dodawali na końcu swoich dzieł literackich wezwanie skierowane do przyszłych kopistów. Dlatego, na przykład, Ireneusz dołączył na końcu swojego traktatu *O Ogdoadzie* następującą notatkę: „Zaklinam was, którzy będziecie kopiować tę księgę, przez naszego Pana Jezusa Chrystusa i Jego chwalebne nadejście, kiedy przyjdzie osądzić żywych i umarłych, abyście porównywali to, co przepisujecie, i starannie poprawiali w oparciu o ten rękopis, z którego kopiujecie, a także, abyście przepisali to wezwanie i umieścili je w kopii”.[^bm-metzger-str-21]
 
-^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
+[^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
 
