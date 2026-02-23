@@ -38,6 +38,8 @@ Tertulian, również, mówi o swoim prawie do Pism Nowego Testamentu: „Posiada
 
 W celu zapewnienia dokładności transkrypcji autorzy czasami dodawali na końcu swoich dzieł literackich wezwanie skierowane do przyszłych kopistów. Dlatego, na przykład, Ireneusz dołączył na końcu swojego traktatu *O Ogdoadzie* następującą notatkę: „Zaklinam was, którzy będziecie kopiować tę księgę, przez naszego Pana Jezusa Chrystusa i Jego chwalebne nadejście, kiedy przyjdzie osądzić żywych i umarłych, abyście porównywali to, co przepisujecie, i starannie poprawiali w oparciu o ten rękopis, z którego kopiujecie, a także, abyście przepisali to wezwanie i umieścili je w kopii”.[^bm-metzger-str-21]
 
+If Irenaeus took such extreme precautions for the accurate transmission of his own work, how much more would he be concerned for the accurate copying of the Word of God? In fact, he demonstrates his concern for the accuracy of the text by defending the traditional reading of a **single letter**. The question is whether John the Apostle wrote χξς̓ (666) or χις̓ (616) in Revelation 13,18. Irenaeus asserts that 666 is found “in all the most approved and ancient copies” and that “those men who saw John face to face” bear witness to it. And he warns those who made the change (of a single letter) that “there shall be no light punishment upon him who either adds or subtracts anything from the Scripture” (xxx.1). Presumably Irenaeus is applying Revelation 22,18-19.
+
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
 [^inne-ewangelie-w-duzych-ilosciach]: Te „inne ewangelie” wydają się być dostępne w dużych ilościach. Ci, którzy je promują, są przeklęci.
