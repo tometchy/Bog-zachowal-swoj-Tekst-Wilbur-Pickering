@@ -32,13 +32,19 @@ Dionizy, biskup Koryntu (168-176), skarżył się, że jego własne listy zosta�
 
 I upierali się, że otrzymali czystą tradycję. Tak więc Ireneusz powiedział, że doktryna apostołów została przekazana przez sukcesję biskupów, strzeżona i zachowana, bez żadnego podrabiania Świętych Pism, nie dopuszczając ani dodatków, ani skrótów, obejmując publiczne czytanie bez zafałszowań (*Przeciw heretykom* IV. 32:8).
 
-Tertulian, również, mówi o swoim prawie do Pism Nowego Testamentu: „Posiadam pewne akty własności od samych pierwotnych właścicieli... Jestem spadkobiercą apostołów. Tak jak oni starannie przygotowali swoją wolę i testament, i powierzyli je w zarząd... tak samo ja je posiadam”.[^against-heretics-peter-holmes-iii]
+Tertulian, również, mówi o swoim prawie do Pism Nowego Testamentu: „Posiadam pewne akty własności od samych pierwotnych właścicieli... Jestem spadkobiercą apostołów. Tak jak oni starannie przygotowali swoją wolę i testament, i powierzyli je w zarząd... tak samo ja je posiadam”.[^against-heretics-peter-holmes-iii-37]
 
 *Ireneusz*
 
 W celu zapewnienia dokładności transkrypcji autorzy czasami dodawali na końcu swoich dzieł literackich wezwanie skierowane do przyszłych kopistów. Dlatego, na przykład, Ireneusz dołączył na końcu swojego traktatu *O Ogdoadzie* następującą notatkę: „Zaklinam was, którzy będziecie kopiować tę księgę, przez naszego Pana Jezusa Chrystusa i Jego chwalebne nadejście, kiedy przyjdzie osądzić żywych i umarłych, abyście porównywali to, co przepisujecie, i starannie poprawiali w oparciu o ten rękopis, z którego kopiujecie, a także, abyście przepisali to wezwanie i umieścili je w kopii”.[^bm-metzger-str-21]
 
 Jeżeli Ireneusz podejmował tak ekstremalne środki ostrożności, w celu wiernego przekazywania własnego dzieła, to o ileż bardziej troszczyłby się o wierne kopiowanie Słowa Bożego? W rzeczywistości demonstruje on swoją troskę o dokładność tekstu, broniąc tradycyjnego odczytu **pojedynczej litery**. Pytanie brzmi, czy apostoł Jan napisał χξς̓ (666) czy χις̓ (616) w Księdze Objawienia 13,18. Ireneusz zapewnia, że 666 znajduje się „we wszystkich najbardziej uznanych i najstarszych kopiach” i że „ci, którzy widzieli Jana twarzą w twarz”, świadczą o tym. Ostrzega też tych, którzy dokonali zmiany (pojedynczej litery), że „nie będzie łagodnej kary dla tego, kto albo coś dodaje albo ujmie z Pisma Świętego” (xxx.1 [rozdział 30, paragraf 1, przyp. tłum.]). Przypuszczalnie Ireneusz odnosi się do Księgi Objawień 22,18-19.
+
+Biorąc pod uwagę bliskie relacje Polikarpa z Janem, jego prywatna kopia Księgi Objawień najprawdopodobniej została przepisana z Autografu. A biorąc pod uwagę wielki szacunek Ireneusza dla Polikarpa, jego prywatna kopia Księgi Objawień prawdopodobnie została przepisana z kopii Polikarpa. Chociaż Ireneusz najwyraźniej nie był już w stanie odnieść się do Autografu (niecałe dziewięćdziesiąt lat po jego napisaniu!), był ewidentnie w stanie zidentyfikować wierną kopię i z całą pewnością stwierdzić, jak brzmiał oryginalny tekst – a było to w 186 roku. Co prowadzi nas do Tertuliana.
+
+*Tertulian*
+
+[^against-heretics-peter-holmes-iii-36]
 
 Considering Polycarp’s intimacy with John, his personal copy of Revelation would most probably have been taken from the Autograph. And considering Irenaeus’ veneration for Polycarp his personal copy of Revelation was probably taken from Polycarp’s. Although Irenaeus evidently was no longer able to refer to the Autograph (not ninety years after it was written!) he was clearly in a position to identify a faithful copy and to declare with certainty the original reading—this in 186 AD. Which brings us to Tertullian.
 
@@ -60,6 +66,8 @@ https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
 [^dialog-z-zydem-tryfonem]: Dialog z Żydem Tryfonem - relacja z dwudniowej, być może fikcyjnej rozmowy Justyna z rabinem (reprezentantem hellenistycznej diaspory), która odbyła się w Efezie, spisana w 142 rozdziałach. Nie zachowała się w całości, brakuje części wstępu i 74 rozdziału. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
 
-[^against-heretics-peter-holmes-iii]: *Recepta przeciw heretykom* [ang. *Prescription against Heretics*, przyp. tłum.], 37. Skorzystałem z tłumaczenia Petera Holmesa zamieszczonego w tomie III serii *The Ante-Nicene Fathers*.
+[^against-heretics-peter-holmes-iii-37]: *Recepta przeciw heretykom* [ang. *Prescription against Heretics*, przyp. tłum.], 37. Skorzystałem z tłumaczenia Petera Holmesa zamieszczonego w tomie III serii *The Ante-Nicene Fathers*.
 
 [^bm-metzger-str-21]: B.M. Metzger, *Tekst Nowego Testamentu* [ang. *The Text of the New Testament*, przyp. tłum.] (Londyn: Oxford University Press, 1964), str. 21.
+
+[^against-heretics-peter-holmes-iii-36]: *Recepta przeciw heretykom* [ang. *Prescription against Heretics*, przyp. tłum.], 36, korzystając z tłumaczenia Holmesa.
