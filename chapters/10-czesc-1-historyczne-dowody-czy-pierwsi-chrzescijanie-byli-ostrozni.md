@@ -40,13 +40,11 @@ W celu zapewnienia dokładności transkrypcji autorzy czasami dodawali na końcu
 
 Jeżeli Ireneusz podejmował tak ekstremalne środki ostrożności, w celu wiernego przekazywania własnego dzieła, to o ileż bardziej troszczyłby się o wierne kopiowanie Słowa Bożego? W rzeczywistości demonstruje on swoją troskę o dokładność tekstu, broniąc tradycyjnego odczytu **pojedynczej litery**. Pytanie brzmi, czy apostoł Jan napisał χξς̓ (666) czy χις̓ (616) w Księdze Objawienia 13,18. Ireneusz zapewnia, że 666 znajduje się „we wszystkich najbardziej uznanych i najstarszych kopiach” i że „ci, którzy widzieli Jana twarzą w twarz”, świadczą o tym. Ostrzega też tych, którzy dokonali zmiany (pojedynczej litery), że „nie będzie łagodnej kary dla tego, kto albo coś dodaje albo ujmie z Pisma Świętego” (xxx.1 [rozdział 30, paragraf 1, przyp. tłum.]). Przypuszczalnie Ireneusz odnosi się do Księgi Objawienia 22,18-19.
 
-Biorąc pod uwagę bliskie relacje Polikarpa z Janem, jego prywatna kopia Księgi Objawienia najprawdopodobniej została przepisana z Autografu. A biorąc pod uwagę wielki szacunek Ireneusza dla Polikarpa, jego prywatna kopia Księgi Objawienia prawdopodobnie została przepisana z kopii Polikarpa. Chociaż Ireneusz najwyraźniej nie był już w stanie odnieść się do Autografu (niecałe dziewięćdziesiąt lat po jego napisaniu!), był ewidentnie w stanie zidentyfikować wierną kopię i z całą pewnością stwierdzić, jak brzmiał oryginalny tekst – a było to w 186 roku. Co prowadzi nas do Tertuliana.
+Biorąc pod uwagę bliskie relacje Polikarpa z Janem, jego prywatna kopia Księgi Objawienia najprawdopodobniej została przepisana z Autografu. A biorąc pod uwagę wielki szacunek Ireneusza do Polikarpa, jego prywatna kopia Księgi Objawienia prawdopodobnie została przepisana z kopii Polikarpa. Chociaż Ireneusz najwyraźniej nie był już w stanie odnieść się do Autografu (niecałe dziewięćdziesiąt lat po jego napisaniu!), był ewidentnie w stanie zidentyfikować wierną kopię i z całą pewnością stwierdzić, jak brzmiał oryginalny tekst – to w 186 roku. Co prowadzi nas do Tertuliana.
 
 *Tertulian*
 
 [^against-heretics-peter-holmes-iii-36]
-
-Considering Polycarp’s intimacy with John, his personal copy of Revelation would most probably have been taken from the Autograph. And considering Irenaeus’ veneration for Polycarp his personal copy of Revelation was probably taken from Polycarp’s. Although Irenaeus evidently was no longer able to refer to the Autograph (not ninety years after it was written!) he was clearly in a position to identify a faithful copy and to declare with certainty the original reading—this in 186 AD. Which brings us to Tertullian.
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
