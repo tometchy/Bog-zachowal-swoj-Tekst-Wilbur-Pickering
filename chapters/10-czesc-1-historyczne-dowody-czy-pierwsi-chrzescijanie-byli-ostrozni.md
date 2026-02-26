@@ -44,7 +44,10 @@ Biorąc pod uwagę bliskie relacje Polikarpa z Janem, jego prywatna kopia Księg
 
 *Tertulian*
 
+(*authenticae* [z łac. prawdziwie, autentyczne, przyp. tłum.])
 [^against-heretics-peter-holmes-iii-36]
+
+Around the year 208 he urged the heretics to run over the apostolic churches, in which the very thrones of the apostles are still preeminent in their places, in which their own authentic writings (authenticae) are read, uttering the voice and representing the face of each of them severally. Achaia is very near you, (in which) you find Corinth. Since you are not far from Macedonia, you have Philippi, (and there too) you have the Thessalonians. Since you are able to cross to Asia, you get Ephesus. Since, moreover, you are close upon Italy, you have Rome, from which there comes even into our own hands the very authority (of the apostles themselves).1
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
