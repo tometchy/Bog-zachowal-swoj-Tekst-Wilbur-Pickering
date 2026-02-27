@@ -44,10 +44,13 @@ Biorąc pod uwagę bliskie relacje Polikarpa z Janem, jego prywatna kopia Księg
 
 *Tertulian*
 
-(*authenticae* [z łac. prawdziwie, autentyczne, przyp. tłum.])
-[^against-heretics-peter-holmes-iii-36]
+Około roku 208 nawoływał heretyków do udania się do kościołów apostolskich, w których trony apostołów nadal górują w swoich miejscach, w których czytane są ich autentyczne pisma (*authenticae* [z łac. prawdziwie, autentyczne, przyp. tłum.]), wyrażające głos i reprezentujące twarz każdego z nich z osobna. Achaja jest bardzo blisko was, (w której) znajduje się Korynt. Ponieważ nie jesteście daleko od Macedonii, macie Filippi, (a tam też) macie Tesaloniczan. Ponieważ możecie przeprawić się do Azji, macie Efez. Ponieważ ponadto jesteście blisko Włoch, macie Rzym, z którego dociera nawet do naszych własnych rąk autorytet (samych apostołów). [^against-heretics-peter-holmes-iii-36]
 
 Around the year 208 he urged the heretics to run over the apostolic churches, in which the very thrones of the apostles are still preeminent in their places, in which their own authentic writings (authenticae) are read, uttering the voice and representing the face of each of them severally. Achaia is very near you, (in which) you find Corinth. Since you are not far from Macedonia, you have Philippi, (and there too) you have the Thessalonians. Since you are able to cross to Asia, you get Ephesus. Since, moreover, you are close upon Italy, you have Rome, from which there comes even into our own hands the very authority (of the apostles themselves).1
+
+P^46^, P^66^ i P^75^!
+
+Some have thought that Tertullian was claiming that Paul’s Autographs were still being read in his day (208), but at the very least he must mean they were using faithful copies. Was anything else to be expected? For example, when the Ephesian Christians saw the Autograph of Paul’s letter to them getting tattered, would they not carefully execute an identical copy for their continued use, and which would have a declaration that it had been authenticated? Would they let the Autograph perish without making such a copy? (There must have been a constant stream of people coming either to make copies of their letter or to verify the correct reading.) I believe we are obliged to conclude that in the year 200 the Ephesian Church was still in a position to attest the original wording of her letter (and so for the others)—but this is coeval with P46, P66 and P75!
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
