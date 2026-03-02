@@ -51,6 +51,9 @@ Niektórzy uważali, że Tertulian twierdził, że autografy Pawła były nadal 
 Zarówno Justyn Męczennik, jak i Ireneusz twierdzili, że Kościół był w ich czasach rozprzestrzeniony po całej ziemi – pamiętaj, że Ireneusz w 177 roku został biskupem Lyonu w **Galii** i nie był pierwszym biskupem w tym regionie. Łącząc tę informację z oświadczeniem Justyna, że wspomnienia apostołów były czytane w każdą niedzielę podczas zgromadzeń, staje się jasne, że musiały istnieć tysiące kopii pism Nowego Testamentu w użyciu do 200 roku n.e. Każde zgromadzenie potrzebowało co najmniej jednej kopii do czytania, i musiały istnieć prywatne kopie wśród tych, którzy mogli sobie na nie pozwolić.
 
 Mamy obiektywne dowody historyczne potwierdzające następujące tezy:
+- Prawdziwy tekst nigdy nie został „zagubiony”.
+- W 200 roku n.e. nadal można było weryfikować i potwierdzać dokładne oryginalne sformułowania kilku ksiąg.
+- Nie było zatem potrzeby stosowania krytyki tekstu, a wszelkie tego typu działania byłyby sztuczne.
 
 [^owce-naleza-do-pana]: Owce należą do Pana, a nie do starszych. Około 7% greckich manuskryptów pomija „Pan i”, podobnie jak większość wersji. „Pan i Bóg” odnosi się do Jezusa.
 
