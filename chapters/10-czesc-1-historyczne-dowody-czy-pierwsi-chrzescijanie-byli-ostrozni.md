@@ -55,7 +55,7 @@ Mamy obiektywne dowody historyczne potwierdzające następujące tezy:
 - W 200 roku n.e. nadal można było weryfikować i potwierdzać dokładne oryginalne sformułowania kilku ksiąg.
 - Nie było zatem potrzeby stosowania krytyki tekstu, a wszelkie tego typu działania byłyby sztuczne.
 
-Dyscyplina krytyki tekstu (jakiegokolwiek tekstu) bazuje na założeniu/insynuacji/oświadczeniu, że istnieją uzasadnione wątpliwości co do dokładnego oryginalnego brzmienia tekstu. Nikt nie zajmuje się krytyką tekstu na przykład Biblii Króla Jakuba z 1611 roku, ponieważ nadal istnieją kopie oryginalnego wydania. W odniesieniu do krytyki tekstu Nowego Testamentu kluczową kwestią jest zachowanie jego Tekstu. Aby jakikolwiek tekst miał obiektywny autorytet, musimy wiedzieć, czym on jest.
+Dyscyplina krytyki tekstu (jakiegokolwiek tekstu) bazuje na założeniu/insynuacji/oświadczeniu, że istnieją uzasadnione wątpliwości co do dokładnego oryginalnego brzmienia tekstu. Nikt nie zajmuje się krytyką tekstu na przykład Biblii Króla Jakuba z 1611 roku, ponieważ nadal istnieją kopie oryginalnego wydania. W odniesieniu do krytyki tekstu Nowego Testamentu **kluczową kwestią jest zachowanie jego Tekstu. Aby jakikolwiek tekst miał obiektywny autorytet, musimy wiedzieć, czym on jest.**
 
 The discipline of textual criticism (of whatever text) is predicated on the assumption/allegation/declaration that there is a legitimate doubt about the precise original wording of a text. No one does textual criticism on the 1611 King James Bible, for example, since copies of the original printing still exist. With reference to New Testament textual criticism, **the crucial point at issue is the preservation of its Text. For any text to have objecttive authority, we have to know what it is.**
 
