@@ -1,5 +1,13 @@
 ### Kto miał najlepsze kwalifikacje?
 
-What factors would be important for guaranteeing, or at least facilitating, a faithful transmission of the text of the N.T. writings? I submit that there are four controlling factors: access to the Autographs, proficiency in the source language, the strength of the Church and an appropriate attitude toward the Text.
+Jakie czynniki byłyby istotne dla zagwarantowania lub przynajmniej ułatwienia wiernego przekazywania tekstu pism Nowego Testamentu? Uważam, że istnieją cztery czynniki decydujące: dostęp do Autografów, biegłość w języku źródłowym, siła Kościoła oraz odpowiednie podejście do Tekstu.
+
+What factors would be impoartant for guaranteeing, or at least facilitating, a faithful transmission of the text of the N.T. writings? I submit that there are four controlling factors: access to the Autographs, proficiency in the source language, the strength of the Church and an appropriate attitude toward the Text.
 
 *Dostęp do Autografów*
+
+This criterion probably applied for well less than a hundred years (the Autographs were presumably worn to a frazzle in that space of time) but it is highly significant to a proper understanding of the history of the transmission of the Text. Already by the year 100 there must have been many copies of the various books (some more than others) while it was certainly still possible to check a copy against the original, or a guaranteed copy, should a question arise. The point is that there was a swelling stream of faithfully executed copies emanating from the holders of the Autographs to the rest of the Christian world. In those early years the producers of copies would know that the true wording could be verified, which would discourage them from taking liberties with the text.
+
+This criterion probably applied for well less than a hundred years (the Autographs were presumably worn to a frazzle in that space of time) but it is highly significant to a proper understanding of the history of the transmission of the Text. Already by the year 100 there must have been many copies of the various books (some more than others) while it was certainly still possible to check a copy against the original, or a guaranteed copy, should a question arise.[^sekcja-powyzej-autografy-wiele-kopii] The point is that there was a swelling stream of faithfully executed copies emanating from the holders of the Autographs to the rest of the Christian world. In those early years the producers of copies would know that the true wording could be verified, which would discourage them from taking liberties with the text.
+
+[^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
