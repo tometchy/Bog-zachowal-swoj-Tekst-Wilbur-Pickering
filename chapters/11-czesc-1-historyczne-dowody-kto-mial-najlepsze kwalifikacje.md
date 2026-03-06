@@ -1,8 +1,6 @@
 ### Kto miał najlepsze kwalifikacje?
 
-Jakie czynniki byłyby istotne dla zagwarantowania lub przynajmniej ułatwienia wiernego przekazywania tekstu pism Nowego Testamentu? Uważam, że istnieją cztery czynniki decydujące: dostęp do Autografów, biegłość w języku źródłowym, siła Kościoła oraz odpowiednie podejście do Tekstu.
-
-What factors would be impoartant for guaranteeing, or at least facilitating, a faithful transmission of the text of the N.T. writings? I submit that there are four controlling factors: access to the Autographs, proficiency in the source language, the strength of the Church and an appropriate attitude toward the Text.
+Jakie czynniki byłyby istotne dla zagwarantowania lub przynajmniej ułatwienia wiernego przekazywania tekstu pism Nowego Testamentu? Uważam, że istnieją cztery czynniki decydujące: dostęp do Autografów, biegłość w języku źródłowym, siła Kościoła oraz odpowiednie nastawienie do Tekstu.
 
 *Dostęp do Autografów*
 
