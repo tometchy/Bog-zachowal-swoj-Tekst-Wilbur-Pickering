@@ -8,6 +8,4 @@ Kryterium to stosowano prawdopodobnie przez znacznie mniej niż sto lat (w tym c
 
 Jednak odległość prawdopodobnie miałaby znaczenie – dla kogoś z północnej Afryki konsultowanie Autografu Listu do Efezjan byłoby kosztownym przedsięwzięciem, zarówno pod względem czasu, jak i pieniędzy. Uważam, że możemy rozsądnie wnioskować, iż ogólnie jakość kopii byłaby najwyższa w obszarze otaczającym Autograf i stopniowo pogarszałaby się wraz ze wzrostem odległości. Istotne bariery geograficzne nasilałyby tę tendencję.
 
-However, distance would presumably be a factor—for someone in north Africa to consult the Autograph of Ephesians would be an expensive proposition, in both time and money. I believe we may reasonably conclude that in general the quality of copies would be highest in the area surrounding the Autograph and would gradually deteriorate as the distance increased. Important geographical barriers would accentuate the tendency.
-
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
