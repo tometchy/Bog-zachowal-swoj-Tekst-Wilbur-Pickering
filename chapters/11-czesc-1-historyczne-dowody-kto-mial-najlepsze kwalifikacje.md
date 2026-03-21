@@ -23,3 +23,9 @@ Rozważ teraz tę kwestię z Bożego punktu widzenia. Komu powinien powierzyć g
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
 [^aland-stwierdza-gnostycyzm-egipski]: Aland stwierdza: „Egipt wyróżniał się spośród innych prowincji Kościoła, na ile możemy to ocenić, wczesną dominacją gnostycyzmu”. Dalej informuje nas, że „pod koniec II wieku” kościół egipski był „w przeważającej mierze gnostycki”, a następnie dodaje: „Kopie istniejące w społecznościach gnostyckich **nie mogły być wykorzystane**, ponieważ były podejrzane o zafałszowanie”. No, to wszystko jest bardzo pouczające – innymi słowy, Aland mówi nam, że do 200 roku n.e. tradycji tekstowej w Egipcie nie można ufać. (K. i B. Aland, str. 59 oraz K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138).
+
+[^1]: B.M. Metzger, The Early Versions of the New Testament (Oksford: Clarendon Press, 1977), s. 104.
+
+[^2]: E.C. Colwell, „Scribal Habits in Early Papyri: A Study in the Corruption of the text”, The Bible in Modern Scholarship, red. J.P. Hyatt (Nowy Jork: Abingdon Press, 1955), s. 374–376, 380.
+
+[^3]: K. i B. Aland, Tekst Nowego Testamentu (Grand Rapids: Eerdmans, 1981), s. 52–53.
