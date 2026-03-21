@@ -83,7 +83,7 @@ https://pl.wikipedia.org/wiki/Justyn_M%C4%99czennik
 
 [^against-heretics-peter-holmes-iii-36]: *Recepta przeciw heretykom* [ang. *Prescription against Heretics*, przyp. tłum.], 36, korzystając z tłumaczenia Holmesa.
 
-[^wspolczesne-papirusy-46-66-75]: Są to symbole papirusów według systemu Gregory-Aland [przyp. tłum.]  
+[^wspolczesne-papirusy-46-66-75]: Są to symbole papirusów według systemu Gregory-Aland. [przyp. tłum.]  
 https://grokipedia.com/page/Papyrus_46  
 https://pl.wikipedia.org/wiki/Papirus_Bodmer_II  
 https://pl.wikipedia.org/wiki/Papirus_Bodmer_XIV-XV
