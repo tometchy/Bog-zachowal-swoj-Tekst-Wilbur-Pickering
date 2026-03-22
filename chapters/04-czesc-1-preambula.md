@@ -79,7 +79,7 @@ https://personal.ems.psu.edu/~jte2/references/link170.pdf
 [^trylobity]: Trylobity (Trilobita, z gr. treis ‘trzy’ + lobos ‘płat’) – wymarła gromada morskich stawonogów o owalnym i spłaszczonym grzbietobrzusznie ciele, z wyraźnie wyróżnioną częścią głowową, tułowiową i ogonową. Od strony grzbietu przykryte kalcytowym pancerzem. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Trylobity
 
-[^lapidodendron]: Zgodnie z aktualną wiedzą paleobotaniczną, Lepidodendron był dominującym drzewem w okresie karbonu, który trwał od około 359 do 299 milionów lat temu [przyp. tłum.]  
+[^lapidodendron]: Lepidodendron według paleobotaniki był dominującym drzewem w okresie karbonu, mającym trwać rzekomo od około 359 do 299 milionów lat temu [przyp. tłum.]  
 https://www.britannica.com/plant/Lepidodendron
 
 [^slady-kotow-i-ludzi]: Ewolucjoniści twierdzą, że ślady kotów i ludzi w rzece Paluxy to fałszerstwo [przyp. tłum.]  
