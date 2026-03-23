@@ -24,6 +24,8 @@ A co z Egiptem? Już na początku ery chrześcijańskiej popularność języka g
 
 Ponownie region Morza Egejskiego jest zdecydowanie najlepiej wykwalifikowany do przekazywania Tekstu z pewnością i integralnością. Zauważ, że nawet gdyby Egipt zaczynał z dobrym tekstem, już pod koniec II wieku jego zdolność do przekazywania tekstu stopniowo się pogarszała. W rzeczywistości wczesne papirusy (one pochodzą z Egiptu) są wyraźnie gorszej jakości, jeśli rozpatrywać je pojedynczo, jak również prezentują raczej odmienne rodzaje tekstu (nie są one ze sobą zgodne).
 
+*Siła Kościoła*
+
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
 [^aland-stwierdza-gnostycyzm-egipski]: Aland stwierdza: „Egipt wyróżniał się spośród innych prowincji Kościoła, na ile możemy to ocenić, wczesną dominacją gnostycyzmu”. Dalej informuje nas, że „pod koniec II wieku” kościół egipski był „w przeważającej mierze gnostycki”, a następnie dodaje: „Kopie istniejące w społecznościach gnostyckich **nie mogły być wykorzystane**, ponieważ były podejrzane o zafałszowanie”. No, to wszystko jest bardzo pouczające – innymi słowy, Aland mówi nam, że do 200 roku n.e. tradycji tekstowej w Egipcie nie można ufać. (K. i B. Aland, str. 59 oraz K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138).
