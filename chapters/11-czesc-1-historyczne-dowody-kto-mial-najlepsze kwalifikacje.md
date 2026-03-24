@@ -26,9 +26,7 @@ Ponownie region Morza Egejskiego jest zdecydowanie najlepiej wykwalifikowany do 
 
 *Siła Kościoła*
 
-To pytanie ma znaczenie dla naszej dyskusji z dwóch powodów. Po pierwsze, prawo podaży i popytu działa w Kościele tak samo jak gdzie indziej. Tam, gdzie jest wiele wspólnot i wiernych, wzrasta popyt na kopie Pism Świętych. Po drugie, silny, ugruntowany Kościół zazwyczaj ma pewnych, doświadczonych przywódców – właśnie takich, którzy będą zwracać uwagę na jakość Pism Świętych i będą w stanie coś z tym zrobić. W jakich więc obszarach wczesny Kościół był najsilniejszy?
-
-This question is relevant to our discussion for two reasons. First, the law of supply and demand operates in the Church as well as elsewhere.  Where there are many congregations and believers there will be an increased demand for copies of the Scriptures. Second, a strong, well established church will normally have a confident, experienced leadership—just the sort that would take an interest in the quality of their Scriptures and also be able to do something about it. So in what areas was the early Church strongest?
+To pytanie ma znaczenie dla naszej dyskusji z dwóch powodów. Po pierwsze, prawo podaży i popytu działa w Kościele tak samo jak gdzie indziej. Tam, gdzie jest wiele zborów i wiernych, wzrasta popyt na kopie Pism Świętych. Po drugie, silny, ugruntowany Kościół zazwyczaj ma pewnych, doświadczonych przywódców – właśnie takich, którzy zwracają uwagę na jakość ich Pism Świętych i są w stanie coś z tym zrobić. W jakich więc obszarach wczesny Kościół był najsilniejszy?
 
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
