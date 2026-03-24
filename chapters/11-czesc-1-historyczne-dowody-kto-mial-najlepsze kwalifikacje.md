@@ -28,6 +28,10 @@ Ponownie region Morza Egejskiego jest zdecydowanie najlepiej wykwalifikowany do 
 
 To pytanie ma znaczenie dla naszej dyskusji z dwóch powodów. Po pierwsze, prawo podaży i popytu działa w Kościele tak samo jak gdzie indziej. Tam, gdzie jest wiele zborów i wiernych, wzrasta popyt na kopie Pism Świętych. Po drugie, silny, ugruntowany Kościół zazwyczaj ma pewnych, doświadczonych przywódców – właśnie takich, którzy zwracają uwagę na jakość ich Pism Świętych i są w stanie coś z tym zrobić. W jakich więc obszarach wczesny Kościół był najsilniejszy?
 
+[^ibid-53-sila-kosciola]
+
+Although the Church evidently began in Jerusalem, the early persecutions and apostolic activity caused it to spread. The main line of advance seems to have been north into Asia Minor and west into Europe. If the selection of churches to receive the glorified Christ’s “letters” (Revelation 2 and 3) is any guide, the center of gravity of the Church seems to have shifted from Palestine to Asia Minor by the end of the first century. (The destruction of Jerusalem by Rome’s armies in AD 70 would presumably have been a contributing factor.) Kurt Aland agrees with Adolf Harnack that “about 180 the greatest concentration of churches was in Asia Minor and along the Aegean coast of Greece”. He continues: “The overall impression is that the concentration of Christianity was in the East… Even around AD 325 the scene was still largely unchanged. Asia Minor continued to be the heartland of the Church.” 1 “The heartland of the Church”—so who else would be in a better position to certify the correct text of the New Testament?
+
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
 [^aland-stwierdza-gnostycyzm-egipski]: Aland stwierdza: „Egipt wyróżniał się spośród innych prowincji Kościoła, na ile możemy to ocenić, wczesną dominacją gnostycyzmu”. Dalej informuje nas, że „pod koniec II wieku” kościół egipski był „w przeważającej mierze gnostycki”, a następnie dodaje: „Kopie istniejące w społecznościach gnostyckich **nie mogły być wykorzystane**, ponieważ były podejrzane o zafałszowanie”. No, to wszystko jest bardzo pouczające – innymi słowy, Aland mówi nam, że do 200 roku n.e. tradycji tekstowej w Egipcie nie można ufać. (K. i B. Aland, str. 59 oraz K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138).
@@ -40,3 +44,5 @@ To pytanie ma znaczenie dla naszej dyskusji z dwóch powodów. Po pierwsze, praw
 
 [^itacyzm]: Itacyzm – proces fonetyczny polegający na zwężeniu długiego /E/ otwartego (oznaczanego w języku greckim literą eta) i ujednoliceniu się jej z samogłoską /I/, w wyniku tego nazwa litery Η („eta”) zaczyna brzmieć „ita” i stąd nazwa procesu. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Itacyzm
+
+[^ibid-53-sila-kosciola]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], strona 53.
