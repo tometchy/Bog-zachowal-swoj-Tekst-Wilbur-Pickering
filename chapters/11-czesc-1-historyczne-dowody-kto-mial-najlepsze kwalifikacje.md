@@ -45,14 +45,10 @@ https://pl.wikipedia.org/wiki/Itacyzm
 
 [^ibid-53-sila-kosciola]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], strona 53.
 
-2 C.H. Roberts, Manuscript, Society and Belief in Early Christian Egypt (London: Oxford University Press, 1979), pp. 42-43, 54-58.
-[^2] C.H. Roberts, *Manuscript, Society and Belief in Early Christian Egypt* (Londyn: Oxford University Press, 1979), s. 42–43, 54–58.
+[^ch-roberts-4243-5458] C.H. Roberts, *Manuscript, Society and Belief in Early Christian Egypt* (Londyn: Oxford University Press, 1979), s. 42–43, 54–58.
 
-3 K. and B. Aland, p. 59.
-[^3] K. i B. Aland, s. 59.
+[^k-i-b-aland-s-59] K. i B. Aland, s. 59.
 
-4 K. Aland, “The Text of the Church?”, Trinity Journal, 1987, 8NS:138.
-[^4] K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138.
+[^k-aland-1987-8ns138] K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138.
 
-5 Metzger, Early Versions, p. 101.
-[^5] Metzger, *Early Versions*, s. 101.
+[^metzger-early-version-101] Metzger, *Early Versions*, s. 101.
