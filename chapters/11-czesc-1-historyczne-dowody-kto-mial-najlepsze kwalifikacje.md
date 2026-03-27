@@ -34,7 +34,11 @@ A co z Egiptem? C.H. Roberts, w swojej naukowej analizie chrześcijańskich papi
 
 > Wśród dokumentów chrześcijańskich, które w II wieku powstały w Egipcie lub krążyły tam zarówno wśród ortodoksów, jak i gnostyków, znajduje się wiele apokryficznych ewangelii, dziejów, listów i apokalips… Istnieją również fragmenty dzieł egzegetycznych i dogmatycznych napisanych przez chrześcijan aleksandryjskich, głównie gnostyków, w II wieku… W rzeczywistości, sądząc po komentarzach Klemensa Aleksandryjskiego, w II wieku w Egipcie reprezentowana była niemal każda odłamowa sekta chrześcijańska. Klemens wspomina o walentynianach, bazylidianach, marcionitach, peratach, enkratytach, doketystach, haimetytach, kainitach, ofitach, simonianach i eutychitach. Nie wiadomo, jaki odsetek chrześcijan w Egipcie w II wieku stanowili ortodoksi.[^metzger-early-version-101]
 
+**4tym wieku**
+
 But we need to pause to reflect on the implications of Aland’s statements. He was a champion of the Egyptian (‘Alexandrian’) text-type, and yet he himself informs us that up to AD 200 the textual tradition in Egypt could not be trusted and that by 200 the use of Greek had virtually died out there. So on what basis can he argue that the Egyptian text subsequently became the best? Aland also states that in the 2nd century, 3rd century, and into the 4th century Asia Minor continued to be “the heartland of the Church”. This means that the superior qualifications of the Aegean area to protect, transmit and attest the N.T. Text carry over into the 4th century! It happens that Hort, Metzger and Aland (along with many others) have linked the “Byzantine” text-type to Lucian of Antioch, who died in 311. Now really, wouldn’t a text produced by a leader in “the heartland of the Church” be better than whatever evolved in Egypt? Of course I ask the above question only to point out their inconsistency. The ‘Byzantine’ text-type existed long before Lucian.
+
+**Nastawienie wobec Tekstu**
 
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
