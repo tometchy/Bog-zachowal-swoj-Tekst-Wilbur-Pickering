@@ -40,7 +40,7 @@ But we need to pause to reflect on the implications of Aland’s statements. He 
 
 *Nastawienie wobec Tekstu*
 
-Tam, gdzie
+Tam, gdzie wymagana jest staranna praca, nastawienie osób, którym powierzono dane zadanie, ma zasadnicze znaczenie. Czy są świadomi? Czy się zgadzają? Jeśli nie rozumieją natury zadania, jakość prawdopodobnie ucierpi. Jeśli rozumieją, ale się nie zgadzają, mogą nawet uciec się do sabotażu – szkodliwa ewentualność. W przypadku ksiąg Nowego Testamentu możemy zacząć od pytania: Dlaczego miałyby powstawać kopie?
 
 Where careful work is required, the attitude of those to whom the task is entrusted is of the essence. Are they aware? Do they agree? If they do not understand the nature of the task, the quality will probably do down.  If they understand but do not agree, they might even resort to sabotage— a damaging eventuality. In the case of the NT books we may begin with the question: Why would copies be made?
 
