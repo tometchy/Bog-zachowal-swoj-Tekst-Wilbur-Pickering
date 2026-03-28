@@ -38,7 +38,11 @@ Musimy jednak zatrzymać się na chwilę, aby zastanowić się nad implikacjami 
 
 But we need to pause to reflect on the implications of Aland’s statements. He was a champion of the Egyptian (‘Alexandrian’) text-type, and yet he himself informs us that up to AD 200 the textual tradition in Egypt could not be trusted and that by 200 the use of Greek had virtually died out there. So on what basis can he argue that the Egyptian text subsequently became the best? Aland also states that in the 2nd century, 3rd century, and into the 4th century Asia Minor continued to be “the heartland of the Church”. This means that the superior qualifications of the Aegean area to protect, transmit and attest the N.T. Text carry over into the 4th century! It happens that Hort, Metzger and Aland (along with many others) have linked the “Byzantine” text-type to Lucian of Antioch, who died in 311. Now really, wouldn’t a text produced by a leader in “the heartland of the Church” be better than whatever evolved in Egypt? Of course I ask the above question only to point out their inconsistency. The ‘Byzantine’ text-type existed long before Lucian.
 
-**Nastawienie wobec Tekstu**
+*Nastawienie wobec Tekstu*
+
+Tam, gdzie
+
+Where careful work is required, the attitude of those to whom the task is entrusted is of the essence. Are they aware? Do they agree? If they do not understand the nature of the task, the quality will probably do down.  If they understand but do not agree, they might even resort to sabotage— a damaging eventuality. In the case of the NT books we may begin with the question: Why would copies be made?
 
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
