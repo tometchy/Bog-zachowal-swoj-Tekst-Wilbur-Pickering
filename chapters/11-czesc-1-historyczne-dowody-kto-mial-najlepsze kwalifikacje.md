@@ -48,7 +48,13 @@ It is important to note that the earliest Christians did not need to be textual 
 
 Należy zauważyć, że pierwsi chrześcijanie nie musieli być krytykami tekstu. Wychodząc od tekstu, o którym wiedzieli, że jest czysty, musieli jedynie być dość uczciwi i ostrożni. Twierdzę, że mamy dobre powody, by rozumieć, iż byli oni szczególnie czujni i ostrożni – zwłaszcza w pierwszych dziesięcioleciach. A w jednej linii przekazu pozostawało tak nadal. Sam zestawiłem co najmniej jedną księgę w ponad 120 manuskryptach należących do linii przekazu, którą nazywam Rodziną 35, i posiadam doskonałe kopie co najmniej 22 z 27 ksiąg Nowego Testamentu, sporządzone w XI, XII, XIII, XIV i XV wieku. Aby kopia była doskonała w XIV wieku, wszyscy jej „przodkowie” musieli być doskonali, aż do archetypu rodziny. Uważam, że archetypem Rodziny 35 jest Autograf, ale jeśli nie, to musi on pochodzić przynajmniej z III wieku.
 
+Z biegiem czasu ukształtowały się regionalne postawy, nie wspominając już o regionalnej polityce. Istotnym czynnikiem jest powstanie tak zwanej „Szkoły Antiocheńskiej”. Począwszy od Teofila, biskupa Antiochii, który zmarł około 185 roku, mieszkańcy Antiochii zaczęli nalegać na dosłowną interpretację Pisma Świętego. Chodzi o to, że literalista jest zobowiązany do zwracania uwagi na dokładne sformułowania tekstu, ponieważ od tego zależy jego interpretacja lub egzegeza.
+
 As time went on regional attitudes developed, not to mention regional politics. The rise of the so-called ‘school of Antioch’ is a relevant consideration. Beginning with Theophilus, a bishop of Antioch who died around 185, the Antiochians began insisting upon the literal interpretation of Scripture. The point is that a literalist is obliged to be concerned about the precise wording of the text since his interpretation or exegesis hinges upon it.
+
+Można rozsądnie założyć, że ta „literalistyczna” mentalność wywarła wpływ na kościoły Azji Mniejszej i Grecji oraz zachęciła je do starannego i wiernego przekazywania czystego tekstu, który otrzymały. Na przykład zachowane manuskrypty syryjskiej Peshitty nie mają sobie równych pod względem spójności. (Dla porównania, ponad 8 000 manuskryptów łacińskiej Wulgaty jest zdumiewających ze względu na swoje rozległe rozbieżności, a pod tym względem idą one za przykładem starołacińskich manuskryptów.) Nie jest nierozsądnie przypuszczać, że niechęć Antiochii wobec aleksandryjskiej alegorycznej interpretacji Pisma Świętego raczej zniechęcała ich do przychylnego patrzenia na jakiekolwiek konkurencyjne formy tekstu pochodzące z Egiptu. Podobnie kontrowersje Kwartodecyman z Rzymem[^kwartodecymanie-kontrowersje] z pewnością nie zwiększały atrakcyjności jakichkolwiek innowacji pochodzących z Zachodu.
+
+It is reasonable to assume that this ‘literalist’ mentality would have influenced the churches of Asia Minor and Greece and encouraged them in the careful and faithful transmission of the pure text that they had received. For example, the extant MSS of the Syriac Peshitta are unparalleled for their consistency. (By way of contrast, the 8,000+ MSS of the Latin Vulgate are remarkable for their extensive discrepancies, and in this they follow the example of the Old Latin MSS.) It is not unreasonable to suppose that the Antiochian antipathy toward the Alexandrian allegorical interpretation of Scripture would rather indispose them to view with favor any competing forms of the text coming out of Egypt. Similarly the Quartodeciman controversy with Rome would scarcely enhance the appeal of any innovations coming from the West.
 
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
@@ -65,10 +71,14 @@ https://pl.wikipedia.org/wiki/Itacyzm
 
 [^ibid-53-sila-kosciola]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], strona 53.
 
-[^ch-roberts-4243-5458] C.H. Roberts, *Manuscript, Society and Belief in Early Christian Egypt* (Londyn: Oxford University Press, 1979), s. 42–43, 54–58.
+[^ch-roberts-4243-5458]: C.H. Roberts, *Manuscript, Society and Belief in Early Christian Egypt* (Londyn: Oxford University Press, 1979), s. 42–43, 54–58.
 
-[^k-i-b-aland-s-59] K. i B. Aland, s. 59.
+[^k-i-b-aland-s-59]: K. i B. Aland, s. 59.
 
-[^k-aland-1987-8ns138] K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138.
+[^k-aland-1987-8ns138]: K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138.
 
-[^metzger-early-version-101] Metzger, *Early Versions*, s. 101.
+[^metzger-early-version-101]: Metzger, *Early Versions*, s. 101.
+
+[^kwartodecymanie-kontrowersje]: Tbd. [przyp. tłum.]  
+https://pl.wikipedia.org/wiki/Kwartodecymanie
+https://cotojestprawda.wordpress.com/2018/04/11/wczesnochrzescijanskie-spory-o-date-wielkanocy-ii-vi-wiek-oraz-ich-historyczne-znaczenie
