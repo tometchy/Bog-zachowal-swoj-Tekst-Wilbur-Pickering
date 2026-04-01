@@ -73,6 +73,6 @@ https://pl.wikipedia.org/wiki/Itacyzm
 
 [^metzger-early-version-101]: Metzger, *Early Versions*, s. 101.
 
-[^kwartodecymanie-kontrowersje]: Tbd. [przyp. tłum.]  
+[^kwartodecymanie-kontrowersje]: Kwartodecymanie - istniejące w pierwszych wiekach n.e. grupy chrześcijańskie obchodzące pamiątkę śmierci i zmartwychwstania Chrystusa w 14 dniu miesiąca nisan według żydowskiego kalendarza, zamiast w pierwszą niedzielę następującą po tym wydarzeniu. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Kwartodecymanie
 https://cotojestprawda.wordpress.com/2018/04/11/wczesnochrzescijanskie-spory-o-date-wielkanocy-ii-vi-wiek-oraz-ich-historyczne-znaczenie
