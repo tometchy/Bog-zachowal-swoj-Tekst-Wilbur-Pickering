@@ -83,5 +83,4 @@ https://pl.wikipedia.org/wiki/Itacyzm
 https://pl.wikipedia.org/wiki/Kwartodecymanie
 https://cotojestprawda.wordpress.com/2018/04/11/wczesnochrzescijanskie-spory-o-date-wielkanocy-ii-vi-wiek-oraz-ich-historyczne-znaczenie
 
-[^1]: W.R. Farmer, The Last Twelve Verses of Mark (Cambridge: University Press, 1974), s. 14–15. Autor powołuje się na B.H. Streeter, The Four Gospels: A Study of Origins (Londyn: Macmillan and Co., 1924), s. 111, 122–123.
-W.R. Farmer, The Last Twelve Verses of Mark (Cambridge: University Press, 1974), pp. 14-15. He cites B.H. Streeter, The Four Gospels: A Study of Origins (London: Macmillan and Co., 1924), pp. 111, 122-23.
+[^1]: W.R. Farmer, The Last Twelve Verses of Mark (Cambridge: University Press, 1974), s. 14–15. Autor przytacza B.H. Streeter, The Four Gospels: A Study of Origins (Londyn: Macmillan and Co., 1924 r.), s. 111, 122–123.
