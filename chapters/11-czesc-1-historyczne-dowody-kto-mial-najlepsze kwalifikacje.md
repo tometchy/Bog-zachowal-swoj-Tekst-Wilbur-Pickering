@@ -54,6 +54,8 @@ Na tyle, na ile korzenie podejścia alegorycznego, które rozkwitło w Aleksandr
 
 The school of literary criticism that existed at Alexandria would also be a negative factor, if it influenced the Church at all, and W.R. Farmer argues that it did. “But there is ample evidence that by the time of Eusebius the Alexandrian text-critical practices were being followed in at least some of the scriptoria where New Testament manuscripts were being produced.  Exactly when Alexandrian text-critical principles were first used… is not known.”1 He goes on to suggest that the Christian school founded in Alexandria by Pantaenus, around 180, was bound to be influenced by the scholars of the great library of that city. The point is, the principles used in attempting to ‘restore’ the works of Homer would not be appropriate for the NT writings when appeal to the Autographs, or exact copies made from them, was still possible.
 
+*Wniosek*
+
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
 [^aland-stwierdza-gnostycyzm-egipski]: Aland stwierdza: „Egipt wyróżniał się spośród innych prowincji Kościoła, na ile możemy to ocenić, wczesną dominacją gnostycyzmu”. Dalej informuje nas, że „pod koniec II wieku” kościół egipski był „w przeważającej mierze gnostycki”, a następnie dodaje: „Kopie istniejące w społecznościach gnostyckich nie mogły być używane, ponieważ podejrzewano, że były zniekształcone”. No, to wszystko jest bardzo pouczające – innymi słowy, Aland mówi nam, że do 200 roku n.e. tradycji tekstowej w Egipcie **nie można było ufać**. (K. i B. Aland, str. 59 oraz K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138).
