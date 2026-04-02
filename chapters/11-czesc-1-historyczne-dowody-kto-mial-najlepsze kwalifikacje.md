@@ -58,6 +58,8 @@ The school of literary criticism that existed at Alexandria would also be a nega
 
 *Wniosek*
 
+What answer do the “four controlling factors” give to our question?  The four speak with united voice: “The Aegean area was the best qualified to protect, transmit and attest the true text of the NT writings.” This was true in the 2nd century, it was true in the 3rd century, it continued to be true in the 4th century. So in AD 350, the middle of the 4th century, where should we go to find the most correct copies of the NT? To the Aegean area, Egypt would be the last place to go. If the transmission of the NT Text was reasonably normal, the Aegean area would continue to have the best Text down through the succeeding centuries. But there are those who have argued that the transmission was not normal, so to that question I now turn.
+
 [^sekcja-powyzej-autografy-wiele-kopii]: Zobacz jednak sekcję powyżej, w której sugeruję możliwość, że Autografy powstały jako wiele kopii.
 
 [^aland-stwierdza-gnostycyzm-egipski]: Aland stwierdza: „Egipt wyróżniał się spośród innych prowincji Kościoła, na ile możemy to ocenić, wczesną dominacją gnostycyzmu”. Dalej informuje nas, że „pod koniec II wieku” kościół egipski był „w przeważającej mierze gnostycki”, a następnie dodaje: „Kopie istniejące w społecznościach gnostyckich nie mogły być używane, ponieważ podejrzewano, że były zniekształcone”. No, to wszystko jest bardzo pouczające – innymi słowy, Aland mówi nam, że do 200 roku n.e. tradycji tekstowej w Egipcie **nie można było ufać**. (K. i B. Aland, str. 59 oraz K. Aland, „The Text of the Church?”, *Trinity Journal*, 1987, 8NS:138).
