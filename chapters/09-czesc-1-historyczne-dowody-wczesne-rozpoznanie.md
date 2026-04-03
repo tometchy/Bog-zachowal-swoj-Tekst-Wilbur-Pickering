@@ -1,4 +1,4 @@
-### Wczesne Rozpoznanie [^reprodukcja-rozdzialu]
+### Wczesne rozpoznanie [^reprodukcja-rozdzialu]
 Krytycy naturalistyczni lubią zakładać, że pisma Nowego Testamentu nie były uznawane za Pismo Święte, kiedy pojawiły się po raz pierwszy, i dlatego, w wyniku niedbałości przy przepisywaniu, tekst został pomieszany, a oryginalne sformułowania „zagubione” (w tym sensie, że nikt nie wiedział na pewno, jakie one były) już na samym początku. Zatem Colwell powiedział: „Większość obecnie drukowanych instrukcji i podręczników (w tym mój!) powie ci, że te różnice były owocem niedbałego traktowania, które było możliwe, ponieważ księgi Nowego Testamentu nie osiągnęły jeszcze silnej pozycji jako «Biblia».”[^cowel-zrodlo] A Hort powiedział:
 
 > Czystość tekstu, o ile można to oceniać na podstawie zachowanej literatury, nie wzbudzała prawie żadnego zainteresowania. Nie ma dowodów na to, by generalnie przywiązywano wagę, aby wybierać egzemplarze do przepisywania, które najbardziej pretendowały do miana autentycznych, jeśli rzeczywiście dysponowano niezbędną wiedzą i umiejętnościami.[^hort-zrodlo]
