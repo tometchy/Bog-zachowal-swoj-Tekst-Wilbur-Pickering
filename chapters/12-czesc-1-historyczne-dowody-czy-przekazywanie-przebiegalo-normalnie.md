@@ -10,13 +10,11 @@ Wracając jednak do naszego pytania: czy przekazywanie przebiegało normalnie? T
 
 *Normalny przebieg przekazywania*
 
-Widzieliśmy, że wierni od samego początku uznawali autorytet pism Nowego Testamentu – gdyby tak nie było, odrzuciliby autorytet Apostołów, a tym samym nie należeliby do grona wiernych. Do podstawowej uczciwości od samego początku dochodziła szacunek w obchodzeniu się z tekstem. Do tego dochodziła czujność, ponieważ Apostołowie wielokrotnie i stanowczo ostrzegali ich przed fałszywymi nauczycielami.
+Widzieliśmy, że wierni od początku uznawali autorytet pism Nowego Testamentu – gdyby tak nie było, odrzuciliby autorytet Apostołów, a tym samym nie należeliby do grona wiernych. Do podstawowej uczciwości od początku dochodził szacunek w ich obchodzeniu się z tekstem. Do tego dochodziła czujność, ponieważ Apostołowie wielokrotnie i stanowczo ostrzegali ich przed fałszywymi nauczycielami.
 
 Wraz z nieustannie rosnącym popytem i wynikającym z tego rozprzestrzenianiem się kopii w całym świecie grecko-rzymskim, a także dzięki możliwości weryfikacji kopii poprzez odwołanie się do ośrodków, które wciąż posiadały Autografy, wczesna sytuacja tekstologiczna była prawdopodobnie bardzo sprzyjająca szerokiemu rozpowszechnianiu manuskryptów bardzo zbliżonych do tekstu oryginalnego. Można racjonalnie oczekiwać, że na początku II wieku rozpowszechnienie takich kopii było bardzo rozległe, z logiczną konsekwencją taką, że forma tekstu, którą zawierały, wkrótce ugruntowała się na całym obszarze ich wpływów.
 
 [^demonstracja-slusznosci-w-dodatku]
-
-We have seen that the faithful recognized the authority of the New Testament writings from the start—had they not they would have been rejecting the authority of the Apostles, and hence not been among the faithful. To a basic honesty would be added reverence in their handling of the text, from the start. And to these would be added vigilance, since the Apostles had repeatedly and emphatically warned them against false teachers.
 
 With an ever-increasing demand and consequent proliferation of copies throughout the Graeco-Roman world and with the potential for veryfying copies by having recourse to the centers still possessing the Autographs, the early textual situation was presumably highly favorable to the wide dissemination of MSS in close agreement with the original text. By the early years of the second century the dissemination of such copies can reasonably be expected to have been very widespread, with the logical consequence that the form of text they embodied would early become entrenched throughout the area of their influence.
 
