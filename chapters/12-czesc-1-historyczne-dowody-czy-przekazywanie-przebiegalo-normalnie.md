@@ -20,6 +20,20 @@ Argument oparty na prawdopodobieństwie miałby zastosowanie zarówno do pism ś
 
 The argument from probability would apply to secular writings as well as the New Testament and does not take into account any unusual concern for purity of text. I have argued, however, that the early Christians did have a special concern for their Scriptures and that this concern accompanied the spread of Christianity. Thus Irenaeus clearly took his concern for textual purity (which extended to a single letter) to Gaul and undoubtedly influenced the Christians in that area. The point is that the text form of the NT Autographs had a big advantage over that of any secular literature, so that its commanding position would become even greater than the argument from probability would suggest, and all the more so if the Autographs were ‘published’ as multiple copies. The rapid multiplication and spread of good copies would raise to absolutely prohibitive levels the chances against an opportunity for aberrant text forms to gain any kind of widespread acceptance or use.1
 
+Oto kilka możliwie dosłownych propozycji tłumaczenia (z zachowaniem naukowego stylu i sensu):
+
+„Wynika z tego, że w stosunkowo niewielu latach po napisaniu ksiąg NT szybko powstał tekst ‘większościowy’, którego forma była zasadniczo taka sama jak forma samych autografów.”
+
+„Z tego wynika, że w relatywnie krótkim czasie po spisaniu ksiąg NT szybko zaistniał tekst ‘większościowy’, którego kształt był w istocie taki jak autografów.”
+
+„Stąd wynika, że w ciągu stosunkowo kilku lat od napisania ksiąg NT szybko ukształtował się tekst ‘większościowy’, którego forma była zasadniczo tożsama z autografami.”
+
+„Można więc wnioskować, że w relatywnie niewielu latach po powstaniu ksiąg NT szybko pojawił się tekst ‘większościowy’, którego postać była w zasadzie taka jak autografów.”
+
+„Wynika stąd, że w stosunkowo krótkim okresie po napisaniu ksiąg NT szybko wyłonił się tekst ‘większościowy’, którego forma była zasadniczo taka sama jak w autografach.”
+
+It follows that within a relatively few years after the writing of the NT books there came rapidly into existence a ‘Majority’ text whose form was essentially that of the Autographs themselves. This text form would, in the natural course of things, continue to multiply itself and in each succeeding generation of copying would continue to be exhibited in the mass of extant manuscripts. In short, it would have a ‘normal’ transmission. The law of supply and demand operates within the Church, as well as elsewhere. True believers would be far more interested in obtaining copies of the NT writings than people who were not. Opponents of Christianity, who might attempt to confuse the issue by producing altered copies, would have a much smaller ‘market’ for their work.
+
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
 [^demonstracja-slusznosci-w-dodatku]: Demonstracja dowodząca słuszności mojego twierdzenia znajduje się w dodatku C do mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com jak również na mojej stronie internetowej www.prunch.org.
