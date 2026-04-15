@@ -24,8 +24,6 @@ Używanie takich określeń jak „syryjski”, „antiochijski” i „bizantyj
 
 Podsumowując, uważam, że dowody jasno przemawiają za taką interpretacją historii tekstu, która uznaje, że jego normalne przekazywanie skupiało się w regionie Morza Egejskiego – obszarze, który pod każdym względem najlepiej nadawał się do przekazywania tekstu od samego początku. Wynikiem tego normalnego przebiegu przekazywania jest typ tekstu „bizantyjski”. W każdej epoce, w tym w II i III wieku, był to tekst tradycyjny.[^w-ramach-szerokiego-nurtu]
 
-In sum, I believe that the evidence clearly favors that interpretation of the history of the text which sees the normal transmission of the text as centered in the Aegean region, the area that was best qualified, from every point of view, to transmit the text, from the very first. The result of that normal transmission is the “Byzantine” text-type. In every age, including the second and third centuries, it has been the traditional text.1 
-
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
 [^demonstracja-slusznosci-w-dodatku]: Demonstracja dowodząca słuszności mojego twierdzenia znajduje się w dodatku C do mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com jak również na mojej stronie internetowej www.prunch.org.
