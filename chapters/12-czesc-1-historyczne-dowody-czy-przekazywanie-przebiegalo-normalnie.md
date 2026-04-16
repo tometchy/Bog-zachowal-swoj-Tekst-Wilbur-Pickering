@@ -24,9 +24,7 @@ Używanie takich określeń jak „syryjski”, „antiochijski” i „bizantyj
 
 Podsumowując, uważam, że dowody jasno przemawiają za taką interpretacją historii tekstu, która uznaje, że jego normalne przekazywanie skupiało się w regionie Morza Egejskiego – obszarze, który pod każdym względem najlepiej nadawał się do przekazywania tekstu od samego początku. Wynikiem tego normalnego przebiegu przekazywania jest typ tekstu „bizantyjski”. W każdej epoce, w tym w II i III wieku, był to tekst tradycyjny.[^w-ramach-szerokiego-nurtu]
 
-Twierdzę zatem, że przekazywanie tekstu Nowego Testamentu przebiegało normalnie, to znaczy, poprzez w pełni przewidywalne rozpowszechnianie i powielanie wiarygodnych kopii Autografów od najwcześniejszych czasów, przez całą historię przekazywania, aż do momentu, gdy dostępność tekstów drukowanych położyła kres ręcznemu kopiowaniu.
-
-So then, I claim that the NT text had a normal transmission, namely the fully predictable spread and reproduction of reliable copies of the Autographs from the earliest period down through the history of transmission until the availability of printed texts brought copying by hand to an end.
+Twierdzę zatem, że przekazywanie tekstu Nowego Testamentu przebiegało normalnie, mianowicie poprzez w pełni przewidywalne rozprzestrzenianie i powielanie wiarygodnych kopii Autografów od najwcześniejszych czasów, przez całą historię przekazywania, aż do momentu, gdy dostępność tekstów drukowanych położyła kres ręcznemu kopiowaniu.
 
 *Nienormalny przebieg przekazywania*[^oskarzenia-o-niekonsekwencje-do-wh]
 
