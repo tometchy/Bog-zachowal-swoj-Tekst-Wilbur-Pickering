@@ -32,9 +32,11 @@ Przechodząc teraz do kwestii nienormalnego przebiegu przekazywania, nie ulega w
 
 Największe zniszczenia miały miejsce do 200 r. n.e.
 
-Powszechnie uznaje się, że większość istotnych wariantów istniała już pod koniec II wieku. „Przeważająca większość odczytów powstała przed rokiem 200” – potwierdził Colwell.1 „Nie mniej prawdziwe niż paradoksalne w brzmieniu jest to, że najgorsze zniekształcenia, jakim kiedykolwiek poddano Nowy Testament, powstały w ciągu stu lat od jego powstania” – stwierdził kilkadziesiąt lat wcześniej Scrivener.2 Kilpatrick skomentował dowody pochodzące z najwcześniejszych papirusów.
+Powszechnie uznaje się, że większość istotnych wariantów istniała już pod koniec II wieku. „Przeważająca większość odczytów powstała przed rokiem 200” – potwierdził Colwell.[^ec-colwell-138] „Nie mniej prawdziwe niż paradoksalne w brzmieniu jest to, że najgorsze zniekształcenia, jakim kiedykolwiek poddano Nowy Testament, powstały w ciągu stu lat od jego powstania” – stwierdził kilkadziesiąt lat wcześniej Scrivener.[^fha-scrivener-ii-264] Kilpatrick skomentował dowody pochodzące z najwcześniejszych papirusów.
 
 It is generally agreed that most significant variants existed by the end of the second century. “The overwhelming majority of readings were created before the year 200”, affirmed Colwell.1 “It is no less true to fact than paradoxical in sound that the worst corruptions to which the New Testament has ever been subjected, originated within a hundred years after it was composed”, said Scrivener decades before.2 Kilpatrick commented on the evidence of the earliest Papyri.
+
+[^gd-kilpatrick-ix-128-29]
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
@@ -48,3 +50,9 @@ It is generally agreed that most significant variants existed by the end of the 
 Zarzuca mi się niekonsekwencję w tym, że krytykuję Westcotta i Horta za traktowanie Nowego Testamentu jak każdej innej książki, a sam twierdzę, że Tekst Większościowy jest wynikiem „normalnego przebiegu przekazywania”. Nic podobnego, odnoszę się do normalnego przebiegu przekazywania **natchnionego Tekstu**, czemu Westcott i Hort zaprzeczali. Odnoszę się do wierzących kopiujących tekst, który **oni** uważali za natchniony. Ponadto uznaję również „nienormalny przebieg przekazywania”, podczas gdy Westcott i Hort tego nie robili. Gordon Fee poważnie zniekształca moje stanowisko, ignorując moją dyskusję na temat nienormalnego przebiegu przekazywania (G.D. Fee, „A Critique of W.N. Pickering’s *The Identity of the New Testament Text*: A Review Article”, *The Westminster Theological Journal*, XLI [wiosna 1979], str. 404-408) oraz błędnie przedstawiając mój pogląd na temat normalnego przebiegu przekazywania (*Ibid*., str. 399). Uważam, że 95% wariantów, te oczywiste błędy transkrypcyjne, należą (w większości) do normalnego przebiegu przekazywania, podczas gdy większość pozostałych 5%, te „znaczące” warianty, należą do nienormalnego przebiegu przekazywania.
 
 [^jw-burgon-revision-323-324]: 3 J.W. Burgon, *The Revision Revised* (Londyn: John Murray, 1883), s. 323–324.
+
+[^ec-colwell-138] E.C. Colwell, „The Origin of Text-types of New Testament Manuscripts”, *Early Christian Origins*, red. Allen Wikgren (Chicago: Quadrangle Books, 1961), s. 138.
+
+[^fha-scrivener-ii-264] F.H.A. Scrivener, *A Plain Introduction to the Criticism of the New Testament*, wydanie czwarte pod redakcją E. Millera (2 tomy; Londyn: George Bell and Sons, 1894), II, 264.
+
+[^gd-kilpatrick-ix-128-29] G.D. Kilpatrick, „The Transmission of the New Testament and its Reliability”, *The Bible Translator*, IX (lipiec 1958), 128-29.
