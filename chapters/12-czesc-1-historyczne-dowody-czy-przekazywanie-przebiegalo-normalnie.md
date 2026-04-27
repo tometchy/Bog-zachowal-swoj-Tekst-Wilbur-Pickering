@@ -32,6 +32,8 @@ Przechodząc teraz do kwestii nienormalnego przebiegu przekazywania, nie ulega w
 
 Największe zniszczenia miały miejsce do 200 r. n.e.
 
+Powszechnie uznaje się, że większość istotnych wariantów istniała już pod koniec II wieku. „Przeważająca większość odczytów powstała przed rokiem 200” – potwierdził Colwell.1 „Nie mniej prawdziwe niż paradoksalne w brzmieniu jest to, że najgorsze zniekształcenia, jakim kiedykolwiek poddano Nowy Testament, powstały w ciągu stu lat od jego powstania” – stwierdził kilkadziesiąt lat wcześniej Scrivener.2 Kilpatrick skomentował dowody pochodzące z najwcześniejszych papirusów.
+
 It is generally agreed that most significant variants existed by the end of the second century. “The overwhelming majority of readings were created before the year 200”, affirmed Colwell.1 “It is no less true to fact than paradoxical in sound that the worst corruptions to which the New Testament has ever been subjected, originated within a hundred years after it was composed”, said Scrivener decades before.2 Kilpatrick commented on the evidence of the earliest Papyri.
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
