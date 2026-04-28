@@ -34,6 +34,8 @@ Największe zniszczenia miały miejsce do 200 r. n.e.
 
 Powszechnie uznaje się, że większość istotnych wariantów istniała już pod koniec II wieku. „Przeważająca większość odczytów powstała przed rokiem 200” – potwierdził Colwell.[^ec-colwell-138] „Nie mniej prawdziwe niż paradoksalne w brzmieniu jest to, że najgorsze zniekształcenia, jakim kiedykolwiek poddano Nowy Testament, powstały w ciągu stu lat od jego powstania” – stwierdził kilkadziesiąt lat wcześniej Scrivener.[^fha-scrivener-ii-264] Kilpatrick komentował dowody najwcześniejszych papirusów.
 
+Let us take our two manuscripts of about this date [AD 200] which contain parts of John, the Chester Beatty Papyrus and the Bodmer Papyrus. They are together extant for about seventy verses. Over these seventy verses they differ some seventy-three times apart from mistakes.
+
 [^gd-kilpatrick-ix-128-29]
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
