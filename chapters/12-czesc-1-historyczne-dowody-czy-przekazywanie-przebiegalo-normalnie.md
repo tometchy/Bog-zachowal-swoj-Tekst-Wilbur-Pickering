@@ -34,9 +34,13 @@ Największe zniszczenia miały miejsce do 200 r. n.e.
 
 Powszechnie uznaje się, że większość istotnych wariantów istniała już pod koniec II wieku. „Przeważająca większość odczytów powstała przed rokiem 200” – potwierdził Colwell.[^ec-colwell-138] „Nie mniej prawdziwe niż paradoksalne w brzmieniu jest to, że najgorsze zniekształcenia, jakim kiedykolwiek poddano Nowy Testament, powstały w ciągu stu lat od jego powstania” – stwierdził kilkadziesiąt lat wcześniej Scrivener.[^fha-scrivener-ii-264] Kilpatrick komentował dowody najwcześniejszych papirusów.
 
+Weźmy nasze dwa rękopisy z mniej więcej tego okresu [ok. 200 r. n.e.], które zawierają fragmenty Ewangelii Jana: papirus Chester Beatty’ego i papirus Bodmera. Łącznie zachowało się w nich około siedemdziesięciu wersetów. W tych siedemdziesięciu wersetach różnią się one między sobą około siedemdziesiąt trzy razy, nie licząc błędów.
+
 Let us take our two manuscripts of about this date [AD 200] which contain parts of John, the Chester Beatty Papyrus and the Bodmer Papyrus. They are together extant for about seventy verses. Over these seventy verses they differ some seventy-three times apart from mistakes.
 
 [^gd-kilpatrick-ix-128-29]
+
+Further in the Bodmer Papyrus the original scribe has frequently corrected what he first wrote. At some places he is correcting his own mistakes but at others he substitutes one form of phrasing for another. At about seventy-five of these substitutions both alternatives are known from other manuscripts independently. The scribe is in fact replacing one variant reading by another at some seventy places so that we may conclude that already in his day there was variation at these points.3
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
