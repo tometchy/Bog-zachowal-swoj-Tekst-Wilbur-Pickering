@@ -48,6 +48,10 @@ G. Zuntz również dostrzegł to wszystko. „Współczesna krytyka zatrzymuje s
 
 G. Zuntz also recognized all of this. “Modern criticism stops before the barrier of the second century, the age, so it seems, of unbounded liberties with the text”.1
 
+Kilpatrick twierdzi następnie, że tworzenie nowych wariantów ustało około 200 roku n.e., ponieważ nie dało się ich już „sprzedać”. Omawia on niektóre próby wprowadzenia zmian w tekście podjęte przez Orygenesa, a następnie dodaje:
+
+Kilpatrick goes on to argue that the creation of new variants ceased by about 200 AD because it became impossible to ‘sell’ them. He discusses some of Origen’s attempts at introducing a change into the text, and proceeds:
+
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
 [^demonstracja-slusznosci-w-dodatku]: Demonstracja dowodząca słuszności mojego twierdzenia znajduje się w dodatku C do mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com jak również na mojej stronie internetowej www.prunch.org.
