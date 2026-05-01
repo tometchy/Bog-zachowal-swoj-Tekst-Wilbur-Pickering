@@ -36,7 +36,7 @@ Powszechnie uznaje się, że większość istotnych wariantów istniała już po
 
 Weźmy nasze dwa rękopisy z mniej więcej tego okresu [ok. 200 r. n.e.], które zawierają fragmenty Ewangelii Jana: papirus Chester Beatty’ego i papirus Bodmera. Łącznie zachowało się w nich około siedemdziesięciu wersetów. W tych siedemdziesięciu wersetach różnią się one między sobą około siedemdziesiąt trzy razy, nie licząc błędów.
 
-[^gd-kilpatrick-ix-128-29]
+Ponadto w papirusie Bodmera oryginalny skryba wielokrotnie poprawiał to, co napisał wcześniej. W niektórych miejscach poprawiał własne błędy, ale w innych zastępował jedną formę sformułowania inną. W przypadku około siedemdziesięciu pięciu takich zamian obie alternatywy są znane z innych rękopisów, niezależnie od siebie. Skryba w rzeczywistości zastępuje jeden wariant czytania innym w około siedemdziesięciu miejscach, co pozwala wnioskować, że już w jego czasach w tych miejscach występowały odmiany.[^gd-kilpatrick-ix-128-29]
 
 Further in the Bodmer Papyrus the original scribe has frequently corrected what he first wrote. At some places he is correcting his own mistakes but at others he substitutes one form of phrasing for another. At about seventy-five of these substitutions both alternatives are known from other manuscripts independently. The scribe is in fact replacing one variant reading by another at some seventy places so that we may conclude that already in his day there was variation at these points.3
 
