@@ -44,6 +44,10 @@ Papirus Bodmera to P^66^, a to, czego Kilpatrick nie wspomina, to fakt, że w ty
 
 The Bodmer papyrus is P66, and what Kilpatrick does not tell you is that in those 75 places the scribe was alternating between Byzantine and Alexandrian readings: sometimes he started with a Byzantine reading and then changed it to an Alexandrian and sometimes he did the opposite. He obviously had such exemplars before him, which means that the Byzantine Text was already in existence in the year 200!
 
+G. Zuntz również dostrzegł to wszystko. „Współczesna krytyka zatrzymuje się przed barierą II wieku, epoki, jak się wydaje, nieograniczonej swobody względem tekstu”.[^gzuntz-tekst-listow-s-11]
+
+G. Zuntz also recognized all of this. “Modern criticism stops before the barrier of the second century, the age, so it seems, of unbounded liberties with the text”.1
+
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
 [^demonstracja-slusznosci-w-dodatku]: Demonstracja dowodząca słuszności mojego twierdzenia znajduje się w dodatku C do mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com jak również na mojej stronie internetowej www.prunch.org.
@@ -57,8 +61,10 @@ Zarzuca mi się niekonsekwencję w tym, że krytykuję Westcotta i Horta za trak
 
 [^jw-burgon-revision-323-324]: 3 J.W. Burgon, *The Revision Revised* (Londyn: John Murray, 1883), s. 323–324.
 
-[^ec-colwell-138] E.C. Colwell, „The Origin of Text-types of New Testament Manuscripts”, *Early Christian Origins*, red. Allen Wikgren (Chicago: Quadrangle Books, 1961), s. 138.
+[^ec-colwell-138]: E.C. Colwell, „The Origin of Text-types of New Testament Manuscripts”, *Early Christian Origins*, red. Allen Wikgren (Chicago: Quadrangle Books, 1961), s. 138.
 
-[^fha-scrivener-ii-264] F.H.A. Scrivener, *A Plain Introduction to the Criticism of the New Testament*, wydanie czwarte pod redakcją E. Millera (2 tomy; Londyn: George Bell and Sons, 1894), II, 264.
+[^fha-scrivener-ii-264]: F.H.A. Scrivener, *A Plain Introduction to the Criticism of the New Testament*, wydanie czwarte pod redakcją E. Millera (2 tomy; Londyn: George Bell and Sons, 1894), II, 264.
 
-[^gd-kilpatrick-ix-128-29] G.D. Kilpatrick, „The Transmission of the New Testament and its Reliability”, *The Bible Translator*, IX (lipiec 1958), 128-29.
+[^gd-kilpatrick-ix-128-29]: G.D. Kilpatrick, „The Transmission of the New Testament and its Reliability”, *The Bible Translator*, IX (lipiec 1958), 128-29.
+
+[^gzuntz-tekst-listow-s-11]: G. Zuntz, *The Text of the Epistles* (Londyn: Oxford University Press, 1953), s. 11.
