@@ -40,6 +40,10 @@ Ponadto w papirusie Bodmera oryginalny skryba wielokrotnie poprawiał to, co nap
 
 Further in the Bodmer Papyrus the original scribe has frequently corrected what he first wrote. At some places he is correcting his own mistakes but at others he substitutes one form of phrasing for another. At about seventy-five of these substitutions both alternatives are known from other manuscripts independently. The scribe is in fact replacing one variant reading by another at some seventy places so that we may conclude that already in his day there was variation at these points.3
 
+Papirus Bodmera to P^66^, a to, czego Kilpatrick nie wspomina, to fakt, że w tych 75 miejscach skryba na przemian stosował odczyty bizantyjskie i aleksandryjskie: czasami zaczynał od odczytu bizantyjskiego, a następnie zmieniał go na aleksandryjski, a czasami robił odwrotnie. Najwyraźniej miał przed sobą takie wzorce, co oznacza, że tekst bizantyjski istniał już w roku 200!
+
+The Bodmer papyrus is P66, and what Kilpatrick does not tell you is that in those 75 places the scribe was alternating between Byzantine and Alexandrian readings: sometimes he started with a Byzantine reading and then changed it to an Alexandrian and sometimes he did the opposite. He obviously had such exemplars before him, which means that the Byzantine Text was already in existence in the year 200!
+
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
 [^demonstracja-slusznosci-w-dodatku]: Demonstracja dowodząca słuszności mojego twierdzenia znajduje się w dodatku C do mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com jak również na mojej stronie internetowej www.prunch.org.
