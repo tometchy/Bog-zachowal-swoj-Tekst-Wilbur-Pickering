@@ -42,15 +42,9 @@ Papirus Bodmera to P^66^, a to, czego Kilpatrick Ci nie wspomina, to fakt, że w
 
 G. Zuntz również dostrzegł to wszystko. „Współczesna krytyka zatrzymuje się przed barierą II wieku, epoki, jak się wydaje, nieograniczonej swobody względem tekstu”.[^gzuntz-tekst-listow-s-11]
 
-G. Zuntz also recognized all of this. “Modern criticism stops before the barrier of the second century, the age, so it seems, of unbounded liberties with the text”.1
+Kilpatrick twierdzi następnie, że tworzenie nowych wariantów ustało około 200 roku n.e., ponieważ nie dało się ich już „sprzedać”. Omawia on niektóre próby wprowadzenia zmian w tekście podjęte przez Orygenesa, a następnie kontynuuje:
 
-Kilpatrick twierdzi następnie, że tworzenie nowych wariantów ustało około 200 roku n.e., ponieważ nie dało się ich już „sprzedać”. Omawia on niektóre próby wprowadzenia zmian w tekście podjęte przez Orygenesa, a następnie dodaje:
-
-Kilpatrick goes on to argue that the creation of new variants ceased by about 200 AD because it became impossible to ‘sell’ them. He discusses some of Origen’s attempts at introducing a change into the text, and proceeds:
-
-> Sposób, w jaki Orygenes potraktował fragment z Ewangelii Mateusza 19,19, ma znaczenie jeszcze pod dwoma innymi względami. Po pierwsze, był on prawdopodobnie najbardziej wpływowym komentatorem w Kościele starożytnym, a jednak wydaje się, że jego domysły w tym miejscu wpłynęły tylko na jeden manuskrypt lokalnej wersji Nowego Testamentu. Tradycja grecka pozostała najwyraźniej zupełnie nie dotknięta. Od III wieku nawet Orygenes nie był w stanie skutecznie zmienić tekst.
-
-> Origen’s treatment of Matthew 19,19 is significant in two other ways. First he was probably the most influential commentator of the Ancient Church and yet his conjecture at this point seems to have influenced only one manuscript of a local version of the New Testament. The Greek tradition is apparently quite unaffected by it. From the third century onward even an Origen could not effectively alter the text.
+> Sposób, w jaki Orygenes potraktował fragment z Ewangelii Mateusza 19,19, ma znaczenie pod dwoma innymi względami. Po pierwsze, był on prawdopodobnie najbardziej wpływowym komentatorem w Kościele starożytnym, a jednak wydaje się, że jego domysły w tym miejscu wpłynęły tylko na jeden manuskrypt lokalnej wersji Nowego Testamentu. Tradycja grecka pozostała najwyraźniej zupełnie nimi niedotknięta. Od III wieku nawet Orygenes nie był w stanie skutecznie zmienić tekst.
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
