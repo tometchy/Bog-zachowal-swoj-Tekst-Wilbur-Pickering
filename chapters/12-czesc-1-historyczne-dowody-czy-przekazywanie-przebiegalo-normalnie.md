@@ -38,9 +38,7 @@ Weźmy nasze dwa rękopisy z mniej więcej tego okresu [ok. 200 r. n.e.], które
 
 Ponadto w papirusie Bodmera oryginalny skryba wielokrotnie poprawiał to, co napisał wcześniej. W niektórych miejscach poprawiał własne błędy, ale w innych zastępował jedną formę sformułowania inną. W przypadku około siedemdziesięciu pięciu takich zamian obie alternatywy są znane z innych manuskryptów, niezależnie od siebie. Skryba w rzeczywistości zastępuje jeden wariant odczytu innym w około siedemdziesięciu miejscach, co pozwala nam wnioskować, że już w jego czasach w tych miejscach występowały wariacje.[^gd-kilpatrick-ix-128-29]
 
-Papirus Bodmera to P^66^, a to, czego Kilpatrick nie wspomina, to fakt, że w tych 75 miejscach skryba na przemian stosował odczyty bizantyjskie i aleksandryjskie: czasami zaczynał od odczytu bizantyjskiego, a następnie zmieniał go na aleksandryjski, a czasami robił odwrotnie. Najwyraźniej miał przed sobą takie wzorce, co oznacza, że tekst bizantyjski istniał już w roku 200!
-
-The Bodmer papyrus is P66, and what Kilpatrick does not tell you is that in those 75 places the scribe was alternating between Byzantine and Alexandrian readings: sometimes he started with a Byzantine reading and then changed it to an Alexandrian and sometimes he did the opposite. He obviously had such exemplars before him, which means that the Byzantine Text was already in existence in the year 200!
+Papirus Bodmera to P^66^, a to, czego Kilpatrick Ci nie wspomina, to fakt, że w tych 75 miejscach skryba na przemian stosował odczyty bizantyjskie i aleksandryjskie: czasami zaczynał od odczytu bizantyjskiego, a następnie zmieniał go na aleksandryjski, a czasami robił odwrotnie. Miał on oczywiście przed sobą takie wzorce, co oznacza, że tekst bizantyjski istniał już w roku 200!
 
 G. Zuntz również dostrzegł to wszystko. „Współczesna krytyka zatrzymuje się przed barierą II wieku, epoki, jak się wydaje, nieograniczonej swobody względem tekstu”.[^gzuntz-tekst-listow-s-11]
 
