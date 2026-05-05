@@ -46,6 +46,10 @@ Kilpatrick twierdzi następnie, że tworzenie nowych wariantów ustało około 2
 
 > Sposób, w jaki Orygenes potraktował fragment z Ewangelii Mateusza 19,19, ma znaczenie pod dwoma innymi względami. Po pierwsze, był on prawdopodobnie najbardziej wpływowym komentatorem w Kościele starożytnym, a jednak wydaje się, że jego domysły w tym miejscu wpłynęły tylko na jeden manuskrypt lokalnej wersji Nowego Testamentu. Tradycja grecka pozostała najwyraźniej zupełnie nimi niedotknięta. Od III wieku nawet Orygenes nie był w stanie skutecznie zmienić tekst.
 
+> To prowadzi nas do drugiej istotnej kwestii – okresu, w którym żył. Od początku III wieku nie można już było korzystać z przysługującej wcześniej swobody wprowadzania zmian w tekście. Tatian jest ostatnim autorem, o którym mamy jednoznaczne informacje, że celowo wprowadzał zmiany w tekście. W okresie między Tatianem a Orygenesem poglądy chrześcijańskie uległy takiej zmianie, że nie było już możliwe wprowadzanie zmian w tekście, niezależnie od tego, czy były one niegroźne, czy też nie. [^kilpatrick-atticism-129-30]
+
+> This brings us to the second significant point—his date. From the early third century onward the freedom to alter the text which had obtained earlier can no longer be practiced. Tatian is the last author to make deliberate changes in the text of whom we have explicit information. Between Tatian and Origen Christian opinion had so changed that it was no longer possible to make changes in the text whether they were harmless or not.2
+
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
 [^demonstracja-slusznosci-w-dodatku]: Demonstracja dowodząca słuszności mojego twierdzenia znajduje się w dodatku C do mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com jak również na mojej stronie internetowej www.prunch.org.
