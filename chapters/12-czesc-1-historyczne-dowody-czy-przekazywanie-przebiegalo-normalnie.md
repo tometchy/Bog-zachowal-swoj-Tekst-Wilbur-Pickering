@@ -66,3 +66,5 @@ Zarzuca mi się niekonsekwencję w tym, że krytykuję Westcotta i Horta za trak
 [^gd-kilpatrick-ix-128-29]: G.D. Kilpatrick, „The Transmission of the New Testament and its Reliability”, *The Bible Translator*, IX (lipiec 1958), 128-29.
 
 [^gzuntz-tekst-listow-s-11]: G. Zuntz, *The Text of the Epistles* (Londyn: Oxford University Press, 1953), s. 11.
+
+[^kilpatrick-atticism-129-30]: Kilpatrick, „Atticism and the Text of the Greek New Testament”, Neutestamentliche Aufsatze (Regensburg: Verlag Friedrich Pustet, 1963), s. 129–130.
