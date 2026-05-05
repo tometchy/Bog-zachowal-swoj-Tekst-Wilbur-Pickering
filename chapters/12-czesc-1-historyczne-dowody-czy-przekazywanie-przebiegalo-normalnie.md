@@ -50,6 +50,14 @@ Kilpatrick twierdzi następnie, że tworzenie nowych wariantów ustało około 2
 
 > This brings us to the second significant point—his date. From the early third century onward the freedom to alter the text which had obtained earlier can no longer be practiced. Tatian is the last author to make deliberate changes in the text of whom we have explicit information. Between Tatian and Origen Christian opinion had so changed that it was no longer possible to make changes in the text whether they were harmless or not.2
 
+Uważa on, że postawa ta była reakcją na przeróbkę tekstu dokonaną przez heretyków z II wieku. Z pewnością wywołało to ogromne oburzenie i niezależnie od przyczyny wydaje się, że po 200 r. n.e. nie doszło już do większych szkód.[^uwazam-warianty-powstaly-wczesniej] Jednak zdecydowanie nie zgadzam się z twierdzeniem Kilpatricka o „przysługującej wcześniej swobody wprowadzania zmian w tekście”. Nie było takiej „swobody”, była to przewrotność wrogów Prawdy.
+
+He feels this attitude was a reaction against the re-handling of the text by the second-century heretics. Certainly there had been a great hue and cry, and whatever the reason it does appear that little further damage was done after AD 200.3 However, I certainly disagree with Kilpatrick’s “freedom to alter the text which had obtained earlier”. There was no such ‘freedom’, it was the perversity of enemies of the Truth.
+
+Zniekształcone formy tekstowe
+
+The aberrant text forms
+
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
 [^demonstracja-slusznosci-w-dodatku]: Demonstracja dowodząca słuszności mojego twierdzenia znajduje się w dodatku C do mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com jak również na mojej stronie internetowej www.prunch.org.
@@ -72,3 +80,6 @@ Zarzuca mi się niekonsekwencję w tym, że krytykuję Westcotta i Horta za trak
 [^gzuntz-tekst-listow-s-11]: G. Zuntz, *The Text of the Epistles* (Londyn: Oxford University Press, 1953), s. 11.
 
 [^kilpatrick-atticism-129-30]: Kilpatrick, „Atticism and the Text of the Greek New Testament”, Neutestamentliche Aufsatze (Regensburg: Verlag Friedrich Pustet, 1963), s. 129–130.
+
+[^uwazam-warianty-powstaly-wczesniej]: I believe we may reasonably understand that significant variants that first appear at a later date, within extant MSS, had actually been created much earlier.
+Uważam, że można zasadnie założyć, iż istotne warianty, które po raz pierwszy pojawiają się w późniejszym okresie wśród zachowanych manuskryptów, powstały w rzeczywistości znacznie wcześniej.
