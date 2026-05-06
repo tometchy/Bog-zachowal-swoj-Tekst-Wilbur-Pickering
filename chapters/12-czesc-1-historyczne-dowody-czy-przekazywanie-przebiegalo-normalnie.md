@@ -48,13 +48,13 @@ Kilpatrick twierdzi następnie, że tworzenie nowych wariantów ustało około 2
 
 > To prowadzi nas do drugiej istotnej kwestii – okresu, w którym żył. Od początku III wieku nie można już było korzystać z przysługującej wcześniej swobody wprowadzania zmian w tekście. Tatian jest ostatnim autorem, o którym mamy jednoznaczne informacje, że celowo wprowadzał zmiany w tekście. Pomiędzy Tatianem a Orygenesem poglądy chrześcijańskie uległy takiej zmianie, że nie było już możliwe wprowadzanie zmian w tekście, niezależnie od tego, czy były one niegroźne, czy też nie. [^kilpatrick-atticism-129-30]
 
-Uważa on, że postawa ta była reakcją na przeróbkę tekstu dokonaną przez heretyków z II wieku. Z pewnością wywołało to ogromne oburzenie i niezależnie od przyczyny wydaje się, że po 200 r. n.e. nie doszło już do większych szkód.[^uwazam-warianty-powstaly-wczesniej] Jednak zdecydowanie nie zgadzam się z twierdzeniem Kilpatricka o „przysługującej wcześniej swobodzie wprowadzania zmian w tekście”. Nie było takiej „swobody”, była to przewrotność wrogów Prawdy.
-
-He feels this attitude was a reaction against the re-handling of the text by the second-century heretics. Certainly there had been a great hue and cry, and whatever the reason it does appear that little further damage was done after AD 200.3 However, I certainly disagree with Kilpatrick’s “freedom to alter the text which had obtained earlier”. There was no such ‘freedom’, it was the perversity of enemies of the Truth.
+Uważa on, że postawa ta była reakcją na przeróbkę tekstu dokonaną przez heretyków z II wieku. Z pewnością wywołało to ogromne oburzenie i niezależnie od przyczyny wydaje się, że po 200 r. n.e. nie doszło już do większych szkód.[^uwazam-warianty-powstaly-wczesniej] Jednak zdecydowanie nie zgadzam się z twierdzeniem Kilpatricka na temat „przysługującej wcześniej swobody wprowadzania zmian w tekście”. Nie było takiej „swobody”, była to przewrotność wrogów Prawdy.
 
 Zniekształcone formy tekstowe
 
 The aberrant text forms
+
+The extent of the textual difficulties of the 2nd century can easily be exaggerated. Nevertheless, the evidence cited does prove that aberrant forms of the NT text were produced. Naturally, some of those text forms may have acquired a local and temporary currency, but they could scarcely become more than eddies along the edge of the ‘majority’ river. Recall that the possibility of checking against the Autographs, or guaranteed copies, must have served to inhibit the spread of such text forms.
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
