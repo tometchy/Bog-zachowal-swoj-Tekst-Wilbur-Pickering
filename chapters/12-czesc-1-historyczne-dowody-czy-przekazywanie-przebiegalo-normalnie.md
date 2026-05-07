@@ -54,9 +54,7 @@ Zniekształcone formy tekstowe
 
 The aberrant text forms
 
-Skala trudności tekstowych z II wieku może być łatwo wyolbrzymiona. Niemniej jednak przytoczone dowody potwierdzają, że tworzone były zniekształcone formy tekstu Nowego Testamentu. Naturalnie, niektóre z tych form tekstowych mogły zdobyć lokalną i tymczasową popularność, ale z trudem mogły stać się czymś więcej niż tylko zawirowaniami na obrzeżach rzeki „głównego nurtu”. Przypomnij sobie, że możliwość sprawdzenia z Autografami lub gwarantowanymi kopiami musiała służyć powstrzymaniu rozprzestrzeniania się takich form tekstowych.
-
-The extent of the textual difficulties of the 2nd century can easily be exaggerated. Nevertheless, the evidence cited does prove that aberrant forms of the NT text were produced. Naturally, some of those text forms may have acquired a local and temporary currency, but they could scarcely become more than eddies along the edge of the ‘majority’ river. Recall that the possibility of checking against the Autographs, or guaranteed copies, must have served to inhibit the spread of such text forms.
+Skala trudności tekstowych z II wieku może być łatwo wyolbrzymiona. Niemniej jednak przytoczone dowody potwierdzają, że tworzone były zniekształcone formy tekstu Nowego Testamentu. Naturalnie, niektóre z tych form tekstowych mogły zdobyć lokalną i tymczasową popularność, ale z trudem mogły stać się czymś więcej niż tylko zawirowaniami na obrzeżach nurtu „większościowego”. Przypomnij sobie, że możliwość sprawdzenia z Autografami lub gwarantowanymi kopiami musiała służyć powstrzymaniu rozprzestrzeniania się takich form tekstowych.
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
