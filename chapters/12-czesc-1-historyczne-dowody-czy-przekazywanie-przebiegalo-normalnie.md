@@ -52,9 +52,13 @@ Uważa on, że postawa ta była reakcją na przeróbkę tekstu dokonaną przez h
 
 Zniekształcone formy tekstowe
 
-The aberrant text forms
-
 Skala trudności tekstowych z II wieku może być łatwo wyolbrzymiona. Niemniej jednak przytoczone dowody potwierdzają, że tworzone były zniekształcone formy tekstu Nowego Testamentu. Naturalnie, niektóre z tych form tekstowych mogły zdobyć lokalną i tymczasową popularność, ale z trudem mogły stać się czymś więcej niż tylko zawirowaniami na obrzeżach nurtu „większościowego”. Przypomnij sobie, że możliwość sprawdzenia z Autografami lub gwarantowanymi kopiami musiała służyć powstrzymaniu rozprzestrzeniania się takich form tekstowych.
+
+[^cf-burgon-revised-323]
+
+For example, Gaius, an orthodox Father who wrote near the end of the second century, named four heretics who not only altered the text but had disciples who multiplied copies of their efforts. Of special interest here is his charge that they could not deny their guilt because they could not produce the originals from which they made their copies.1 This would be a hollow accusation from Gaius if he could not produce the Originals either. I have already argued that the churches in Asia Minor, for instance, did still have either the Autographs or exact copies that they themselves had made—thus they **knew**, absolutely, what the true wording was and could repel the aberrant forms with confidence. A man like Polycarp would still be able to affirm in 150 AD, letter by letter if need be, the original wording of the text for most of the New Testament books. And presumably his MSS were not burned when he was.
+
+Not only would there have been pressure from the Autographs, but also the pressure exerted by the already-established momentum of transmission enjoyed by the majority text form. As already discussed, the statistical probabilities militating against any aberrant text forms would be overwhelming. In short, although a bewildering array of variants came into existence, judging from extant witnesses, and they were indeed a perturbing influence in the stream of transmission, they would not succeed in thwarting the progress of the normal transmission.
 
 [^doskonala-okazja-przeciw-bizantyjskim]: To była doskonała okazja, by teksty „Aleksandryjskie” i „Zachodnie” ruszyły do przodu i odebrały „przestrzeń” tekstowi „Bizantyjskiemu”, ale tak się nie stało. Kościół odrzucił te typy tekstów. Jak współcześni krytycy mogliby być w lepszej pozycji do zidentyfikowania prawdziwego tekstu, niż był Kościół powszechny na początku IV wieku?
 
@@ -80,3 +84,5 @@ Zarzuca mi się niekonsekwencję w tym, że krytykuję Westcotta i Horta za trak
 [^kilpatrick-atticism-129-30]: Kilpatrick, „Atticism and the Text of the Greek New Testament”, Neutestamentliche Aufsatze (Regensburg: Verlag Friedrich Pustet, 1963), s. 129–130.
 
 [^uwazam-warianty-powstaly-wczesniej]: Uważam, że można zasadnie założyć, iż istotne warianty, które po raz pierwszy pojawiają się w późniejszym okresie wśród zachowanych manuskryptów, powstały w rzeczywistości znacznie wcześniej.
+
+[^cf-burgon-revised-323]: Zob. Burgon, *The Revision Revised*, s. 323.
