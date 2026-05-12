@@ -9,5 +9,4 @@ The MSS within the cones represent the "normal" transmission. To the left I have
 ![Rysunek A](images/Rysunek_A.jpg)  
 **Rysunek A**[^historia-miejsca-w-sugeruje-ii-wiek]
 
-[^historia-miejsca-w-sugeruje-ii-wiek]: The history of the place where Codex W was found suggests that it must have been cop- ied before AD 200: it was found in the ruins of a town that was abandoned in 200 AD when its water dried up. That town is in an isolated area surrounded by desert. Since W shows Byzantine influence, that text-type already existed in the second century,.
-Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
+[^historia-miejsca-w-sugeruje-ii-wiek]: Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
