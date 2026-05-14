@@ -7,4 +7,8 @@ Manuskrypty w obrębie stożków reprezentują „normalny” przebieg przekazyw
 ![Rysunek A](images/Rysunek_A.jpg)  
 **Rysunek A**[^historia-miejsca-w-sugeruje-ii-wiek]
 
+As the figure suggests, I argue that Diocletian’s campaign had a purifying effect upon the stream of transmission. In order to withstand torture rather than give up your MS(S), you would have to be a truly committed believer, the sort of person who would want good copies of the Scriptures. Thus it was probably the more contaminated MSS that were destroyed, in the main, leaving the purer MSS to replenish the earth.2 The arrow within the cones represents Family 35 (see Part II below).
+
 [^historia-miejsca-w-sugeruje-ii-wiek]: Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
+
+[^2]: Bardziej szczegółowe omówienie tej kwestii można znaleźć w sekcji „Imperialne represje wobec Nowego Testamentu” w rozdziale 6 mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com oraz na mojej stronie internetowej www.prunch.org.
