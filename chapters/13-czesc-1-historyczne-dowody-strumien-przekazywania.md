@@ -9,6 +9,10 @@ Manuskrypty w obrębie stożków reprezentują „normalny” przebieg przekazyw
 
 Jak sugeruje rysunek, twierdzę, że kampania Dioklecjana miała oczyszczający wpływ na strumień przekazywania.  Aby wytrzymać tortury, zamiast oddać manuskrypt(y), trzeba było być prawdziwie oddanym wierzącym, typem człowieka, który pragnął dobrych kopii Pism Świętych. Dlatego też zniszczono prawdopodobnie głównie bardziej zanieczyszczone manuskrypty, pozostawiając te czystsze manuskrypty, by ponownie zasiliły ziemię.[^bardziej-szczegolowe-identity-6-rozdzial] Strzałka wewnątrz stożków reprezentuje Rodzinę 35 (patrz część II poniżej).
 
+Nasuwa się jeszcze jedna refleksja – gdyby, zgodnie z doniesieniami, kampania Dioklecjana była najostrzejsza i najskuteczniejsza na obszarze bizantyjskim, przewaga liczebna „bizantyjskiego” typu tekstu nad typami „zachodnim” i „aleksandryjskim” uległaby zmniejszeniu, dając tym ostatnim szansę na wysunięcie się naprzód. Tak się jednak nie stało. Kościół w większości odmówił rozpowszechniania tych form greckiego tekstu.
+
+Another consideration suggests itself—if, as reported, the Diocletian campaign was most fierce and effective in the Byzantine area, the numerical advantage of the ‘Byzantine’ text-type over the ‘Western’ and ‘Alexandrian’ would have been reduced, giving the latter a chance to forge ahead. But it did not happen. The Church, in the main, refused to propagate those forms of the Greek text.
+
 [^historia-miejsca-w-sugeruje-ii-wiek]: Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
 
 [^bardziej-szczegolowe-identity-6-rozdzial]: Bardziej szczegółowe omówienie tej kwestii można znaleźć w sekcji „Imperialne represje wobec Nowego Testamentu” w rozdziale 6 mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com oraz na mojej stronie internetowej www.prunch.org.
