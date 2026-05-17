@@ -11,6 +11,10 @@ Jak sugeruje rysunek, twierdzę, że kampania Dioklecjana miała oczyszczający 
 
 Nasuwa się jeszcze jedna refleksja – gdyby, zgodnie z doniesieniami, kampania Dioklecjana była najostrzejsza i najskuteczniejsza na obszarze bizantyjskim, przewaga liczebna „bizantyjskiego” typu tekstu nad typami „zachodnim” i „aleksandryjskim” uległaby zmniejszeniu, dając tym ostatnim szansę na wysunięcie się naprzód. Tak się jednak nie stało. Kościół w większości odmówił rozpowszechniania tych form greckiego tekstu.
 
+[^mozna-by-mowic-o-wirach]
+
 [^historia-miejsca-w-sugeruje-ii-wiek]: Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
 
 [^bardziej-szczegolowe-identity-6-rozdzial]: Bardziej szczegółowe omówienie tej kwestii można znaleźć w sekcji „Imperialne represje wobec Nowego Testamentu” w rozdziale 6 mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com oraz na mojej stronie internetowej www.prunch.org.
+
+[^mozna-by-mowic-o-wirach]: Można by na przykład mówić o wirze P^45^/W [papirus 45 z kodeksu _W_ - Waszyngtońskiego, przyp. tłum.] albo wirze P^75^/B [papirus 75 z kodeksu _B_ - Watykańskiego, przyp. tłum.].
