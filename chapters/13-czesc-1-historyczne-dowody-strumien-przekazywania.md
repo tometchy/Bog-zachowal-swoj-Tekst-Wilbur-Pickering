@@ -17,4 +17,4 @@ Nasuwa się jeszcze jedna refleksja – gdyby, zgodnie z doniesieniami, kampania
 
 [^bardziej-szczegolowe-identity-6-rozdzial]: Bardziej szczegółowe omówienie tej kwestii można znaleźć w sekcji „Imperialne represje wobec Nowego Testamentu” w rozdziale 6 mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com oraz na mojej stronie internetowej www.prunch.org.
 
-[^mozna-by-mowic-o-wirach]: Można by na przykład mówić o wirze P^45^/W [papirus 45 z kodeksu _W_ - Waszyngtońskiego, przyp. tłum.] albo wirze P^75^/B [papirus 75 z kodeksu _B_ - Watykańskiego, przyp. tłum.].
+[^mozna-by-mowic-o-wirach]: Można by na przykład mówić o wirze P^45^/W [papirus 45 z kodeksu _W_, czyli Waszyngtońskiego, przyp. tłum.] albo wirze P^75^/B [papirus 75 z kodeksu _B_, czyli Watykańskiego, przyp. tłum.].
