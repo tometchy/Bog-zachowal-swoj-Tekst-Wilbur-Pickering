@@ -17,7 +17,7 @@ W rzeczywistości takie stwierdzenie jest nie do końca satysfakcjonujące, poni
 
 A członkowie niezgadzającej się grupy różnią się od odczytu do odczytu.[^przypomnienie-ze-swiadkow-nalezy-wazyc] Niemniej jednak, z uwzględnieniem powyższego zastrzeżenia, można zasadnie stwierdzić, że nawet 95% zachowanych manuskryptów należy do większościowej tradycji tekstowej.
 
-[^sturz-ubs-80]
+Nie widzę żadnego sposobu, by wyjaśnić dominację na poziomie 95% (lub 90%), chyba że tekst ten wywodzi się z Autografów. Hort dostrzegł ten problem i opracował poprawkę. Wydaje się, że Sturz nie dostrzegł tego problemu. Wykazuje on, że „typ tekstu bizantyjskiego” jest wczesny i niezależny od „typów tekstów zachodnich” i „aleksandryjskich” i podobnie jak von Soden pragnie traktować je jako trzech równych świadków.[^sturz-ubs-80] Ale gdyby te trzy „typy tekstów” były równe, w jaki sposób tak zwany „bizantyjski” mógłby kiedykolwiek uzyskać przewagę wynoszącą 90–95%?
 
 I see no way of accounting for a 95% (or 90%) domination unless that text goes back to the Autographs. Hort saw the problem and invented a revision. Sturz seems not to have seen the problem. He demonstrates that the “Byzantine text-type” is early and independent of the “Western” and “Alexandrian text-types”, and like von Soden, wishes to treat them as three equal witnesses.2 But if the three "text-types" were equal, how could the so-called “Byzantine” ever gain a 90-95% preponderance?
 
