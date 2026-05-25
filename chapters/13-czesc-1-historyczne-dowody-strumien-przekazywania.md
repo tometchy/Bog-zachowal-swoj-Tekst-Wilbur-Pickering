@@ -15,9 +15,7 @@ To, co odkrywamy po przeanalizowaniu świadków, to właśnie taki obraz. Mamy T
 
 W rzeczywistości takie stwierdzenie jest nie do końca satysfakcjonujące, ponieważ nie pozwala na uwzględnienie mieszanki lub zmiennych podobieństw występujących w poszczególnych manuskryptach. Lepszym, choć bardziej zawiłym sposobem opisania tej sytuacji byłoby coś takiego: 100% manuskryptów zgadza się co do, powiedzmy, 50% Tekstu, 99% zgadza się co do kolejnych 40%, ponad 95% zgadza się co do kolejnych 4%, ponad 90% zgadza się co do kolejnych 2%, ponad 80% zgadza się co do kolejnych 2%, tylko w przypadku około 2% Tekstu mniej niż 80% rękopisów jest zgodnych, a nieproporcjonalnie duża liczba tych przypadków występuje w Objawieniu Jana.[^te-liczby-to-zgadywanie]
 
-Członkowie nie zgadzającej się grupy różnią się od odczytu do odczytu.[^przypomnienie-ze-swiadkow-nalezy-wazyc] Niemniej jednak, z uwzględnieniem powyższego zastrzeżenia, można zasadnie stwierdzić, że nawet 95% zachowanych manuskryptów należy do większościowej tradycji tekstowej.
-
-And the membership of the dissenting group varies from reading to reading.1 Still, with the above reservation, one may reasonably speak of up to 95% of the extant MSS belonging to the Majority textual tradition.
+A członkowie niezgadzającej się grupy różnią się od odczytu do odczytu.[^przypomnienie-ze-swiadkow-nalezy-wazyc] Niemniej jednak, z uwzględnieniem powyższego zastrzeżenia, można zasadnie stwierdzić, że nawet 95% zachowanych manuskryptów należy do większościowej tradycji tekstowej.
 
 [^historia-miejsca-w-sugeruje-ii-wiek]: Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
 
