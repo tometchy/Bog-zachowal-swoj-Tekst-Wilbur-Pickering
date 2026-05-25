@@ -17,6 +17,10 @@ W rzeczywistości takie stwierdzenie jest nie do końca satysfakcjonujące, poni
 
 A członkowie niezgadzającej się grupy różnią się od odczytu do odczytu.[^przypomnienie-ze-swiadkow-nalezy-wazyc] Niemniej jednak, z uwzględnieniem powyższego zastrzeżenia, można zasadnie stwierdzić, że nawet 95% zachowanych manuskryptów należy do większościowej tradycji tekstowej.
 
+[^sturz-ubs-80]
+
+I see no way of accounting for a 95% (or 90%) domination unless that text goes back to the Autographs. Hort saw the problem and invented a revision. Sturz seems not to have seen the problem. He demonstrates that the “Byzantine text-type” is early and independent of the “Western” and “Alexandrian text-types”, and like von Soden, wishes to treat them as three equal witnesses.2 But if the three "text-types" were equal, how could the so-called “Byzantine” ever gain a 90-95% preponderance?
+
 [^historia-miejsca-w-sugeruje-ii-wiek]: Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
 
 [^bardziej-szczegolowe-identity-6-rozdzial]: Bardziej szczegółowe omówienie tej kwestii można znaleźć w sekcji „Imperialne represje wobec Nowego Testamentu” w rozdziale 6 mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com oraz na mojej stronie internetowej www.prunch.org.
@@ -28,3 +32,5 @@ A członkowie niezgadzającej się grupy różnią się od odczytu do odczytu.[^
 [^te-liczby-to-zgadywanie]: Nie jestem przygotowany do obrony podanych konkretnych liczb – są to **przypuszczenia** – ale uważam, że stanowią one rozsądne przybliżenie rzeczywistości. Zgadzam się w pełni z Colwellem, gdy podkreśla on, że musimy „rygorystycznie wyeliminować odczyt pojedynczy” („External Evidence and New Testament Criticism”, *Studies in the History of the Text of the New Testament*, red. B.L. Daniels i M.J. Suggs [Salt Lake City: University of Utah Press, 1967], s. 8) w oparciu o całkowicie rozsądne założenie (jak mi się wydaje), że pojedynczy świadek przeciwko całemu światu nie może mieć racji.
 
 [^przypomnienie-ze-swiadkow-nalezy-wazyc]: Z pewnością zostanie mi przypomniane, że świadków należy ważyć, a nie liczyć. Moje rozważania na ten temat można znaleźć w rozdziale 6 mojej książki *Identity IV*, w sekcji zatytułowanej „Czy świadków nie należy raczej ważyć, a nie liczyć?”.
+
+[^sturz-ubs-80]: Sturz, op. cit.[łac. *opus citatum* - „w cytowanym dziele” / „dzieło cytowane”, przyp. tłum.] Tekst powstały przez przyjęcie dwóch „typów tekstów” przeciw jednemu przesunąłby tekst UBS[tekst UBS to tekst krytyczny wydawany przez United Bible Societies, przyp. tłum.] o około 80% drogi w kierunku tekstu większościowego.
