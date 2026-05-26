@@ -40,6 +40,7 @@ The argument from statistical probability enters here with a vengeance. Not only
 [^odczyty-z-popierajacymi-manuskryptami]:
     Odczyty wraz z popierającymi je manuskryptami są jak następuje:
 
-    ο–D
+    ο – D
 
     ω – 061
+    ος Θεος – jeden minuskuł, 256 (oraz jeden lekcjonarz)
