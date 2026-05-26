@@ -19,8 +19,6 @@ A członkowie niezgadzającej się grupy różnią się od odczytu do odczytu.[^
 
 Nie widzę żadnego sposobu, by wyjaśnić dominację na poziomie 95% (lub 90%), chyba że tekst ten wywodzi się z Autografów. Hort dostrzegł ten problem i opracował poprawkę. Wydaje się, że Sturz nie dostrzegł tego problemu. Wykazuje on, że „typ tekstu bizantyjskiego” jest wczesny i niezależny od „typów tekstów zachodnich” i „aleksandryjskich” i podobnie jak von Soden pragnie traktować je jako trzech równych świadków.[^sturz-ubs-80] Ale gdyby te trzy „typy tekstów” były równe, w jaki sposób tak zwany „bizantyjski” mógłby kiedykolwiek uzyskać przewagę wynoszącą 90–95%?
 
-I see no way of accounting for a 95% (or 90%) domination unless that text goes back to the Autographs. Hort saw the problem and invented a revision. Sturz seems not to have seen the problem. He demonstrates that the “Byzantine text-type” is early and independent of the “Western” and “Alexandrian text-types”, and like von Soden, wishes to treat them as three equal witnesses.2 But if the three "text-types" were equal, how could the so-called “Byzantine” ever gain a 90-95% preponderance?
-
 [^historia-miejsca-w-sugeruje-ii-wiek]: Historia miejsca, w którym znaleziono Kodeks W, wskazuje, że musiał on zostać skopiowany przed 200 r. n.e.: znaleziono go w ruinach miasta opuszczonego w 200 r. n.e. kiedy jego wody wyschły. Miasto to położone jest na odizolowanym obszarze otoczonym pustynią. Ponieważ Kodeks W wykazuje wpływy bizantyjskie, ten typ tekstu istniał już w II wieku.
 
 [^bardziej-szczegolowe-identity-6-rozdzial]: Bardziej szczegółowe omówienie tej kwestii można znaleźć w sekcji „Imperialne represje wobec Nowego Testamentu” w rozdziale 6 mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com oraz na mojej stronie internetowej www.prunch.org.
@@ -33,4 +31,4 @@ I see no way of accounting for a 95% (or 90%) domination unless that text goes b
 
 [^przypomnienie-ze-swiadkow-nalezy-wazyc]: Z pewnością zostanie mi przypomniane, że świadków należy ważyć, a nie liczyć. Moje rozważania na ten temat można znaleźć w rozdziale 6 mojej książki *Identity IV*, w sekcji zatytułowanej „Czy świadków nie należy raczej ważyć, a nie liczyć?”.
 
-[^sturz-ubs-80]: Sturz, op. cit.[łac. *opus citatum* - „w cytowanym dziele” / „dzieło cytowane”, przyp. tłum.] Tekst powstały przez przyjęcie dwóch „typów tekstów” przeciw jednemu przesunąłby tekst UBS[tekst UBS to tekst krytyczny wydawany przez United Bible Societies, przyp. tłum.] o około 80% drogi w kierunku tekstu większościowego.
+[^sturz-ubs-80]: Sturz, op. cit. [łac. *opus citatum* - „w cytowanym dziele” / „dzieło cytowane”, przyp. tłum.] Tekst powstały przez przyjęcie dwóch „typów tekstów” przeciw jednemu przesunąłby tekst UBS [tekst UBS to tekst krytyczny wydawany przez United Bible Societies, przyp. tłum.] o około 80% drogi w kierunku tekstu większościowego.
