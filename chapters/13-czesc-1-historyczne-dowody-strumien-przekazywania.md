@@ -50,3 +50,6 @@ The argument from statistical probability enters here with a vengeance. Not only
 
     *Θεος* – A, C^vid^[vid - wydaje się, że ma taki odczyt, przyp. tłum.], F/G^vid^, K, L, P, Ψ, około 600 minuskułów (oprócz Lekcjonarzy) (w tym cztery minuskuły mające odczyt *ο Θεος* oraz jeden lekcjonarz mający odczyt *Θεου*).
 
+    Będzie zauważone, że moje sformułowanie różni się na przykład od tego zawartego w tekście UBS. Proponuję następujące wyjaśnienie.
+
+    It will be observed that my statement differs from that of the UBS text, for example. I offer the following explanation.
