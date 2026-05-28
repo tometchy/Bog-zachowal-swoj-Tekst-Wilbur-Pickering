@@ -38,15 +38,15 @@ The argument from statistical probability enters here with a vengeance. Not only
 [^sturz-ubs-80]: Sturz, op. cit. [łac. *opus citatum* - „w cytowanym dziele” / „dzieło cytowane”, przyp. tłum.] Tekst powstały przez przyjęcie dwóch „typów tekstów” przeciw jednemu przesunąłby tekst UBS [tekst UBS to tekst krytyczny wydawany przez United Bible Societies, przyp. tłum.] o około 80% drogi w kierunku tekstu większościowego.
 
 [^odczyty-z-popierajacymi-manuskryptami]:
-    Odczyty wraz z popierającymi je manuskryptami są jak następuje [ w formie: grecka fraza - identyfikatory manuskryptów, przyp. tłum.]:
+    Odczyty wraz z popierającymi je manuskryptami są jak następuje [ w formie: *grecka fraza* - identyfikatory manuskryptów, przyp. tłum.]:
 
-    ο – D
+    *ο* – D
 
-    ω – 061
+    *ω* – 061
 
-    ος Θεος – jeden minuskuł [minuskuł/cursive - manuskrypt w którym litery są połączone ze sobą i często lekko pochylone w prawo, aby pisać szybciej i płynniej, przyp. tłum.], 256 (oraz jeden Lekcjonarz [lekcjonarz - księga liturgiczna zawierająca czytania biblijne do nabożeństw, przyp. tłum.])
+    *ος Θεος* – jeden minuskuł [minuskuł/cursive - manuskrypt w którym litery są połączone ze sobą i często lekko pochylone w prawo, aby pisać szybciej i płynniej, przyp. tłum.], 256 (oraz jeden Lekcjonarz [lekcjonarz - księga liturgiczna zawierająca czytania biblijne do nabożeństw, przyp. tłum.])
 
-    ος – ℵ, 33, 365, 442, 1175, 2127 (plus trzy Lekcjonarze)
+    *ος* – ℵ, 33, 365, 442, 1175, 2127 (plus trzy Lekcjonarze)
 
-    Θεος – A, Cvid[vid - wydaje się, że ma taki odczyt, przyp. tłum.], F/G^vid^, K, L, P, Ψ, około 600 minuskułów (oprócz Lekcjonarzy) (w tym cztery minuskuły mające odczyt ο Θεος oraz jeden lekcjonarz mający odczyt Θεου).
+    *Θεος* – A, C^vid^[vid - wydaje się, że ma taki odczyt, przyp. tłum.], F/G^vid^, K, L, P, Ψ, około 600 minuskułów (oprócz Lekcjonarzy) (w tym cztery minuskuły mające odczyt *ο Θεος* oraz jeden lekcjonarz mający odczyt *Θεου*).
 
