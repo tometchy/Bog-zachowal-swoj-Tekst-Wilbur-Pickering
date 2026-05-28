@@ -52,4 +52,4 @@ The argument from statistical probability enters here with a vengeance. Not only
 
     Będzie zauważone, że moje sformułowanie różni się na przykład od tego zawartego w tekście UBS. Proponuję następujące wyjaśnienie.
 
-    It will be observed that my statement differs from that of the UBS text, for example. I offer the following explanation.
+    Young, Huish, Pearson, Fell, and Mill in the seventeenth century, Creyk, Bentley, Wotton, Wetstein, Bengel, Berriman, and Woide in the eighteenth, and Scrivener as late as 1881 all affirmed, upon careful inspection, that Codex A reads “God”. For a thorough discussion please see Burgon, who says concerning Woide, “The learned and conscientious editor of the Codex declares that so late as 1765 he had seen traces of the *Θ* which twenty years later (viz. in 1785) were visible to him no longer” (*The Revision Revised*, p. 434. Cf. pp. 431-36). It was only after 1765 that scholars started to question the reading of A (through fading and wear the middle line of the theta is no longer discernible).
