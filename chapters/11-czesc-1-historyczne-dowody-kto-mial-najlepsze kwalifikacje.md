@@ -71,7 +71,7 @@ Jaką odpowiedź na nasze pytanie dają „cztery czynniki decydujące”? Wszys
 [^itacyzm]: Itacyzm – proces fonetyczny polegający na zwężeniu długiego /E/ otwartego (oznaczanego w języku greckim literą eta) i ujednoliceniu się jej z samogłoską /I/, w wyniku tego nazwa litery Η („eta”) zaczyna brzmieć „ita” i stąd nazwa procesu. [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Itacyzm
 
-[^ibid-53-sila-kosciola]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], strona 53.
+[^ibid-53-sila-kosciola]: *Ibid.*, strona 53.
 
 [^ch-roberts-4243-5458]: C.H. Roberts, *Manuscript, Society and Belief in Early Christian Egypt* (Londyn: Oxford University Press, 1979), s. 42–43, 54–58.
 

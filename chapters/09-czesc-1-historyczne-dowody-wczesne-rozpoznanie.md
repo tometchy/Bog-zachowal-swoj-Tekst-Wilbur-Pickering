@@ -125,7 +125,7 @@ https://pl.wikipedia.org/wiki/Didache
 
 [^ponownie-roberts-donaldson]: Roberts i Donaldson, ponownie.
 
-[^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie ze świętych pism przez lokalne społeczności” (*Manuscript, Society and Belief in Early Christian Egypt* [Londyn: Oxford University Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 [Papirus z Oksyrynchos tom III, nr 405, przyp. tłum.] wnioskuje on również, że kopia dzieła Ireneusza, *Adversus Haereses*, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (*Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
+[^roberts-wniosek-o-skali-ruchu]: E.R. Hardy, ponownie. Jego staranne badania wczesnochrześcijańskich papirusów literackich doprowadziły C.H. Robertsa do następującego wniosku: „Wskazuje to na ostrożne i regularne korzystanie ze świętych pism przez lokalne społeczności” (*Manuscript, Society and Belief in Early Christian Egypt* [Londyn: Oxford University Press, 1979], str. 25). Na podstawie P. Oxy. iii. 405 [Papirus z Oksyrynchos tom III, nr 405, przyp. tłum.] wnioskuje on również, że kopia dzieła Ireneusza, *Adversus Haereses*, napisana w Lyonie, została przywieziona do Oksyrynchos w ciągu pierwszych kilku lat od jej powstania (*Ibid.*, str. 23, 53), stanowiąc wymowne świadectwo skali ruchu między wczesnymi kościołami.
 
 [^tlumaczenie-richardson-fathers]: Skorzystałem z tłumaczenia autorstwa C.C. Richardsona z książki Early Christian Fathers.
 
@@ -142,4 +142,4 @@ https://pl.wikipedia.org/wiki/Ireneusz_z_Lyonu
 [^przeciwko-herezjom]: Autor prawdopodobnie ma na myśli dzieło znane w Polsce jako *Przeciwko herezjom* (*Adversus haereses*). [przyp. tłum.]  
 https://pl.wikipedia.org/wiki/Adversus_haereses
 
-[^ibid-53]: *Ibid.* [łac. *ibidem* - *tamże*/*w tym samym miejscu*, przyp. tłum.], strona 53.
+[^ibid-53]: *Ibid.*, strona 53.
