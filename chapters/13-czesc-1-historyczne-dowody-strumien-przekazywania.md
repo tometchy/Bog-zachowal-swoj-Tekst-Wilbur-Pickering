@@ -70,6 +70,8 @@ The argument from statistical probability enters here with a vengeance. Not only
 
     It thus appears that the “Western” and “Byzantine” readings have earlier attestation than does the “Alexandrian”. Yet if “which” was caused by “who”, then the latter must be older. The reading “who” is admittedly the most difficult, so much so that to apply the “harder reading” canon in the face of an easy transcriptional explanation (the accidental omission of the two strokes of the pen) for the difficult reading seems unreasonable. As Burgon so well put it:
 
+    Wydaje się zatem, że odczyty „zachodnie” i „bizantyjskie” mają wcześniejsze zaświadczenie niż „aleksandryjskie”. Jeśli jednak "która" powstała z "kto", wówczas to drugie musi być starsze. Odczyt "kto" jest co prawda najtrudniejszy, do tego stopnia, że stosowanie zasady "trudniejszego odczytu" w obliczu łatwego wyjaśnienia transkrypcyjnego (przypadkowego pominięcia dwóch pociągnięć pióra) dla trudnego odczytu wydaje się nierozsądne. Jak trafnie ujął to Burgon:
+
     > I trust we are at least agreed that the maxim “*proclivi lectioni praestat ardua,*” does not enunciate so foolish a proposition as that in choosing between two or more conflicting readings, we are to prefer **that** one which has the feeblest external attestation, — provided it be but in itself almost unintelligible? (*Ibid.*, p. 497).
 
     Whatever the intention of those editors who choose ‘who’, their text emasculates this strong statement of the deity of Jesus Christ, besides being a stupidity—what is a ‘mystery’ about any human male being manifested in flesh? All human beings have bodies. In the Greek Text the relative pronoun has no antecedent, so it is a grammatical ‘impossibility’.
