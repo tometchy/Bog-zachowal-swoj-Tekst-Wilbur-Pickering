@@ -72,4 +72,6 @@ The argument from statistical probability enters here with a vengeance. Not only
 
     > I trust we are at least agreed that the maxim “*proclivi lectioni praestat ardua,*” does not enunciate so foolish a proposition as that in choosing between two or more conflicting readings, we are to prefer **that** one which has the feeblest external attestation, — provided it be but in itself almost unintelligible? (*Ibid.*, p. 497).
 
+    > Wierzę, że przynajmniej co do tego się zgadzamy, iż maksyma „*proclivi lectioni praestat ardua*” nie głosi tak nierozsądnej tezy, jakoby przy wyborze między dwoma lub więcej sprzecznymi odczytami należało preferować **właśnie ten**, który ma najsłabsze zewnętrzne potwierdzenie – pod warunkiem, że sam w sobie jest niemal niezrozumiały? (*Ibid.*, s. 497).
+
     Whatever the intention of those editors who choose ‘who’, their text emasculates this strong statement of the deity of Jesus Christ, besides being a stupidity—what is a ‘mystery’ about any human male being manifested in flesh? All human beings have bodies. In the Greek Text the relative pronoun has no antecedent, so it is a grammatical ‘impossibility’.
