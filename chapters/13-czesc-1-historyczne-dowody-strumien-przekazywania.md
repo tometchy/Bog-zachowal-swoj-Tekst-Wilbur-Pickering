@@ -82,5 +82,4 @@ Candidly, there is only one reasonable explanation for the Majority Text that ha
 
     Niezależnie od intencji redaktorów, którzy zdecydowali się na użycie „kto”, ich tekst osłabia to mocne stwierdzenie o boskości Jezusa Chrystusa, oprócz tego, że jest głupotą – co jest „tajemnicą” dotyczącą jakiegokolwiek mężczyzny, który objawił się w ciele? Wszyscy ludzie mają ciała. W Tekście Greckim zaimek względny nie ma poprzednika, więc jest to „gramatyczna niemożliwość”.
 
-[^dalsza-dyskusja-patrz-appendix-identity]: For further discussion see the final pages of Appendix C in my Identity IV.
-Dalsze omówienie znajduje się na ostatnich stronach załącznika C w mojej książce „Identity IV”.
+[^dalsza-dyskusja-patrz-appendix-identity]: Dalsze omówienie znajduje się na ostatnich stronach załącznika C w mojej książce „Identity IV”.
