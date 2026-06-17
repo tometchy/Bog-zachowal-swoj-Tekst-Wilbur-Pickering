@@ -1,0 +1,11 @@
+### Jakie są rzeczywiste dowody?
+
+What is the actual evidence that needs to be evaluated? The continuous text MSS are the primary witnesses. The Lectionaries are secondary witnesses. The ancient Versions and patristic citations are tertiary witnessses. Any historical evidence, to the extent that it can be verified, is ancillary. The relevance of the secondary and tertiary types of evidence depends upon the presuppositions that the original wording was lost, and that the transmission of the text was not normal. Since both those presuppositions are false, I will confine my attention to the primary witnesses, the more so since there are so many of them.
+
+The primary witnesses are customarily treated as being of three types: the papyri, the uncials and the cursives. The papyri and the uncials are both written with upper case letters (often without spacing between words), the difference being in the material used, papyrus or parchment (leather). The cursives are written with lower case letters, often run together, and usually with spacing between words; the material used was parchment or paper. The uncial script was exclusively used until the ninth century, when the first cursive MSS appear. By the eleventh century the cursive script had taken over.
+
+The international list of extant (known) NT MSS is maintained by the Institute for New Testament Textual Research (INTF) in Münster, Germany. It is called the *Kurzgefasste Liste*.[^kurt-aland-kurzgefasste-1994] As of February, 2018, that list contained 133 papyri, 282 uncials (majuscules) and about 2,850 numbered cursives (minuscules).
+
+The dating of MSS is a slippery business, vulnerable to presupposition, bias and ‘party line’. The reader should understand that the dates that have been assigned to the individual MSS may be little more than rough guesses, so much so that they are usually given as a century. When a MS has a specific date, the copyist wrote the date when he finished.
+
+[^kurt-aland-kurzgefasste-1994]: Kurt Aland, ed., *Kurzgefasste Liste der Grieshischen Handschriften des Neuen Testaments* (Berlin: Walter de Gruyter, 1994).
