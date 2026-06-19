@@ -44,7 +44,7 @@ Szczerze mówiąc, istnieje tylko jedno rozsądne wyjaśnienie dotyczące Tekstu
 [^sturz-ubs-80]: Sturz, *Op. Cit.* [łac. *opus citatum* - „w cytowanym dziele” / „dzieło cytowane”, przyp. tłum.] Tekst powstały przez przyjęcie dwóch „typów tekstów” przeciw jednemu przesunąłby tekst UBS [tekst UBS to tekst krytyczny wydawany przez United Bible Societies, przyp. tłum.] o około 80% drogi w kierunku tekstu większościowego.
 
 [^odczyty-z-popierajacymi-manuskryptami]:
-    Odczyty wraz z popierającymi je manuskryptami są jak następuje [ w formie: *grecka fraza* - identyfikatory manuskryptów, przyp. tłum.]:
+    Odczyty wraz z popierającymi je manuskryptami są jak następuje [w formie: *grecka fraza* - identyfikatory manuskryptów, przyp. tłum.]:
 
     *ο* – D
 
