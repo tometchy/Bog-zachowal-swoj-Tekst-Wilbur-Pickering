@@ -41,7 +41,7 @@ Szczerze mówiąc, istnieje tylko jedno rozsądne wyjaśnienie dotyczące Tekstu
 
 [^przypomnienie-ze-swiadkow-nalezy-wazyc]: Z pewnością zostanie mi przypomniane, że świadków należy ważyć, a nie liczyć. Moje rozważania na ten temat można znaleźć w rozdziale 6 mojej książki *Identity IV*, w sekcji zatytułowanej „Czy świadków nie należy raczej ważyć, a nie liczyć?”.
 
-[^sturz-ubs-80]: Sturz, op. cit. [łac. *opus citatum* - „w cytowanym dziele” / „dzieło cytowane”, przyp. tłum.] Tekst powstały przez przyjęcie dwóch „typów tekstów” przeciw jednemu przesunąłby tekst UBS [tekst UBS to tekst krytyczny wydawany przez United Bible Societies, przyp. tłum.] o około 80% drogi w kierunku tekstu większościowego.
+[^sturz-ubs-80]: Sturz, *Op. Cit.* [łac. *opus citatum* - „w cytowanym dziele” / „dzieło cytowane”, przyp. tłum.] Tekst powstały przez przyjęcie dwóch „typów tekstów” przeciw jednemu przesunąłby tekst UBS [tekst UBS to tekst krytyczny wydawany przez United Bible Societies, przyp. tłum.] o około 80% drogi w kierunku tekstu większościowego.
 
 [^odczyty-z-popierajacymi-manuskryptami]:
     Odczyty wraz z popierającymi je manuskryptami są jak następuje [ w formie: *grecka fraza* - identyfikatory manuskryptów, przyp. tłum.]:
