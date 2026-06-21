@@ -12,4 +12,6 @@ The dating of MSS is a slippery business, vulnerable to presupposition, bias and
 
 Datowanie manuskryptów to śliski interes, podatny na domysły, stronniczość i „linię partyjną”. Czytelnik powinien rozumieć, że daty przypisane poszczególnym manuskryptom mogą być niewiele więcej niż przybliżonymi przypuszczeniami, do tego stopnia, że zazwyczaj podaje się je w postaci stulecia. Jeśli manuskrypt posiada konkretną datę, oznacza to, że kopista zapisał ją po zakończeniu pracy.
 
+I made a rough tabulation of the papyri by century (taking the later date when there was an option)[^2], they range from the II to the VIII:  II—4, III—49, IV—31, V—14, VI—16, VII—16, VIII—3. Of those 133 papyri, 35 have less than five verses (they are mere fragments)[^3], 76 have between six and twenty verses (still fragments), 13 more have less than two chapters, only 9 of them are of significant size. For some 40 chapters throughout the NT there is no papyrus witness. Only Luke, John, Acts, Hebrews, 1 & 2 Peter and Jude have a papyrus witness for a full chapter. Only one papyrus has a complete book: P^72^ contains 1 & 2 Peter and Jude. The importance attached to the papyri will depend on one’s presuppositions.
+
 [^kurt-aland-kurzgefasste-1994]: Kurt Aland (red.), *Skrócona lista rękopisów Nowego Testamentu w języku griesh* (Berlin: Walter de Gruyter, 1994).
