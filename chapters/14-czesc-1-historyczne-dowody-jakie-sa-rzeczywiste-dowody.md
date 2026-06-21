@@ -6,6 +6,8 @@ Do głównych świadków zalicza się zazwyczaj trzy rodzaje: papirusy, uncjały
 
 The international list of extant (known) NT MSS is maintained by the Institute for New Testament Textual Research (INTF) in Münster, Germany. It is called the *Kurzgefasste Liste*.[^kurt-aland-kurzgefasste-1994] As of February, 2018, that list contained 133 papyri, 282 uncials (majuscules) and about 2,850 numbered cursives (minuscules).
 
+Międzynarodowy wykaz zachowanych (znanych) manuskryptów Nowego Testamentu jest prowadzony przez Instytut Badań Tekstologicznych Nowego Testamentu (INTF) w Münster w Niemczech. Nazywa się ona *Kurzgefasste Liste*.[^kurt-aland-kurzgefasste-1994] Według stanu na luty 2018 r. lista ta zawierała 133 papirusy, 282 manuskrypty uncjałowe (majuskuły) oraz około 2 850 ponumerowanych manuskryptów kursywnych (minuskuły).
+
 The dating of MSS is a slippery business, vulnerable to presupposition, bias and ‘party line’. The reader should understand that the dates that have been assigned to the individual MSS may be little more than rough guesses, so much so that they are usually given as a century. When a MS has a specific date, the copyist wrote the date when he finished.
 
 [^kurt-aland-kurzgefasste-1994]: Kurt Aland, ed., *Kurzgefasste Liste der Grieshischen Handschriften des Neuen Testaments* (Berlin: Walter de Gruyter, 1994).
