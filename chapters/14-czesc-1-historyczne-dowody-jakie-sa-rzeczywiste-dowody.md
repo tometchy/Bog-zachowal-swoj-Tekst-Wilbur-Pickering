@@ -10,4 +10,6 @@ Międzynarodowy wykaz zachowanych (znanych) manuskryptów Nowego Testamentu jest
 
 The dating of MSS is a slippery business, vulnerable to presupposition, bias and ‘party line’. The reader should understand that the dates that have been assigned to the individual MSS may be little more than rough guesses, so much so that they are usually given as a century. When a MS has a specific date, the copyist wrote the date when he finished.
 
+Datowanie manuskryptów to śliski interes, podatny na domysły, stronniczość i „linię partyjną”. Czytelnik powinien rozumieć, że daty przypisane poszczególnym manuskryptom mogą być niewiele więcej niż przybliżonymi przypuszczeniami, do tego stopnia, że zazwyczaj podaje się je w postaci stulecia. Jeśli manuskrypt posiada konkretną datę, oznacza to, że kopista zapisał ją po zakończeniu pracy.
+
 [^kurt-aland-kurzgefasste-1994]: Kurt Aland, ed., *Kurzgefasste Liste der Grieshischen Handschriften des Neuen Testaments* (Berlin: Walter de Gruyter, 1994).
