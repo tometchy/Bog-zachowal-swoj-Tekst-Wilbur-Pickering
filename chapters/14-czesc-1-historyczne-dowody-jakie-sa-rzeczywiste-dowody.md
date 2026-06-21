@@ -12,4 +12,4 @@ The dating of MSS is a slippery business, vulnerable to presupposition, bias and
 
 Datowanie manuskryptów to śliski interes, podatny na domysły, stronniczość i „linię partyjną”. Czytelnik powinien rozumieć, że daty przypisane poszczególnym manuskryptom mogą być niewiele więcej niż przybliżonymi przypuszczeniami, do tego stopnia, że zazwyczaj podaje się je w postaci stulecia. Jeśli manuskrypt posiada konkretną datę, oznacza to, że kopista zapisał ją po zakończeniu pracy.
 
-[^kurt-aland-kurzgefasste-1994]: Kurt Aland, ed., *Kurzgefasste Liste der Grieshischen Handschriften des Neuen Testaments* (Berlin: Walter de Gruyter, 1994).
+[^kurt-aland-kurzgefasste-1994]: Kurt Aland (red.), *Skrócona lista rękopisów Nowego Testamentu w języku griesh* (Berlin: Walter de Gruyter, 1994).
