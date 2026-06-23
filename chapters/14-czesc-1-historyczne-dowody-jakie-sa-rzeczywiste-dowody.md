@@ -24,11 +24,9 @@ Not all of the above will be available for an interested person to work with. Co
 
 [^kurt-aland-kurzgefasste-1994]: Kurt Aland (red.), *Kurzgefasste Liste der Grieshischen Handschriften des Neuen Testaments* [*Skrócona lista rękopisów Nowego Testamentu w języku griesh*, przyp. tłum.] (Berlin: Walter de Gruyter, 1994).
 
-[^paragrafy-bazuja-na-liste]: This paragraph, and the next, are simply based on the *Liste* (whether I agree, or not).
-Ten akapit, jak i następny, opierają się po prostu na *Liste* (niezależnie od tego, czy się zgadzam, czy nie).
+[^paragrafy-bazuja-na-liste]: Ten akapit, jak i następny, opierają się po prostu na *Liste* (niezależnie od tego, czy się zgadzam, czy nie).
 
-[^wedlug-mnie-tylko-pomoc-w-datowaniu]: In my opinion, the only contribution of a fragment is to establish that any variant it contains existed when it was written, if it was not created by the copyist. A fragment earlier than AD 100 establishes that the book existed at that time.
-Moim zdaniem jedynym wkładem fragmentu jest potwierdzenie, że zawarte w nim warianty istniały, gdy został on spisany, o ile nie zostały one stworzone przez kopistę. Fragment pochodzący sprzed 100 r. n.e. potwierdza, że księga ta istniała w tamtym czasie. 
+[^wedlug-mnie-tylko-pomoc-w-datowaniu]: Moim zdaniem jedynym wkładem fragmentu jest potwierdzenie, że zawarte w nim warianty istniały, gdy został on spisany, o ile nie zostały one stworzone przez kopistę. Fragment pochodzący sprzed 100 r. n.e. potwierdza, że księga ta istniała w tamtym czasie. 
 
 [^frederik-porownal-i-zredukowal]: Frederik Wisse collated and compared 1,386 MSS in Luke 1, 10 and 20 (three chapters), he reduced those MSS to 37 groups (families) (plus 89 “mavericks”). *The Profile Method for the Classification and Evaluation of Manuscript Evidence* (Grand Rapids: Eerdmans, 1982). It happens that 36 of the 37 fall within the broad Byzantine river of transmission. He found 70 subgroups within the 36, so felt able to define those relationships, based on the profiles. I submit that this is a step in the right direction.
 Frederik Wisse zebrał i porównał 1 386 manuskryptów z 1, 10 i 20 rozdziału Ewangelii Łukasza (trzy rozdziały), a następnie zredukował te manuskrypty do 37 grup (rodzin) (plus 89 „indywidualistów”). *The Profile Method for the Classification and Evaluation of Manuscript Evidence* (Grand Rapids: Eerdmans, 1982). Okazuje się, że 36 z 37 należy do szerokiego byzantyjskiego nurtu przekazu. Znalazł 70 podgrup w obrębie tych 36, więc uznał, że jest w stanie zdefiniować te relacje na podstawie profili. Przyznaję, że jest to krok we właściwym kierunku.
