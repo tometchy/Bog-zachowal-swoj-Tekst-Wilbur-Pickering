@@ -31,6 +31,7 @@ Ci, którzy zajmują się katalogowaniem manuskryptów Nowego Testamentu, inform
 [^rozwaz-maurice-robinson-1389]:
     Consider what Maurice Robinson concluded as a result of doing a complete collation of
 1,389 MSS that contain the Pericope, John 7,53 – 8,11:
+Rozważ wnioski, do jakich doszedł Maurice Robinson w wyniku przeprowadzenia kompletnego zestawienia 1 389 manuskryptów zawierających perykopę z Ewangelii Jana 7,53–8,11:
 
     > However, contrary to this writer’s earlier speculations, the extensive collation of the PA MSS has conclusively demonstrated that cross-comparison and correction of MSS occurred only *rarely* and *sporadically*, with little or no perpetuation of the corrective changes across the diversity of types represented (italics his, also below).
 
