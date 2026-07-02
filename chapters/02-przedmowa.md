@@ -1,4 +1,5 @@
 # Przedmowa
+
 Wilbur N. Pickering jest chrześcijańskim misjonarzem, mieszkającym w Brasílii, stolicy Brazylii.
 Posiada tytuł magistra i doktora lingwistyki. Spośród osób aktywnie zaangażowanych w krytykę tekstu[^krytyka-tekstu] Nowego Testamentu, nikt nie ma bardziej radykalnego poglądu w obronie nieomylności i obiektywnego autorytetu Świętego Tekstu. Włącznie ze stanowiskiem, że dokładne oryginalne brzmienie zostało zachowane do naszych czasów i że możemy je poznać. Ta książka oferuje naukową obronę tego przekonania.
 

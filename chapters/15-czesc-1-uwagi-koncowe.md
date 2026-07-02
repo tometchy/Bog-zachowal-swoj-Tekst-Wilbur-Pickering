@@ -1,0 +1,7 @@
+## Uwagi końcowe
+
+Up to this point I have dealt with the broad river of the normal transmission of the NT Text. This broad river is commonly referred to as the ‘Byzantine’ text or text-type. But this broad river is made up of many distinct lines of transmission within it—recall that F. Wisse posited 36 such lines, based on his study of Luke, chapters 1, 10 and 20. Among those 36 lines, one is by far the largest, in terms of the number of representative MSS, and I will argue that it is also clearly the best. I call that line of transmission ‘Family 35’, and my discussion of that ‘family’ occupies Part II.1 There I will argue that Family 35 constitutes the ultimate proof that God has preserved the NT Text.
+
+Given my presuppositions, I consider that I have good reason for declaring the divine preservation of the precise original wording of the complete New Testament Text, to this day. That wording is reproduced in my edition of the Greek NT, *The Greek New Testament According to Family 35*. The book may be ordered from Amazon.com, and it may be downloaded from my site, www.prunch.org. I here list my conclusions, promising the reader that I will then give the evidence that leads to those conclusions (besides that already given above).
+
+On the basis of the evidence so far available I affirm the following:

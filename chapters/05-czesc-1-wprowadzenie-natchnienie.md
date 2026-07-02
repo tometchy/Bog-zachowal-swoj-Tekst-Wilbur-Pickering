@@ -1,5 +1,7 @@
 ## Wprowadzenie
+
 ### Natchnienie
+
 Gdy piszę książkę[^dotychczasowe-ksiazki], identyfikuję siebie jako autora i zwykle podaję pewne wskazania dotyczące celu, w jakim ją napisałem. Jako chrześcijanin, zostałem nauczony, że nasza Biblia (zawierająca 66 ksiąg) jest spisanym Objawieniem danym przez Suwerennego Stwórcę. Zatem pytam: czy Biblia sama siebie identyfikuje, czy twierdzi, że jest natchniona przez Boga? Zaczynam od twierdzenia, a następnie próbuję je zweryfikować.
 
 _Twierdzenie_

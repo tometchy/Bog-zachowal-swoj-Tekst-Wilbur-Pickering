@@ -1,4 +1,4 @@
- ### Jakie są rzeczywiste dowody?
+### Jakie są rzeczywiste dowody?
 
 Jakie są rzeczywiste dowody, które należy poddać ocenie? Manuskrypty zawierające ciągły tekst stanowią świadectwa pierwszorzędne. Lekcjonarze są świadectwami drugorzędnymi. Starożytne wersje i cytaty ojców Kościoła stanowią świadectwa trzeciorzędne. Wszelkie dowody historyczne, o ile można je zweryfikować, mają charakter pomocniczy. Znaczenie dowodów drugorzędnych i trzeciorzędnych zależy od założeń, że oryginalne brzmienie zostało utracone oraz że przekaz tekstu nie przebiegał w sposób normalny. Ponieważ oba te założenia są fałszywe, skupię się na świadectwach pierwszorzędnych, tym bardziej, że jest ich tak wiele.
 
