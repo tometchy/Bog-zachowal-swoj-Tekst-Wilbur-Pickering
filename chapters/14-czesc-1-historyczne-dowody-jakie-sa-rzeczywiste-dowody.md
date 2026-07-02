@@ -49,4 +49,4 @@ Wydaje się, że Aland przyznaje, iż na przestrzeni wieków historii Kościoła
 
 [^kaland-text-1987-142-143]: K. Aland, “The Text of the Church?”, *Trinity Journal*, 1987, 8NS:131-144 (actually published in 1989), pp. 142-143.
 
-[^the-text-of-new-testament-53]: *The Text of the New Testament*, p. 53.
+[^the-text-of-new-testament-53]: *The Text of the New Testament*, s. 53.
