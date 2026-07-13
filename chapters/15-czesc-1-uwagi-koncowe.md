@@ -4,6 +4,8 @@ Do tego miejsca zajmowałem się szerokim nurtem normalnego przebiegu przekazywa
 
 Given my presuppositions, I consider that I have good reason for declaring the divine preservation of the precise original wording of the complete New Testament Text, to this day. That wording is reproduced in my edition of the Greek NT, *The Greek New Testament According to Family 35*. The book may be ordered from Amazon.com, and it may be downloaded from my site, www.prunch.org. I here list my conclusions, promising the reader that I will then give the evidence that leads to those conclusions (besides that already given above).
 
+Biorąc pod uwagę moje założenia, uważam, że mam dobry powód, by oświadczać zachowanie przez Boga dokładnych, oryginalnych sformułowań całego Tekstu Nowego Testamentu aż do dnia dzisiejszego. Sformułowania te zostały odtworzone w moim wydaniu greckiego Nowego Testamentu, *The Greek New Testament According to Family 35*. Książkę tę można zamówić na stronie Amazon.com bądź pobrać z mojej strony internetowej www.prunch.org. Wymieniam tutaj moje wnioski, obiecując czytelnikowi, że następnie przedstawię dowody prowadzące do tych wniosków (oprócz tych, które zostały już podane powyżej).
+
 On the basis of the evidence so far available I affirm the following:
 
 1. The original wording was never ‘lost’, and its transmission down through the years was basically normal, being recognized as inspired material from the beginning.
