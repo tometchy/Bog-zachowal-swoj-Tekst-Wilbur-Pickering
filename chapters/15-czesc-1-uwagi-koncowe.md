@@ -6,6 +6,8 @@ Biorąc pod uwagę moje założenia, uważam, że mam dobry powód, by oświadcz
 
 Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
+1. Oryginalne sformułowania nigdy nie zostały „utracone”, a ich przekazywanie na przestrzeni lat przebiegało zasadniczo normalnie, będąc od początku rozpoznane jako materiał natchniony.
+
 1. The original wording was never ‘lost’, and its transmission down through the years was basically normal, being recognized as inspired material from the beginning.
 2. That normal process resulted in lines of transmission.
 3. To delineate such lines, MSS must be grouped empirically on the basis of a shared mosaic of readings.
