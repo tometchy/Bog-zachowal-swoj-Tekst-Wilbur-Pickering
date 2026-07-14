@@ -8,6 +8,8 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 1. Oryginalne sformułowania nigdy nie zostały „utracone”, a ich przekazywanie na przestrzeni lat przebiegało zasadniczo normalnie, będąc od początku rozpoznane jako materiał natchniony.
 
+2. Ten naturalny proces doprowadził do powstania linii przekazywania.
+
 1. The original wording was never ‘lost’, and its transmission down through the years was basically normal, being recognized as inspired material from the beginning.
 
 2. That normal process resulted in lines of transmission.
