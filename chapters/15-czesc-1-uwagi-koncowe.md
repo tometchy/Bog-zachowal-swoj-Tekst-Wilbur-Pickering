@@ -10,33 +10,35 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 2. Ten naturalny proces doprowadził do powstania linii przekazywania.
 
-3. To delineate such lines, MSS must be grouped empirically on the basis of a shared mosaic of readings.
+3. Aby nakreślić takie linie, należy pogrupować manuskrypty empirycznie na podstawie wspólnej mozaiki odczytów.
 
-4. Such groups or families must be evaluated for independence and credibility.
+4. To delineate such lines, MSS must be grouped empirically on the basis of a shared mosaic of readings.
 
-5. The largest clearly defined group is Family 35.
+5. Such groups or families must be evaluated for independence and credibility.
 
-6. Family 35 is demonstrably independent of all other lines of transmission throughout the NT.
+6. The largest clearly defined group is Family 35.
 
-7. Family 35 is demonstrably ancient, dating to the 3rd century, at least.
+7. Family 35 is demonstrably independent of all other lines of transmission throughout the NT.
 
-8. Family 35 representatives come from all over the Mediterranean area, the geographical distribution is all but total.
+8. Family 35 is demonstrably ancient, dating to the 3rd century, at least.
 
-9. Family 35 is not a recension, was not created at some point subsequent to the Autographs.
+9. Family 35 representatives come from all over the Mediterranean area, the geographical distribution is all but total.
 
-10. Family 35 is an objectively/empirically defined entity throughout the NT, it has a demonstrable, diagnostic profile from Matthew 1,1 to Revelation 22,21. (That profile is given in Part II.)
+10. Family 35 is not a recension, was not created at some point subsequent to the Autographs.
 
-11. The archetypal form of Family 35 is demonstrable—it has been demonstrated.
+11. Family 35 is an objectively/empirically defined entity throughout the NT, it has a demonstrable, diagnostic profile from Matthew 1,1 to Revelation 22,21. (That profile is given in Part II.)
 
-12. The Original Text is the ultimate archetype, any candidate must also be an archetype—a real, honest to goodness, objectively verifiable archetype, there is only one—Family 35.
+12. The archetypal form of Family 35 is demonstrable—it has been demonstrated.
 
-13. God’s concern for the preservation of the Biblical Text is evident: I take it that passages such as 1 Chronicles 16,15, Psalm 119,89, Isaiah 40,8, Matthew 5,18, Luke 16,17 and 21,33, John 10,35 and 16,12-13, 1 Peter 1,23-25 and Luke 4,4 may reasonably be taken to imply a promise that the Scriptures (to the tittle) will be preserved for man’s use (we are to live "by *every* word of God"), and to the end of the world (“for a thousand generations”), but no intimation is given as to just how God proposed to do it. We must deduce the answer from what He has indeed done—we discover that He **did**!
+13. The Original Text is the ultimate archetype, any candidate must also be an archetype—a real, honest to goodness, objectively verifiable archetype, there is only one—Family 35.
 
-14. This concern is reflected in Family 35, it is characterized by incredibly careful transmission (in contrast to other lines). (I have a perfect copy of the Family 35 archetypal text for most NT books (22), I have copies made from a perfect exemplar (presumed) for another four (4), as I continue to collate MSS I hope to add the last one (Acts), but even for it the archetypal form is demonstrable.)
+14. God’s concern for the preservation of the Biblical Text is evident: I take it that passages such as 1 Chronicles 16,15, Psalm 119,89, Isaiah 40,8, Matthew 5,18, Luke 16,17 and 21,33, John 10,35 and 16,12-13, 1 Peter 1,23-25 and Luke 4,4 may reasonably be taken to imply a promise that the Scriptures (to the tittle) will be preserved for man’s use (we are to live "by *every* word of God"), and to the end of the world (“for a thousand generations”), but no intimation is given as to just how God proposed to do it. We must deduce the answer from what He has indeed done—we discover that He **did**!
 
-15. If God was preserving the original wording in some line of transmission other than Family 35, would that line be any less careful? I think not. So any line of transmission characterized by internal confusion is disqualified—this includes **all** the other lines of transmission that I have seen so far.
+15. This concern is reflected in Family 35, it is characterized by incredibly careful transmission (in contrast to other lines). (I have a perfect copy of the Family 35 archetypal text for most NT books (22), I have copies made from a perfect exemplar (presumed) for another four (4), as I continue to collate MSS I hope to add the last one (Acts), but even for it the archetypal form is demonstrable.)
 
-16. I affirm that God used Family 35 to preserve the precise original wording of the New Testament Text, it is reproduced in my edition of the Greek Text.[^i-Bog-uzyl-glownie]
+16. If God was preserving the original wording in some line of transmission other than Family 35, would that line be any less careful? I think not. So any line of transmission characterized by internal confusion is disqualified—this includes **all** the other lines of transmission that I have seen so far.
+
+17. I affirm that God used Family 35 to preserve the precise original wording of the New Testament Text, it is reproduced in my edition of the Greek Text.[^i-Bog-uzyl-glownie]
 
 **I claim to have demonstrated the superiority of Family 35 based on *size*** (number of representatives), ***independence*** (it is demonstrably independent of all other lines of transmission), ***age*** (it dates to the 3rd century, at least), ***geographical distribution*** (all over the Mediterranean area), ***profile*** (empirically determined), ***care*** (by the copyists) and ***range*** (all 27 books). **I challenge any and all to do the same for any other line of transmission!**
 
