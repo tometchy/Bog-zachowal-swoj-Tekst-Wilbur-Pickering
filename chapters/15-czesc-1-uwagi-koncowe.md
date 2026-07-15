@@ -14,6 +14,8 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
    
 4. Takie grupy lub rodziny muszą zostać poddane ocenie pod kątem niezależności i wiarygodności.
 
+5. Największą wyraźnie zdefiniowaną grupą jest Rodzina 35.
+
 6. To delineate such lines, MSS must be grouped empirically on the basis of a shared mosaic of readings.
 
 7. Such groups or families must be evaluated for independence and credibility.
