@@ -10,10 +10,6 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 2. Ten naturalny proces doprowadził do powstania linii przekazywania.
 
-1. The original wording was never ‘lost’, and its transmission down through the years was basically normal, being recognized as inspired material from the beginning.
-
-2. That normal process resulted in lines of transmission.
-
 3. To delineate such lines, MSS must be grouped empirically on the basis of a shared mosaic of readings.
 
 4. Such groups or families must be evaluated for independence and credibility.
