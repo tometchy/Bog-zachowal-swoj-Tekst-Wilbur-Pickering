@@ -32,6 +32,9 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 13. Troska Boga o zachowanie Tekstu Biblijnego jest ewidentna: uważam, że fragmenty takie jak 1 Ksiega Kronik 16,15, Psalm 119,89, Księga Izajasza 40,8, Ewangelia Mateusza 5,18, Ewangelia Łukasza 16,17 i 21,33, Ewangelia Jana 10,35 oraz 16,12-13, 1 List Piotra 1,23-25 oraz Ewangelia Łukasza 4,4 można rozsądnie uznać za sugerujące obietnicę, że Święte Pisma (aż do ostatniej kropki) zostaną zachowane do użytku człowieka (mamy żyć „z *każdego* słowa Bożego”) i aż do końca świata („przez tysiąc pokoleń”), ale nie ma żadnej wskazówki co do tego, w jaki sposób Bóg zamierzał to uczynić. Odpowiedź musimy wywnioskować z tego, co On faktycznie uczynił – odkrywamy, że On **uczynił** to!
 
+14. Ta troska znajduje odzwierciedlenie w Rodzinie 35, która charakteryzuje się niesamowicie starannym przekazem (w przeciwieństwie do innych linii). (Posiadam doskonałą kopię tekstu archetypowego Rodziny 35 dla większości ksiąg Nowego Testamentu (22), mam kopie sporządzone na podstawie (przypuszczalnie) doskonałego egzemplarza dla kolejnych czterech (4), w miarę kontynuowania porównywania manuskryptów mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku forma archetypowa jest możliwa do wykazania.)
+
+
 
 15. Family 35 is not a recension, was not created at some point subsequent to the Autographs.
 
