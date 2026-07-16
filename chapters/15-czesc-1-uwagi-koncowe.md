@@ -34,6 +34,8 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 14. Ta troska znajduje odzwierciedlenie w Rodzinie 35, która charakteryzuje się niesamowicie starannym przekazem (w przeciwieństwie do innych linii). (Posiadam doskonałą kopię tekstu archetypowego Rodziny 35 dla większości ksiąg Nowego Testamentu (22), mam kopie sporządzone na podstawie (przypuszczalnie) doskonałego egzemplarza dla kolejnych czterech (4), w miarę kontynuowania porównywania manuskryptów mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku forma archetypowa jest możliwa do wykazania.)
 
+15. Jeśli Bóg zachowałby oryginalne sformułowania w jakiejś linii przekazu innej niż Rodzina 35, czy ta linia byłaby mniej staranna? Myślę, że nie. Zatem każda linia przekazu charakteryzująca się wewnętrznym zamieszaniem zostaje wykluczona – dotyczy to **wszystkich** pozostałych linii przekazu, które jak dotąd widziałem.
+
 
 
 15. Family 35 is not a recension, was not created at some point subsequent to the Autographs.
