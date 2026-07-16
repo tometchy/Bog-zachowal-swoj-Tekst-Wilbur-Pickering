@@ -22,18 +22,6 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 8. Przedstawiciele Rodziny 35 pochodzą z całego obszaru basenu Morza Śródziemnego, a ich rozmieszczenie geograficzne jest niemal całkowite.
 
-9. To delineate such lines, MSS must be grouped empirically on the basis of a shared mosaic of readings.
-
-10. Such groups or families must be evaluated for independence and credibility.
-
-11. The largest clearly defined group is Family 35.
-
-12. Family 35 is demonstrably independent of all other lines of transmission throughout the NT.
-
-13. Family 35 is demonstrably ancient, dating to the 3rd century, at least.
-
-14. Family 35 representatives come from all over the Mediterranean area, the geographical distribution is all but total.
-
 15. Family 35 is not a recension, was not created at some point subsequent to the Autographs.
 
 16. Family 35 is an objectively/empirically defined entity throughout the NT, it has a demonstrable, diagnostic profile from Matthew 1,1 to Revelation 22,21. (That profile is given in Part II.)
