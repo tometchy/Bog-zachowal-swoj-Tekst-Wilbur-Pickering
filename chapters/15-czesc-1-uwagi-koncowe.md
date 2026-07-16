@@ -22,6 +22,17 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 8. Przedstawiciele Rodziny 35 pochodzą z całego obszaru basenu Morza Śródziemnego, a ich rozmieszczenie geograficzne jest niemal całkowite.
 
+9. Rodzina 35 nie jest opracowaniem krytycznym, nie powstała w jakimś momencie późniejszym niż Autografy.
+
+10. Rodzina 35 jest obiektywnie/empirycznie zdefiniowaną jednostką w całym Nowym Testamencie, ma możliwy do wykazania profil diagnostyczny od Ewangelii Mateusza 1,1 do Objawienia Jana 22,21. (Profil ten jest przedstawiony w części II.)
+
+11. Archetypowa forma Rodziny 35 jest możliwa do wykazania – została ona wykazana.
+
+12. Tekst Oryginalny jest ostatecznym archetypem, każdy kandydat musi być również archetypem – prawdziwym, autentycznym, obiektywnie weryfikowalnym archetypem, istnieje tylko jeden – Rodzina 35.
+
+13. Troska Boga o zachowanie Tekstu Biblijnego jest ewidentna: uważam, że fragmenty takie jak 1 Ksiega Kronik 16,15, Psalm 119,89, Księga Izajasza 40,8, Ewangelia Mateusza 5,18, Ewangelia Łukasza 16,17 i 21,33, Ewangelia Jana 10,35 oraz 16,12-13, 1 List Piotra 1,23-25 oraz Ewangelia Łukasza 4,4 można rozsądnie uznać za sugerujące obietnicę, że Święte Pisma (aż do ostatniej kropki) zostaną zachowane do użytku człowieka (mamy żyć „z *każdego* słowa Bożego”) i aż do końca świata („przez tysiąc pokoleń”), ale nie ma żadnej wskazówki co do tego, w jaki sposób Bóg zamierzał to uczynić. Odpowiedź musimy wywnioskować z tego, co On faktycznie uczynił – odkrywamy, że On **uczynił** to!
+
+
 15. Family 35 is not a recension, was not created at some point subsequent to the Autographs.
 
 16. Family 35 is an objectively/empirically defined entity throughout the NT, it has a demonstrable, diagnostic profile from Matthew 1,1 to Revelation 22,21. (That profile is given in Part II.)
