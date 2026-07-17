@@ -38,13 +38,7 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 
 
-15. Family 35 is not a recension, was not created at some point subsequent to the Autographs.
 
-16. Family 35 is an objectively/empirically defined entity throughout the NT, it has a demonstrable, diagnostic profile from Matthew 1,1 to Revelation 22,21. (That profile is given in Part II.)
-
-17. The archetypal form of Family 35 is demonstrable—it has been demonstrated.
-
-18. The Original Text is the ultimate archetype, any candidate must also be an archetype—a real, honest to goodness, objectively verifiable archetype, there is only one—Family 35.
 
 19. God’s concern for the preservation of the Biblical Text is evident: I take it that passages such as 1 Chronicles 16,15, Psalm 119,89, Isaiah 40,8, Matthew 5,18, Luke 16,17 and 21,33, John 10,35 and 16,12-13, 1 Peter 1,23-25 and Luke 4,4 may reasonably be taken to imply a promise that the Scriptures (to the tittle) will be preserved for man’s use (we are to live "by *every* word of God"), and to the end of the world (“for a thousand generations”), but no intimation is given as to just how God proposed to do it. We must deduce the answer from what He has indeed done—we discover that He **did**!
 
