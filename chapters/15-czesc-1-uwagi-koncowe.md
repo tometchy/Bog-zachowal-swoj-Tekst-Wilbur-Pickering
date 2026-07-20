@@ -30,27 +30,21 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 12. Tekst Oryginalny jest ostatecznym archetypem, każdy kandydat musi być również archetypem – prawdziwym, autentycznym, obiektywnie weryfikowalnym archetypem, istnieje tylko jeden – Rodzina 35.
 
-13. Troska Boga o zachowanie Tekstu Biblijnego jest ewidentna: uważam, że fragmenty takie jak 1 Ksiega Kronik 16,15, Psalm 119,89, Księga Izajasza 40,8, Ewangelia Mateusza 5,18, Ewangelia Łukasza 16,17 i 21,33, Ewangelia Jana 10,35 oraz 16,12-13, 1 List Piotra 1,23-25 oraz Ewangelia Łukasza 4,4 można rozsądnie uznać za sugerujące obietnicę, że Święte Pisma (aż do ostatniej kropki) zostaną zachowane do użytku człowieka (mamy żyć „z *każdego* słowa Bożego”) i aż do końca świata („przez tysiąc pokoleń”), ale nie ma żadnej wskazówki co do tego, w jaki sposób Bóg zamierzał to uczynić. Odpowiedź musimy wywnioskować z tego, co On faktycznie uczynił – odkrywamy, że On **uczynił** to!
+13. Troska Boga o zachowanie Tekstu Biblijnego jest ewidentna: uważam, że fragmenty takie jak 1 Ksiega Kronik 16,15, Psalm 119,89, Księga Izajasza 40,8, Ewangelia Mateusza 5,18, Ewangelia Łukasza 16,17 i 21,33, Ewangelia Jana 10,35 oraz 16,12-13, 1 List Piotra 1,23-25 oraz Ewangelia Łukasza 4,4 można rozsądnie uznać za sugerujące obietnicę, że Święte Pisma (aż do ostatniej kropki) zostaną zachowane do użytku człowieka (mamy żyć „z *każdego* słowa Bożego”) i aż do końca świata („przez tysiąc pokoleń”), ale nie ma żadnej wskazówki co do tego, w jaki sposób Bóg zamierzał to uczynić. Odpowiedź musimy wywnioskować z tego, co On faktycznie uczynił – odkrywamy, że **uczynił**!
 
 14. Ta troska znajduje odzwierciedlenie w Rodzinie 35, która charakteryzuje się niesamowicie starannym przekazem (w przeciwieństwie do innych linii). (Posiadam doskonałą kopię tekstu archetypowego Rodziny 35 dla większości ksiąg Nowego Testamentu (22), mam kopie sporządzone na podstawie (przypuszczalnie) doskonałego egzemplarza dla kolejnych czterech (4), w miarę kontynuowania porównywania manuskryptów mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku forma archetypowa jest możliwa do wykazania.)
 
 15. Jeśli Bóg zachowałby oryginalne sformułowania w jakiejś linii przekazu innej niż Rodzina 35, czy ta linia byłaby mniej staranna? Myślę, że nie. Zatem każda linia przekazu charakteryzująca się wewnętrznym zamieszaniem zostaje wykluczona – dotyczy to **wszystkich** pozostałych linii przekazu, które jak dotąd widziałem.
 
-
-
-
-
-19. God’s concern for the preservation of the Biblical Text is evident: I take it that passages such as 1 Chronicles 16,15, Psalm 119,89, Isaiah 40,8, Matthew 5,18, Luke 16,17 and 21,33, John 10,35 and 16,12-13, 1 Peter 1,23-25 and Luke 4,4 may reasonably be taken to imply a promise that the Scriptures (to the tittle) will be preserved for man’s use (we are to live "by *every* word of God"), and to the end of the world (“for a thousand generations”), but no intimation is given as to just how God proposed to do it. We must deduce the answer from what He has indeed done—we discover that He **did**!
-
-20. This concern is reflected in Family 35, it is characterized by incredibly careful transmission (in contrast to other lines). (I have a perfect copy of the Family 35 archetypal text for most NT books (22), I have copies made from a perfect exemplar (presumed) for another four (4), as I continue to collate MSS I hope to add the last one (Acts), but even for it the archetypal form is demonstrable.)
-
-21. If God was preserving the original wording in some line of transmission other than Family 35, would that line be any less careful? I think not. So any line of transmission characterized by internal confusion is disqualified—this includes **all** the other lines of transmission that I have seen so far.
-
-22. I affirm that God used Family 35 to preserve the precise original wording of the New Testament Text, it is reproduced in my edition of the Greek Text.[^i-Bog-uzyl-glownie]
+16. Zapewniam, że Bóg posłużył się Rodziną 35, aby zachować dokładne, oryginalne sformułowania Tekstu Nowego Testamentu, zostały ono odtworzone w moim wydaniu Tekstu Greckiego.[^i-Bog-uzyl-glownie]
 
 **I claim to have demonstrated the superiority of Family 35 based on *size*** (number of representatives), ***independence*** (it is demonstrably independent of all other lines of transmission), ***age*** (it dates to the 3rd century, at least), ***geographical distribution*** (all over the Mediterranean area), ***profile*** (empirically determined), ***care*** (by the copyists) and ***range*** (all 27 books). **I challenge any and all to do the same for any other line of transmission!**
 
+**Twierdzę, że wykazałem wyższość Rodziny 35 w oparciu o *wielkość*** (liczbę przedstawicieli), ***niezależność*** (można wykazać, że jest ona niezależna od wszystkich innych linii przekazu), ***wiek*** (sięga co najmniej III wieku), ***rozmieszczenie geograficzne*** (na całym obszarze basenu Morza Śródziemnego), ***profil*** (ustalony empirycznie), ***staranność*** (kopistów) oraz ***zakres*** (wszystkich 27 ksiąg). **Wyzywam każdego do zrobienia tego samego w odniesieniu do jakiejkolwiek innej linii przekazu!**
+
 The Original Text is the ultimate archetype, any candidate must also be an archetype—a real, honest to goodness, objectively verifiable archetype, there is only one that has been identified so far—Family 35. I now move on to Part II, where I provide further evidence, the evidence that gives rise to my conclusions.
+
+Tekst Oryginalny stanowi ostateczny archetyp, każdy kandydat musi być również archetypem – prawdziwym, autentycznym i obiektywnie weryfikowalnym archetypem. Jak dotąd zidentyfikowano tylko jeden – Rodzinę 35. Przechodzę teraz do części II, w której przedstawiam dalsze dowody, na których opieram swoje wnioski.
 
 [^ta-czesc-to-reprodukcja-identity-rozdzial-5]: This Part I is basically a reproduction (with a few embellishments) of Chapter 5 in my book, *The Identity of the New Testament Text IV*, available from Amazon.com, as well as from my site, www.prunch.org. My refutation of eclecticism, whether ‘reasoned’ or ‘rigorous’, occupies Chapter 2 of that book. My refutation of the Westcott-Hort critical theory occupies Chapters 3 & 4. Chapter 6 takes up four “possible objections”: 1. Are not the oldest MSS the best? 2. Why are there no early “Byzantine” MSS? 3. “But there is no evidence of the Byzantine **Text** in the early centuries” 4. Should not witnesses be weighed rather than counted? I direct the interested reader to those discussions. 
 
