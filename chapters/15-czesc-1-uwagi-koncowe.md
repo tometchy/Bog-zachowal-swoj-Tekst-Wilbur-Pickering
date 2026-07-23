@@ -16,13 +16,13 @@ Na podstawie jak dotąd dostępnych dowodów stwierdzam, co następuje:
 
 5. Największą wyraźnie zdefiniowaną grupą jest Rodzina 35.
 
-6. Rodzina 35 jest w sposób oczywisty niezależna od wszystkich innych linii przekazu w całym Nowym Testamencie.
+6. Rodzina 35 jest w sposób oczywisty (możliwy do wykazania) niezależna od wszystkich innych linii przekazu w całym Nowym Testamencie.
 
-7. Rodzina 35 jest w sposób oczywisty bardzo stara, sięgająca co najmniej III wieku.
+7. Rodzina 35 jest w sposób oczywisty (możliwy do wykazania) bardzo stara, sięgająca co najmniej III wieku.
 
 8. Przedstawiciele Rodziny 35 pochodzą z całego obszaru basenu Morza Śródziemnego, a ich rozmieszczenie geograficzne jest niemal całkowite.
 
-9. Rodzina 35 nie jest opracowaniem krytycznym, nie powstała w jakimś momencie późniejszym niż Autografy.
+9. Rodzina 35 nie jest opracowaniem krytycznym, nie powstała później niż Autografy wskutek recenzji.
 
 10. Rodzina 35 jest obiektywnie/empirycznie zdefiniowaną jednostką w całym Nowym Testamencie, ma możliwy do wykazania profil diagnostyczny od Ewangelii Mateusza 1,1 do Objawienia Jana 22,21. (Profil ten jest przedstawiony w części II.)
 
