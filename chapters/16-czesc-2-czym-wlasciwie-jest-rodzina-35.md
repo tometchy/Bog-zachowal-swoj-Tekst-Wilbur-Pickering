@@ -12,6 +12,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnego, oryginalnego sformułowania pism Nowego Testamentu.[^tutaj-odrzucam-zarzut-o-zagubieniu]
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* (Teil 1, Berlin: Verlag von Alexander Duncker, 1902-1910; Teil 2 Göttingen: Vandenhoeck und Ruprecht, 1913).
+*Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej* (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910; część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: They are: 1. Antiquity, or Primitiveness; 2. Consent of Witnesses, or Number; 3. Variety of Evidence, or Catholicity; 4. Respectability of Witnesses, or Weight; 5. Continuity, or Unbroken Tradition; 6. Evidence of the Entire Passage, or Context; 7. Internal Considerations, or Reasonableness. Burgon, *The Traditional Text*, p. 29.
 
