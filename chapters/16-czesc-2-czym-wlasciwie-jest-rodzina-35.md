@@ -8,7 +8,8 @@ Kiedy w 1977 roku wydawnictwo Thomas Nelson Inc. opublikowało moją pierwszą k
 
 Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego (Majority Text Society) wraz z Zane’em Hodgesem, Artem Farstadem i Frankiem Carmichalem, i zostałem jego pierwszym prezesem. W tym czasie zacząłem poważnie zajmować się teorią Tekstu Większościowego, a w ciągu następnej dekady opracowałem coś, czemu miałem przyjemność nadać nazwę „teoria Tekstu Oryginalnego”. Wykorzystałem ją jako punkt wyjścia do mojego obecnego podejścia do krytyki tekstu Nowego Testamentu (które możemy nazwać Teorią priorytetu Rodziny 35). Oto ona:
 
-1. First, OTT is concerned to identify the precise original wording of the NT writings.[^tutaj-odrzucam-zarzut-o-zagubieniu]
+1. First, Original Text theory is concerned to identify the precise original wording of the NT writings.[^tutaj-odrzucam-zarzut-o-zagubieniu]
+Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnego, oryginalnego sformułowania pism Nowego Testamentu.[^tutaj-odrzucam-zarzut-o-zagubieniu]
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* (Teil 1, Berlin: Verlag von Alexander Duncker, 1902-1910; Teil 2 Göttingen: Vandenhoeck und Ruprecht, 1913).
 
