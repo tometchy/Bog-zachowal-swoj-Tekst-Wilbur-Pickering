@@ -18,3 +18,4 @@ Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnego, orygi
 Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Szacunek, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub rozsądność. Burgon, *The Traditional Text*, str. 29.
 
 [^tutaj-odrzucam-zarzut-o-zagubieniu]: Here I reject the allegation that the original wording is lost and gone.
+W tym miejscu odrzucam insynuacje, że oryginalne sformułowania są zagubione i przepadły.
