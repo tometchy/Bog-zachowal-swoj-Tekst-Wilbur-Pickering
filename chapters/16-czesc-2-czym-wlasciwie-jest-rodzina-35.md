@@ -17,3 +17,5 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
 
 [^tutaj-odrzucam-zarzut-o-zagubieniu]: W tym miejscu odrzucam zarzut, że oryginalne sformułowania są zagubione i przepadły.
+
+[^1]: Here I reject the dependence on subjective criteria and a purely rationalistic approach. 
