@@ -11,8 +11,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 1. First, Original Text theory is concerned to identify the precise original wording of the NT writings.[^tutaj-odrzucam-zarzut-o-zagubieniu]
 Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnego, oryginalnego sformułowania pism Nowego Testamentu.[^tutaj-odrzucam-zarzut-o-zagubieniu]
 
-[^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* (Teil 1, Berlin: Verlag von Alexander Duncker, 1902-1910; Teil 2 Göttingen: Vandenhoeck und Ruprecht, 1913).
-*Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910; część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
+[^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: They are: 1. Antiquity, or Primitiveness; 2. Consent of Witnesses, or Number; 3. Variety of Evidence, or Catholicity; 4. Respectability of Witnesses, or Weight; 5. Continuity, or Unbroken Tradition; 6. Evidence of the Entire Passage, or Context; 7. Internal Considerations, or Reasonableness. Burgon, *The Traditional Text*, p. 29.
 Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Szacunek, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub rozsądność. Burgon, *The Traditional Text*, str. 29.
