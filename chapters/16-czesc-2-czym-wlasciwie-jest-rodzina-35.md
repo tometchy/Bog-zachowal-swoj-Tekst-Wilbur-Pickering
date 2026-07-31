@@ -8,11 +8,10 @@ Kiedy w 1977 roku wydawnictwo Thomas Nelson Inc. opublikowało moją pierwszą k
 
 Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego (Majority Text Society) wraz z Zane’em Hodgesem, Artem Farstadem i Frankiem Carmichalem, i zostałem jego pierwszym prezesem. W tym czasie zacząłem poważnie zajmować się teorią Tekstu Większościowego, a w ciągu następnej dekady opracowałem coś, czemu miałem przyjemność nadać nazwę „teoria Tekstu Oryginalnego”. Wykorzystałem ją jako punkt wyjścia do mojego obecnego podejścia do krytyki tekstu Nowego Testamentu (które możemy nazwać Teorią priorytetu Rodziny 35). Oto ona:
 
-1. First, Original Text theory is concerned to identify the precise original wording of the NT writings.[^tutaj-odrzucam-zarzut-o-zagubieniu]
-Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnego, oryginalnego sformułowania pism Nowego Testamentu.[^tutaj-odrzucam-zarzut-o-zagubieniu]
+1. Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnych, oryginalnych sformułowań pism Nowego Testamentu.[^tutaj-odrzucam-zarzut-o-zagubieniu]
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
 
-[^tutaj-odrzucam-zarzut-o-zagubieniu]: W tym miejscu odrzucam insynuacje, że oryginalne sformułowania są zagubione i przepadły.
+[^tutaj-odrzucam-zarzut-o-zagubieniu]: W tym miejscu odrzucam zarzut, że oryginalne sformułowania są zagubione i przepadły.
