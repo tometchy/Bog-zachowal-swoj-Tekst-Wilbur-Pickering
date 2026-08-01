@@ -14,6 +14,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 2. Po drugie, kryteria muszą być biblijne, obiektywne i rozsądne.[^1]
 
 3. Third, a 90% attestation will be considered unassailable, and 80% virtually so.2
+3. Po trzecie, 90% poświadczenie będzie uznawane za niepodważalne, a 80% niemalże niepodważalne.2
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
