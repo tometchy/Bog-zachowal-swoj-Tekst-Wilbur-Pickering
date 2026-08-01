@@ -11,6 +11,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 1. Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnych, oryginalnych sformułowań pism Nowego Testamentu.[^tutaj-odrzucam-zarzut-o-zagubieniu]
 
 2. Second, the criteria must be biblical, objective and reasonable.[^1]
+2. Po drugie, kryteria muszą być biblijne, obiektywne i rozsądne.[^1]
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
@@ -18,4 +19,5 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 [^tutaj-odrzucam-zarzut-o-zagubieniu]: W tym miejscu odrzucam zarzut, że oryginalne sformułowania są zagubione i przepadły.
 
-[^1]: Here I reject the dependence on subjective criteria and a purely rationalistic approach. 
+[^1]: Here I reject the dependence on subjective criteria and a purely rationalistic approach.
+W tym miejscu odrzucam opieranie się na kryteriach subiektywnych oraz podejście czysto racjonalistyczne.
