@@ -13,6 +13,8 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 2. Second, the criteria must be biblical, objective and reasonable.[^1]
 2. Po drugie, kryteria muszą być biblijne, obiektywne i rozsądne.[^1]
 
+3. Third, a 90% attestation will be considered unassailable, and 80% virtually so.2
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
@@ -21,3 +23,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 [^1]: Here I reject the dependence on subjective criteria and a purely rationalistic approach.
 W tym miejscu odrzucam opieranie się na kryteriach subiektywnych oraz podejście czysto racjonalistyczne.
+
+[^2]: This is now superseded by advances in point 5, although a 90% attestation remains difficult to assail.
+
+[^3]: This is now superseded by advances in point 5, although his ‘notes’ remain valid, in general. 
