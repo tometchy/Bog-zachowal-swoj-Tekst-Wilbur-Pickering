@@ -14,7 +14,6 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 3. Po trzecie, 90% poświadczenie będzie uznawane za niepodważalne, a 80% niemalże niepodważalne.[^wyparte-choc-90-trudno-podwazyc]
 
-4. Fourth, Burgon’s “notes of truth” will come into play, especially where the attestation falls below 80%.[^wyparte-choc-uwagi-aktualne]
 4. Po czwarte, do gry wejdą „notatki prawdy” Burgona, zwłaszcza tam, gdzie poświadczenie spada poniżej 80%.[^wyparte-choc-uwagi-aktualne]
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
@@ -27,4 +26,4 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 [^wyparte-choc-90-trudno-podwazyc]: Jest to obecnie wyparte przez postępy z punktu 5, choć 90% poświadczenie nadal trudno podważyć.
 
-[^wyparte-choc-uwagi-aktualne]: Jest to obecnie wyparte przez postępy z punktu 5, choć jego „uwagi” pozostają zasadniczo aktualne. 
+[^wyparte-choc-uwagi-aktualne]: Jest to obecnie wyparte przez postępy z punktu 5, choć jego „notatki” pozostają zasadniczo aktualne. 
