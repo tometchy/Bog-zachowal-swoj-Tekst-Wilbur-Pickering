@@ -22,10 +22,8 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 [^tutaj-odrzucam-zarzut-o-zagubieniu]: W tym miejscu odrzucam zarzut, że oryginalne sformułowania są zagubione i przepadły.
 
-[^1]: Here I reject the dependence on subjective criteria and a purely rationalistic approach.
-W tym miejscu odrzucam opieranie się na kryteriach subiektywnych oraz podejście czysto racjonalistyczne.
+[^1]: W tym miejscu odrzucam opieranie się na kryteriach subiektywnych oraz podejście czysto racjonalistyczne.
 
-[^2]: This is now superseded by advances in point 5, although a 90% attestation remains difficult to assail.
-[^3]: This is now superseded by advances in point 5, although his ‘notes’ remain valid, in general.
 [^2]: Jest to obecnie wyparte przez postępy z punktu 5, choć 90% poświadczenie nadal trudno podważyć.
+
 [^3]: Jest to obecnie wyparte przez postępy z punktu 5, choć jego „uwagi” pozostają zasadniczo aktualne. 
