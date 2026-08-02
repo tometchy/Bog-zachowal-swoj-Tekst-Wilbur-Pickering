@@ -16,6 +16,8 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 4. Po czwarte, do gry wejdą „notatki prawdy” Burgona, zwłaszcza tam, gdzie poświadczenie spada poniżej 80%.[^wyparte-choc-uwagi-aktualne]
 
+5. Fifth, where collations exist, making possible an empirical grouping of the MSS on the basis of shared mosaics of readings, this must be done. Such groups must be evaluated on the basis of their perform-ance and be assigned a credibility quotient. A putative history of the transmission of the Text needs to be developed on the basis of the interrelationships of such groups. *Demonstrated groupings and relationships supersede the counting of MSS.*4
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
