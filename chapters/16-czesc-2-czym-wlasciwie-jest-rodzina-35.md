@@ -14,6 +14,9 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 3. Po trzecie, 90% poświadczenie będzie uznawane za niepodważalne, a 80% niemalże niepodważalne.[^wyparte-choc-90-trudno-podwazyc]
 
+4. Fourth, Burgon’s “notes of truth” will come into play, especially where the attestation falls below 80%.[^wyparte-choc-uwagi-aktualne]
+4. Po czwarte, do gry wejdą „notatki prawdy” Burgona, zwłaszcza tam, gdzie poświadczenie spada poniżej 80%.[^wyparte-choc-uwagi-aktualne]
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
