@@ -10,8 +10,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 1. Po pierwsze, teoria tekstu oryginalnego dotyczy identyfikacji dokładnych, oryginalnych sformułowań pism Nowego Testamentu.[^tutaj-odrzucam-zarzut-o-zagubieniu]
 
-2. Second, the criteria must be biblical, objective and reasonable.[^1]
-2. Po drugie, kryteria muszą być biblijne, obiektywne i rozsądne.[^1]
+2. Po drugie, kryteria muszą być biblijne, obiektywne i rozsądne.[^odrzucam-kryteria-subiektywne]
 
 3. Third, a 90% attestation will be considered unassailable, and 80% virtually so.2
 3. Po trzecie, 90% poświadczenie będzie uznawane za niepodważalne, a 80% niemalże niepodważalne.2
@@ -22,8 +21,8 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 [^tutaj-odrzucam-zarzut-o-zagubieniu]: W tym miejscu odrzucam zarzut, że oryginalne sformułowania są zagubione i przepadły.
 
-[^1]: W tym miejscu odrzucam opieranie się na kryteriach subiektywnych oraz podejście czysto racjonalistyczne.
+[^odrzucam-kryteria-subiektywne]: W tym miejscu odrzucam opieranie się na kryteriach subiektywnych oraz podejście czysto racjonalistyczne.
 
-[^2]: Jest to obecnie wyparte przez postępy z punktu 5, choć 90% poświadczenie nadal trudno podważyć.
+[^wyparte-choc-90-trudno-podwazyc]: Jest to obecnie wyparte przez postępy z punktu 5, choć 90% poświadczenie nadal trudno podważyć.
 
-[^3]: Jest to obecnie wyparte przez postępy z punktu 5, choć jego „uwagi” pozostają zasadniczo aktualne. 
+[^wyparte-choc-uwagi-aktualne]: Jest to obecnie wyparte przez postępy z punktu 5, choć jego „uwagi” pozostają zasadniczo aktualne. 
