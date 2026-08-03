@@ -16,7 +16,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 4. Po czwarte, do gry wejdą „notatki prawdy” Burgona, zwłaszcza tam, gdzie poświadczenie spada poniżej 80%.[^wyparte-choc-uwagi-aktualne]
 
-5. Po piąte, w przypadkach, gdy istnieją zestawienia umożliwiające empiryczne pogrupowanie manuskryptów na podstawie wspólnych mozaik odczytów, trzeba to zrobić. Grupy takie muszą być ocenione pod kątem ich wyników i mieć przypisane współczynniki wiarygodności. Przypuszczalną historię przekazywania Tekstu należy opracować w oparciu o wzajemne powiązania między takimi grupami. **Wykazane pogrupowania i relacje zastępują liczenie manuskryptów.**
+5. Po piąte, w przypadkach, gdy istnieją zestawienia umożliwiające empiryczne pogrupowanie manuskryptów na podstawie wspólnych mozaik odczytów, trzeba to zrobić. Grupy takie muszą być ocenione pod kątem ich wyników i mieć przypisane współczynniki wiarygodności. Przypuszczalną historię przekazywania Tekstu należy opracować w oparciu o wzajemne powiązania między takimi grupami. **Wykazane pogrupowania i relacje zastępują liczenie manuskryptów.**[^nie-odnosze-sie-do-rekonstrukcji]
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
