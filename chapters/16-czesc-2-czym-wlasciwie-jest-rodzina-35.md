@@ -18,7 +18,7 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 5. Po piąte, w przypadkach, gdy istnieją zestawienia umożliwiające empiryczne pogrupowanie manuskryptów na podstawie wspólnych mozaik odczytów, trzeba to zrobić. Grupy takie muszą być ocenione pod kątem ich wyników i mieć przypisane współczynniki wiarygodności. Przypuszczalną historię przekazywania Tekstu należy opracować w oparciu o wzajemne powiązania między takimi grupami. **Wykazane pogrupowania i relacje zastępują liczenie manuskryptów.**[^nie-odnosze-sie-do-rekonstrukcji]
 
-6. Sixth, it presupposes that the Creator exists and that He has spoken to our race. It accepts the implied divine purpose to preserve His rev-elation for the use of subsequent generations, including ours. It un-derstands that both God and Satan have an ongoing active interest in the fate of the NT Text—to approach NT textual criticism without taking due account of that interest is to act irresponsibly.[^ci-ktorzy-wykluczaja-potepiaja] 
+6. Sixth, it presupposes that the Creator exists and that He has spoken to our race. It accepts the implied divine purpose to preserve His rev-elation for the use of subsequent generations, including ours. It un-derstands that both God and Satan have an ongoing active interest in the fate of the NT Text—to approach NT textual criticism without taking due account of that interest is to act irresponsibly.[^ci-ktorzy-wykluczaja-skazuja] 
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
@@ -34,4 +34,5 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 [^nie-odnosze-sie-do-rekonstrukcji]: Proszę zwrócić uwagę, że nie odnoszę się tu do jakiejkolwiek próby odtworzenia genealogii manuskryptów – zgadzam się z tymi badaczami, którzy uznali takie przedsięwzięcie za praktycznie niemożliwe (brakuje po prostu zbyt wielu ogniw). W rzeczywistości odnoszę się do odtworzenia genealogii odczytów, a tym samym historii przekazywania Tekstu. To ostatnie zdanie zawsze było podkreślane. Gdy wszystkie manuskrypty zostaną zestawione i pogrupowane empirycznie, będziemy mogli zrezygnować z liczenia ich.
 
-[^ci-ktorzy-wykluczaja-potepiaja]: Those who exclude the supernatural from their model are condemning themselves to never arrive at the Truth—God and Satan exist, and both have been involved in the transmission of the NT Text.
+[^ci-ktorzy-wykluczaja-skazuja]: Those who exclude the supernatural from their model are condemning themselves to never arrive at the Truth—God and Satan exist, and both have been involved in the transmission of the NT Text.
+Ci, którzy wykluczają ponadnaturalność ze swojego modelu, skazują się na to, że nigdy nie dotrą do Prawdy – Bóg i Szatan istnieją, i obaj byli zaangażowani w przekazywanie Tekstu Nowego Testamentu.
