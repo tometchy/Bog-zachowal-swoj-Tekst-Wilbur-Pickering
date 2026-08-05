@@ -23,6 +23,10 @@ Po szóste, zakłada to, że Stwórca istnieje i że przemówił On do naszej ra
 
 7. Seventh, it insists that presuppositions and motives must always be addressed and evaluated.6 
 
+I use the term ‘steppingstone’ because I was still thinking in terms of a large majority, and that was because Family 35 had not yet come to my attention (I was still limited to generalities). However, the fifth point above shows the direction in which I was heading. Note especially the last sentence, which has always been in bold type, and most especially the term ‘**demonstrated**’.1 For example, my critical apparatus for Revelation gives the evidence in terms of Hoskier’s nine groups, rather than percentages of MSS.
+
+Nonetheless, in 2003, Wipf and Stock Publishers published *The Identity of the New Testament Text II*, as an academic reprint. It contained further revision, but it still used Burgon’s ‘Notes of Truth’, although I introduced a Family 18, that I soon changed to Family 35. By 2002 I had become aware of Family 35, but my development of a theory surrounding it was still tentative and incomplete. By the time Wipf and Stock published *The Identity of the New Testament Text III* in 2012, I had done sufficient work on that theory to replace Burgon’s ‘Notes of Truth’ with it. 
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
