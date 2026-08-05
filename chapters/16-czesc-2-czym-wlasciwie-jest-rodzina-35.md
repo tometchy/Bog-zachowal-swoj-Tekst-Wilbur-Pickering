@@ -34,5 +34,4 @@ Jednakże w 1988 roku pomogłem założyć Towarzystwo Tekstu Większościowego 
 
 [^nie-odnosze-sie-do-rekonstrukcji]: Proszę zwrócić uwagę, że nie odnoszę się tu do jakiejkolwiek próby odtworzenia genealogii manuskryptów – zgadzam się z tymi badaczami, którzy uznali takie przedsięwzięcie za praktycznie niemożliwe (brakuje po prostu zbyt wielu ogniw). W rzeczywistości odnoszę się do odtworzenia genealogii odczytów, a tym samym historii przekazywania Tekstu. To ostatnie zdanie zawsze było podkreślane. Gdy wszystkie manuskrypty zostaną zestawione i pogrupowane empirycznie, będziemy mogli zrezygnować z liczenia ich.
 
-[^ci-ktorzy-wykluczaja-skazuja]: Those who exclude the supernatural from their model are condemning themselves to never arrive at the Truth—God and Satan exist, and both have been involved in the transmission of the NT Text.
-Ci, którzy wykluczają ponadnaturalność ze swojego modelu, skazują się na to, że nigdy nie dotrą do Prawdy – Bóg i Szatan istnieją, i obaj byli zaangażowani w przekazywanie Tekstu Nowego Testamentu.
+[^ci-ktorzy-wykluczaja-skazuja]: Ci, którzy wykluczają ponadnaturalność ze swojego modelu, skazują się na to, że nigdy nie dotrą do Prawdy – Bóg i Szatan istnieją, i obaj byli zaangażowani w przekazywanie Tekstu Nowego Testamentu.
