@@ -28,6 +28,10 @@ Nonetheless, in 2003, Wipf and Stock Publishers published *The Identity of the N
 
 Niemniej jednak w 2003 roku wydawnictwo Wipf and Stock Publishers opublikowało The Identity of the New Testament Text II jako wznowienie akademickie. Wydanie to zawierało dalsze poprawki, lecz nadal wykorzystywało „Notatki prawdy” Burgona, chociaż wprowadziłem Rodzinę 18, którą wkrótce zmieniłem na Rodzinę 35. Do 2002 roku zdałem sobie sprawę z istnienia Rodziny 35, jednak rozwijana przeze mnie teoria jej dotycząca była wciąż niepewna i niepełna. Do czasu, gdy Wipf and Stock opublikowało The Identity of the New Testament Text III w 2012 roku, wykonałem już wystarczająco dużo pracy nad tą teorią, aby zastąpić nią „Notatki prawdy” Burgona.
 
+It was the Hodges-Farstad Majority Text’s representation of the evidence for the *Pericope Adulterae* that caught my attention, being based on von Soden’s supposed collation of over 900 MSS.[^2] As stated in their apparatus, there were three main streams: **M^5^**, **M^6^** and **M^7^**. **7** was always in the majority (except for one five-way split where there is no majority) because it was always accompanied by either **5** or **6** (5 + 6 never go against 7). This looked to me like three independent streams, where seldom would more than one go astray at any given point. Being the common denominator, **7** was clearly the best of the three, and presumably also the oldest.
+
+Then I went to Revelation (in H-F) and noticed three main streams again: **M^a-b^**, **M^c^** and **M^d-e^**. The picture was analogous to that of the *PA*.  Revelation represents a very much larger corpus than does the *PA*, but even so, there are only 8 cases where **a-b** and **d-e** join against **c** (+ 6 others where one of the four is split), compared to over 100 each for **a-b** and **c** against **d-e** and for **c** and **d-e** against **a-b**. Again, being the common denominator, **c** was clearly the best of the three (see the apparatus of my Greek Text of the Apocalypse).
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
@@ -45,3 +49,9 @@ Niemniej jednak w 2003 roku wydawnictwo Wipf and Stock Publishers opublikowało 
 [^ci-ktorzy-wykluczaja-skazuja]: Ci, którzy wykluczają ponadnaturalność ze swojego modelu, skazują się na to, że nigdy nie dotrą do Prawdy – Bóg i Szatan istnieją, i obaj byli zaangażowani w przekazywanie Tekstu Nowego Testamentu.
 
 [^w-kazdym-dochodzeniu-dowody-zalozenia]: W każdym dochodzeniu naukowym należy dokonać rygorystycznego rozróżnienia między dowodami, założeniami a interpretacją. Ponieważ założenia mają ogromny wpływ na interpretację dowodów, wręcz ją kontrolują (dowody powinny być takie same dla wszystkich), każdy uczciwy badacz musi otwarcie przedstawić swoje założenia. Bez wątpienia zbyt wielkim oczekiwaniem jest, by grzesznicy ujawnili swoje motywy na światło dzienne (Ewangelia Jana 3,20).
+
+[^1]: Hort did the discipline a considerable disservice by positing theoretical text-types, devoid of evidence, and then treating them as established fact.
+
+[^2]: Robinson’s collations show that Soden ‘regularized’ the data.
+
+[^3]: Why ‘smelled a rat’? Because **M^7^** is clearly older than **M^5^** and **M^6^** in the *PA*, and **M^c^** than **M^a-b^** and **M^d-e^** in Revelation, but von Soden claimed **K^r^** was a revision of **K^x^** (how could it be a revision if it was older?).
