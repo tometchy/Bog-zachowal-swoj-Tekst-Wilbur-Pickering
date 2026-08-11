@@ -30,6 +30,14 @@ Moją uwagę zwróciło przedstawienie dowodów dotyczących *Pericope Adulterae
 
 Następnie przeszedłem do Objawienia Jana (w H-F) i ponownie zauważyłem trzy główne nurty: **M^a-b^**, **M^c^** i **M^d-e^**. Obraz był analogiczny do tego z *PA*. Objawienie Jana stanowi znacznie większy korpus niż *PA*, ale mimo to istnieje tylko 8 przypadków, w których **a-b** i **d-e** łączą się przeciwko **c** (+ 6 innych, w których jeden z czterech jest podzielony), w porównaniu z ponad 100 przypadkami zarówno **a-b** i **c** przeciwko **d-e**, jak i **c** i **d-e** przeciwko **a-b**. Ponownie, jako wspólny mianownik, **c** był wyraźnie najlepszym z trzech (zob. aparat krytyczny mojego greckiego Tekstu Objawienia Jana).
 
+Now then, it so happens that **M^7^** in the *PA* and **M^c^** in Revelation equal Soden’s **K^r^**, so I began to smell a rat.[^3] Then the *Text und Textwert* series proved that **K^r^** is independent of **K^x^** throughout the NT. It follows that **K^r^** **cannot** be a revision of **K^x^**. Then there are hundreds of places where **K^r^** has overt early attestation, against **K^x^**, but there is no pattern to that early attestation. There being no pattern then **K^r^** must be early, as the picture in the *PA* and in Revelation has already implied. **If K^r^ is early and independent, then it must be rehabilitated in the practice of NT textual criticism.  If it is the best line of transmission in the *PA* and Revelation, it just might be the best elsewhere as well.**
+
+But there is an ingrained disdain/antipathy toward the symbol **K^r^**, so I have proposed a new name for the text-type. We should substitute **f^35^** for **K^^r**—it is more objective, and will get away from the prejudice that attaches to the latter. Minuscule 35 contains the whole NT and reflects **K^r^** throughout, and it is the MS with the smallest number that meets those qualifications[^x] (just as cursives 1 and 13 are the smallest number in their families, and like them, 35 is not always the best representative [it is generally excellent]—but it is 11th century [and it is a copy of an older exemplar, not a new creation], so the text-type could not have been created in the 12th, Q.E.D.—this is an abbreviation for the Latin *quod erat demonstrandum*, ‘the point to be proved has been proved’.)
+
+Family 35 represents about 16% of the total of extant (known) Greek MSS, but it is almost never entirely alone. However, the roster of other MSS is almost never the same, and this throughout the NT. Does not this indicate that **f^35^** is the common denominator? Because the roster of other MSS is almost never the same, it is possible to factor out the MSS that represent **f^35^**. As I stated at the end of Part I, the Original Text is the ultimate archetype, so any candidate must also be an archetype—a real, honest to goodness, objectively verifiable archetype, there is only one that has been identified so far—Family 35. Most of the words in the NT have virtually 100% attestation (from the extant Greek MSS), but where there is disagreement, it is the mosaic, or profile, of shared readings that define a family, or line of transmission. I now present the profile that defines Family 35.
+
+## Family 35 profile for the whole New Testament[^y]
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
@@ -53,3 +61,7 @@ Następnie przeszedłem do Objawienia Jana (w H-F) i ponownie zauważyłem trzy 
 [^2]: Robinson’s collations show that Soden ‘regularized’ the data.
 
 [^3]: Why ‘smelled a rat’? Because **M^7^** is clearly older than **M^5^** and **M^6^** in the *PA*, and **M^c^** than **M^a-b^** and **M^d-e^** in Revelation, but von Soden claimed **K^r^** was a revision of **K^x^** (how could it be a revision if it was older?).
+
+[^x]: Minuscule 18 has a smaller number and also contains the whole NT, but it defects from the text-type in Revelation.
+
+[^y]: This information was taken from my Greek Text and apparatus.
