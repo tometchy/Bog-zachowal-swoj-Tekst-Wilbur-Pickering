@@ -69,3 +69,13 @@ Family 35 represents about 16% of the total of extant (known) Greek MSS, but it 
 [^x]: Minuscule 18 has a smaller number and also contains the whole NT, but it defects from the text-type in Revelation.
 
 [^y]: This information was taken from my Greek Text and apparatus.
+
+[^1]: Hort wyrządził tej dziedzinie znaczną szkodę, postulując teoretyczne typy tekstu, pozbawione dowodów, a następnie traktując je jako ustalone fakty.
+
+[^2]: Kolacjonowanie Robinsona pokazuje, że Soden „uregulował” dane.
+
+[^3]: Dlaczego „zacząłem podejrzewać, że coś tu jest nie tak”? Ponieważ **M^7^** jest wyraźnie starszy niż **M^5^** i **M^6^** w *PA*, a **M^c^** niż **M^a-b^** i **M^d-e^** w Objawieniu Jana, lecz von Soden twierdził, że **K^r^** było rewizją **K^x^** (jak mogło być rewizją, skoro było starsze?).
+
+[^x]: Minuskuł 18 ma niższy numer i również zawiera cały Nowy Testament, lecz w Objawieniu Jana odbiega od tego typu tekstu.
+
+[^y]: Informacje te zaczerpnięto z mojego greckiego tekstu i aparatu krytycznego.
