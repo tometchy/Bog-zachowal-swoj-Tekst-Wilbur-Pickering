@@ -30,8 +30,6 @@ Moją uwagę zwróciło przedstawienie dowodów dotyczących *Pericope Adulterae
 
 Następnie przeszedłem do Objawienia Jana (w H-F) i ponownie zauważyłem trzy główne nurty: **M^a-b^**, **M^c^** i **M^d-e^**. Obraz był analogiczny do tego z *PA*. Objawienie Jana stanowi znacznie większy korpus niż *PA*, ale mimo to istnieje tylko 8 przypadków, w których **a-b** i **d-e** łączą się przeciwko **c** (+ 6 innych, w których jeden z czterech jest podzielony), w porównaniu z ponad 100 przypadkami zarówno **a-b** i **c** przeciwko **d-e**, jak i **c** i **d-e** przeciwko **a-b**. Ponownie, jako wspólny mianownik, **c** był wyraźnie najlepszym z trzech (zob. aparat krytyczny mojego greckiego Tekstu Objawienia Jana).
 
-Now then, it so happens that **M^7^** in the *PA* and **M^c^** in Revelation equal Soden’s **K^r^**, so I began to smell a rat.[^3] Then the *Text und Textwert* series proved that **K^r^** is independent of **K^x^** throughout the NT. It follows that **K^r^** **cannot** be a revision of **K^x^**. Then there are hundreds of places where **K^r^** has overt early attestation, against **K^x^**, but there is no pattern to that early attestation. There being no pattern then **K^r^** must be early, as the picture in the *PA* and in Revelation has already implied. **If K^r^ is early and independent, then it must be rehabilitated in the practice of NT textual criticism.  If it is the best line of transmission in the *PA* and Revelation, it just might be the best elsewhere as well.**
-
 Tak się składa, że **M^7^** w *PA* i **M^c^** w Objawieniu Jana odpowiadają **K^r^** Sodena, więc zacząłem podejrzewać, że coś tu jest nie tak.[^3] Następnie seria *Text und Textwert* wykazała, że **K^r^** jest niezależny od **K^x^** w całym Nowym Testamencie. Wynika z tego, że **K^r^** **nie może** być rewizją **K^x^**. Istnieją również setki miejsc, w których **K^r^** ma wyraźne wczesne poświadczenie przeciwko **K^x^**, lecz nie ma żadnego wzorca do tego wczesnego poświadczenia. Skoro nie ma żadnego wzorca, **K^r^** musi być wczesny, jak już sugerował obraz wyłaniający się z *PA* i Objawienia Jana. **Jeśli K^r^ jest wczesny i niezależny, to musi zostać zrehabilitowany w praktyce krytyki tekstu Nowego Testamentu. Jeśli jest najlepszą linią przekazu w *PA* i Objawieniu Jana, to równie dobrze może być najlepszą także gdzie indziej.**
 
 But there is an ingrained disdain/antipathy toward the symbol **K^r^**, so I have proposed a new name for the text-type. We should substitute **f^35^** for **K^^r**—it is more objective, and will get away from the prejudice that attaches to the latter. Minuscule 35 contains the whole NT and reflects **K^r^** throughout, and it is the MS with the smallest number that meets those qualifications[^x] (just as cursives 1 and 13 are the smallest number in their families, and like them, 35 is not always the best representative [it is generally excellent]—but it is 11th century [and it is a copy of an older exemplar, not a new creation], so the text-type could not have been created in the 12th, Q.E.D.—this is an abbreviation for the Latin *quod erat demonstrandum*, ‘the point to be proved has been proved’.)
@@ -60,16 +58,6 @@ Family 35 represents about 16% of the total of extant (known) Greek MSS, but it 
 
 [^w-kazdym-dochodzeniu-dowody-zalozenia]: W każdym dochodzeniu naukowym należy dokonać rygorystycznego rozróżnienia między dowodami, założeniami a interpretacją. Ponieważ założenia mają ogromny wpływ na interpretację dowodów, wręcz ją kontrolują (dowody powinny być takie same dla wszystkich), każdy uczciwy badacz musi otwarcie przedstawić swoje założenia. Bez wątpienia zbyt wielkim oczekiwaniem jest, by grzesznicy ujawnili swoje motywy na światło dzienne (Ewangelia Jana 3,20).
 
-[^1]: Hort did the discipline a considerable disservice by positing theoretical text-types, devoid of evidence, and then treating them as established fact.
-
-[^2]: Robinson’s collations show that Soden ‘regularized’ the data.
-
-[^3]: Why ‘smelled a rat’? Because **M^7^** is clearly older than **M^5^** and **M^6^** in the *PA*, and **M^c^** than **M^a-b^** and **M^d-e^** in Revelation, but von Soden claimed **K^r^** was a revision of **K^x^** (how could it be a revision if it was older?).
-
-[^x]: Minuscule 18 has a smaller number and also contains the whole NT, but it defects from the text-type in Revelation.
-
-[^y]: This information was taken from my Greek Text and apparatus.
-
 [^1]: Hort wyrządził tej dziedzinie znaczną szkodę, postulując teoretyczne typy tekstu, pozbawione dowodów, a następnie traktując je jako ustalone fakty.
 
 [^2]: Kolacjonowanie Robinsona pokazuje, że Soden „uregulował” dane.
@@ -78,4 +66,4 @@ Family 35 represents about 16% of the total of extant (known) Greek MSS, but it 
 
 [^x]: Minuskuł 18 ma niższy numer i również zawiera cały Nowy Testament, lecz w Objawieniu Jana odbiega od tego typu tekstu.
 
-[^y]: Informacje te zaczerpnięto z mojego greckiego tekstu i aparatu krytycznego.
+[^y]: Informacje te wzięto z mojego greckiego Tekstu i aparatu krytycznego.
