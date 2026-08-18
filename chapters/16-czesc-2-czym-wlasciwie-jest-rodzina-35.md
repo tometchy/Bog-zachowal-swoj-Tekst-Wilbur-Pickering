@@ -36,7 +36,7 @@ Istnieje jednak głęboko zakorzeniona pogarda/antypatia wobec symbolu **K^r^**,
 
 Family 35 represents about 16% of the total of extant (known) Greek MSS, but it is almost never entirely alone. However, the roster of other MSS is almost never the same, and this throughout the NT. Does not this indicate that **f^35^** is the common denominator? Because the roster of other MSS is almost never the same, it is possible to factor out the MSS that represent **f^35^**. As I stated at the end of Part I, the Original Text is the ultimate archetype, so any candidate must also be an archetype—a real, honest to goodness, objectively verifiable archetype, there is only one that has been identified so far—Family 35. Most of the words in the NT have virtually 100% attestation (from the extant Greek MSS), but where there is disagreement, it is the mosaic, or profile, of shared readings that define a family, or line of transmission. I now present the profile that defines Family 35.
 
-## Family 35 profile for the whole New Testament[^y]
+## Family 35 profile for the whole New Testament[^informacje-z-mojego-tekstu]
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
@@ -64,4 +64,4 @@ Family 35 represents about 16% of the total of extant (known) Greek MSS, but it 
 
 [^minuskul-18-numer]: Minuskuł 18 ma niższy numer i również zawiera cały Nowy Testament, lecz w Objawieniu Jana odbiega od tego typu tekstu.
 
-[^y]: Informacje te wzięto z mojego greckiego Tekstu i aparatu krytycznego.
+[^informacje-z-mojego-tekstu]: Informacje te wzięto z mojego greckiego Tekstu i aparatu krytycznego.
