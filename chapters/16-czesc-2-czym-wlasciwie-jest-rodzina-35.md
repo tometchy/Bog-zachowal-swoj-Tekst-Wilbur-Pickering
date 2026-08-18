@@ -37,6 +37,27 @@ Istnieje jednak głęboko zakorzeniona pogarda/antypatia wobec symbolu **K^r^**,
 Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskryptów, lecz niemal nigdy nie występuje całkowicie sama. Jednak lista pozostałych manuskryptów niemal nigdy nie jest taka sama, i to w całym Nowym Testamencie. Czy nie wskazuje to, że **f^35^** jest wspólnym mianownikiem? Ponieważ lista pozostałych manuskryptów niemal nigdy nie jest taka sama, można wyodrębnić manuskrypty reprezentujące **f^35^**. Jak stwierdziłem na końcu Części I, Tekst Oryginalny jest ostatecznym archetypem, więc każdy kandydat również musi być archetypem — rzeczywistym, autentycznym, obiektywnie weryfikowalnym archetypem, jak dotąd zidentyfikowano tylko jeden taki archetyp — Rodzinę 35. Większość słów w Nowym Testamencie ma niemal 100% poświadczenie (z zachowanych greckich manuskryptach), lecz tam, gdzie występują różnice, to mozaika lub profil wspólnych odczytów, definiuje rodzinę lub linię przekazu. Przedstawiam teraz profil definiujący Rodzinę 35.
 
 ## Family 35 profile for the whole New Testament[^informacje-z-mojego-tekstu]
+## Profil Rodziny 35 dla całego Nowego Testamentu[^informacje-z-mojego-tekstu]
+
+**Klucz:**
+
+|      |                                                         |
+|------|---------------------------------------------------------|
+| +++  | około 20% = **f^35^** praktycznie samodzielnie = diagnostyczne |
+| ++-- | około 25% = całkiem dobrze                              |
+| ++   | około 30% = nieźle                                      |
+| +--- | około 35%                                               |
+| +    | około 40%                                               |
+
+PRÓBA ALTERNATYWNIE
+
+**Klucz:**
+
++++    około 20% = **f^35^** praktycznie samodzielnie = diagnostyczne
+++--   około 25% = całkiem dobrze
+++     około 30% = nieźle
++---   około 35%
++      około 40%
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
