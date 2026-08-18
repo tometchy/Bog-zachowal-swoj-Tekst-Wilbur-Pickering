@@ -48,16 +48,6 @@ Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskrypt�
 | +--- | około 35%                                               |
 | +    | około 40%                                               |
 
-PRÓBA ALTERNATYWNIE
-
-**Klucz:**
-
-+++    około 20% = **f^35^** praktycznie samodzielnie = diagnostyczne
-++--   około 25% = całkiem dobrze
-++     około 30% = nieźle
-+---   około 35%
-+      około 40%
-
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
