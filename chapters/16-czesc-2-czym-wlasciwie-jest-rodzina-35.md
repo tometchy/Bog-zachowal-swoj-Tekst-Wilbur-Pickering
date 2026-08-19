@@ -45,7 +45,7 @@ Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskrypt�
 | +++  | około 20% = **f^35^** praktycznie samodzielnie = diagnostyczne |
 | ++-- | około 25% = całkiem dobrze                              |
 | ++   | około 30% = nieźle                                      |
-| +--- | około 35%                                               |
+| +--  | około 35%                                               |
 | +    | około 40%                                               |
 
 I have arbitrarily set the cutoff point at 40% (of the total of extant MSS), being sufficient for my present purpose, but of course higher percentages can also contribute to the family mosaic/profile. (Were I to include 45% and 50% the numbers would go up visibly, especially for some books. In some of Paul’s epistles the other lines of transmission within the Byzantine bulk did not depart very much from the Family 35 norm.) Where the percentages do not add up to 100%, there are further variants; the interested reader may find them in the apparatus of my Greek Text. The reading of Family 35 is given first.
