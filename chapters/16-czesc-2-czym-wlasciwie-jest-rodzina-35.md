@@ -48,6 +48,10 @@ Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskrypt�
 | +--- | około 35%                                               |
 | +    | około 40%                                               |
 
+I have arbitrarily set the cutoff point at 40% (of the total of extant MSS), being sufficient for my present purpose, but of course higher percentages can also contribute to the family mosaic/profile. (Were I to include 45% and 50% the numbers would go up visibly, especially for some books. In some of Paul’s epistles the other lines of transmission within the Byzantine bulk did not depart very much from the Family 35 norm.) Where the percentages do not add up to 100%, there are further variants; the interested reader may find them in the apparatus of my Greek Text. The reading of Family 35 is given first.
+
+Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów), co jest wystarczające dla mojego obecnego celu, ale oczywiście wyższe wartości procentowe również mogą wnosić wkład w mozaikę/profil rodziny. (Gdybym uwzględnił 45% i 50%, liczby wyraźnie by wzrosły, zwłaszcza w przypadku niektórych ksiąg. W niektórych listach Pawła pozostałe linie przekazu w obrębie bizantyjskiej większości nie odbiegały zbytnio od normy Rodziny 35). Tam, gdzie wartości procentowe nie sumują się do 100%, występują dalsze warianty, zainteresowany czytelnik może je odnaleźć w aparacie krytycznym mojego greckiego Tekstu. Odczyt Rodziny 35 podany jest jako pierwszy.
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
