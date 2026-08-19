@@ -159,7 +159,7 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 
 Łącznie: 92
 
-Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka takich odczytów przypuszczalnie wskazuje, że manuskrypt jest przynajmniej peryferyjnym członkiem rodziny. Prawdopodobnie dwóch badaczy nie sporządziłoby identycznych list — zmieniając rangę, dodając lub odejmując — ale znajduje się tu wystarczająco dużo dowodów, by ustalić, że **f^35^** jest odrębną rodziną. Stwierdzenia poczynione tutaj odnoszą się również do pozostałych ksiąg.
+Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka takich odczytów przypuszczalnie wskazuje, że manuskrypt jest przynajmniej peryferyjnym członkiem rodziny. Prawdopodobnie nie znalazłoby się dwóch badaczy, którzy sporządziliby identyczne listy — zmieniając rangę, dodając lub odejmując — ale znajduje się tu wystarczająco dużo dowodów, by ustalić, że **f^35^** jest odrębną rodziną. Stwierdzenia poczynione tutaj odnoszą się również do pozostałych ksiąg.
 
 **Marek**
 
