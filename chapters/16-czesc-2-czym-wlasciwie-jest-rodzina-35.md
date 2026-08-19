@@ -42,9 +42,9 @@ Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskrypt�
 
 |      |                                                         |
 |------|---------------------------------------------------------|
-| +++  | około 20% = **f^35^** praktycznie samodzielnie = diagnostyczne |
-| ++-- | około 25% = całkiem dobrze                              |
-| ++   | około 30% = nieźle                                      |
+| +++  | około 20% = praktycznie tylko **f^35^** = diagnostyczne |
+| ++-- | około 25% = całkiem dobre                               |
+| ++   | około 30% = niezłe                                      |
 | +--  | około 35%                                               |
 | +    | około 40%                                               |
 
@@ -143,6 +143,58 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 | +++ | 27:1 | πρεσβυτεροι [20%] \|\| 1 του λαου [80%] |
 | ++ | 27:12 | και [30%] \|\| 1 των [70%] |
 | ++ | 27:33 | λεγομενον [30%] \|\| λεγομενος [67%] |
+| ++-- | 27:35 | βαλοντες [25%] \|\| βαλλοντες **f^35pt^** [75%] |
+| +-- | 27:55 | και [35%] \|\| --- [65%] |
+| ++-- | 27:64 | οτι [25%] \|\| --- [75%] |
+
+**Klucz:**
+
+|  |  |
+|---|---|
+| +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (17) |
+| ++-- | około 25% = całkiem dobre (22) |
+| ++ | około 30% = niezłe (34) |
+| +-- | około 35% (10) |
+| + | około 40% (9) |
+
+Łącznie: 92
+
+Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka takich odczytów przypuszczalnie wskazuje, że manuskrypt jest przynajmniej peryferyjnym członkiem rodziny. Prawdopodobnie dwóch badaczy nie sporządziłoby identycznych list — zmieniając rangę, dodając lub odejmując — ale znajduje się tu wystarczająco dużo dowodów, by ustalić, że **f^35^** jest odrębną rodziną. Stwierdzenia poczynione tutaj odnoszą się również do pozostałych ksiąg.
+
+**Marek**
+
+|  |  |  |
+|---|---|---|
+| + | 1:12 | ευθεως [40%] \|\| ευθυς [60%] |
+| ++ | 1:30 | του [30%] \|\| --- [70%] |
+| ++ | 1:34 | χριστον ειναι (28%) \|\| --- (58.9%) \|\| τον 12 (11.6%) |
+| + | 1:38 | εληλυθα [40%] \|\| εξεληλυθα [59%] |
+| ++-- | 1:44 | προσενεγκαι [25%] \|\| προσενεγκε [75%] |
+| + | 2:9 | τον κραββατον σου [40%] \|\| ~ 312 [59%] |
+| ++ | 3:20 | μηδε [30%] \|\| μητε [70%] |
+| +-- | 3:35 | μου [35%] \|\| --- [65%] |
+| ++ | 4:24 | αντιμετρηθησεται [30%] \|\| μετρηθησεται [69%] |
+| ++ | 5:3^a^ | οικησιν [30%] \|\| κατοικησιν [70%] |
+| + | 5:3^b^ | ηδυνατο [40%] \|\| εδυνατο [60%] |
+| ++-- | 5:4 | ισχυσεν [26%] \|\| ισχυεν [74%] |
+| + | 5:5 | μνημασιν και εν τοις ορεσιν [40%] \|\| ~ 52341 [57%] |
+| +++ | 6:20 | ακουων [20%] \|\| ακουσας [80%] |
+| + | 6:45 | απολυσει [40%] \|\| απολυση [59%] |
+| ++ | 6:53 | γενησαρετ [30%] \|\| γεννησαρετ [53%] |
+| ++ | 7:4 | χαλκειων [30%] \|\| χαλκιων [70%] |
+| ++ | 8:3 | νηστις [30%] \|\| νηστεις [70%] |
+| + | 8:6 | και [40%] \|\| --- [60%] |
+| +-- | 8:14 | οι μαθηται αυτου [35%] \|\| --- [64%] |
+| + | 8:21 | ουπω [41%] \|\| ου [59%] |
+| ++-- | 9:3 | κναφευς [25%] \|\| γναφευς [75%] |
+| ++ | 9:20 | ιδον [30%] \|\| ιδων [70%] |
+| ++ | 9:48 | σκωληξ [30%] \|\| 1 αυτων [70%] |
+| +-- | 10:8 | σαρξ μια [35%] \|\| ~ 21 [65%] |
+| +++ | 10:17 | τις [20%] \|\| εις [70%] \|\| --- [10%] |
+| +++ | 10:25 | γαρ [20%] \|\| --- [80%] |
+| + | 10:30 | πατερα και μητερα [40%] \|\| μητερας [55%] |
+| + | 10:33 | τοις [40%] \|\| --- [60%] |
+| +-- | 10:40 | μου [35%] \|\| --- [65%] |
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
