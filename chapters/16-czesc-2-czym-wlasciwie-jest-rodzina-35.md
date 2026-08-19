@@ -48,9 +48,49 @@ Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskrypt�
 | +--  | około 35%                                               |
 | +    | około 40%                                               |
 
-I have arbitrarily set the cutoff point at 40% (of the total of extant MSS), being sufficient for my present purpose, but of course higher percentages can also contribute to the family mosaic/profile. (Were I to include 45% and 50% the numbers would go up visibly, especially for some books. In some of Paul’s epistles the other lines of transmission within the Byzantine bulk did not depart very much from the Family 35 norm.) Where the percentages do not add up to 100%, there are further variants; the interested reader may find them in the apparatus of my Greek Text. The reading of Family 35 is given first.
-
 Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów), co jest wystarczające dla mojego obecnego celu, ale oczywiście wyższe wartości procentowe również mogą wnosić wkład w mozaikę/profil rodziny. (Gdybym uwzględnił 45% i 50%, liczby wyraźnie by wzrosły, zwłaszcza w przypadku niektórych ksiąg. W niektórych listach Pawła pozostałe linie przekazu w obrębie bizantyjskiej większości nie odbiegały zbytnio od normy Rodziny 35). Tam, gdzie wartości procentowe nie sumują się do 100%, występują dalsze warianty, zainteresowany czytelnik może je odnaleźć w aparacie krytycznym mojego greckiego Tekstu. Odczyt Rodziny 35 podany jest jako pierwszy.
+
+**Mateusz**
+
+|  |  |  |
+|---|---|---|
+| ++-- | 1:10 | μανασσην [25%] \|\| μανασση [73%] |
+| ++ | 5:31 | ερρεθη [30%] \|\| 1 δε [70%] |
+| ++ | 6:6 | ταμειον [30%] \|\| ταμιειον [70%] |
+| +++ | 6:25^a^ | ενδυσεσθε [20%] \|\| ενδυσησθε [80%] |
+| +++ | 6:25^b^ | πλειων [20%] \|\| πλειον [80%] |
+| ++-- | 7:19 | ουν [25%] \|\| --- [75%] |
+| ++-- | 8:4 | προσενεγκαι [25%] \|\| προσενεγκε [75%] |
+| ++ | 8:13 | εκατονταρχω [30%] \|\| εκατονταρχη [70%] |
+| +++ | 8:20 | λεγει [20%] \|\| και 1 [80%] |
+| +++ | 8:21 | μαθητων [20%] \|\| 1 αυτου [80%] |
+| +-- | 9:4 | ειδως (33.3%) \|\| ιδων (65.7%) |
+| ++ | 9:11 | και πινει [30%] \|\| --- [70%] |
+| +++ | 9:15 | χρονον [20%] \|\| --- [80%] |
+| ++ | 9:18 | τις [30%] \|\| εις [62%] |
+| +++ | 9:28 | αυτοις [20%] \|\| 1 ο ιησους [80%] |
+| ++-- | 9:33 | οτι [25%] \|\| --- [75%] |
+| ++ | 10:2 | εισιν [30%] \|\| εστιν [70%] |
+| ++ | 10:19 | λαλησετε (1^st^) [30%] \|\| λαλησητε [70%] |
+| ++ | 10:25 | απεκαλεσαν [30%] \|\| εκαλεσαν [49%] \|\| επεκαλεσαν [20%] |
+| +++ | 10:31 | πολλω [20%] \|\| πολλων [80%] |
+| +-- | 11:20 | ο ιησους [35%] \|\| --- [65%] |
+| +++ | 11:21 | χωραζιν [20%] \|\| χοραζιν [65%] |
+| +-- | 11:23^a^ | ἢ [35%] \|\| ἡ [64%] |
+| +-- | 11:23^b^ | υψωθης [35%] \|\| υψωθεισα [63%] |
+| +++ | 12:15 | απαντας [20%] \|\| παντας [80%] |
+| ++-- | 12:22 | κωφον [25%] \|\| 1 και [75%] |
+| +++ | 12:23 | ο χριστος [20%] \|\| --- [80%] |
+| ++-- | 12:24 | εν [25%] \|\| 1 τω [75%] |
+| ++ | 12:28 | εγω εν πνευματι θεου [28%] \|\| ~ 2341 [70%] |
+| + | 12:29 | διαρπαση [40%] \|\| διαρπασει [60%] |
+| ++ | 13:2 | εις [30%] \|\| 1 το [70%] |
+| ++-- | 13:3 | εν παραβολαις πολλα [25%] \|\| ~ 312 [75%] |
+| ++ | 13:24 | σπειραντι [30%] \|\| σπειροντι [70%] |
+| ++ | 13:32 | παντων [30%] \|\| --- [70%] |
+| ++ | 13:44 | εν αγρω [30%] \|\| 1 τω 2 [70%] |
+| +++ | 14:5 | εφοβειτο [20%] \|\| εφοβηθη [80%] |
+| ++ | 14:22 | αυτου [30%] \|\| --- [70%] |
 
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
