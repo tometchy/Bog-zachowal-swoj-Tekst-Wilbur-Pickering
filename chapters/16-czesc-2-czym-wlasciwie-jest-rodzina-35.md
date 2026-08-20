@@ -50,7 +50,7 @@ Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskrypt�
 
 Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów), co jest wystarczające dla mojego obecnego celu, ale oczywiście wyższe wartości procentowe również mogą wnosić wkład w mozaikę/profil rodziny. (Gdybym uwzględnił 45% i 50%, liczby wyraźnie by wzrosły, zwłaszcza w przypadku niektórych ksiąg. W niektórych listach Pawła pozostałe linie przekazu w obrębie bizantyjskiej większości nie odbiegały zbytnio od normy Rodziny 35). Tam, gdzie wartości procentowe nie sumują się do 100%, występują dalsze warianty, zainteresowany czytelnik może je odnaleźć w aparacie krytycznym mojego greckiego Tekstu. Odczyt Rodziny 35 podany jest jako pierwszy.
 
-**Mateusz**
+**Ewangelia Mateusza**
 
 |  |  |  |
 |---|---|---|
@@ -76,7 +76,7 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 | +++ | 10:31 | πολλω [20%] \|\| πολλων [80%] |
 | +-- | 11:20 | ο ιησους [35%] \|\| --- [65%] |
 | +++ | 11:21 | χωραζιν [20%] \|\| χοραζιν [65%] |
-| +-- | 11:23^a^ | ἢ [35%] \|\| ἡ [64%] |
+| +-- | 11:23^a^ | ἣ [35%] \|\| ἡ [64%] |
 | +-- | 11:23^b^ | υψωθης [35%] \|\| υψωθεισα [63%] |
 | +++ | 12:15 | απαντας [20%] \|\| παντας [80%] |
 | ++-- | 12:22 | κωφον [25%] \|\| 1 και [75%] |
