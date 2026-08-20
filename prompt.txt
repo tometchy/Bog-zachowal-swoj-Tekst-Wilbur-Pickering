@@ -1,0 +1,108 @@
+Interesuje Cię wyłącznie katalog family-35-profile.
+Chcę skrypt najlepiej bash, ale jakby to było karkołomne to python ewentualnie, który mi przetwarza moje pliki.
+Przykładowy plik input: family-35-profile.txt a jego output to family-35-profile.md
+Oprócz tego w tym katalogu są także screenshoty pokazujące o co chodzi. Generalnie są tam różne edge casy, czasem tabela jest na jednej stronie, czasem kilku (różnej ilości), czasem się trzecia kolumna nie mieści w linii, do tego jeszcze są te różne oznaczenia w ^^.
+No trudne to zadanie, wiele edge casów, przeanalizuj ten przykładowy input i output i mi stwórz skrypt, który jak uruchomię podając jako argument family-35-profile/family-35-profile.txt to wygeneruje mi plik family-35-profile/family-35-profile.md identyczny jak ten przykładowy.
+
+Failed to initialize ACP session. Error: Codex process has exited with code 1:
+file:///home/tom/.cache/JetBrains/Rider2026.2/acp-agents/codex-acp/1.6.2/node_modules/@openai/codex/bin/codex.js:105
+  throw new Error(
+        ^
+
+Error: Missing optional dependency @openai/codex-linux-arm64. Reinstall Codex: npm install -g @openai/codex@latest
+    at findCodexExecutable (file:///home/tom/.cache/JetBrains/Rider2026.2/acp-agents/codex-acp/1.6.2/node_modules/@openai/codex/bin/codex.js:105:9)
+    at file:///home/tom/.cache/JetBrains/Rider2026.2/acp-agents/codex-acp/1.6.2/node_modules/@openai/codex/bin/codex.js:110:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:660:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)
+
+Node.js v24.13.0
+
+Tak — to wygląda na **regresję instalatora ACP po aktualizacji Ridera**, szczególnie widoczną na Twoim ARM64. Rider ma `@openai/codex`, ale npm nie dociągnął platformowej paczki `@openai/codex-linux-arm64`. Codex rzeczywiście publikuje osobną paczkę dla Linux ARM64 jako optional dependency. ([UNPKG][1])
+
+Nie zaczynałbym od zalecanego przez komunikat:
+
+```bash
+npm install -g @openai/codex@latest
+```
+
+bo Rider odpala **swoją kopię** z:
+
+```text
+~/.cache/JetBrains/Rider2026.2/acp-agents/codex-acp/1.6.2/
+```
+
+więc globalna instalacja może niczego nie zmienić.
+
+### Najpierw naprawmy dokładnie tę kopię Ridera
+
+Zamknij Ridera i wykonaj:
+
+```bash
+BASE="$HOME/.cache/JetBrains/Rider2026.2/acp-agents/codex-acp/1.6.2"
+
+V=$(node -p "require('$BASE/node_modules/@openai/codex/package.json').version")
+
+echo "Codex version: $V"
+
+cd "$BASE" && \
+npm install --no-save \
+  "@openai/codex-linux-arm64@npm:@openai/codex@${V}-linux-arm64"
+```
+
+To **nie instaluje nowszej, przypadkowej wersji** Codexa. Odczytuje wersję, którą Rider już ma, np. `0.145.0`, i dokłada dokładnie odpowiadające jej binarium ARM64:
+
+```text
+@openai/codex-linux-arm64
+    → @openai/codex@0.145.0-linux-arm64
+```
+
+Właśnie taki mechanizm oficjalnie stosuje Codex. ([GitHub][2])
+
+Potem sprawdź:
+
+```bash
+ls -ld "$BASE/node_modules/@openai/codex-linux-arm64"
+```
+
+i:
+
+```bash
+node "$BASE/node_modules/@openai/codex/bin/codex.js" --version
+```
+
+Jeżeli dostaniesz np.:
+
+```text
+codex-cli 0.xxx.x
+```
+
+to uruchom Ridera i Codex powinien wstać.
+
+### Jeśli `npm` nie istnieje w Twoim shellu
+
+Nie instaluj na razie Node'a do systemu. Rider już ma własnego Node `24.13.0`. Znajdziemy jego npm:
+
+```bash
+find "$HOME/.cache/JetBrains/Rider2026.2/acp-agents/.runtimes/node" \
+  -type f \( -name npm -o -name npm-cli.js \) -print
+```
+
+Wklej mi wynik i użyjemy dokładnie runtime'u Ridera.
+
+### Dlaczego podejrzewam npm/Ridera
+
+To nie jest egzotyczny błąd samego ARM. OpenAI miało już zgłoszenia, w których npm instalował główną paczkę `@openai/codex`, ale pomijał właściwą platformową optional dependency, po czym launcher kończył się dokładnie komunikatem:
+
+> `Missing optional dependency @openai/codex-linux-*`
+
+Maintainer Codexa wskazywał wprost na możliwą regresję npm w obsłudze tych optional dependencies. ([GitHub][3])
+
+Dodatkowo JetBrains miał już regresje po aktualizacji IDE dotyczące instalowania `codex-acp`. ([YouTrack][4])
+
+**Zacząłbym od powyższych dwóch poleceń.** Jeśli instalacja wywali błąd albo `codex.js --version` nadal nie ruszy, wklej cały output — wtedy zobaczymy, czy Rider 2026.2 ma jeszcze drugi problem z ACP na aarch64.
+
+[1]: https://app.unpkg.com/%40openai/codex%400.142.4/files/package.json?utm_source=chatgpt.com "UNPKG"
+[2]: https://github.com/agentclientprotocol/codex-acp/blob/main/package-lock.json?utm_source=chatgpt.com "codex-acp/package-lock.json at main · agentclientprotocol/codex-acp · GitHub"
+[3]: https://github.com/openai/codex/issues/13555?utm_source=chatgpt.com "Bug: codex fails with \"Missing optional dependency @openai/codex-linux-x64\" on Ubuntu x86_64 · Issue #13555 · openai/codex"
+[4]: https://youtrack.jetbrains.com/projects/LLM/issues/LLM-27627/PHPStorm-2026.1.1-codex-not-working-cannot-install-codex-acp?utm_source=chatgpt.com "PHPStorm 2026.1.1: codex not working / cannot install codex-acp : LLM-27627"
