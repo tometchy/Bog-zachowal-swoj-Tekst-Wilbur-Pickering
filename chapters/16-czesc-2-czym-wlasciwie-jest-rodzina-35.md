@@ -253,6 +253,43 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | + | 3:12 | υπ αυτου [40%] \|\| --- [60%] |
 | ++++ | 3:18 | τω λαω [15%] \|\| τον λαον [85%] |
 
+
+---
+
+Of all the books, f35 has the most distinct profile in Acts, with far and away the most diagnostic variants. 
+
+Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach Apostolskich, ze zdecydowanie największą liczbą wariantów diagnostycznych.
+
+---
+
+None for 2 Thessalonians. (f35 is always accompanied by at least 40% of the Byzantine bulk.) 
+
+**Brak dla 2 Listu do Tesaloniczan.** (**f^35^** zawsze towarzyszy co najmniej 40% masy bizantyjskiej.)
+
+---
+
+None for Jude. (f35 is always accompanied by at least 40% of the Byzan-tine bulk.) 
+
+**Brak dla Judy.** (**f^35^** zawsze towarzyszy co najmniej 40% masy bizantyjskiej.)
+
+---
+
+Due to Hoskier’s collations, it is possible (and better) to state the evidence in terms of families, instead of percentages, as I have done in my apparatus—please consult it for the evidence. 
+
+Dzięki kolacjonowaniu Hoskiera możliwe jest (i lepsze) przedstawienie dowodów w kategoriach rodzin zamiast procentów, jak uczyniłem w swoim aparacie krytycznym — proszę się z nim zapoznać w kwestii dowodów.
+
+---
+
+The evidence is clear. Family 35 is an objectively/empirically de-fined entity throughout the New Testament. It remains to be seen if the same can be said for any other family or line of transmission—attention please: that is for all 27 books (a number of lines are confined to the Gos-pels, such as f1 and f13).
+
+Family 35 is characterized by incredibly careful transmission (in con-trast to other lines). I have a perfect copy of the Family 35 archetypal text for most NT books (22); I have copies made from a perfect exemplar (pre-sumed) for another four (4); as I continue to collate MSS I hope to add the last one (Acts), but even for it the archetypal form is demonstrable. If God was preserving the original wording in some line of transmission other than Family 35, would that line be any less careful? I think not. So any line of transmission characterized by internal confusion is disqualified—this includes all the other lines of transmission that I have seen so far. 
+
+Dowody są jasne. **Rodzina 35** jest obiektywnie/empirycznie zdefiniowaną jednostką w całym Nowym Testamencie. Pozostaje sprawdzić, czy to samo można powiedzieć o jakiejkolwiek innej rodzinie lub linii przekazu — **proszę o uwagę**: chodzi o wszystkie 27 ksiąg (pewna liczba linii ogranicza się do Ewangelii, jak **f^1^** i **f^13^**).
+
+Rodzinę 35 charakteryzuje niewiarygodnie staranny przekaz (w przeciwieństwie do innych linii). Mam doskonałą kopię archetypalnego tekstu Rodziny 35 dla większości ksiąg Nowego Testamentu (22); mam kopie sporządzone z doskonałego egzemplarza (jak się przypuszcza) dla kolejnych czterech (4); w miarę jak kontynuuję kolacjonowanie manuskryptów, mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku formę archetypalną można wykazać. Gdyby Bóg zachowywał oryginalne brzmienie w jakiejś linii przekazu innej niż Rodzina 35, czy linia ta byłaby choć trochę mniej staranna? Nie sądzę. Tak więc każda linia przekazu charakteryzująca się wewnętrznym pomieszaniem zostaje zdyskwalifikowana — obejmuje to **wszystkie** inne linie przekazu, które dotąd widziałem.
+
+---
+
 [^teil-1-berlin-1902-1910]: *Die Schriften des Neuen Testaments in ihrer ältesten erreichbaren Textgestalt* [niem. *Pisma Nowego Testamentu w najstarszej dostępnej wersji tekstowej*, przyp. tłum.] (część 1, Berlin: Wydawnictwo Alexandra Dunckera, 1902–1910, część 2, Getynga: Vandenhoeck i Ruprecht, 1913).
 
 [^traditional-test-str-29]: Są to: 1. Starożytność, lub pierwotność; 2. Zgodność świadków, lub liczba; 3. Różnorodność dowodów, lub powszechność; 4. Poważanie, jakim cieszą się świadkowie, lub waga; 5. Ciągłość, lub nieprzerwana tradycja; 6. Dowody całych fragmentów, lub kontekst; 7. Rozważania wewnętrzne, lub sensowność. Burgon, *The Traditional Text*, str. 29.
@@ -280,3 +317,6 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 [^minuskul-18-numer]: Minuskuł 18 ma niższy numer i również zawiera cały Nowy Testament, lecz w Objawieniu Jana odbiega od tego typu tekstu.
 
 [^informacje-z-mojego-tekstu]: Informacje te wzięto z mojego greckiego Tekstu i aparatu krytycznego.
+
+[^1]: This is the only place in the whole NT where Family 35 splinters, there being five signif-icant variants (plus two minor ones). Usually there are only two variants, where the fam-ily is divided. For a detailed discussion of this variant set please see my article, “Where to place a comma—Acts 12:25”, available from my site: www.prunch.org. It is also in the “Appendix” of The Sovereign Creator Has Spoken, as well as “Appendix II” in The Greek New Testament According to Family 35.
+To jest jedyne miejsce w całym Nowym Testamencie, gdzie Rodzina 35 się rozszczepia — występuje pięć istotnych wariantów (plus dwa drobne). Zwykle, gdy rodzina jest podzielona, występują tylko dwa warianty. Szczegółowe omówienie tego zestawu wariantów znajduje się w moim artykule „Where to place a comma—Acts 12:25”, dostępnym na mojej stronie: www.prunch.org. Znajduje się on również w „Dodatku” do *The Sovereign Creator Has Spoken*, a także w „Dodatku II” w *The Greek New Testament According to Family 35*.
