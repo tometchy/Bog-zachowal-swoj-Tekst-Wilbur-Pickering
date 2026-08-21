@@ -611,7 +611,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 |  |  |  |
 |:----|:--------|:-----------------------------------|
 | ++ | Gal. 1:12 | αποκαλυψεως [30%] \|\| 1 ιησου [70%] |
-| + | Gal. 3:6,etc. | ἁβρααμ [40%] \|\| ἀβρααμ [60%] |
+| + | Gal. 3:6,itd. | ἁβρααμ [40%] \|\| ἀβρααμ [60%] |
 | + | Gal. 3:16 | ερρεθησαν [40%] \|\| ερρηθησαν [55%] \|\| |
 | + | Gal. 4:2 | αλλ [40%] \|\| αλλα [60%] |
 
@@ -675,7 +675,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 |  |  |  |
 |:----|:--------|:-----------------------------------|
 | +-- | Heb. 2:4 | σημειοις [35%] \|\| 1 τε [65%] |
-| + | Heb. 2:16,etc. | ἁβρααμ [40%] \|\| ἀβρααμ [60%] |
+| + | Heb. 2:16,itd. | ἁβρααμ [40%] \|\| ἀβρααμ [60%] |
 | + | Heb. 3:16 | μωυσεος [40%] \|\| μωυσεως [45%] \|\| μωσεως [15%] |
 | + | Heb. 3:19 | δια [40%] \|\| δι [60%] |
 | + | Heb. 6:3 | ποιησομεν [40%] \|\| ποιησωμεν [59%] |
@@ -791,17 +791,100 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 
 Dzięki kolacjonowaniu Hoskiera możliwe jest (i lepsze) przedstawienie dowodów w kategoriach rodzin zamiast procentów, jak uczyniłem w swoim aparacie krytycznym — proszę się z nim zapoznać w kwestii dowodów.
 
----
+|  |  |  |
+|:----|:--------|:-----------------------------------|
+| +++ | 1:2 | ἅ \|\| ἁτινα \|\| --- |
+| + | 1:5 | εκ \|\| --- |
+| ++ | 1:13 | μαζοις \|\| μαστοις \|\| μασθοις |
+| +-- | 2:2 | κοπον \|\| 1 σου |
+| ++-- | 2:7 | δωσω \|\| 1 αυτω |
+| ++-- | 2:24 | βαλω \|\| βαλλω |
+| +++ | 3:2 | εμελλες αποβαλειν \|\| 1 αποβαλλειν \|\| ημελλες αποβαλλειν \|\| itd. |
+| +-- | 3:5 | ουτως \|\| ουτος |
+| ++ | 3:18^a^ | κολλουριον \|\| κουλουριον \|\| κολλυριον |
+| +++ | 3:18^b^ | εγχρισον επι \|\| 1 \|\| ινα εγχριση \|\| ινα εγχρισαι \|\| εγχρισαι \|\| itd. |
+| + | 4:3 | ομοια \|\| ομοιος \|\| ομοιως |
+| +++ | 4:4 | ειδον \|\| --- |
+| + | 4:6 | κρυσταλω \|\| κρυσταλλω |
+| +++ | 4:8 | λεγοντα \|\| λεγοντες |
+| + | 5:2 | αξιος \|\| 1 εστιν |
+| ++-- | 6:8 | θανατος \|\| ο 1 \|\| ο αθανατος |
+| + | 6:9 | των ανθρωπων \|\| --- |
+| + | 6:12 | και \|\| --- |
+| + | 8:9 | διεφθαρησαν \|\| διεφθαρη |
+| + | 8:13 | τρις \|\| --- |
+| +++ | 9:4 | μονους \|\| --- |
+| +++ | 9:5 | πληξη \|\| παιση \|\| πεση |
+| +-- | 9:6 | ζητουσιν \|\| ζητησουσιν |
+| +++ | 9:11 | αββαδδων \|\| αββαδων \|\| αββααδων \|\| αββααδδων \|\| αβαδδων |
+| +-- | 9:15 | και την ημεραν \|\| 1 εις 23 \|\| 13 \|\| --- |
+| ++ | 10:7^a^ | τελεσθη \|\| και 1 \|\| και ετελεσθη |
+| + | 10:7^b^ | ὅ \|\| ως |
+| ++ | 10:7^c^ | ευηγγελισατο \|\| ευηγγελισεν \|\| ευηγγελησε |
+| ++ | 11:1 | και ειστηκει ο αγγελος λεγων \|\| 1 φωνη λεγουσα \|\| 5 \|\| λεγει |
+| + | 11:11 | επ αυτους \|\| εις 2 \|\| εν αυτοις \|\| αυτοις |
+| + | 11:17 | και ο ερχομενος \|\| --- |
+| +-- | 12:3 | μεγας πυρρος \|\| 1 πυρος \|\| ~ 21 \|\| ~ πυρος 1 |
+| +++ | 12:4 | τικτειν \|\| τεκειν |
+| ++-- | 12:5 | ηρπαγη \|\| ηρπασθη |
+| ++-- | 12:7 | του πολεμησαι \|\| 2 \|\| επολεμησαν |
+| + | 13:7 | φυλην \|\| 1 και λαον |
+| + | 13:15 | ινα2 \|\| --- |
+| + | 14:6 | αλλον αγγελον \|\| 2 \|\| ~ 21 |
+| +++ | 14:12 | του ιησου \|\| 2 \|\| 2 χριστου |
+| + | 15:3 | μωυσεος \|\| μωυσεως \|\| μωσεως |
+| ++-- | 15:4 | αγιος ει \|\| 1 \|\| 2 \|\| οσιος |
+| +++ | 15:6 | εκ του ουρανου \|\| 12 ναου \|\| --- |
+| + | 16:9 | την \|\| --- |
+| + | 17:8 | βλεποντες \|\| βλεποντων |
+| +-- | 18:2 | εν ισχυρα φωνη \|\| 123 μεγαλη \|\| 123 και μεγαλη \|\| 23 \|\| 23 μεγαλη \|\| itd. |
+| + | 18:3 | πεπωκεν \|\| πεπωκασιν \|\| πεπωτικεν \|\| πεπτωκασιν \|\| πεπτωκαν \|\| πεπωκαν |
+| + | 18:7 | βασανισμον \|\| 1 και πενθος |
+| + | 18:14^a^ | απωλοντο \|\| απωλετο \|\| απηλθεν |
+| + | 18:14^b^ | ου μη ευρησεις αυτα \|\| 12 ευρησης 4 \|\| 12 ευρης 4 \|\| 12 ευρησουσιν 4 \|\| itd. |
+| ++-- | 18:17 | ο επι των πλοιων πλεων \|\| 2345 \|\| 234 ομιλος \|\| 234 ο ομιλος \|\| itd. |
+| +++ | 18:21 | λεγων \|\| 1 ουτως |
+| +++ | 19:1 | φωνην οχλου πολλου μεγαλην \|\| ~ 1423 \|\| 123 \|\| φωνης 23 |
+| + | 20:4 | το μετωπον αυτων \|\| 12 \|\| των μετωπων 3 \|\| |
+| ++-- | 20:11 | ο ουρανος και η γη \|\| ~ 45312 |
+| +++ | 20:12^a^ | ανεωχθησαν \|\| ηνεωχθησαν \|\| ηνοιχθησαν \|\| ηνοιξαν |
+| ++-- | 20:12^b^ | ανεωχθη \|\| ηνεωχθη \|\| ηνοιχθη |
+| +++ | 20:14 | εστιν ο θανατος ο δευτερος \|\| ~ 1453 \|\| ~ 23451 \|\| ~ 2351 \|\| -- - \|\| ~ 4531 |
+| + | 21:5 | καινα ποιω παντα \|\| ~ 312 \|\| \|\| |
+| + | 21:6 | αρχη και τελος \|\| η 12 το 3 \|\| και η 12 το 3 |
+| ++-- | 21:10 | την μεγαλην την αγιαν \|\| 12 και 4 \|\| 34 |
+| + | 21:24 | την δοξαν και την τιμην αυτων εις αυτην \|\| 12678 \|\| αυτω 235 των εθνων 78 \|\| |
+| +-- | 22:2 | εκαστον αποδιδους \|\| 1 αποδιδον \|\| 1 αποδιδουν \|\| ~ 21 \|\| ~ 2 εκαστος |
 
-The evidence is clear. Family 35 is an objectively/empirically de-fined entity throughout the New Testament. It remains to be seen if the same can be said for any other family or line of transmission—attention please: that is for all 27 books (a number of lines are confined to the Gos-pels, such as f1 and f13).
+**Klucz:**
 
-Family 35 is characterized by incredibly careful transmission (in con-trast to other lines). I have a perfect copy of the Family 35 archetypal text for most NT books (22); I have copies made from a perfect exemplar (pre-sumed) for another four (4); as I continue to collate MSS I hope to add the last one (Acts), but even for it the archetypal form is demonstrable. If God was preserving the original wording in some line of transmission other than Family 35, would that line be any less careful? I think not. So any line of transmission characterized by internal confusion is disqualified—this includes all the other lines of transmission that I have seen so far. 
+|  |  |
+|:----|:---------------------------------------------------------|
+| +++ | tylko **f^35^**, albo praktycznie tylko (15) |
+| ++-- | do **f^35^** dołącza część innej rodziny (małej) (10) |
+| ++ | do **f^35^** dołącza cała mała rodzina (nie **a** ani **e**) (5) |
+| +-- | do **f^35^** dołącza cała mała rodzina (nie **a** ani **e**) plus (7) |
+| + | do **f^35^** dołącza mniej niż którakolwiek z dwóch pozostałych głównych linii przekazu (25) |
+
+Łącznie: 62
+
+Oto dane zbiorcze dla całego Nowego Testamentu.
+
+**Klucz:**
+
+|  |  |
+|:----|:---------------------------------------------------------|
+| +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (161) |
+| ++-- | około 25% = całkiem dobre (144) |
+| ++ | około 30% = niezłe (153) |
+| +-- | około 35% (81) |
+| + | około 40% (119) |
+
+**Łącznie: 658**
 
 Dowody są jasne. **Rodzina 35** jest obiektywnie/empirycznie zdefiniowaną jednostką w całym Nowym Testamencie. Pozostaje sprawdzić, czy to samo można powiedzieć o jakiejkolwiek innej rodzinie lub linii przekazu — **proszę o uwagę**: chodzi o wszystkie 27 ksiąg (pewna liczba linii ogranicza się do Ewangelii, jak **f^1^** i **f^13^**).
 
-Rodzinę 35 charakteryzuje niewiarygodnie staranny przekaz (w przeciwieństwie do innych linii). Mam doskonałą kopię archetypalnego tekstu Rodziny 35 dla większości ksiąg Nowego Testamentu (22); mam kopie sporządzone z doskonałego egzemplarza (jak się przypuszcza) dla kolejnych czterech (4); w miarę jak kontynuuję kolacjonowanie manuskryptów, mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku formę archetypalną można wykazać. Gdyby Bóg zachowywał oryginalne brzmienie w jakiejś linii przekazu innej niż Rodzina 35, czy linia ta byłaby choć trochę mniej staranna? Nie sądzę. Tak więc każda linia przekazu charakteryzująca się wewnętrznym pomieszaniem zostaje zdyskwalifikowana — obejmuje to **wszystkie** inne linie przekazu, które dotąd widziałem.
-
----
+Rodzinę 35 charakteryzuje niewiarygodnie staranny przekaz (w przeciwieństwie do innych linii). Mam doskonałą kopię archetypalnego tekstu Rodziny 35 dla większości ksiąg Nowego Testamentu (22), mam kopie sporządzone z doskonałego egzemplarza (jak się przypuszcza) dla kolejnych czterech (4), w miarę jak kontynuuję kolacjonowanie manuskryptów, mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku można wykazać formę archetypalną. Gdyby Bóg zachowywał oryginalne sformułowania w jakiejś linii przekazu innej niż Rodzina 35, czy linia ta byłaby choć trochę mniej staranna? Nie sądzę. Tak więc każda linia przekazu charakteryzująca się wewnętrznym pomieszaniem zostaje zdyskwalifikowana — obejmuje to **wszystkie** inne linie przekazu, które jak dotąd widziałem.
 
 [^informacje-z-mojego-tekstu]: Informacje te wzięto z mojego greckiego Tekstu i aparatu krytycznego.
 
