@@ -9,6 +9,16 @@ def process_file(input_path, output_path):
     markers = []
     verses = []
     texts = []
+    detected_wraps = []
+    column_errors = []
+
+    def print_wrap_report():
+        print(f"Wykryte złamania wierszy ({len(detected_wraps)}):")
+        if detected_wraps:
+            for verse, continuation in detected_wraps:
+                print(f"  {verse}: {continuation}")
+        else:
+            print("  brak")
 
     i = 0
     while i < len(lines):
@@ -85,12 +95,32 @@ def process_file(input_path, output_path):
             # Now read texts for these verses
             num_expected_texts = len(current_markers)
             collected_texts = []
+
+            def append_continuation(continuation):
+                verse_index = len(collected_texts) - 1
+                verse = (current_verses[verse_index]
+                         if 0 <= verse_index < len(current_verses)
+                         else '?')
+                collected_texts[-1] += " " + continuation.strip()
+                detected_wraps.append((verse, continuation.strip()))
             
-            while i < len(lines) and len(collected_texts) < num_expected_texts:
+            while i < len(lines):
                 line = lines[i]
                 if not line.strip():
                     i += 1
                     continue
+
+                # Reaching the expected number of readings does not
+                # necessarily mean the final reading is complete: its PDF
+                # line can still continue with "~ ..." or "[...%]".
+                if len(collected_texts) >= num_expected_texts:
+                    stripped = line.strip()
+                    last_is_incomplete = collected_texts and '%' not in collected_texts[-1]
+                    is_pipe_continuation = stripped.startswith('||')
+                    if (not stripped.startswith(('[', '~'))
+                            and not is_pipe_continuation
+                            and not last_is_incomplete):
+                        break
                 
                 # Ignore isolated verse numbers that might be PDF artifacts
                 if re.match(r'^[0-9]+:[0-9]+$', line.strip()):
@@ -104,27 +134,60 @@ def process_file(input_path, output_path):
                     break
 
                 # It's a text line or continuation
-                # A new text usually contains || or starts with greek/word
-                # A continuation starts with [ or is short
-                if ('||' in line or '[' in line or ']' in line or '%' in line) and not (line.strip().startswith('[') and collected_texts):
+                # A new text usually contains || or starts with greek/word.
+                # Wrapped continuations in the source PDF can start with a
+                # percentage ("[") or with a transposition marker ("~").
+                stripped = line.strip()
+                is_pipe_continuation = stripped.startswith('||')
+                is_continuation = (stripped.startswith(('[', '~')) or is_pipe_continuation) and collected_texts
+                if is_continuation:
+                    append_continuation(line)
+                elif '||' in line or '[' in line or ']' in line or '%' in line:
                     # Potential new text
-                    # But wait, if it starts with '[', it might be a continuation!
-                    # The rule: if we still need texts, and this line doesn't look like a continuation, it's a new text.
-                    if line.strip().startswith('[') and collected_texts:
-                        collected_texts[-1] = collected_texts[-1] + " " + line.strip()
-                    else:
-                        collected_texts.append(line.strip())
+                    collected_texts.append(line.strip())
                 else:
-                    if collected_texts:
-                        collected_texts[-1] = collected_texts[-1] + " " + line.strip()
+                    # A long new reading may wrap before its percentage and
+                    # therefore have no marker characters on its first line.
+                    # If the preceding reading is already complete enough to
+                    # contain a percentage, this plain line starts a new one.
+                    if collected_texts and '%' in collected_texts[-1]:
+                        collected_texts.append(line.strip())
+                    elif collected_texts:
+                        append_continuation(line)
                     else:
                         # First text in block
                         collected_texts.append(line.strip())
                 i += 1
             
             texts.extend(collected_texts)
+            block_counts = (
+                len(current_markers),
+                len(current_verses),
+                len(collected_texts),
+            )
+            if len(set(block_counts)) != 1:
+                first_verse = current_verses[0] if current_verses else '?'
+                last_verse = current_verses[-1] if current_verses else '?'
+                column_errors.append((first_verse, last_verse, block_counts))
         else:
             i += 1
+
+    total_counts = (len(markers), len(verses), len(texts))
+    if len(set(total_counts)) != 1 or column_errors:
+        print_wrap_report()
+        print("BŁĄD: liczba wierszy w kolumnach nie jest zgodna.", file=sys.stderr)
+        print(
+            f"  Łącznie: znaczniki={total_counts[0]}, "
+            f"wersety={total_counts[1]}, teksty={total_counts[2]}",
+            file=sys.stderr,
+        )
+        for first_verse, last_verse, counts in column_errors:
+            print(
+                f"  Blok {first_verse}–{last_verse}: znaczniki={counts[0]}, "
+                f"wersety={counts[1]}, teksty={counts[2]}",
+                file=sys.stderr,
+            )
+        raise ValueError("Niezgodna liczba wierszy w kolumnach")
 
     # Format the data
     formatted_rows = []
@@ -150,15 +213,13 @@ def process_file(input_path, output_path):
     output_content = "|  |  |  |\n"
     output_content += "|:----|:--------|:-----------------------------------|\n"
     
-    for idx, row in enumerate(formatted_rows):
-        if idx == 92:
-            output_content += "\n"
-            output_content += "|  |  |  |\n"
-            output_content += "|:----|:--------|:-----------------------------------|\n"
+    for row in formatted_rows:
         output_content += row + "\n"
     
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(output_content.rstrip('\n'))
+
+    print_wrap_report()
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -167,4 +228,8 @@ if __name__ == "__main__":
     
     input_file = sys.argv[1]
     output_file = input_file.replace('.txt', '.md')
-    process_file(input_file, output_file)
+    try:
+        process_file(input_file, output_file)
+    except ValueError as error:
+        print(f"Przerwano: {error}.", file=sys.stderr)
+        sys.exit(1)
