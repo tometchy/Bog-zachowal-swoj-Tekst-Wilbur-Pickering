@@ -2,9 +2,49 @@ import re
 import sys
 import os
 
+VERSE_PATTERN = (
+    r'(?:'
+    r'(?:[1-2]?[A-Za-z]+\.?)\s+(?:[0-9]+:[0-9]+(?:[a-zª]|,etc\.)?|[0-9]+)'
+    r'|[0-9]+:[0-9]+(?:[a-zª])?'
+    r')'
+)
+
+
+def split_pdf_line(line):
+    """Split marker/verse/text fragments joined by PDF text extraction."""
+    fragments = []
+    remaining = line
+
+    while remaining:
+        marker_and_verse = re.match(
+            rf'^([+-]+)({VERSE_PATTERN})', remaining
+        )
+        verse = re.match(rf'^({VERSE_PATTERN})', remaining)
+
+        if marker_and_verse:
+            fragments.extend(marker_and_verse.groups()[:2])
+            remaining = remaining[marker_and_verse.end():]
+        elif verse:
+            tail = remaining[verse.end():]
+            # A parenthetical cross-reference such as "2:17)" is text,
+            # not a standalone Acts-style verse heading.
+            if re.fullmatch(r'[0-9]+:[0-9]+(?:[a-zª])?', verse.group(1)) and tail.startswith(')'):
+                fragments.append(remaining)
+                break
+            fragments.append(verse.group(1))
+            remaining = tail
+        else:
+            fragments.append(remaining)
+            break
+
+    return fragments or ['']
+
+
 def process_file(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as f:
-        lines = [line.strip('\n') for line in f.readlines()]
+        lines = []
+        for line in f:
+            lines.extend(split_pdf_line(line.rstrip('\n')))
 
     markers = []
     verses = []
@@ -28,7 +68,7 @@ def process_file(input_path, output_path):
             continue
         
         # Check if we are at the start of a markers block
-        if re.match(r'^[+-]+$', line) or re.match(r'^[+-]+[0-9]+:[0-9]+', line):
+        if re.match(r'^[+-]+$', line) or re.match(rf'^[+-]+{VERSE_PATTERN}', line):
             current_markers = []
             current_verses = []
             
@@ -40,8 +80,8 @@ def process_file(input_path, output_path):
                     continue
                 
                 m_marker = re.match(r'^([+-]+)$', line)
-                m_both = re.match(r'^([+-]+)([0-9]+:[0-9]+.*)$', line)
-                m_verse = re.match(r'^([0-9]+:[0-9]+.*)$', line)
+                m_both = re.match(rf'^([+-]+)({VERSE_PATTERN})$', line)
+                m_verse = re.match(rf'^({VERSE_PATTERN})$', line)
                 
                 if m_marker:
                     current_markers.append(m_marker.group(1))
@@ -56,7 +96,7 @@ def process_file(input_path, output_path):
                         if not line.strip():
                             i += 1
                             continue
-                        m_v = re.match(r'^([0-9]+:[0-9]+.*)$', line)
+                        m_v = re.match(rf'^({VERSE_PATTERN})$', line)
                         if m_v:
                             current_verses.append(m_v.group(1))
                             i += 1
@@ -79,7 +119,7 @@ def process_file(input_path, output_path):
                         next_i += 1
                     if next_i < len(lines):
                         next_line = lines[next_i]
-                        if re.match(r'^[+-]+$', next_line) or re.match(r'^[+-]+[0-9]+:[0-9]+', next_line):
+                        if re.match(r'^[+-]+$', next_line) or re.match(rf'^[+-]+{VERSE_PATTERN}', next_line):
                             # More markers/verses coming in this block
                             i = next_i
                             continue
@@ -117,20 +157,25 @@ def process_file(input_path, output_path):
                     stripped = line.strip()
                     last_is_incomplete = collected_texts and '%' not in collected_texts[-1]
                     is_pipe_continuation = stripped.startswith('||')
+                    is_parenthetical_continuation = (
+                        stripped.startswith('(')
+                        or re.match(r'^[0-9]+:[0-9]+\)', stripped)
+                    )
                     if (not stripped.startswith(('[', '~'))
                             and not is_pipe_continuation
+                            and not is_parenthetical_continuation
                             and not last_is_incomplete):
                         break
                 
                 # Ignore isolated verse numbers that might be PDF artifacts
-                if re.match(r'^[0-9]+:[0-9]+$', line.strip()):
+                if re.fullmatch(VERSE_PATTERN, line.strip()):
                     # Check if this could be a real marker+verse start (not expected here)
                     # For now just skip it if we are expecting texts
                     i += 1
                     continue
                 
                 # If it's a marker block, we stopped early? 
-                if re.match(r'^[+-]+$', line) or re.match(r'^[+-]+[0-9]+:[0-9]+', line):
+                if re.match(r'^[+-]+$', line) or re.match(rf'^[+-]+{VERSE_PATTERN}', line):
                     break
 
                 # It's a text line or continuation
@@ -139,7 +184,15 @@ def process_file(input_path, output_path):
                 # percentage ("[") or with a transposition marker ("~").
                 stripped = line.strip()
                 is_pipe_continuation = stripped.startswith('||')
-                is_continuation = (stripped.startswith(('[', '~')) or is_pipe_continuation) and collected_texts
+                is_parenthetical_continuation = (
+                    stripped.startswith('(')
+                    or re.match(r'^[0-9]+:[0-9]+\)', stripped)
+                )
+                is_continuation = (
+                    stripped.startswith(('[', '~'))
+                    or is_pipe_continuation
+                    or is_parenthetical_continuation
+                ) and collected_texts
                 if is_continuation:
                     append_continuation(line)
                 elif '||' in line or '[' in line or ']' in line or '%' in line:

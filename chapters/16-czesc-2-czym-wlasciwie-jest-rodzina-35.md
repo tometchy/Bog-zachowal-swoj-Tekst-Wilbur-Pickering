@@ -598,11 +598,23 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 |  |  |  |
 |:----|:--------|:-----------------------------------|
 
----
-
-None for 2 Thessalonians. (f35 is always accompanied by at least 40% of the Byzantine bulk.) 
 
 **Brak dla 2 Listu do Tesaloniczan.** (**f^35^** zawsze towarzyszy co najmniej 40% masy bizantyjskiej.)
+
+**Klucz:**
+
+|  |  |
+|:----|:---------------------------------------------------------|
+| +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (14) |
+| ++-- | około 25% = całkiem dobre (10) |
+| ++ | około 30% = niezłe (21) |
+| +-- | około 35% (11) |
+| + | około 40% (38) |
+
+Łącznie: 94
+
+---
+
 
 ---
 
