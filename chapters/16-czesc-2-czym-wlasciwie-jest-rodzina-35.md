@@ -41,7 +41,7 @@ Rodzina 35 stanowi około 16% ogółu zachowanych (znanych) greckich manuskrypt�
 **Klucz:**
 
 |      |                                                         |
-|------|---------------------------------------------------------|
+|:----|:---------------------------------------------------------|
 | +++  | około 20% = praktycznie tylko **f^35^** = diagnostyczne |
 | ++-- | około 25% = całkiem dobre                               |
 | ++   | około 30% = niezłe                                      |
@@ -53,7 +53,7 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 **Ewangelia Mateusza**
 
 |  |  |  |
-|---|---|---|
+|:----|:--------|:-----------------------------------|
 | ++-- | 1:10 | μανασσην [25%] \|\| μανασση [73%] |
 | ++ | 5:31 | ερρεθη [30%] \|\| 1 δε [70%] |
 | ++ | 6:6 | ταμειον [30%] \|\| ταμιειον [70%] |
@@ -150,7 +150,7 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 **Klucz:**
 
 |  |  |
-|---|---|
+|:----|:---------------------------------------------------------|
 | +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (17) |
 | ++-- | około 25% = całkiem dobre (22) |
 | ++ | około 30% = niezłe (34) |
@@ -164,7 +164,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 **Ewangelia Marka**
 
 |  |  |  |
-|---|---|---|
+|:----|:--------|:-----------------------------------|
 | + | 1:12 | ευθεως [40%] \|\| ευθυς [60%] |
 | ++ | 1:30 | του [30%] \|\| --- [70%] |
 | ++ | 1:34 | χριστον ειναι (28%) \|\| --- (58.9%) \|\| τον 12 (11.6%) |
@@ -234,7 +234,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 **Klucz:**
 
 |  |  |
-|---|---|
+|:----|:---------------------------------------------------------|
 | +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (8) |
 | ++-- | około 25% = całkiem dobre (9) |
 | ++ | około 30% = niezłe (23) |
@@ -246,7 +246,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 **Ewangelia Łukasza**
 
 |  |  |  |
-|---|---|---|
+|:----|:--------|:-----------------------------------|
 | +-- | 1:55 | εως αιωνος [35%] \|\| εις τον αιωνα [64%] |
 | ++-- | 1:63 | εσται [26%] \|\| εστιν [74%] |
 | + | 2:40 | αυτω [41%] \|\| αυτο [58%] |
@@ -324,7 +324,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 **Klucz:**
 
 |  |  |
-|---|---|
+|:----|:---------------------------------------------------------|
 | +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (12) |
 | ++-- | około 25% = całkiem dobre (17) |
 | ++ | około 30% = niezłe (17) |
@@ -336,7 +336,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 **Ewangelia Jana**
 
 |  |  |  |
-|---|---|---|
+|:----|:--------|:-----------------------------------|
 | ++-- | 1:28 | βιθαβαρα [25%] \|\| βηθανια [65%] \|\| |
 | + | 1:45 | υιον [40%] \|\| 1 του [60%] |
 | + | 3:4 | αυτον [40%] \|\| 1 ο [60%] |
@@ -351,7 +351,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | + | 7:31 | σημεια [40%] \|\| 1 τουτων [55%] |
 | ++ | 7:39 | ο [30%] \|\| ου [70%] |
 | + | 8:4 | αυτοφωρω [40%] \|\| αυτοφορω [60%] |
-| ++++ | 8:7 | τον λιθον επ αυτη βαλετω [18%] \|\| \|\| \|\| \|\| \|\| (5-way split) |
+| ++++ | 8:7 | τον λιθον επ αυτη βαλετω [18%] \|\| \|\| \|\| \|\| \|\| (podział na 5 części) |
 | + | 8:14 | η [40%] \|\| και [50%] \|\| |
 | ++ | 8:33 | και ειπον [30%] \|\| --- [70%] |
 | ++ | 9:17 | ουν [30%] \|\| --- [70%] |
