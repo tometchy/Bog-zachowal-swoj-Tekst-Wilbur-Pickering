@@ -148,13 +148,13 @@ def process_file(input_path, output_path):
 
     # Write to file
     output_content = "|  |  |  |\n"
-    output_content += "|---|---|---|\n"
+    output_content += "|:----|:--------|:-----------------------------------|\n"
     
     for idx, row in enumerate(formatted_rows):
         if idx == 92:
             output_content += "\n"
             output_content += "|  |  |  |\n"
-            output_content += "|---|---|---|\n"
+            output_content += "|:----|:--------|:-----------------------------------|\n"
         output_content += row + "\n"
     
     with open(output_path, 'w', encoding='utf-8') as f:

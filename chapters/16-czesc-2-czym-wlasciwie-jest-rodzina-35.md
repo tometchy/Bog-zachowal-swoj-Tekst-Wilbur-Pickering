@@ -381,6 +381,19 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | + | 21:1^b^ | αυτου [40%] \|\| --- [60%] |
 | ++-- | 21:1^c^ | εγερθεις εκ νεκρων [25%] \|\| --- [75%] |
 
+**Klucz:**
+
+|  |  |
+|:----|:---------------------------------------------------------|
+| +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (8) |
+| ++-- | około 25% = całkiem dobre (7) |
+| ++ | około 30% = niezłe (11) |
+| +-- | około 35% (4) |
+| + | około 40% (13) |
+
+Łącznie: 43  
+(Przekazywanie Ewangelii Jana przebiegało bardziej zachowawczo niż pozostałych Ewangelii.)
+
 ---
 
 Of all the books, f35 has the most distinct profile in Acts, with far and away the most diagnostic variants. 
