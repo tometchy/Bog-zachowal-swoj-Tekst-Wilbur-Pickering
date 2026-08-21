@@ -579,9 +579,17 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | +++ | 28:23 | μωυσεος [20%] \|\| μωσεως [35%] \|\| μωυσεως [45%] |
 | ++-- | 28:27 | ιασωμαι [25%] \|\| ιασομαι [75%] |
 
----
+**Klucz:**
 
-Of all the books, f35 has the most distinct profile in Acts, with far and away the most diagnostic variants. 
+|  |  |
+|:----|:---------------------------------------------------------|
+| +++ | około 20% = praktycznie tylko **f^35^** = diagnostyczne (78) |
+| ++-- | około 25% = całkiem dobre (53) |
+| ++ | około 30% = niezłe (35) |
+| +-- | około 35% (10) |
+| + | około 40% (4) |
+
+Łącznie: 180
 
 Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach Apostolskich, ze zdecydowanie największą liczbą wariantów diagnostycznych.
 
