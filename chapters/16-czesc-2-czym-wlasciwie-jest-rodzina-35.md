@@ -593,6 +593,11 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 
 Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach Apostolskich, ze zdecydowanie największą liczbą wariantów diagnostycznych.
 
+**Korpus Pawłowy**
+
+|  |  |  |
+|:----|:--------|:-----------------------------------|
+
 ---
 
 None for 2 Thessalonians. (f35 is always accompanied by at least 40% of the Byzantine bulk.) 
