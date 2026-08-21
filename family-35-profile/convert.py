@@ -43,12 +43,20 @@ def split_pdf_line(line):
 def process_file(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as f:
         lines = []
+        line_sections = []
+        section = 0
         for line in f:
-            lines.extend(split_pdf_line(line.rstrip('\n')))
+            stripped_line = line.rstrip('\n')
+            fragments = split_pdf_line(stripped_line)
+            lines.extend(fragments)
+            line_sections.extend([section] * len(fragments))
+            if not stripped_line.strip():
+                section += 1
 
     markers = []
     verses = []
     texts = []
+    blocks = []
     detected_wraps = []
     column_errors = []
 
@@ -69,6 +77,7 @@ def process_file(input_path, output_path):
         
         # Check if we are at the start of a markers block
         if re.match(r'^[+-]+$', line) or re.match(rf'^[+-]+{VERSE_PATTERN}', line):
+            block_section = line_sections[i]
             current_markers = []
             current_verses = []
             
@@ -213,6 +222,7 @@ def process_file(input_path, output_path):
                 i += 1
             
             texts.extend(collected_texts)
+            blocks.append((block_section, current_markers, current_verses, collected_texts))
             block_counts = (
                 len(current_markers),
                 len(current_verses),
@@ -243,31 +253,40 @@ def process_file(input_path, output_path):
         raise ValueError("Niezgodna liczba wierszy w kolumnach")
 
     # Format the data
-    formatted_rows = []
-    for m, v, t in zip(markers, verses, texts):
-        # Format verse
-        v = v.replace('ª', 'a')
-        v = re.sub(r'([0-9]+:[0-9]+)([a-z])', r'\1^\2^', v)
-        
-        # Format text
-        t = re.sub(r'(\d+)(st|nd|rd|th)', r'\1^\2^', t)
-        t = t.replace('f35pt', '**f^35pt^**')
-        # Fix spaces around ||
-        t = t.replace('||', ' || ')
-        t = re.sub(r'\s+', ' ', t).strip()
-        t = t.replace(' || ', ' || ') # keep it as is in MD
-        
-        # The MD output uses \|\| for escaped pipes in table
-        t_md = t.replace('||', r'\|\|')
-        
-        formatted_rows.append(f"| {m} | {v} | {t_md} |")
+    table_rows_by_section = []
+    for block_section, block_markers, block_verses, block_texts in blocks:
+        if not table_rows_by_section or table_rows_by_section[-1][0] != block_section:
+            table_rows_by_section.append((block_section, []))
+        formatted_rows = table_rows_by_section[-1][1]
+        for m, v, t in zip(block_markers, block_verses, block_texts):
+            # Format verse
+            v = v.replace('ª', 'a')
+            v = re.sub(r'([0-9]+:[0-9]+)([a-z])', r'\1^\2^', v)
 
-    # Write to file
-    output_content = "|  |  |  |\n"
-    output_content += "|:----|:--------|:-----------------------------------|\n"
-    
-    for row in formatted_rows:
-        output_content += row + "\n"
+            # Format text
+            t = re.sub(r'(\d+)(st|nd|rd|th)', r'\1^\2^', t)
+            t = t.replace('f35pt', '**f^35pt^**')
+            # Fix spaces around ||
+            t = t.replace('||', ' || ')
+            t = re.sub(r'\s+', ' ', t).strip()
+            t = t.replace(' || ', ' || ') # keep it as is in MD
+
+            # The MD output uses \|\| for escaped pipes in table
+            t_md = t.replace('||', r'\|\|')
+
+            formatted_rows.append(f"| {m} | {v} | {t_md} |")
+
+    formatted_tables = []
+    for _, formatted_rows in table_rows_by_section:
+        table_lines = [
+            "|  |  |  |",
+            "|:----|:--------|:-----------------------------------|",
+            *formatted_rows,
+        ]
+        formatted_tables.append("\n".join(table_lines))
+
+    # A blank line between Markdown tables keeps each source block separate.
+    output_content = "\n\n".join(formatted_tables)
     
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(output_content.rstrip('\n'))
