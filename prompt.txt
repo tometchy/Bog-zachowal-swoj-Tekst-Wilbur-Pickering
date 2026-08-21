@@ -46,8 +46,7 @@ V=$(node -p "require('$BASE/node_modules/@openai/codex/package.json').version")
 echo "Codex version: $V"
 
 cd "$BASE" && \
-npm install --no-save \
-  "@openai/codex-linux-arm64@npm:@openai/codex@${V}-linux-arm64"
+npm install --no-save "@openai/codex-linux-arm64@npm:@openai/codex@${V}-linux-arm64"
 ```
 
 To **nie instaluje nowszej, przypadkowej wersji** Codexa. Odczytuje wersję, którą Rider już ma, np. `0.145.0`, i dokłada dokładnie odpowiadające jej binarium ARM64:
