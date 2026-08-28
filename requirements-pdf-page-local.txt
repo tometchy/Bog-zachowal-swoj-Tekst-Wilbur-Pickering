@@ -1,0 +1,3 @@
+# Zaleznosci lokalne; skrypt nie korzysta z OpenAI API ani HTTP.
+PyMuPDF==1.28.2
+PyMuPDF4LLM==1.28.2
