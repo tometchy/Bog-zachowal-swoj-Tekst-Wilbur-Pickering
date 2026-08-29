@@ -10,6 +10,7 @@ RUN apt-get update \
         pandoc \
         texlive-fonts-recommended \
         texlive-lang-polish \
+        texlive-plain-generic \
         texlive-xetex \
     && rm -rf /var/lib/apt/lists/*
 
