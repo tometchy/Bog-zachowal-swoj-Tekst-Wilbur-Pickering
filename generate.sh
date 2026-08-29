@@ -19,6 +19,8 @@ if [ "$#" -eq 1 ]; then
     REPO_DIR=$(CDPATH= cd -- "$1" && pwd)
 fi
 
+echo "REPO_DIR: $REPO_DIR"
+
 podman build --tag "$IMAGE_NAME" --file "$REPO_DIR/Dockerfile" "$REPO_DIR"
 
 podman run \
