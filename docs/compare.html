@@ -127,23 +127,46 @@
       text-align: center;
     }
 
-    iframe {
+    .viewer {
       display: block;
+      position: relative;
       width: 100%;
       height: calc(100vh - 9.2rem);
       min-height: 32rem;
-      border: 0;
+      overflow: auto;
+      padding: 1rem;
       background: #525659;
+      text-align: center;
     }
 
-    main.stacked iframe { height: 80vh; }
+    .viewer canvas {
+      display: block;
+      max-width: 100%;
+      margin: 0 auto;
+      background: white;
+      box-shadow: 0 3px 14px rgb(0 0 0 / 35%);
+    }
+
+    .viewer-status {
+      position: absolute;
+      inset: 50% auto auto 50%;
+      margin: 0;
+      padding: .65rem .85rem;
+      border-radius: .45rem;
+      color: white;
+      background: rgb(25 27 28 / 88%);
+      transform: translate(-50%, -50%);
+    }
+
+    .viewer-status[hidden] { display: none; }
+    main.stacked .viewer { height: 80vh; }
 
     @media (max-width: 760px) {
       header { align-items: flex-start; flex-direction: column; }
       .layout-switcher { width: 100%; }
       .layout-switcher button { flex: 1; }
       main { grid-template-columns: minmax(0, 1fr); padding: .65rem; }
-      iframe { height: 72vh; min-height: 25rem; }
+      .viewer { height: 72vh; min-height: 25rem; padding: .5rem; }
     }
   </style>
 </head>
@@ -169,7 +192,10 @@
           <button class="next" type="button" aria-label="Następna strona dokumentu angielskiego">+</button>
         </div>
       </div>
-      <iframe title="Angielskie wydanie książki" loading="eager"></iframe>
+      <div class="viewer" role="region" aria-label="Angielskie wydanie książki">
+        <canvas aria-label="Bieżąca strona angielskiego wydania"></canvas>
+        <p class="viewer-status" role="status">Wczytywanie dokumentu…</p>
+      </div>
     </section>
 
     <section class="document" data-document="polish">
@@ -181,11 +207,18 @@
           <button class="next" type="button" aria-label="Następna strona dokumentu polskiego">+</button>
         </div>
       </div>
-      <iframe title="Polskie wydanie książki" loading="eager"></iframe>
+      <div class="viewer" role="region" aria-label="Polskie wydanie książki">
+        <canvas aria-label="Bieżąca strona polskiego wydania"></canvas>
+        <p class="viewer-status" role="status">Wczytywanie dokumentu…</p>
+      </div>
     </section>
   </main>
 
-  <script>
+  <script type="module">
+    import * as pdfjsLib from "./vendor/pdfjs/pdf.min.mjs";
+
+    pdfjsLib.GlobalWorkerOptions.workerSrc = "./vendor/pdfjs/pdf.worker.min.mjs";
+
     const repositoryRawUrl = "https://raw.githubusercontent.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/master/";
     const documents = {
       english: repositoryRawUrl + "God-Has-Preserved-His-Text-4th.pdf",
@@ -203,26 +236,82 @@
       catch (_) { /* Porównywarka działa również przy wyłączonym localStorage. */ }
     }
 
-    document.querySelectorAll(".document").forEach((panel) => {
+    document.querySelectorAll(".document").forEach(async (panel) => {
       const name = panel.dataset.document;
       const input = panel.querySelector(".page");
-      const frame = panel.querySelector("iframe");
+      const viewer = panel.querySelector(".viewer");
+      const canvas = panel.querySelector("canvas");
+      const status = panel.querySelector(".viewer-status");
+      const previous = panel.querySelector(".previous");
+      const next = panel.querySelector(".next");
+      let pdf;
+      let renderedPage = 1;
+      let renderTask;
+      let resizeTimer;
 
-      function showPage(value) {
-        const page = Math.max(1, Math.floor(Number(value) || 1));
-        input.value = page;
-        saveValue(name + ":page", String(page));
-        frame.src = documents[name] + "#page=" + page + "&view=FitH";
+      async function renderPage(pageNumber) {
+        if (!pdf) return;
+        if (renderTask) renderTask.cancel();
+
+        const page = await pdf.getPage(pageNumber);
+        const unscaledViewport = page.getViewport({ scale: 1 });
+        const availableWidth = Math.max(200, viewer.clientWidth - 32);
+        const cssScale = availableWidth / unscaledViewport.width;
+        const pixelRatio = window.devicePixelRatio || 1;
+        const viewport = page.getViewport({ scale: cssScale * pixelRatio });
+
+        canvas.width = Math.floor(viewport.width);
+        canvas.height = Math.floor(viewport.height);
+        canvas.style.width = Math.floor(viewport.width / pixelRatio) + "px";
+        canvas.style.height = Math.floor(viewport.height / pixelRatio) + "px";
+
+        renderTask = page.render({ canvasContext: canvas.getContext("2d"), viewport });
+        try {
+          await renderTask.promise;
+          renderedPage = pageNumber;
+          status.hidden = true;
+        } catch (error) {
+          if (error?.name !== "RenderingCancelledException") throw error;
+        } finally {
+          renderTask = null;
+        }
       }
 
-      panel.querySelector(".previous").addEventListener("click", () => showPage(Number(input.value) - 1));
-      panel.querySelector(".next").addEventListener("click", () => showPage(Number(input.value) + 1));
+      function showPage(value) {
+        const lastPage = pdf?.numPages || Number.MAX_SAFE_INTEGER;
+        const page = Math.min(lastPage, Math.max(1, Math.floor(Number(value) || 1)));
+        input.value = page;
+        saveValue(name + ":page", String(page));
+        previous.disabled = page === 1;
+        next.disabled = pdf ? page === pdf.numPages : false;
+        renderPage(page).catch(showError);
+      }
+
+      function showError(error) {
+        console.error(error);
+        status.hidden = false;
+        status.textContent = "Nie udało się wczytać PDF-u. Sprawdź połączenie z internetem i odśwież stronę.";
+      }
+
+      previous.addEventListener("click", () => showPage(Number(input.value) - 1));
+      next.addEventListener("click", () => showPage(Number(input.value) + 1));
       input.addEventListener("change", () => showPage(input.value));
       input.addEventListener("keydown", (event) => {
         if (event.key === "Enter") showPage(input.value);
       });
 
-      showPage(savedValue(name + ":page", "1"));
+      try {
+        pdf = await pdfjsLib.getDocument(documents[name]).promise;
+        input.max = pdf.numPages;
+        showPage(savedValue(name + ":page", "1"));
+
+        new ResizeObserver(() => {
+          clearTimeout(resizeTimer);
+          resizeTimer = setTimeout(() => renderPage(renderedPage).catch(showError), 150);
+        }).observe(viewer);
+      } catch (error) {
+        showError(error);
+      }
     });
 
     const main = document.querySelector("main");
