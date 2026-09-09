@@ -31,27 +31,6 @@
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
-    header {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 3rem;
-      padding: .25rem;
-      border-bottom: 1px solid var(--border);
-      background: var(--surface);
-      box-shadow: 0 2px 12px rgb(53 47 38 / 7%);
-    }
-
-    .layout-switcher {
-      display: flex;
-      flex: 0 0 auto;
-      gap: .35rem;
-      padding: .25rem;
-      border: 1px solid var(--border);
-      border-radius: .65rem;
-      background: var(--background);
-    }
-
     button, input { font: inherit; }
 
     button {
@@ -75,9 +54,11 @@
 
     main {
       display: grid;
-      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-rows: minmax(0, 1fr);
       gap: .4rem;
-      height: calc(100dvh - 3rem);
+      height: 100vh;
+      height: 100dvh;
       padding: .4rem;
     }
 
@@ -89,9 +70,11 @@
     .document {
       display: flex;
       flex-direction: column;
+      width: 100%;
+      height: 100%;
       min-width: 0;
       min-height: 0;
-      overflow: hidden;
+      overflow: visible;
       border: 1px solid var(--border);
       border-radius: .8rem;
       background: var(--surface);
@@ -158,10 +141,41 @@
     }
 
     .viewer-status[hidden] { display: none; }
+
+    .view-options { position: relative; }
+    .view-options > button { padding: .4rem; }
+    .view-menu {
+      position: absolute;
+      z-index: 10;
+      top: calc(100% + .3rem);
+      right: 0;
+      display: grid;
+      width: max-content;
+      min-width: 12rem;
+      gap: .2rem;
+      padding: .35rem;
+      border: 1px solid var(--border);
+      border-radius: .55rem;
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+    .view-menu[hidden] { display: none; }
+    .view-menu button { color: var(--text); background: transparent; text-align: left; }
+    .view-menu button:hover { background: rgb(49 91 75 / 10%); }
+
+    main.reversed .document:first-child { order: 2; }
+    main.reversed .document:last-child { order: 1; }
+
+    @media (max-width: 1200px) {
+      .page-controls label { font-size: 0; }
+      .page-controls input { width: 3.5rem; font-size: .85rem; }
+    }
+
     @media (max-width: 760px) {
-      .layout-switcher { width: 100%; }
-      .layout-switcher button { flex: 1; }
-      main { grid-template-columns: minmax(0, 1fr); }
+      main {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-rows: repeat(2, minmax(0, 1fr));
+      }
       h2 { font-size: .86rem; }
       .page-controls label { font-size: 0; }
       .page-controls input { width: 3.5rem; font-size: .85rem; }
@@ -169,13 +183,6 @@
   </style>
 </head>
 <body>
-  <header>
-    <div class="layout-switcher" role="group" aria-label="Układ dokumentów">
-      <button id="side-by-side" type="button" aria-pressed="true">Obok siebie</button>
-      <button id="top-and-bottom" type="button" aria-pressed="false">Jeden pod drugim</button>
-    </div>
-  </header>
-
   <main id="documents">
     <section class="document" data-document="english">
       <div class="document-header">
@@ -188,6 +195,16 @@
           <button class="zoom-in" type="button" aria-label="Powiększ dokument angielski" title="Powiększ">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6M10.5 7.5v6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
           </button>
+          <div class="view-options">
+            <button class="view-options-toggle" type="button" aria-label="Układ i kolejność dokumentów" aria-haspopup="true" aria-expanded="false" title="Układ i kolejność">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><rect x="2.5" y="4" width="7" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="14.5" y="8" width="7" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m10.5 5 2-2 2 2M13.5 19l-2 2-2-2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+            <div class="view-menu" hidden>
+              <button type="button" data-action="side-by-side">Ustaw obok siebie</button>
+              <button type="button" data-action="stacked">Ustaw jeden nad drugim</button>
+              <button type="button" data-action="swap">Zamień dokumenty miejscami</button>
+            </div>
+          </div>
           <button class="previous" type="button" aria-label="Poprzednia strona dokumentu angielskiego">−</button>
           <label>Strona <input class="page" type="number" min="1" step="1" inputmode="numeric" aria-label="Numer strony dokumentu angielskiego"></label>
           <button class="next" type="button" aria-label="Następna strona dokumentu angielskiego">+</button>
@@ -210,6 +227,16 @@
           <button class="zoom-in" type="button" aria-label="Powiększ dokument polski" title="Powiększ">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6M10.5 7.5v6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
           </button>
+          <div class="view-options">
+            <button class="view-options-toggle" type="button" aria-label="Układ i kolejność dokumentów" aria-haspopup="true" aria-expanded="false" title="Układ i kolejność">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><rect x="2.5" y="4" width="7" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="14.5" y="8" width="7" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m10.5 5 2-2 2 2M13.5 19l-2 2-2-2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+            <div class="view-menu" hidden>
+              <button type="button" data-action="side-by-side">Ustaw obok siebie</button>
+              <button type="button" data-action="stacked">Ustaw jeden nad drugim</button>
+              <button type="button" data-action="swap">Zamień dokumenty miejscami</button>
+            </div>
+          </div>
           <button class="previous" type="button" aria-label="Poprzednia strona dokumentu polskiego">−</button>
           <label>Strona <input class="page" type="number" min="1" step="1" inputmode="numeric" aria-label="Numer strony dokumentu polskiego"></label>
           <button class="next" type="button" aria-label="Następna strona dokumentu polskiego">+</button>
@@ -368,20 +395,52 @@
     });
 
     const main = document.querySelector("main");
-    const sideBySide = document.querySelector("#side-by-side");
-    const topAndBottom = document.querySelector("#top-and-bottom");
 
     function setLayout(layout) {
       const stacked = layout === "stacked";
       main.classList.toggle("stacked", stacked);
-      sideBySide.setAttribute("aria-pressed", String(!stacked));
-      topAndBottom.setAttribute("aria-pressed", String(stacked));
       saveValue("layout", stacked ? "stacked" : "side-by-side");
     }
 
-    sideBySide.addEventListener("click", () => setLayout("side-by-side"));
-    topAndBottom.addEventListener("click", () => setLayout("stacked"));
+    function closeMenus(except) {
+      document.querySelectorAll(".view-menu").forEach((menu) => {
+        if (menu === except) return;
+        menu.hidden = true;
+        menu.previousElementSibling.setAttribute("aria-expanded", "false");
+      });
+    }
+
+    document.querySelectorAll(".view-options-toggle").forEach((toggle) => {
+      toggle.addEventListener("click", (event) => {
+        event.stopPropagation();
+        const menu = toggle.nextElementSibling;
+        const willOpen = menu.hidden;
+        closeMenus(menu);
+        menu.hidden = !willOpen;
+        toggle.setAttribute("aria-expanded", String(willOpen));
+      });
+    });
+
+    document.querySelectorAll(".view-menu button").forEach((button) => {
+      button.addEventListener("click", () => {
+        if (button.dataset.action === "swap") {
+          const reversed = !main.classList.contains("reversed");
+          main.classList.toggle("reversed", reversed);
+          saveValue("order", reversed ? "reversed" : "normal");
+        } else {
+          setLayout(button.dataset.action);
+        }
+        closeMenus();
+      });
+    });
+
+    document.addEventListener("click", () => closeMenus());
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") closeMenus();
+    });
+
     setLayout(savedValue("layout", "side-by-side"));
+    main.classList.toggle("reversed", savedValue("order", "normal") === "reversed");
   </script>
 </body>
 </html>
