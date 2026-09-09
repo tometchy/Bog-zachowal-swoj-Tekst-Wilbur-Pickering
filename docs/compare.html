@@ -295,6 +295,31 @@
         zoomIn.disabled = zoom >= 3;
       }
 
+      function saveScrollPosition() {
+        const maxLeft = Math.max(0, viewer.scrollWidth - viewer.clientWidth);
+        const maxTop = Math.max(0, viewer.scrollHeight - viewer.clientHeight);
+        saveValue(name + ":scroll-left", String(viewer.scrollLeft));
+        saveValue(name + ":scroll-top", String(viewer.scrollTop));
+        saveValue(name + ":scroll-max-left", String(maxLeft));
+        saveValue(name + ":scroll-max-top", String(maxTop));
+        saveValue(name + ":scroll-left-ratio", String(maxLeft ? viewer.scrollLeft / maxLeft : 0));
+        saveValue(name + ":scroll-top-ratio", String(maxTop ? viewer.scrollTop / maxTop : 0));
+      }
+
+      function restoreScrollPosition() {
+        const maxLeft = Math.max(0, viewer.scrollWidth - viewer.clientWidth);
+        const maxTop = Math.max(0, viewer.scrollHeight - viewer.clientHeight);
+        const savedLeft = Number(savedValue(name + ":scroll-left", "0")) || 0;
+        const savedTop = Number(savedValue(name + ":scroll-top", "0")) || 0;
+        const savedMaxLeft = Number(savedValue(name + ":scroll-max-left", "0")) || 0;
+        const savedMaxTop = Number(savedValue(name + ":scroll-max-top", "0")) || 0;
+        const leftRatio = Number(savedValue(name + ":scroll-left-ratio", "0")) || 0;
+        const topRatio = Number(savedValue(name + ":scroll-top-ratio", "0")) || 0;
+
+        viewer.scrollLeft = Math.min(maxLeft, savedMaxLeft === maxLeft ? savedLeft : maxLeft * leftRatio);
+        viewer.scrollTop = Math.min(maxTop, savedMaxTop === maxTop ? savedTop : maxTop * topRatio);
+      }
+
       async function renderPage(pageNumber, restoreSavedScroll = false) {
         if (!pdf) return;
         if (renderTask) renderTask.cancel();
@@ -322,10 +347,8 @@
           renderedPage = pageNumber;
           status.hidden = true;
           if (restoreSavedScroll) {
-            requestAnimationFrame(() => {
-              viewer.scrollLeft = Number(savedValue(name + ":scroll-left", "0")) || 0;
-              viewer.scrollTop = Number(savedValue(name + ":scroll-top", "0")) || 0;
-            });
+            requestAnimationFrame(restoreScrollPosition);
+            setTimeout(restoreScrollPosition, 250);
           }
         } catch (error) {
           if (error?.name !== "RenderingCancelledException") throw error;
@@ -340,8 +363,7 @@
         if (!restoreSavedScroll && page !== Number(input.value)) {
           viewer.scrollLeft = 0;
           viewer.scrollTop = 0;
-          saveValue(name + ":scroll-left", "0");
-          saveValue(name + ":scroll-top", "0");
+          saveScrollPosition();
         }
         input.value = page;
         saveValue(name + ":page", String(page));
@@ -366,11 +388,12 @@
       });
       viewer.addEventListener("scroll", () => {
         clearTimeout(scrollTimer);
-        scrollTimer = setTimeout(() => {
-          saveValue(name + ":scroll-left", String(viewer.scrollLeft));
-          saveValue(name + ":scroll-top", String(viewer.scrollTop));
-        }, 100);
+        scrollTimer = setTimeout(saveScrollPosition, 50);
       }, { passive: true });
+      window.addEventListener("pagehide", saveScrollPosition);
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "hidden") saveScrollPosition();
+      });
 
       function setZoom(value) {
         zoom = Math.min(3, Math.max(.5, Math.round(value * 10) / 10));
@@ -387,7 +410,7 @@
 
         new ResizeObserver(() => {
           clearTimeout(resizeTimer);
-          resizeTimer = setTimeout(() => renderPage(renderedPage).catch(showError), 150);
+          resizeTimer = setTimeout(() => renderPage(renderedPage, true).catch(showError), 150);
         }).observe(viewer);
       } catch (error) {
         showError(error);
