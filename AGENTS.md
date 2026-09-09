@@ -155,3 +155,11 @@ Oryginał to plik pdf ten - https://github.com/tometchy/Bog-zachowal-swoj-Tekst-
 Przeanalizuj dobrze obecną sturkturę, żeby kontynuacja była dokładnie według tej samej struktury, tak jakbym to ja dalej robił, najlepiej też stosowane przez mnie odpowiedniki tłumaczeń też dalej konsekwentnie stosuj.
 
 UWAGA! Już jest całość wstępnie przetłumaczona, teraz robię review i poprawki.
+
+## Kończenie pracy
+
+Po każdej zmianie w repozytorium utwórz pull request i zakończ odpowiedź bezpośrednim,
+klikalnym linkiem do niego. Przed podaniem linku zweryfikuj za pomocą GitHub CLI lub
+API, że pull request rzeczywiście istnieje, jest otwarty i prowadzi do właściwego
+repozytorium oraz gałęzi. Nie traktuj samego przygotowania tytułu i opisu PR-a jako
+jego utworzenia.
