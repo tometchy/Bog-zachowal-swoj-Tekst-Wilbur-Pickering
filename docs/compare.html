@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Porównanie wydania angielskiego i polskiego</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --background: #f4f1ea;
+      --surface: #fffdf8;
+      --text: #24221f;
+      --muted: #6c665d;
+      --border: #d6d0c5;
+      --accent: #315b4b;
+      --accent-hover: #244538;
+      --shadow: 0 8px 24px rgb(53 47 38 / 10%);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      min-height: 100vh;
+      color: var(--text);
+      background: var(--background);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: .8rem clamp(.75rem, 2vw, 1.5rem);
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+      box-shadow: 0 2px 12px rgb(53 47 38 / 7%);
+    }
+
+    h1 {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(1.1rem, 2vw, 1.45rem);
+      line-height: 1.2;
+    }
+
+    .subtitle {
+      margin: .2rem 0 0;
+      color: var(--muted);
+      font-size: .82rem;
+    }
+
+    .layout-switcher {
+      display: flex;
+      flex: 0 0 auto;
+      gap: .35rem;
+      padding: .25rem;
+      border: 1px solid var(--border);
+      border-radius: .65rem;
+      background: var(--background);
+    }
+
+    button, input { font: inherit; }
+
+    button {
+      min-height: 2.3rem;
+      padding: .45rem .7rem;
+      border: 1px solid transparent;
+      border-radius: .45rem;
+      color: var(--text);
+      background: transparent;
+      cursor: pointer;
+    }
+
+    button:hover { background: rgb(49 91 75 / 10%); }
+    button[aria-pressed="true"], .page-controls button {
+      color: white;
+      background: var(--accent);
+    }
+    button[aria-pressed="true"]:hover, .page-controls button:hover { background: var(--accent-hover); }
+    button:focus-visible, input:focus-visible { outline: 3px solid rgb(49 91 75 / 35%); outline-offset: 2px; }
+
+    main {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 1rem;
+      padding: 1rem;
+    }
+
+    main.stacked { grid-template-columns: minmax(0, 1fr); }
+
+    .document {
+      min-width: 0;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: .8rem;
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+
+    .document-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: .65rem;
+      padding: .7rem .8rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h2 { margin: 0; font-size: 1rem; }
+
+    .page-controls { display: flex; align-items: center; gap: .35rem; }
+    .page-controls button { min-width: 2.3rem; padding-inline: .55rem; font-weight: 700; }
+    .page-controls label { color: var(--muted); font-size: .85rem; }
+    .page-controls input {
+      width: 4.25rem;
+      height: 2.3rem;
+      padding: .35rem;
+      border: 1px solid var(--border);
+      border-radius: .4rem;
+      color: var(--text);
+      background: var(--surface);
+      text-align: center;
+    }
+
+    iframe {
+      display: block;
+      width: 100%;
+      height: calc(100vh - 9.2rem);
+      min-height: 32rem;
+      border: 0;
+      background: #525659;
+    }
+
+    main.stacked iframe { height: 80vh; }
+
+    @media (max-width: 760px) {
+      header { align-items: flex-start; flex-direction: column; }
+      .layout-switcher { width: 100%; }
+      .layout-switcher button { flex: 1; }
+      main { grid-template-columns: minmax(0, 1fr); padding: .65rem; }
+      iframe { height: 72vh; min-height: 25rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Porównanie tekstów</h1>
+      <p class="subtitle">Numery stron i układ są zapamiętywane w tej przeglądarce.</p>
+    </div>
+    <div class="layout-switcher" role="group" aria-label="Układ dokumentów">
+      <button id="side-by-side" type="button" aria-pressed="true">Obok siebie</button>
+      <button id="top-and-bottom" type="button" aria-pressed="false">Jeden pod drugim</button>
+    </div>
+  </header>
+
+  <main id="documents">
+    <section class="document" data-document="english">
+      <div class="document-header">
+        <h2>Oryginał angielski</h2>
+        <div class="page-controls">
+          <button class="previous" type="button" aria-label="Poprzednia strona dokumentu angielskiego">−</button>
+          <label>Strona <input class="page" type="number" min="1" step="1" inputmode="numeric" aria-label="Numer strony dokumentu angielskiego"></label>
+          <button class="next" type="button" aria-label="Następna strona dokumentu angielskiego">+</button>
+        </div>
+      </div>
+      <iframe title="Angielskie wydanie książki" loading="eager"></iframe>
+    </section>
+
+    <section class="document" data-document="polish">
+      <div class="document-header">
+        <h2>Tłumaczenie polskie</h2>
+        <div class="page-controls">
+          <button class="previous" type="button" aria-label="Poprzednia strona dokumentu polskiego">−</button>
+          <label>Strona <input class="page" type="number" min="1" step="1" inputmode="numeric" aria-label="Numer strony dokumentu polskiego"></label>
+          <button class="next" type="button" aria-label="Następna strona dokumentu polskiego">+</button>
+        </div>
+      </div>
+      <iframe title="Polskie wydanie książki" loading="eager"></iframe>
+    </section>
+  </main>
+
+  <script>
+    const repositoryRawUrl = "https://raw.githubusercontent.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/master/";
+    const documents = {
+      english: repositoryRawUrl + "God-Has-Preserved-His-Text-4th.pdf",
+      polish: repositoryRawUrl + "build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf"
+    };
+    const storagePrefix = "pdf-comparison:";
+
+    function savedValue(key, fallback) {
+      try { return localStorage.getItem(storagePrefix + key) || fallback; }
+      catch (_) { return fallback; }
+    }
+
+    function saveValue(key, value) {
+      try { localStorage.setItem(storagePrefix + key, value); }
+      catch (_) { /* Porównywarka działa również przy wyłączonym localStorage. */ }
+    }
+
+    document.querySelectorAll(".document").forEach((panel) => {
+      const name = panel.dataset.document;
+      const input = panel.querySelector(".page");
+      const frame = panel.querySelector("iframe");
+
+      function showPage(value) {
+        const page = Math.max(1, Math.floor(Number(value) || 1));
+        input.value = page;
+        saveValue(name + ":page", String(page));
+        frame.src = documents[name] + "#page=" + page + "&view=FitH";
+      }
+
+      panel.querySelector(".previous").addEventListener("click", () => showPage(Number(input.value) - 1));
+      panel.querySelector(".next").addEventListener("click", () => showPage(Number(input.value) + 1));
+      input.addEventListener("change", () => showPage(input.value));
+      input.addEventListener("keydown", (event) => {
+        if (event.key === "Enter") showPage(input.value);
+      });
+
+      showPage(savedValue(name + ":page", "1"));
+    });
+
+    const main = document.querySelector("main");
+    const sideBySide = document.querySelector("#side-by-side");
+    const topAndBottom = document.querySelector("#top-and-bottom");
+
+    function setLayout(layout) {
+      const stacked = layout === "stacked";
+      main.classList.toggle("stacked", stacked);
+      sideBySide.setAttribute("aria-pressed", String(!stacked));
+      topAndBottom.setAttribute("aria-pressed", String(stacked));
+      saveValue("layout", stacked ? "stacked" : "side-by-side");
+    }
+
+    sideBySide.addEventListener("click", () => setLayout("side-by-side"));
+    topAndBottom.addEventListener("click", () => setLayout("stacked"));
+    setLayout(savedValue("layout", "side-by-side"));
+  </script>
+</body>
+</html>
