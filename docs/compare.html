@@ -283,8 +283,8 @@
       const zoomIn = panel.querySelector(".zoom-in");
       const zoomLevel = panel.querySelector(".zoom-level");
       let pdf;
-      let renderedPage = 1;
       let renderTask;
+      let renderGeneration = 0;
       let resizeTimer;
       let scrollTimer;
       let zoom = Math.min(3, Math.max(.5, Number(savedValue(name + ":zoom", "1")) || 1));
@@ -322,9 +322,11 @@
 
       async function renderPage(pageNumber, restoreSavedScroll = false) {
         if (!pdf) return;
+        const generation = ++renderGeneration;
         if (renderTask) renderTask.cancel();
 
         const page = await pdf.getPage(pageNumber);
+        if (generation !== renderGeneration) return;
         const unscaledViewport = page.getViewport({ scale: 1 });
         const availableWidth = Math.max(200, viewer.clientWidth - 12);
         const availableHeight = Math.max(200, viewer.clientHeight - 12);
@@ -341,10 +343,12 @@
         canvas.style.width = Math.floor(viewport.width / pixelRatio) + "px";
         canvas.style.height = Math.floor(viewport.height / pixelRatio) + "px";
 
-        renderTask = page.render({ canvasContext: canvas.getContext("2d"), viewport });
+        const task = page.render({ canvasContext: canvas.getContext("2d"), viewport });
+        renderTask = task;
         try {
-          await renderTask.promise;
-          renderedPage = pageNumber;
+          await task.promise;
+          if (generation !== renderGeneration) return;
+          canvas.dataset.page = String(pageNumber);
           status.hidden = true;
           if (restoreSavedScroll) {
             requestAnimationFrame(restoreScrollPosition);
@@ -353,7 +357,7 @@
         } catch (error) {
           if (error?.name !== "RenderingCancelledException") throw error;
         } finally {
-          renderTask = null;
+          if (renderTask === task) renderTask = null;
         }
       }
 
@@ -410,7 +414,7 @@
 
         new ResizeObserver(() => {
           clearTimeout(resizeTimer);
-          resizeTimer = setTimeout(() => renderPage(renderedPage, true).catch(showError), 150);
+          resizeTimer = setTimeout(() => renderPage(Number(input.value), true).catch(showError), 150);
         }).observe(viewer);
       } catch (error) {
         showError(error);
