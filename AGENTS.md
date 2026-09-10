@@ -143,6 +143,11 @@ Nie zmieniaj samowolnie znaczenia tekstu.
 
 15. Preferuj przecinki, jeśli to możliwe, nawet gdzie Pickering stosuje średniki.
 
+16. Fragmentów Biblii cytowanych przez Pickeringa nie przepisuj z żadnego istniejącego
+przekładu Biblii. Tłumacz je samodzielnie i wiernie z tekstu przytoczonego przez
+Pickeringa, zachowując zastosowaną przez niego wielkość liter, w tym wielkie i małe
+litery w nazwach, tytułach oraz zaimkach.
+
 
 **Ten prompt jest celowo dość restrykcyjny**, żeby nowy chat nie zaczął po kilku wiadomościach „ulepszać” terminologii po swojemu. Np. gdy są punkty o `Text`, `reading`, `cursive/minuscule`, `evidence` i surowym Markdownie.
 
