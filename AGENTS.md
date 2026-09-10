@@ -159,6 +159,31 @@ Przeanalizuj dobrze obecną sturkturę, żeby kontynuacja była dokładnie wed�
 Już jest całość wstępnie przetłumaczona, teraz robię review i poprawki.
 Będę wrzucał instrukcje do dalszych poprawek albo tekstem albo screenshotem na którym ręcznie zaznaczę co ma być zmienione i jak, po przeanalizowaniu napisanej przeze mnie instrukcji popraw odpowiedni pandocowy markdown file a następnie przegeneruj pliki i zmienione także zawrzyj w PR.
 
+## Generowanie PDF
+Po każdej zmianie treści książki, przed utworzeniem pull requesta, obowiązkowo uruchom:
+
+```bash
+make pdf
+```
+
+PDF musi zostać poprawnie wygenerowany jako:
+
+build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf
+
+Nie kończ zadania i nie twórz PR-a, jeśli make pdf zakończy się błędem.
+Najpierw ustal przyczynę błędu i ją napraw.
+
+Po wygenerowaniu PDF sprawdź:
+
+test -s build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf
+git status --short
+
+Jeżeli wygenerowany PDF uległ zmianie, uwzględnij go w tym samym commicie i pull requeście
+co odpowiadająca mu zmiana Markdownu.
+
+Nie używaj generate.sh ani Podmana tylko do generowania PDF w środowisku Codex.
+Środowisko Codex ma bezpośrednio zainstalowane wymagane zależności i należy używać make pdf.
+
 ## Kończenie pracy
 
 Po każdej zmianie w repozytorium utwórz pull request i zakończ odpowiedź bezpośrednim,
