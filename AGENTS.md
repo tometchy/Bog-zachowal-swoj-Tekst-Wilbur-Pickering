@@ -154,7 +154,10 @@ Oryginał to plik pdf ten - https://github.com/tometchy/Bog-zachowal-swoj-Tekst-
 
 Przeanalizuj dobrze obecną sturkturę, żeby kontynuacja była dokładnie według tej samej struktury, tak jakbym to ja dalej robił, najlepiej też stosowane przez mnie odpowiedniki tłumaczeń też dalej konsekwentnie stosuj.
 
-UWAGA! Już jest całość wstępnie przetłumaczona, teraz robię review i poprawki.
+## UWAGA!
+
+Już jest całość wstępnie przetłumaczona, teraz robię review i poprawki.
+Będę wrzucał instrukcje do dalszych poprawek albo tekstem albo screenshotem na którym ręcznie zaznaczę co ma być zmienione i jak, po przeanalizowaniu napisanej przeze mnie instrukcji popraw odpowiedni pandocowy markdown file a następnie przegeneruj pliki i zmienione także zawrzyj w PR.
 
 ## Kończenie pracy
 
