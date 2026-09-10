@@ -74,7 +74,7 @@
       height: 100%;
       min-width: 0;
       min-height: 0;
-      overflow: visible;
+      overflow: hidden;
       border: 1px solid var(--border);
       border-radius: .8rem;
       background: var(--surface);
@@ -83,6 +83,8 @@
 
     .document-header {
       display: flex;
+      position: relative;
+      z-index: 2;
       align-items: center;
       justify-content: space-between;
       flex: 0 0 2.9rem;
@@ -112,7 +114,8 @@
     .viewer {
       display: block;
       position: relative;
-      flex: 1 1 auto;
+      flex: 1 1 0;
+      height: 0;
       width: 100%;
       min-height: 0;
       overflow: auto;
@@ -168,21 +171,33 @@
 
     @media (max-width: 1200px) {
       .document-header {
-        flex-basis: 2.55rem;
-        gap: .2rem;
-        padding: .15rem .35rem;
+        flex-basis: 1.4rem;
+        min-height: 0;
+        gap: .1rem;
+        padding: .08rem .2rem;
       }
-      h2 { font-size: .88rem; white-space: nowrap; }
-      .page-controls { gap: .15rem; }
+      h2 { font-size: .68rem; line-height: 1; white-space: nowrap; }
+      .page-controls { gap: .08rem; }
       .page-controls button {
-        min-width: 2.2rem;
-        min-height: 2.2rem;
-        padding: .3rem;
+        min-width: 1.2rem;
+        min-height: 1.2rem;
+        height: 1.2rem;
+        padding: .12rem;
+        border-radius: .25rem;
+        font-size: .62rem;
+        line-height: 1;
       }
-      .page-controls svg { width: 1.1rem; height: 1.1rem; }
-      .zoom-level { min-width: 2.8rem; font-size: .72rem; }
+      .page-controls svg { width: .72rem; height: .72rem; }
+      .zoom-level { min-width: 2rem; font-size: .58rem; }
       .page-controls label { font-size: 0; }
-      .page-controls input { width: 3.1rem; height: 2.2rem; font-size: .8rem; }
+      .page-controls input {
+        width: 2.25rem;
+        height: 1.2rem;
+        padding: .05rem;
+        border-radius: .25rem;
+        font-size: .62rem;
+      }
+      .viewer { padding: .15rem; }
     }
 
     @media (max-width: 760px) {
@@ -190,12 +205,7 @@
         grid-template-columns: minmax(0, 1fr);
         grid-template-rows: repeat(2, minmax(0, 1fr));
       }
-      .document-header { flex-basis: 2.35rem; padding-inline: .3rem; }
-      h2 { font-size: .8rem; }
-      .page-controls button { min-width: 2.05rem; min-height: 2.05rem; }
-      .page-controls svg { width: 1rem; height: 1rem; }
-      .zoom-level { min-width: 2.55rem; font-size: .68rem; }
-      .page-controls input { width: 2.8rem; height: 2.05rem; font-size: .78rem; }
+      h2 { font-size: .64rem; }
     }
   </style>
 </head>
