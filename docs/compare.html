@@ -222,6 +222,9 @@
           <button class="zoom-in" type="button" aria-label="Powiększ dokument angielski" title="Powiększ">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6M10.5 7.5v6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
           </button>
+          <button class="refresh" type="button" aria-label="Odśwież dokument angielski" title="Odśwież PDF">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M20 6v5h-5M4 18v-5h5M18.5 9a7 7 0 0 0-11.7-2.6L4 9m16 6-2.8 2.6A7 7 0 0 1 5.5 15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
           <div class="view-options">
             <button class="view-options-toggle" type="button" aria-label="Układ i kolejność dokumentów" aria-haspopup="true" aria-expanded="false" title="Układ i kolejność">
               <svg aria-hidden="true" viewBox="0 0 24 24"><rect x="2.5" y="4" width="7" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="14.5" y="8" width="7" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m10.5 5 2-2 2 2M13.5 19l-2 2-2-2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -253,6 +256,9 @@
           <span class="zoom-level" aria-live="polite">100%</span>
           <button class="zoom-in" type="button" aria-label="Powiększ dokument polski" title="Powiększ">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6M10.5 7.5v6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          </button>
+          <button class="refresh" type="button" aria-label="Odśwież dokument polski" title="Odśwież PDF">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M20 6v5h-5M4 18v-5h5M18.5 9a7 7 0 0 0-11.7-2.6L4 9m16 6-2.8 2.6A7 7 0 0 1 5.5 15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </button>
           <div class="view-options">
             <button class="view-options-toggle" type="button" aria-label="Układ i kolejność dokumentów" aria-haspopup="true" aria-expanded="false" title="Układ i kolejność">
@@ -308,8 +314,10 @@
       const next = panel.querySelector(".next");
       const zoomOut = panel.querySelector(".zoom-out");
       const zoomIn = panel.querySelector(".zoom-in");
+      const refresh = panel.querySelector(".refresh");
       const zoomLevel = panel.querySelector(".zoom-level");
       let pdf;
+      let loadGeneration = 0;
       let renderTask;
       let renderGeneration = 0;
       let resizeTimer;
@@ -413,6 +421,7 @@
       next.addEventListener("click", () => showPage(Number(input.value) + 1));
       zoomOut.addEventListener("click", () => setZoom(zoom - .1));
       zoomIn.addEventListener("click", () => setZoom(zoom + .1));
+      refresh.addEventListener("click", () => loadPdf(true));
       input.addEventListener("change", () => showPage(input.value));
       input.addEventListener("keydown", (event) => {
         if (event.key === "Enter") showPage(input.value);
@@ -433,19 +442,45 @@
         renderPage(Number(input.value)).catch(showError);
       }
 
-      try {
-        pdf = await pdfjsLib.getDocument(documents[name]).promise;
-        input.max = pdf.numPages;
-        updateZoomControls();
-        showPage(savedValue(name + ":page", "1"), true);
+      async function loadPdf(forceRefresh = false) {
+        const generation = ++loadGeneration;
+        const currentPage = input.value || savedValue(name + ":page", "1");
+        refresh.disabled = true;
+        status.hidden = false;
+        status.textContent = forceRefresh ? "Odświeżanie dokumentu…" : "Wczytywanie dokumentu…";
 
-        new ResizeObserver(() => {
-          clearTimeout(resizeTimer);
-          resizeTimer = setTimeout(() => renderPage(Number(input.value), true).catch(showError), 150);
-        }).observe(viewer);
-      } catch (error) {
-        showError(error);
+        try {
+          if (renderTask) {
+            renderTask.cancel();
+            renderTask = null;
+          }
+          if (pdf) {
+            await pdf.destroy();
+            pdf = undefined;
+          }
+          const cacheBuster = forceRefresh ? (documents[name].includes("?") ? "&" : "?") + "refresh=" + Date.now() : "";
+          const loadedPdf = await pdfjsLib.getDocument(documents[name] + cacheBuster).promise;
+          if (generation !== loadGeneration) {
+            await loadedPdf.destroy();
+            return;
+          }
+          pdf = loadedPdf;
+          input.max = pdf.numPages;
+          updateZoomControls();
+          showPage(currentPage, true);
+        } catch (error) {
+          if (generation === loadGeneration) showError(error);
+        } finally {
+          if (generation === loadGeneration) refresh.disabled = false;
+        }
       }
+
+      new ResizeObserver(() => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => renderPage(Number(input.value), true).catch(showError), 150);
+      }).observe(viewer);
+
+      await loadPdf();
     });
 
     const main = document.querySelector("main");
