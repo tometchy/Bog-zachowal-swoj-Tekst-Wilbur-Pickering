@@ -10,8 +10,9 @@ mainlang: polish
 otherlang: polish
 tags: [pandoc, book]
 mainfont: DejaVu Sans
+mainfontoptions:
+  - AutoFakeSlant=0.2
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true
 ---
-
