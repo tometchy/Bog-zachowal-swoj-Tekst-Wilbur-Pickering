@@ -99,6 +99,7 @@
     .page-controls button { padding: .4rem; font-weight: 700; }
     .page-controls svg { display: block; width: 1.25rem; height: 1.25rem; }
     .zoom-level { min-width: 3.3rem; color: var(--muted); font-size: .78rem; text-align: center; }
+    .reading-progress { min-width: 3.3rem; color: var(--muted); font-size: .78rem; text-align: center; }
     .page-controls label { color: var(--muted); font-size: .85rem; }
     .page-controls input {
       width: 4.25rem;
@@ -189,6 +190,7 @@
       }
       .page-controls svg { width: .72rem; height: .72rem; }
       .zoom-level { min-width: 2rem; font-size: .58rem; }
+      .reading-progress { min-width: 2rem; font-size: .58rem; }
       .page-controls label { font-size: 0; }
       .page-controls input {
         width: 2.25rem;
@@ -238,6 +240,7 @@
           <button class="previous" type="button" aria-label="Poprzednia strona dokumentu angielskiego">−</button>
           <label>Strona <input class="page" type="number" min="1" step="1" inputmode="numeric" aria-label="Numer strony dokumentu angielskiego"></label>
           <button class="next" type="button" aria-label="Następna strona dokumentu angielskiego">+</button>
+          <span class="reading-progress" aria-live="polite" title="Przeczytano">0%</span>
         </div>
       </div>
       <div class="viewer" role="region" aria-label="Angielskie wydanie książki">
@@ -273,6 +276,7 @@
           <button class="previous" type="button" aria-label="Poprzednia strona dokumentu polskiego">−</button>
           <label>Strona <input class="page" type="number" min="1" step="1" inputmode="numeric" aria-label="Numer strony dokumentu polskiego"></label>
           <button class="next" type="button" aria-label="Następna strona dokumentu polskiego">+</button>
+          <span class="reading-progress" aria-live="polite" title="Przeczytano">0%</span>
         </div>
       </div>
       <div class="viewer" role="region" aria-label="Polskie wydanie książki">
@@ -316,6 +320,7 @@
       const zoomIn = panel.querySelector(".zoom-in");
       const refresh = panel.querySelector(".refresh");
       const zoomLevel = panel.querySelector(".zoom-level");
+      const readingProgress = panel.querySelector(".reading-progress");
       let pdf;
       let loadGeneration = 0;
       let renderTask;
@@ -408,6 +413,11 @@
         saveValue(name + ":page", String(page));
         previous.disabled = page === 1;
         next.disabled = pdf ? page === pdf.numPages : false;
+        if (pdf) {
+          const percentage = Math.round(page / pdf.numPages * 100);
+          readingProgress.textContent = percentage + "%";
+          readingProgress.setAttribute("aria-label", "Przeczytano " + percentage + "% dokumentu");
+        }
         renderPage(page, restoreSavedScroll).catch(showError);
       }
 
