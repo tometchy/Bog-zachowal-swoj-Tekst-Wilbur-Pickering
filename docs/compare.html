@@ -127,6 +127,28 @@
     .highlight-tool[data-tool="dark"] .color-swatch { fill: rgb(244 174 0 / 82%); stroke: rgb(139 91 0 / 70%); }
     .highlight-tool[data-tool="eraser"] svg { color: var(--muted); }
     .highlight-tool[aria-pressed="true"] { box-shadow: inset 0 0 0 2px white; }
+    .intensity-settings { position: relative; }
+    .intensity-toggle svg { color: #d6a900; }
+    .intensity-menu {
+      position: absolute;
+      z-index: 10;
+      top: calc(100% + .35rem);
+      left: 50%;
+      display: flex;
+      align-items: center;
+      width: max-content;
+      gap: .5rem;
+      padding: .55rem .65rem;
+      border: 1px solid var(--border);
+      border-radius: .55rem;
+      color: var(--text);
+      background: var(--surface);
+      box-shadow: var(--shadow);
+      transform: translateX(-50%);
+    }
+    .intensity-menu[hidden] { display: none; }
+    .intensity-menu span { color: var(--muted); font-size: .75rem; }
+    .intensity-menu input { width: 8rem; accent-color: #d6a900; }
 
     .viewer {
       display: block;
@@ -268,6 +290,10 @@
             <button class="highlight-tool" data-tool="light" type="button" aria-label="Jasny zakreślacz dokumentu angielskiego" aria-pressed="false" title="Jasny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="dark" type="button" aria-label="Ciemny zakreślacz dokumentu angielskiego" aria-pressed="false" title="Ciemny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="eraser" type="button" aria-label="Gumka dokumentu angielskiego" aria-pressed="false" title="Gumka"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m4 14.5 8.8-8.8a2 2 0 0 1 2.8 0l2.7 2.7a2 2 0 0 1 0 2.8L10.5 19H7.8L4 15.2a.5.5 0 0 1 0-.7Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 9.5 5.5 5.5M10.5 19H20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+            <div class="intensity-settings">
+              <button class="highlight-tool intensity-toggle" type="button" aria-label="Ustaw intensywność zakreślaczy" aria-haspopup="true" aria-expanded="false" title="Intensywność zakreślaczy"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6 7 7M17 17l1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="currentColor"/></svg></button>
+              <div class="intensity-menu" hidden><span>Jaśniej</span><input class="highlight-intensity" type="range" min="20" max="100" step="5" aria-label="Intensywność koloru zakreślaczy"><span>Ciemniej</span></div>
+            </div>
           </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument angielski" title="Pomniejsz">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -312,6 +338,10 @@
             <button class="highlight-tool" data-tool="light" type="button" aria-label="Jasny zakreślacz dokumentu polskiego" aria-pressed="false" title="Jasny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="dark" type="button" aria-label="Ciemny zakreślacz dokumentu polskiego" aria-pressed="false" title="Ciemny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="eraser" type="button" aria-label="Gumka dokumentu polskiego" aria-pressed="false" title="Gumka"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m4 14.5 8.8-8.8a2 2 0 0 1 2.8 0l2.7 2.7a2 2 0 0 1 0 2.8L10.5 19H7.8L4 15.2a.5.5 0 0 1 0-.7Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 9.5 5.5 5.5M10.5 19H20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+            <div class="intensity-settings">
+              <button class="highlight-tool intensity-toggle" type="button" aria-label="Ustaw intensywność zakreślaczy" aria-haspopup="true" aria-expanded="false" title="Intensywność zakreślaczy"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6 7 7M17 17l1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="currentColor"/></svg></button>
+              <div class="intensity-menu" hidden><span>Jaśniej</span><input class="highlight-intensity" type="range" min="20" max="100" step="5" aria-label="Intensywność koloru zakreślaczy"><span>Ciemniej</span></div>
+            </div>
           </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument polski" title="Pomniejsz">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -371,13 +401,41 @@
       catch (_) { /* Porównywarka działa również przy wyłączonym localStorage. */ }
     }
 
+    let highlightIntensity = Math.min(100, Math.max(20, Number(savedValue("highlight-intensity", "65")) || 65));
+
+    function setHighlightIntensity(value) {
+      highlightIntensity = Math.min(100, Math.max(20, Number(value) || 65));
+      saveValue("highlight-intensity", String(highlightIntensity));
+      document.querySelectorAll(".highlight-intensity").forEach((input) => {
+        input.value = String(highlightIntensity);
+      });
+      document.dispatchEvent(new CustomEvent("highlight-intensity-change"));
+    }
+
+    document.querySelectorAll(".highlight-intensity").forEach((input) => {
+      input.value = String(highlightIntensity);
+      input.addEventListener("input", () => setHighlightIntensity(input.value));
+      input.addEventListener("click", (event) => event.stopPropagation());
+    });
+
+    document.querySelectorAll(".intensity-toggle").forEach((toggle) => {
+      toggle.addEventListener("click", (event) => {
+        event.stopPropagation();
+        const menu = toggle.nextElementSibling;
+        const willOpen = menu.hidden;
+        closeMenus(menu);
+        menu.hidden = !willOpen;
+        toggle.setAttribute("aria-expanded", String(willOpen));
+      });
+    });
+
     document.querySelectorAll(".document").forEach(async (panel) => {
       const name = panel.dataset.document;
       const input = panel.querySelector(".page");
       const viewer = panel.querySelector(".viewer");
       const canvas = panel.querySelector(".pdf-layer");
       const highlightLayer = panel.querySelector(".highlight-layer");
-      const highlightButtons = panel.querySelectorAll(".highlight-tool");
+      const highlightButtons = panel.querySelectorAll(".highlight-tool[data-tool]");
       const status = panel.querySelector(".viewer-status");
       const previous = panel.querySelector(".previous");
       const next = panel.querySelector(".next");
@@ -425,8 +483,9 @@
         highlights.forEach((stroke) => {
           if (!Array.isArray(stroke.points) || !stroke.points.length) return;
           context.beginPath();
-          context.strokeStyle = stroke.tool === "dark" ? "rgba(244, 174, 0, .62)" : "rgba(255, 225, 70, .38)";
-          context.lineWidth = Math.max(1, width * .016);
+          const opacity = highlightIntensity / 100 * (stroke.tool === "dark" ? .9 : .58);
+          context.strokeStyle = stroke.tool === "dark" ? `rgba(244, 174, 0, ${opacity})` : `rgba(255, 225, 70, ${opacity})`;
+          context.lineWidth = Math.max(1, width * .013);
           stroke.points.forEach((point, index) => {
             const x = point[0] * width;
             const y = point[1] * height;
@@ -529,6 +588,7 @@
 
       highlightLayer.addEventListener("pointerup", finishHighlight);
       highlightLayer.addEventListener("pointercancel", finishHighlight);
+      document.addEventListener("highlight-intensity-change", () => drawHighlights());
 
       function updateZoomControls() {
         zoomLevel.textContent = Math.round(zoom * 100) + "%";
@@ -709,7 +769,7 @@
     }
 
     function closeMenus(except) {
-      document.querySelectorAll(".view-menu").forEach((menu) => {
+      document.querySelectorAll(".view-menu, .intensity-menu").forEach((menu) => {
         if (menu === except) return;
         menu.hidden = true;
         menu.previousElementSibling.setAttribute("aria-expanded", "false");
