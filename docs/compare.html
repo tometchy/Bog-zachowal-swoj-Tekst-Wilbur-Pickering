@@ -112,6 +112,28 @@
       text-align: center;
     }
 
+    .highlight-controls { display: flex; align-items: center; gap: .2rem; }
+    .highlight-tool {
+      position: relative;
+      min-width: 2.5rem;
+      padding: .35rem .45rem;
+      border-color: var(--border);
+      font-size: .76rem;
+      font-weight: 700;
+    }
+    .highlight-tool::after {
+      content: "";
+      position: absolute;
+      right: .35rem;
+      bottom: .28rem;
+      left: .35rem;
+      height: .38rem;
+      border-radius: .25rem;
+      background: rgb(255 225 70 / 42%);
+    }
+    .highlight-tool[data-highlight="dark"]::after { background: rgb(244 174 0 / 68%); }
+    .highlight-tool[aria-pressed="true"] { box-shadow: inset 0 0 0 2px white; }
+
     .viewer {
       display: block;
       position: relative;
@@ -126,11 +148,32 @@
       text-align: center;
     }
 
+    .page-surface {
+      position: relative;
+      width: max-content;
+      margin: 0 auto;
+      box-shadow: 0 3px 14px rgb(0 0 0 / 35%);
+    }
+
     .viewer canvas {
       display: block;
-      margin: 0 auto;
       background: white;
-      box-shadow: 0 3px 14px rgb(0 0 0 / 35%);
+    }
+
+    .viewer .highlight-layer {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      background: transparent;
+      box-shadow: none;
+      pointer-events: none;
+    }
+
+    .viewer.highlighting .highlight-layer {
+      cursor: crosshair;
+      pointer-events: auto;
+      touch-action: none;
     }
 
     .viewer-status {
@@ -199,6 +242,16 @@
         border-radius: .25rem;
         font-size: .62rem;
       }
+      .highlight-controls { gap: .08rem; }
+      .highlight-tool {
+        min-width: 1.2rem;
+        min-height: 1.2rem;
+        height: 1.2rem;
+        padding: .05rem .18rem;
+        border-radius: .25rem;
+        font-size: 0;
+      }
+      .highlight-tool::after { right: .2rem; bottom: .12rem; left: .2rem; height: .2rem; }
       .viewer { padding: .15rem; }
     }
 
@@ -217,6 +270,10 @@
       <div class="document-header">
         <h2>Oryginał angielski</h2>
         <div class="page-controls">
+          <div class="highlight-controls" role="group" aria-label="Zakreślacze dokumentu angielskiego">
+            <button class="highlight-tool" data-highlight="light" type="button" aria-label="Jasny zakreślacz dokumentu angielskiego" aria-pressed="false" title="Jasny zakreślacz">Jasny</button>
+            <button class="highlight-tool" data-highlight="dark" type="button" aria-label="Ciemny zakreślacz dokumentu angielskiego" aria-pressed="false" title="Ciemny zakreślacz">Ciemny</button>
+          </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument angielski" title="Pomniejsz">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
           </button>
@@ -244,7 +301,10 @@
         </div>
       </div>
       <div class="viewer" role="region" aria-label="Angielskie wydanie książki">
-        <canvas aria-label="Bieżąca strona angielskiego wydania"></canvas>
+        <div class="page-surface">
+          <canvas class="pdf-layer" aria-label="Bieżąca strona angielskiego wydania"></canvas>
+          <canvas class="highlight-layer" aria-label="Warstwa zakreśleń angielskiego wydania"></canvas>
+        </div>
         <p class="viewer-status" role="status">Wczytywanie dokumentu…</p>
       </div>
     </section>
@@ -253,6 +313,10 @@
       <div class="document-header">
         <h2>Tłumaczenie polskie</h2>
         <div class="page-controls">
+          <div class="highlight-controls" role="group" aria-label="Zakreślacze dokumentu polskiego">
+            <button class="highlight-tool" data-highlight="light" type="button" aria-label="Jasny zakreślacz dokumentu polskiego" aria-pressed="false" title="Jasny zakreślacz">Jasny</button>
+            <button class="highlight-tool" data-highlight="dark" type="button" aria-label="Ciemny zakreślacz dokumentu polskiego" aria-pressed="false" title="Ciemny zakreślacz">Ciemny</button>
+          </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument polski" title="Pomniejsz">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
           </button>
@@ -280,7 +344,10 @@
         </div>
       </div>
       <div class="viewer" role="region" aria-label="Polskie wydanie książki">
-        <canvas aria-label="Bieżąca strona polskiego wydania"></canvas>
+        <div class="page-surface">
+          <canvas class="pdf-layer" aria-label="Bieżąca strona polskiego wydania"></canvas>
+          <canvas class="highlight-layer" aria-label="Warstwa zakreśleń polskiego wydania"></canvas>
+        </div>
         <p class="viewer-status" role="status">Wczytywanie dokumentu…</p>
       </div>
     </section>
@@ -312,7 +379,9 @@
       const name = panel.dataset.document;
       const input = panel.querySelector(".page");
       const viewer = panel.querySelector(".viewer");
-      const canvas = panel.querySelector("canvas");
+      const canvas = panel.querySelector(".pdf-layer");
+      const highlightLayer = panel.querySelector(".highlight-layer");
+      const highlightButtons = panel.querySelectorAll(".highlight-tool");
       const status = panel.querySelector(".viewer-status");
       const previous = panel.querySelector(".previous");
       const next = panel.querySelector(".next");
@@ -327,7 +396,106 @@
       let renderGeneration = 0;
       let resizeTimer;
       let scrollTimer;
+      let activeHighlight;
+      let activeStroke;
       let zoom = Math.min(3, Math.max(.5, Number(savedValue(name + ":zoom", "1")) || 1));
+
+      function highlightStorageKey(pageNumber) {
+        return storagePrefix + name + ":highlights:" + pageNumber;
+      }
+
+      function getHighlights(pageNumber) {
+        try {
+          const highlights = JSON.parse(localStorage.getItem(highlightStorageKey(pageNumber)) || "[]");
+          return Array.isArray(highlights) ? highlights : [];
+        } catch (_) {
+          return [];
+        }
+      }
+
+      function saveHighlights(pageNumber, highlights) {
+        try { localStorage.setItem(highlightStorageKey(pageNumber), JSON.stringify(highlights)); }
+        catch (_) { /* Zakreślanie działa do czasu odświeżenia również bez localStorage. */ }
+      }
+
+      function drawHighlights(highlights = getHighlights(Number(input.value))) {
+        const context = highlightLayer.getContext("2d");
+        const width = highlightLayer.width;
+        const height = highlightLayer.height;
+        context.clearRect(0, 0, width, height);
+        context.lineCap = "round";
+        context.lineJoin = "round";
+
+        highlights.forEach((stroke) => {
+          if (!Array.isArray(stroke.points) || !stroke.points.length) return;
+          context.beginPath();
+          context.strokeStyle = stroke.tool === "dark" ? "rgba(244, 174, 0, .62)" : "rgba(255, 225, 70, .38)";
+          context.lineWidth = Math.max(1, width * .022);
+          stroke.points.forEach((point, index) => {
+            const x = point[0] * width;
+            const y = point[1] * height;
+            if (index) context.lineTo(x, y);
+            else context.moveTo(x, y);
+          });
+          if (stroke.points.length === 1) {
+            const point = stroke.points[0];
+            context.lineTo(point[0] * width + .01, point[1] * height);
+          }
+          context.stroke();
+        });
+      }
+
+      function setHighlightTool(tool) {
+        activeHighlight = activeHighlight === tool ? undefined : tool;
+        viewer.classList.toggle("highlighting", Boolean(activeHighlight));
+        highlightButtons.forEach((button) => {
+          button.setAttribute("aria-pressed", String(button.dataset.highlight === activeHighlight));
+        });
+      }
+
+      function highlightPoint(event) {
+        const rectangle = highlightLayer.getBoundingClientRect();
+        return [
+          Math.min(1, Math.max(0, (event.clientX - rectangle.left) / rectangle.width)),
+          Math.min(1, Math.max(0, (event.clientY - rectangle.top) / rectangle.height))
+        ];
+      }
+
+      highlightButtons.forEach((button) => {
+        button.addEventListener("click", () => setHighlightTool(button.dataset.highlight));
+      });
+
+      highlightLayer.addEventListener("pointerdown", (event) => {
+        if (!activeHighlight || event.button > 0) return;
+        event.preventDefault();
+        highlightLayer.setPointerCapture(event.pointerId);
+        activeStroke = { tool: activeHighlight, points: [highlightPoint(event)] };
+        const highlights = getHighlights(Number(input.value));
+        highlights.push(activeStroke);
+        drawHighlights(highlights);
+      });
+
+      highlightLayer.addEventListener("pointermove", (event) => {
+        if (!activeStroke || !highlightLayer.hasPointerCapture(event.pointerId)) return;
+        event.preventDefault();
+        activeStroke.points.push(highlightPoint(event));
+        const highlights = getHighlights(Number(input.value));
+        highlights.push(activeStroke);
+        drawHighlights(highlights);
+      });
+
+      function finishHighlight(event) {
+        if (!activeStroke) return;
+        if (highlightLayer.hasPointerCapture(event.pointerId)) highlightLayer.releasePointerCapture(event.pointerId);
+        const highlights = getHighlights(Number(input.value));
+        highlights.push(activeStroke);
+        saveHighlights(Number(input.value), highlights);
+        activeStroke = undefined;
+        drawHighlights(highlights);
+      }
+
+      highlightLayer.addEventListener("pointerup", finishHighlight);
+      highlightLayer.addEventListener("pointercancel", finishHighlight);
 
       function updateZoomControls() {
         zoomLevel.textContent = Math.round(zoom * 100) + "%";
@@ -382,6 +550,10 @@
         canvas.height = Math.floor(viewport.height);
         canvas.style.width = Math.floor(viewport.width / pixelRatio) + "px";
         canvas.style.height = Math.floor(viewport.height / pixelRatio) + "px";
+        highlightLayer.width = canvas.width;
+        highlightLayer.height = canvas.height;
+        highlightLayer.style.width = canvas.style.width;
+        highlightLayer.style.height = canvas.style.height;
 
         const task = page.render({ canvasContext: canvas.getContext("2d"), viewport });
         renderTask = task;
@@ -389,6 +561,8 @@
           await task.promise;
           if (generation !== renderGeneration) return;
           canvas.dataset.page = String(pageNumber);
+          highlightLayer.dataset.page = String(pageNumber);
+          drawHighlights(getHighlights(pageNumber));
           status.hidden = true;
           if (restoreSavedScroll) {
             requestAnimationFrame(restoreScrollPosition);
