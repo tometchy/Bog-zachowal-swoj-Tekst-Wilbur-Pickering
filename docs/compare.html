@@ -227,6 +227,81 @@
     .view-menu button { color: var(--text); background: transparent; text-align: left; }
     .view-menu button:hover { background: rgb(49 91 75 / 10%); }
 
+    .sync-button {
+      position: fixed;
+      z-index: 20;
+      right: 1rem;
+      bottom: 1rem;
+      display: grid;
+      place-items: center;
+      min-width: 3rem;
+      min-height: 3rem;
+      border-color: var(--border);
+      color: white;
+      background: var(--accent);
+      box-shadow: var(--shadow);
+    }
+    .sync-button:hover { background: var(--accent-hover); }
+    .sync-button svg { width: 1.45rem; height: 1.45rem; }
+    .sync-button[data-state="pending"]::after,
+    .sync-button[data-state="error"]::after,
+    .sync-button[data-state="synced"]::after {
+      position: absolute;
+      top: .25rem;
+      right: .25rem;
+      width: .55rem;
+      height: .55rem;
+      border: 2px solid var(--accent);
+      border-radius: 50%;
+      background: #f0b429;
+      content: "";
+    }
+    .sync-button[data-state="error"]::after { background: #d64545; }
+    .sync-button[data-state="synced"]::after { background: #65c18c; }
+
+    .sync-dialog {
+      width: min(35rem, calc(100% - 2rem));
+      padding: 0;
+      border: 1px solid var(--border);
+      border-radius: .8rem;
+      color: var(--text);
+      background: var(--surface);
+      box-shadow: 0 18px 55px rgb(0 0 0 / 35%);
+    }
+    .sync-dialog::backdrop { background: rgb(20 20 20 / 55%); }
+    .sync-form { display: grid; gap: .85rem; padding: 1rem; }
+    .sync-heading { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+    .sync-heading h2 { font-size: 1.15rem; }
+    .sync-close { min-width: 2rem; min-height: 2rem; padding: .2rem; font-size: 1.35rem; }
+    .sync-description { margin: 0; color: var(--muted); font-size: .87rem; line-height: 1.45; }
+    .sync-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .65rem; }
+    .sync-field { display: grid; gap: .25rem; color: var(--muted); font-size: .8rem; }
+    .sync-field-wide { grid-column: 1 / -1; }
+    .sync-field input, .sync-field select {
+      width: 100%;
+      min-height: 2.5rem;
+      padding: .4rem .55rem;
+      border: 1px solid var(--border);
+      border-radius: .4rem;
+      color: var(--text);
+      background: var(--surface);
+    }
+    .sync-status {
+      min-height: 2.6rem;
+      margin: 0;
+      padding: .55rem .65rem;
+      border-radius: .45rem;
+      color: var(--muted);
+      background: rgb(49 91 75 / 8%);
+      font-size: .82rem;
+      line-height: 1.4;
+    }
+    .sync-status[data-kind="error"] { color: #9d2626; background: rgb(214 69 69 / 10%); }
+    .sync-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .45rem; }
+    .sync-actions button { border-color: var(--border); }
+    .sync-actions .primary { color: white; background: var(--accent); }
+    .sync-actions .primary:hover { background: var(--accent-hover); }
+
     main.reversed .document:first-child { order: 2; }
     main.reversed .document:last-child { order: 1; }
 
@@ -278,6 +353,9 @@
         grid-template-rows: repeat(2, minmax(0, 1fr));
       }
       h2 { font-size: .64rem; }
+      .sync-button { right: .55rem; bottom: .55rem; min-width: 2.6rem; min-height: 2.6rem; }
+      .sync-fields { grid-template-columns: 1fr; }
+      .sync-field-wide { grid-column: auto; }
     }
   </style>
 </head>
@@ -386,6 +464,38 @@
     </section>
   </main>
 
+  <button id="sync-button" class="sync-button" type="button" aria-label="Synchronizacja zakreśleń" title="Synchronizacja zakreśleń">
+    <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M20 7v5h-5M4 17v-5h5M18.5 10a7 7 0 0 0-11.7-2.6L4 10m16 4-2.8 2.6A7 7 0 0 1 5.5 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+
+  <dialog id="sync-dialog" class="sync-dialog">
+    <form id="sync-form" class="sync-form" method="dialog">
+      <div class="sync-heading">
+        <h2>Synchronizacja zakreśleń</h2>
+        <button class="sync-close" type="button" aria-label="Zamknij">×</button>
+      </div>
+      <p class="sync-description">Zakreślenia pozostają zapisane lokalnie i są synchronizowane z plikiem JSON w osobnym repozytorium GitHub. Automatyczny zapis następuje po 90 sekundach bez nowych zmian, aby ograniczyć liczbę commitów.</p>
+      <div class="sync-fields">
+        <label class="sync-field">Właściciel repozytorium<input name="owner" autocomplete="username" placeholder="tometchy" required></label>
+        <label class="sync-field">Nazwa repozytorium<input name="repository" placeholder="pickering-compare-data" required></label>
+        <label class="sync-field sync-field-wide">Ścieżka pliku<input name="path" value="highlights.json" required></label>
+        <label class="sync-field sync-field-wide">Token GitHub<input name="token" type="password" autocomplete="off" placeholder="github_pat_…" required></label>
+        <label class="sync-field sync-field-wide">Tryb
+          <select name="mode">
+            <option value="write">Odczyt i zapis</option>
+            <option value="read">Tylko odczyt (urządzenie do podglądu)</option>
+          </select>
+        </label>
+      </div>
+      <p id="sync-status" class="sync-status" role="status" aria-live="polite">Synchronizacja nie jest jeszcze skonfigurowana.</p>
+      <div class="sync-actions">
+        <button id="sync-disable" type="button">Wyłącz synchronizację</button>
+        <button id="sync-now" type="button">Synchronizuj teraz</button>
+        <button class="primary" type="submit">Zapisz i połącz</button>
+      </div>
+    </form>
+  </dialog>
+
   <script type="module">
     import * as pdfjsLib from "./vendor/pdfjs/pdf.min.mjs";
 
@@ -397,6 +507,20 @@
       polish: repositoryRawUrl + "build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf"
     };
     const storagePrefix = "pdf-comparison:";
+    const syncPrefix = storagePrefix + "sync:";
+    const syncDelay = 90_000;
+    const syncRefreshInterval = 10 * 60_000;
+    const syncButton = document.querySelector("#sync-button");
+    const syncDialog = document.querySelector("#sync-dialog");
+    const syncForm = document.querySelector("#sync-form");
+    const syncStatus = document.querySelector("#sync-status");
+    const syncNow = document.querySelector("#sync-now");
+    const syncDisable = document.querySelector("#sync-disable");
+    let syncTimer;
+    let syncInProgress = false;
+    let syncPending = savedValue("sync:pending", "false") === "true";
+    let syncChangeVersion = 0;
+    let lastSyncPull = 0;
 
     function savedValue(key, fallback) {
       try { return localStorage.getItem(storagePrefix + key) || fallback; }
@@ -406,6 +530,216 @@
     function saveValue(key, value) {
       try { localStorage.setItem(storagePrefix + key, value); }
       catch (_) { /* Porównywarka działa również przy wyłączonym localStorage. */ }
+    }
+
+    function syncConfiguration() {
+      return {
+        owner: savedValue("sync:owner", "").trim(),
+        repository: savedValue("sync:repository", "").trim(),
+        path: savedValue("sync:path", "highlights.json").trim() || "highlights.json",
+        token: savedValue("sync:token", "").trim(),
+        mode: savedValue("sync:mode", "write") === "read" ? "read" : "write"
+      };
+    }
+
+    function syncIsConfigured(configuration = syncConfiguration()) {
+      return Boolean(configuration.owner && configuration.repository && configuration.path && configuration.token);
+    }
+
+    function setSyncStatus(message, kind = "") {
+      syncStatus.textContent = message;
+      syncStatus.dataset.kind = kind;
+      if (kind === "error") syncButton.dataset.state = "error";
+      else if (syncPending) syncButton.dataset.state = "pending";
+      else if (syncIsConfigured()) syncButton.dataset.state = "synced";
+      else delete syncButton.dataset.state;
+    }
+
+    function formatSyncTime(date = new Date()) {
+      return new Intl.DateTimeFormat("pl-PL", { dateStyle: "short", timeStyle: "medium" }).format(date);
+    }
+
+    function setReadOnlyMode(readOnly) {
+      document.querySelectorAll(".highlight-tool[data-tool]").forEach((button) => {
+        button.disabled = readOnly;
+        button.title = readOnly ? "Zakreślanie jest wyłączone w trybie tylko do odczytu" : button.dataset.originalTitle;
+      });
+      if (readOnly) document.querySelectorAll(".viewer").forEach((viewer) => viewer.classList.remove("highlighting"));
+      document.dispatchEvent(new CustomEvent("highlight-read-only-change", { detail: { readOnly } }));
+    }
+
+    function updateSyncInterface() {
+      const configuration = syncConfiguration();
+      syncForm.elements.owner.value = configuration.owner;
+      syncForm.elements.repository.value = configuration.repository;
+      syncForm.elements.path.value = configuration.path;
+      syncForm.elements.token.value = configuration.token;
+      syncForm.elements.mode.value = configuration.mode;
+      syncNow.disabled = !syncIsConfigured(configuration) || syncInProgress;
+      syncDisable.disabled = !syncIsConfigured(configuration);
+      setReadOnlyMode(syncIsConfigured(configuration) && configuration.mode === "read");
+      if (!syncIsConfigured(configuration)) setSyncStatus("Synchronizacja nie jest jeszcze skonfigurowana.");
+      else if (syncPending && configuration.mode === "write") setSyncStatus("Lokalne zmiany czekają na wysłanie.");
+      else setSyncStatus(configuration.mode === "read" ? "Połączono w trybie tylko do odczytu." : "Synchronizacja jest skonfigurowana.");
+    }
+
+    function githubApiUrl(configuration) {
+      const encodedPath = configuration.path.split("/").map(encodeURIComponent).join("/");
+      return `https://api.github.com/repos/${encodeURIComponent(configuration.owner)}/${encodeURIComponent(configuration.repository)}/contents/${encodedPath}`;
+    }
+
+    function githubHeaders(configuration) {
+      return {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer ${configuration.token}`,
+        "X-GitHub-Api-Version": "2022-11-28"
+      };
+    }
+
+    function decodeBase64(value) {
+      const binary = atob(value.replace(/\s/g, ""));
+      const bytes = Uint8Array.from(binary, (character) => character.charCodeAt(0));
+      return new TextDecoder().decode(bytes);
+    }
+
+    function encodeBase64(value) {
+      const bytes = new TextEncoder().encode(value);
+      let binary = "";
+      for (let offset = 0; offset < bytes.length; offset += 0x8000) {
+        binary += String.fromCharCode(...bytes.subarray(offset, offset + 0x8000));
+      }
+      return btoa(binary);
+    }
+
+    async function githubFile(configuration) {
+      const response = await fetch(githubApiUrl(configuration), { headers: githubHeaders(configuration) });
+      if (response.status === 404) return null;
+      if (!response.ok) throw new Error(`GitHub odpowiedział kodem ${response.status}. Sprawdź repozytorium, token i jego uprawnienia.`);
+      const file = await response.json();
+      if (file.type !== "file" || typeof file.content !== "string") throw new Error("Ścieżka synchronizacji nie wskazuje pliku GitHub.");
+      return file;
+    }
+
+    function localHighlightData() {
+      const highlights = { english: {}, polish: {} };
+      try {
+        for (let index = 0; index < localStorage.length; index += 1) {
+          const key = localStorage.key(index);
+          const match = key?.match(/^pdf-comparison:(english|polish):highlights:(\d+)$/);
+          if (!match) continue;
+          const strokes = JSON.parse(localStorage.getItem(key) || "[]");
+          if (Array.isArray(strokes) && strokes.length) highlights[match[1]][match[2]] = strokes;
+        }
+      } catch (_) { /* Nie blokuj pracy, jeżeli pamięć przeglądarki jest niedostępna. */ }
+      return { version: 1, updatedAt: new Date().toISOString(), highlights };
+    }
+
+    function applyHighlightData(data) {
+      if (data?.version !== 1 || !data.highlights || typeof data.highlights !== "object") {
+        throw new Error("Plik synchronizacji ma nieobsługiwany format.");
+      }
+      try {
+        const keysToRemove = [];
+        for (let index = 0; index < localStorage.length; index += 1) {
+          const key = localStorage.key(index);
+          if (/^pdf-comparison:(english|polish):highlights:\d+$/.test(key || "")) keysToRemove.push(key);
+        }
+        keysToRemove.forEach((key) => localStorage.removeItem(key));
+        ["english", "polish"].forEach((documentName) => {
+          Object.entries(data.highlights[documentName] || {}).forEach(([page, strokes]) => {
+            if (Array.isArray(strokes) && /^\d+$/.test(page)) {
+              localStorage.setItem(`${storagePrefix}${documentName}:highlights:${page}`, JSON.stringify(strokes));
+            }
+          });
+        });
+      } catch (error) {
+        throw new Error("Nie udało się zapisać pobranych zakreśleń w pamięci przeglądarki.", { cause: error });
+      }
+      syncPending = false;
+      saveValue("sync:pending", "false");
+      document.dispatchEvent(new CustomEvent("highlights-sync-change"));
+    }
+
+    async function pullHighlights({ quiet = false } = {}) {
+      const configuration = syncConfiguration();
+      if (!syncIsConfigured(configuration) || syncInProgress) return false;
+      if (syncPending && configuration.mode === "write") {
+        if (!quiet) setSyncStatus("Najpierw wyślij oczekujące lokalne zmiany, aby ich nie nadpisać.", "error");
+        return false;
+      }
+      syncInProgress = true;
+      syncNow.disabled = true;
+      if (!quiet) setSyncStatus("Pobieranie zakreśleń z GitHuba…");
+      try {
+        const file = await githubFile(configuration);
+        if (!file) {
+          if (configuration.mode === "read") throw new Error("Plik zakreśleń jeszcze nie istnieje w repozytorium.");
+          if (!quiet) setSyncStatus("Plik jeszcze nie istnieje. Pierwszy zapis utworzy go na GitHubie.");
+          return false;
+        }
+        applyHighlightData(JSON.parse(decodeBase64(file.content)));
+        lastSyncPull = Date.now();
+        setSyncStatus(`Pobrano zakreślenia: ${formatSyncTime()}.`);
+        return true;
+      } catch (error) {
+        console.error(error);
+        setSyncStatus(error.message || "Nie udało się pobrać zakreśleń.", "error");
+        return false;
+      } finally {
+        syncInProgress = false;
+        syncNow.disabled = false;
+      }
+    }
+
+    async function pushHighlights() {
+      clearTimeout(syncTimer);
+      const configuration = syncConfiguration();
+      if (!syncIsConfigured(configuration) || configuration.mode !== "write" || syncInProgress || !syncPending) return false;
+      syncInProgress = true;
+      syncNow.disabled = true;
+      setSyncStatus("Wysyłanie zakreśleń do GitHuba…");
+      try {
+        const existing = await githubFile(configuration);
+        const uploadedVersion = syncChangeVersion;
+        const body = {
+          message: `Synchronizuj zakreślenia (${new Date().toISOString()})`,
+          content: encodeBase64(JSON.stringify(localHighlightData()))
+        };
+        if (existing?.sha) body.sha = existing.sha;
+        const response = await fetch(githubApiUrl(configuration), {
+          method: "PUT",
+          headers: { ...githubHeaders(configuration), "Content-Type": "application/json" },
+          body: JSON.stringify(body)
+        });
+        if (!response.ok) throw new Error(`GitHub odpowiedział kodem ${response.status}. Token musi mieć uprawnienie Contents: Read and write.`);
+        if (uploadedVersion === syncChangeVersion) {
+          syncPending = false;
+          saveValue("sync:pending", "false");
+          setSyncStatus(`Wysłano zakreślenia: ${formatSyncTime()}.`);
+        } else {
+          syncTimer = setTimeout(pushHighlights, syncDelay);
+          setSyncStatus("Wysłano wcześniejsze zmiany. Nowsze zakreślenia nadal czekają na wysłanie.");
+        }
+        return true;
+      } catch (error) {
+        console.error(error);
+        setSyncStatus(error.message || "Nie udało się wysłać zakreśleń.", "error");
+        return false;
+      } finally {
+        syncInProgress = false;
+        syncNow.disabled = false;
+      }
+    }
+
+    function highlightDataChanged() {
+      const configuration = syncConfiguration();
+      if (!syncIsConfigured(configuration) || configuration.mode !== "write") return;
+      syncChangeVersion += 1;
+      syncPending = true;
+      saveValue("sync:pending", "true");
+      clearTimeout(syncTimer);
+      syncTimer = setTimeout(pushHighlights, syncDelay);
+      setSyncStatus("Zmiany zapisano lokalnie. Wysyłka nastąpi po 90 sekundach bez nowych zakreśleń.");
     }
 
     const previousIntensity = savedValue("highlight-intensity", "65");
@@ -438,6 +772,59 @@
         menu.hidden = !willOpen;
         toggle.setAttribute("aria-expanded", String(willOpen));
       });
+    });
+
+    document.querySelectorAll(".highlight-tool[data-tool]").forEach((button) => {
+      button.dataset.originalTitle = button.title;
+    });
+
+    syncButton.addEventListener("click", () => {
+      updateSyncInterface();
+      syncDialog.showModal();
+    });
+    syncDialog.querySelector(".sync-close").addEventListener("click", () => syncDialog.close());
+    syncDialog.addEventListener("click", (event) => {
+      if (event.target === syncDialog) syncDialog.close();
+    });
+
+    syncForm.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      ["owner", "repository", "path", "token", "mode"].forEach((name) => {
+        saveValue(`sync:${name}`, syncForm.elements[name].value.trim());
+      });
+      updateSyncInterface();
+      const configuration = syncConfiguration();
+      const pulled = await pullHighlights();
+      if (!pulled && configuration.mode === "write") {
+        const hasLocalHighlights = ["english", "polish"].some((name) => Object.keys(localHighlightData().highlights[name]).length);
+        if (hasLocalHighlights) {
+          syncPending = true;
+          saveValue("sync:pending", "true");
+          await pushHighlights();
+        }
+      }
+    });
+
+    syncNow.addEventListener("click", async () => {
+      if (syncConfiguration().mode === "write" && syncPending) await pushHighlights();
+      else await pullHighlights();
+    });
+
+    syncDisable.addEventListener("click", () => {
+      clearTimeout(syncTimer);
+      ["owner", "repository", "path", "token", "mode", "pending"].forEach((name) => {
+        try { localStorage.removeItem(syncPrefix + name); } catch (_) { /* Bez localStorage formularz nadal można zamknąć. */ }
+      });
+      syncPending = false;
+      updateSyncInterface();
+    });
+
+    window.addEventListener("online", () => {
+      if (syncPending) pushHighlights();
+      else pullHighlights({ quiet: true });
+    });
+    window.addEventListener("focus", () => {
+      if (!syncPending && Date.now() - lastSyncPull >= syncRefreshInterval) pullHighlights({ quiet: true });
     });
 
     document.querySelectorAll(".document").forEach(async (panel) => {
@@ -479,7 +866,10 @@
       }
 
       function saveHighlights(pageNumber, highlights) {
-        try { localStorage.setItem(highlightStorageKey(pageNumber), JSON.stringify(highlights)); }
+        try {
+          localStorage.setItem(highlightStorageKey(pageNumber), JSON.stringify(highlights));
+          highlightDataChanged();
+        }
         catch (_) { /* Zakreślanie działa do czasu odświeżenia również bez localStorage. */ }
       }
 
@@ -603,6 +993,10 @@
       highlightLayer.addEventListener("pointerup", finishHighlight);
       highlightLayer.addEventListener("pointercancel", finishHighlight);
       document.addEventListener("highlight-intensity-change", () => drawHighlights());
+      document.addEventListener("highlights-sync-change", () => drawHighlights());
+      document.addEventListener("highlight-read-only-change", (event) => {
+        if (event.detail.readOnly) setHighlightTool(undefined);
+      });
 
       function updateZoomControls() {
         zoomLevel.textContent = Math.round(zoom * 100) + "%";
@@ -821,6 +1215,14 @@
 
     setLayout(savedValue("layout", "side-by-side"));
     main.classList.toggle("reversed", savedValue("order", "normal") === "reversed");
+    updateSyncInterface();
+    if (syncIsConfigured()) {
+      if (syncPending && syncConfiguration().mode === "write") syncTimer = setTimeout(pushHighlights, 5_000);
+      else pullHighlights({ quiet: true });
+    }
+    setInterval(() => {
+      if (!syncPending && document.visibilityState === "visible") pullHighlights({ quiet: true });
+    }, syncRefreshInterval);
   </script>
 </body>
 </html>
