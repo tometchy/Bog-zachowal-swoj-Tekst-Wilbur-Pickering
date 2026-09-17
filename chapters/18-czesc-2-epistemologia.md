@@ -64,7 +64,7 @@ Nalegam, że nie jestem czystym empirystą. Moja praca jest zakotwiczona w przes
 
 [^pamietasz-kartezjusza]: Pamiętasz Kartezjusza? „Myślę, więc jestem”.
 
-[^biblijna-walka-duchowa]: Obszernie pisałem na temat biblijnej walki duchowej. Większość tych treści można znaleźć w mojej książce *Essays on Discipleship, Missions and Spiritual Warfare*, wydanie drugie, 2017. Jest ona również dostępna na mojej stronie internetowej www.prunch.org (lub www.prunch.com.br). Na początek powinieneś rozważyć List do Efezjan 2,2 wraz z Ewangelią Łukasza 8,12 oraz 2 Listem do Koryntian 4,3-4.
+[^biblijna-walka-duchowa]: Pisałem obszernie na temat biblijnej walki duchowej. Większość tych treści można znaleźć w mojej książce *Essays on Discipleship, Missions and Spiritual Warfare*, wydanie drugie, 2017. Jest ona również dostępna na mojej stronie internetowej www.prunch.org (lub www.prunch.com.br). Na początek powinieneś rozważyć List do Efezjan 2,2 wraz z Ewangelią Łukasza 8,12 oraz 2 Listem do Koryntian 4,3-4.
 
 [^goulburn-life-of-dean-burgon]: E.M. Goulburn, *Life of Dean Burgon* (Londyn: John Murray, 1892, 2 tomy), I, vii.
 
