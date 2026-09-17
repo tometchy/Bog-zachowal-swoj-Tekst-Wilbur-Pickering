@@ -127,26 +127,8 @@
     .highlight-tool[data-tool="dark"] .color-swatch { fill: rgb(244 174 0 / 82%); stroke: rgb(139 91 0 / 70%); }
     .highlight-tool[data-tool="eraser"] svg { color: var(--muted); }
     .highlight-tool[aria-pressed="true"] { box-shadow: inset 0 0 0 2px white; }
-    .intensity-settings { position: relative; }
-    .intensity-toggle svg { color: #d6a900; }
-    .intensity-menu {
-      position: absolute;
-      z-index: 10;
-      top: calc(100% + .35rem);
-      left: 50%;
-      display: grid;
-      width: max-content;
-      gap: .5rem;
-      padding: .55rem .65rem;
-      border: 1px solid var(--border);
-      border-radius: .55rem;
-      color: var(--text);
-      background: var(--surface);
-      box-shadow: var(--shadow);
-      transform: translateX(-50%);
-    }
-    .intensity-menu[hidden] { display: none; }
-    .intensity-row { display: grid; grid-template-columns: 5.4rem 3rem 8rem 3.2rem; align-items: center; gap: .35rem; }
+    .sync-settings-toggle svg { color: var(--muted); }
+    .intensity-row { display: grid; grid-template-columns: 6rem 3rem minmax(7rem, 1fr) 3.2rem; align-items: center; gap: .35rem; }
     .intensity-row label { font-size: .78rem; font-weight: 650; text-align: left; }
     .intensity-row span { color: var(--muted); font-size: .68rem; }
     .intensity-row input { width: 8rem; accent-color: #d6a900; }
@@ -286,6 +268,15 @@
       color: var(--text);
       background: var(--surface);
     }
+    .sync-section {
+      display: grid;
+      gap: .55rem;
+      padding: .7rem;
+      border: 1px solid var(--border);
+      border-radius: .55rem;
+    }
+    .sync-section legend { padding: 0 .25rem; font-size: .82rem; font-weight: 650; }
+    .sync-section .intensity-row input { width: 100%; accent-color: #d6a900; }
     .sync-status {
       min-height: 2.6rem;
       margin: 0;
@@ -369,13 +360,7 @@
             <button class="highlight-tool" data-tool="light" type="button" aria-label="Jasny zakreślacz dokumentu angielskiego" aria-pressed="false" title="Jasny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="dark" type="button" aria-label="Ciemny zakreślacz dokumentu angielskiego" aria-pressed="false" title="Ciemny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="eraser" type="button" aria-label="Gumka dokumentu angielskiego" aria-pressed="false" title="Gumka"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m4 14.5 8.8-8.8a2 2 0 0 1 2.8 0l2.7 2.7a2 2 0 0 1 0 2.8L10.5 19H7.8L4 15.2a.5.5 0 0 1 0-.7Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 9.5 5.5 5.5M10.5 19H20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
-            <div class="intensity-settings">
-              <button class="highlight-tool intensity-toggle" type="button" aria-label="Ustaw intensywność zakreślaczy" aria-haspopup="true" aria-expanded="false" title="Intensywność zakreślaczy"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6 7 7M17 17l1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="currentColor"/></svg></button>
-              <div class="intensity-menu" hidden>
-                <div class="intensity-row"><label>Jasny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="light" type="range" min="10" max="100" step="5" aria-label="Intensywność jasnego zakreślacza"><span>Ciemniej</span></div>
-                <div class="intensity-row"><label>Ciemny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="dark" type="range" min="10" max="100" step="5" aria-label="Intensywność ciemnego zakreślacza"><span>Ciemniej</span></div>
-              </div>
-            </div>
+            <button class="highlight-tool sync-settings-toggle" type="button" aria-label="Ustawienia zakreślaczy i synchronizacji" title="Ustawienia"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9.7 3.4h4.6l.6 2.1c.5.2 1 .5 1.4.8l2.1-.6 2.3 4-1.5 1.5a7 7 0 0 1 0 1.6l1.5 1.5-2.3 4-2.1-.6c-.4.3-.9.6-1.4.8l-.6 2.1H9.7l-.6-2.1c-.5-.2-1-.5-1.4-.8l-2.1.6-2.3-4 1.5-1.5a7 7 0 0 1 0-1.6L3.3 9.7l2.3-4 2.1.6c.4-.3.9-.6 1.4-.8l.6-2.1Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
           </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument angielski" title="Pomniejsz">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -420,13 +405,7 @@
             <button class="highlight-tool" data-tool="light" type="button" aria-label="Jasny zakreślacz dokumentu polskiego" aria-pressed="false" title="Jasny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="dark" type="button" aria-label="Ciemny zakreślacz dokumentu polskiego" aria-pressed="false" title="Ciemny zakreślacz"><svg aria-hidden="true" viewBox="0 0 24 24"><circle class="color-swatch" cx="12" cy="12" r="8.5" stroke-width="1.5"/></svg></button>
             <button class="highlight-tool" data-tool="eraser" type="button" aria-label="Gumka dokumentu polskiego" aria-pressed="false" title="Gumka"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m4 14.5 8.8-8.8a2 2 0 0 1 2.8 0l2.7 2.7a2 2 0 0 1 0 2.8L10.5 19H7.8L4 15.2a.5.5 0 0 1 0-.7Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 9.5 5.5 5.5M10.5 19H20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
-            <div class="intensity-settings">
-              <button class="highlight-tool intensity-toggle" type="button" aria-label="Ustaw intensywność zakreślaczy" aria-haspopup="true" aria-expanded="false" title="Intensywność zakreślaczy"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6 7 7M17 17l1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="currentColor"/></svg></button>
-              <div class="intensity-menu" hidden>
-                <div class="intensity-row"><label>Jasny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="light" type="range" min="10" max="100" step="5" aria-label="Intensywność jasnego zakreślacza"><span>Ciemniej</span></div>
-                <div class="intensity-row"><label>Ciemny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="dark" type="range" min="10" max="100" step="5" aria-label="Intensywność ciemnego zakreślacza"><span>Ciemniej</span></div>
-              </div>
-            </div>
+            <button class="highlight-tool sync-settings-toggle" type="button" aria-label="Ustawienia zakreślaczy i synchronizacji" title="Ustawienia"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9.7 3.4h4.6l.6 2.1c.5.2 1 .5 1.4.8l2.1-.6 2.3 4-1.5 1.5a7 7 0 0 1 0 1.6l1.5 1.5-2.3 4-2.1-.6c-.4.3-.9.6-1.4.8l-.6 2.1H9.7l-.6-2.1c-.5-.2-1-.5-1.4-.8l-2.1.6-2.3-4 1.5-1.5a7 7 0 0 1 0-1.6L3.3 9.7l2.3-4 2.1.6c.4-.3.9-.6 1.4-.8l.6-2.1Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
           </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument polski" title="Pomniejsz">
             <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21M7.5 10.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -464,7 +443,7 @@
     </section>
   </main>
 
-  <button id="sync-button" class="sync-button" type="button" aria-label="Synchronizacja zakreśleń" title="Synchronizacja zakreśleń">
+  <button id="sync-button" class="sync-button" type="button" aria-label="Synchronizuj zakreślenia teraz" title="Synchronizuj teraz">
     <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M20 7v5h-5M4 17v-5h5M18.5 10a7 7 0 0 0-11.7-2.6L4 10m16 4-2.8 2.6A7 7 0 0 1 5.5 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
   </button>
 
@@ -475,6 +454,11 @@
         <button class="sync-close" type="button" aria-label="Zamknij">×</button>
       </div>
       <p class="sync-description">Zakreślenia pozostają zapisane lokalnie i są synchronizowane z plikiem JSON w osobnym repozytorium GitHub. Automatyczny zapis następuje po 90 sekundach bez nowych zmian, aby ograniczyć liczbę commitów.</p>
+      <fieldset class="sync-section">
+        <legend>Intensywność zakreślaczy</legend>
+        <div class="intensity-row"><label>Jasny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="light" type="range" min="10" max="100" step="5" aria-label="Intensywność jasnego zakreślacza"><span>Ciemniej</span></div>
+        <div class="intensity-row"><label>Ciemny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="dark" type="range" min="10" max="100" step="5" aria-label="Intensywność ciemnego zakreślacza"><span>Ciemniej</span></div>
+      </fieldset>
       <div class="sync-fields">
         <label class="sync-field">Właściciel repozytorium<input name="owner" autocomplete="username" placeholder="tometchy" required></label>
         <label class="sync-field">Nazwa repozytorium<input name="repository" placeholder="pickering-compare-data" required></label>
@@ -490,7 +474,6 @@
       <p id="sync-status" class="sync-status" role="status" aria-live="polite">Synchronizacja nie jest jeszcze skonfigurowana.</p>
       <div class="sync-actions">
         <button id="sync-disable" type="button">Wyłącz synchronizację</button>
-        <button id="sync-now" type="button">Synchronizuj teraz</button>
         <button class="primary" type="submit">Zapisz i połącz</button>
       </div>
     </form>
@@ -514,7 +497,6 @@
     const syncDialog = document.querySelector("#sync-dialog");
     const syncForm = document.querySelector("#sync-form");
     const syncStatus = document.querySelector("#sync-status");
-    const syncNow = document.querySelector("#sync-now");
     const syncDisable = document.querySelector("#sync-disable");
     let syncTimer;
     let syncInProgress = false;
@@ -575,7 +557,7 @@
       syncForm.elements.path.value = configuration.path;
       syncForm.elements.token.value = configuration.token;
       syncForm.elements.mode.value = configuration.mode;
-      syncNow.disabled = !syncIsConfigured(configuration) || syncInProgress;
+      syncButton.disabled = !syncIsConfigured(configuration) || syncInProgress;
       syncDisable.disabled = !syncIsConfigured(configuration);
       setReadOnlyMode(syncIsConfigured(configuration) && configuration.mode === "read");
       if (!syncIsConfigured(configuration)) setSyncStatus("Synchronizacja nie jest jeszcze skonfigurowana.");
@@ -668,7 +650,7 @@
         return false;
       }
       syncInProgress = true;
-      syncNow.disabled = true;
+      syncButton.disabled = true;
       if (!quiet) setSyncStatus("Pobieranie zakreśleń z GitHuba…");
       try {
         const file = await githubFile(configuration);
@@ -687,7 +669,7 @@
         return false;
       } finally {
         syncInProgress = false;
-        syncNow.disabled = false;
+        syncButton.disabled = !syncIsConfigured();
       }
     }
 
@@ -696,7 +678,7 @@
       const configuration = syncConfiguration();
       if (!syncIsConfigured(configuration) || configuration.mode !== "write" || syncInProgress || !syncPending) return false;
       syncInProgress = true;
-      syncNow.disabled = true;
+      syncButton.disabled = true;
       setSyncStatus("Wysyłanie zakreśleń do GitHuba…");
       try {
         const existing = await githubFile(configuration);
@@ -727,7 +709,7 @@
         return false;
       } finally {
         syncInProgress = false;
-        syncNow.disabled = false;
+        syncButton.disabled = !syncIsConfigured();
       }
     }
 
@@ -763,24 +745,17 @@
       input.addEventListener("click", (event) => event.stopPropagation());
     });
 
-    document.querySelectorAll(".intensity-toggle").forEach((toggle) => {
-      toggle.addEventListener("click", (event) => {
-        event.stopPropagation();
-        const menu = toggle.nextElementSibling;
-        const willOpen = menu.hidden;
-        closeMenus(menu);
-        menu.hidden = !willOpen;
-        toggle.setAttribute("aria-expanded", String(willOpen));
-      });
-    });
-
     document.querySelectorAll(".highlight-tool[data-tool]").forEach((button) => {
       button.dataset.originalTitle = button.title;
     });
 
-    syncButton.addEventListener("click", () => {
+    document.querySelectorAll(".sync-settings-toggle").forEach((button) => button.addEventListener("click", () => {
       updateSyncInterface();
       syncDialog.showModal();
+    }));
+    syncButton.addEventListener("click", async () => {
+      if (syncConfiguration().mode === "write" && syncPending) await pushHighlights();
+      else await pullHighlights();
     });
     syncDialog.querySelector(".sync-close").addEventListener("click", () => syncDialog.close());
     syncDialog.addEventListener("click", (event) => {
@@ -803,11 +778,6 @@
           await pushHighlights();
         }
       }
-    });
-
-    syncNow.addEventListener("click", async () => {
-      if (syncConfiguration().mode === "write" && syncPending) await pushHighlights();
-      else await pullHighlights();
     });
 
     syncDisable.addEventListener("click", () => {
@@ -1177,7 +1147,7 @@
     }
 
     function closeMenus(except) {
-      document.querySelectorAll(".view-menu, .intensity-menu").forEach((menu) => {
+      document.querySelectorAll(".view-menu").forEach((menu) => {
         if (menu === except) return;
         menu.hidden = true;
         menu.previousElementSibling.setAttribute("aria-expanded", "false");
