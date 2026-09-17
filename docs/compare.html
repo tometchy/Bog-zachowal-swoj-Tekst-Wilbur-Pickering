@@ -134,8 +134,7 @@
       z-index: 10;
       top: calc(100% + .35rem);
       left: 50%;
-      display: flex;
-      align-items: center;
+      display: grid;
       width: max-content;
       gap: .5rem;
       padding: .55rem .65rem;
@@ -147,8 +146,10 @@
       transform: translateX(-50%);
     }
     .intensity-menu[hidden] { display: none; }
-    .intensity-menu span { color: var(--muted); font-size: .75rem; }
-    .intensity-menu input { width: 8rem; accent-color: #d6a900; }
+    .intensity-row { display: grid; grid-template-columns: 5.4rem 3rem 8rem 3.2rem; align-items: center; gap: .35rem; }
+    .intensity-row label { font-size: .78rem; font-weight: 650; text-align: left; }
+    .intensity-row span { color: var(--muted); font-size: .68rem; }
+    .intensity-row input { width: 8rem; accent-color: #d6a900; }
 
     .viewer {
       display: block;
@@ -292,7 +293,10 @@
             <button class="highlight-tool" data-tool="eraser" type="button" aria-label="Gumka dokumentu angielskiego" aria-pressed="false" title="Gumka"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m4 14.5 8.8-8.8a2 2 0 0 1 2.8 0l2.7 2.7a2 2 0 0 1 0 2.8L10.5 19H7.8L4 15.2a.5.5 0 0 1 0-.7Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 9.5 5.5 5.5M10.5 19H20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
             <div class="intensity-settings">
               <button class="highlight-tool intensity-toggle" type="button" aria-label="Ustaw intensywność zakreślaczy" aria-haspopup="true" aria-expanded="false" title="Intensywność zakreślaczy"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6 7 7M17 17l1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="currentColor"/></svg></button>
-              <div class="intensity-menu" hidden><span>Jaśniej</span><input class="highlight-intensity" type="range" min="20" max="100" step="5" aria-label="Intensywność koloru zakreślaczy"><span>Ciemniej</span></div>
+              <div class="intensity-menu" hidden>
+                <div class="intensity-row"><label>Jasny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="light" type="range" min="10" max="100" step="5" aria-label="Intensywność jasnego zakreślacza"><span>Ciemniej</span></div>
+                <div class="intensity-row"><label>Ciemny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="dark" type="range" min="10" max="100" step="5" aria-label="Intensywność ciemnego zakreślacza"><span>Ciemniej</span></div>
+              </div>
             </div>
           </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument angielski" title="Pomniejsz">
@@ -340,7 +344,10 @@
             <button class="highlight-tool" data-tool="eraser" type="button" aria-label="Gumka dokumentu polskiego" aria-pressed="false" title="Gumka"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m4 14.5 8.8-8.8a2 2 0 0 1 2.8 0l2.7 2.7a2 2 0 0 1 0 2.8L10.5 19H7.8L4 15.2a.5.5 0 0 1 0-.7Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 9.5 5.5 5.5M10.5 19H20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
             <div class="intensity-settings">
               <button class="highlight-tool intensity-toggle" type="button" aria-label="Ustaw intensywność zakreślaczy" aria-haspopup="true" aria-expanded="false" title="Intensywność zakreślaczy"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6 7 7M17 17l1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="currentColor"/></svg></button>
-              <div class="intensity-menu" hidden><span>Jaśniej</span><input class="highlight-intensity" type="range" min="20" max="100" step="5" aria-label="Intensywność koloru zakreślaczy"><span>Ciemniej</span></div>
+              <div class="intensity-menu" hidden>
+                <div class="intensity-row"><label>Jasny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="light" type="range" min="10" max="100" step="5" aria-label="Intensywność jasnego zakreślacza"><span>Ciemniej</span></div>
+                <div class="intensity-row"><label>Ciemny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="dark" type="range" min="10" max="100" step="5" aria-label="Intensywność ciemnego zakreślacza"><span>Ciemniej</span></div>
+              </div>
             </div>
           </div>
           <button class="zoom-out" type="button" aria-label="Pomniejsz dokument polski" title="Pomniejsz">
@@ -401,20 +408,24 @@
       catch (_) { /* Porównywarka działa również przy wyłączonym localStorage. */ }
     }
 
-    let highlightIntensity = Math.min(100, Math.max(20, Number(savedValue("highlight-intensity", "65")) || 65));
+    const previousIntensity = savedValue("highlight-intensity", "65");
+    const highlightIntensities = {
+      light: Math.min(100, Math.max(10, Number(savedValue("highlight-intensity:light", previousIntensity)) || 65)),
+      dark: Math.min(100, Math.max(10, Number(savedValue("highlight-intensity:dark", previousIntensity)) || 65))
+    };
 
-    function setHighlightIntensity(value) {
-      highlightIntensity = Math.min(100, Math.max(20, Number(value) || 65));
-      saveValue("highlight-intensity", String(highlightIntensity));
-      document.querySelectorAll(".highlight-intensity").forEach((input) => {
-        input.value = String(highlightIntensity);
+    function setHighlightIntensity(marker, value) {
+      highlightIntensities[marker] = Math.min(100, Math.max(10, Number(value) || 65));
+      saveValue("highlight-intensity:" + marker, String(highlightIntensities[marker]));
+      document.querySelectorAll(`.highlight-intensity[data-marker="${marker}"]`).forEach((input) => {
+        input.value = String(highlightIntensities[marker]);
       });
       document.dispatchEvent(new CustomEvent("highlight-intensity-change"));
     }
 
     document.querySelectorAll(".highlight-intensity").forEach((input) => {
-      input.value = String(highlightIntensity);
-      input.addEventListener("input", () => setHighlightIntensity(input.value));
+      input.value = String(highlightIntensities[input.dataset.marker]);
+      input.addEventListener("input", () => setHighlightIntensity(input.dataset.marker, input.value));
       input.addEventListener("click", (event) => event.stopPropagation());
     });
 
@@ -483,8 +494,11 @@
         highlights.forEach((stroke) => {
           if (!Array.isArray(stroke.points) || !stroke.points.length) return;
           context.beginPath();
-          const opacity = highlightIntensity / 100 * (stroke.tool === "dark" ? .9 : .58);
-          context.strokeStyle = stroke.tool === "dark" ? `rgba(244, 174, 0, ${opacity})` : `rgba(255, 225, 70, ${opacity})`;
+          const intensity = highlightIntensities[stroke.tool === "dark" ? "dark" : "light"];
+          const darkness = ((intensity - 10) / 90) ** 2;
+          const opacity = .2 + darkness * .8;
+          const lightness = stroke.tool === "dark" ? 55 - darkness * 32 : 78 - darkness * 43;
+          context.strokeStyle = `hsla(${stroke.tool === "dark" ? 42 : 50}, 100%, ${lightness}%, ${opacity})`;
           context.lineWidth = Math.max(1, width * .013);
           stroke.points.forEach((point, index) => {
             const x = point[0] * width;
