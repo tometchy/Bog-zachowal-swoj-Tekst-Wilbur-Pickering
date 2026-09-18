@@ -293,6 +293,31 @@
     .sync-actions .primary { color: white; background: var(--accent); }
     .sync-actions .primary:hover { background: var(--accent-hover); }
 
+    .toast-container {
+      position: fixed;
+      z-index: 50;
+      top: 1rem;
+      left: 50%;
+      display: grid;
+      width: min(34rem, calc(100% - 2rem));
+      gap: .45rem;
+      pointer-events: none;
+      transform: translateX(-50%);
+    }
+    .toast {
+      padding: .7rem .85rem;
+      border: 1px solid rgb(255 255 255 / 25%);
+      border-radius: .55rem;
+      color: white;
+      background: rgb(35 38 37 / 95%);
+      box-shadow: 0 8px 28px rgb(0 0 0 / 30%);
+      font-size: .86rem;
+      line-height: 1.4;
+    }
+    .toast[data-kind="success"] { background: rgb(36 92 67 / 97%); }
+    .toast[data-kind="warning"] { color: #241d09; background: rgb(245 196 74 / 98%); }
+    .toast[data-kind="error"] { background: rgb(157 38 38 / 97%); }
+
     main.reversed .document:first-child { order: 2; }
     main.reversed .document:last-child { order: 1; }
 
@@ -479,6 +504,8 @@
     </form>
   </dialog>
 
+  <div id="toast-container" class="toast-container" aria-live="polite" aria-atomic="false"></div>
+
   <script type="module">
     import * as pdfjsLib from "./vendor/pdfjs/pdf.min.mjs";
 
@@ -497,6 +524,7 @@
     const syncDialog = document.querySelector("#sync-dialog");
     const syncForm = document.querySelector("#sync-form");
     const syncStatus = document.querySelector("#sync-status");
+    const toastContainer = document.querySelector("#toast-container");
     const syncDisable = document.querySelector("#sync-disable");
     let syncTimer;
     let syncInProgress = false;
@@ -539,6 +567,16 @@
 
     function formatSyncTime(date = new Date()) {
       return new Intl.DateTimeFormat("pl-PL", { dateStyle: "short", timeStyle: "medium" }).format(date);
+    }
+
+    function showToast(message, kind = "info", duration = 5_000) {
+      const toast = document.createElement("div");
+      toast.className = "toast";
+      toast.dataset.kind = kind;
+      toast.setAttribute("role", kind === "error" ? "alert" : "status");
+      toast.textContent = message;
+      toastContainer.append(toast);
+      setTimeout(() => toast.remove(), duration);
     }
 
     function setReadOnlyMode(readOnly) {
@@ -650,22 +688,34 @@
         return false;
       }
       syncInProgress = true;
+      const pullVersion = syncChangeVersion;
       syncButton.disabled = true;
+      showToast("Rozpoczęto pobieranie zakreśleń z GitHuba.");
       if (!quiet) setSyncStatus("Pobieranie zakreśleń z GitHuba…");
       try {
         const file = await githubFile(configuration);
         if (!file) {
           if (configuration.mode === "read") throw new Error("Plik zakreśleń jeszcze nie istnieje w repozytorium.");
           if (!quiet) setSyncStatus("Plik jeszcze nie istnieje. Pierwszy zapis utworzy go na GitHubie.");
+          showToast("Zakończono pobieranie: plik zakreśleń jeszcze nie istnieje na GitHubie.", "warning");
           return false;
         }
-        applyHighlightData(JSON.parse(decodeBase64(file.content)));
+        const remoteData = JSON.parse(decodeBase64(file.content));
+        if (syncChangeVersion !== pullVersion || syncPending) {
+          lastSyncPull = Date.now();
+          setSyncStatus("Pobrano dane, ale nie zastosowano ich, ponieważ podczas pobierania powstały lokalne zmiany.");
+          showToast("Zakończono pobieranie, ale zachowano nowe lokalne zakreślenia. Dane z GitHuba nie zostały zastosowane.", "warning", 7_000);
+          return false;
+        }
+        applyHighlightData(remoteData);
         lastSyncPull = Date.now();
         setSyncStatus(`Pobrano zakreślenia: ${formatSyncTime()}.`);
+        showToast("Zakończono pobieranie. Lokalny zestaw zakreśleń zastąpiono aktualnym stanem z GitHuba.", "success", 6_000);
         return true;
       } catch (error) {
         console.error(error);
         setSyncStatus(error.message || "Nie udało się pobrać zakreśleń.", "error");
+        showToast(`Pobieranie nie powiodło się: ${error.message || "nieznany błąd"}`, "error", 7_000);
         return false;
       } finally {
         syncInProgress = false;
@@ -680,6 +730,7 @@
       syncInProgress = true;
       syncButton.disabled = true;
       setSyncStatus("Wysyłanie zakreśleń do GitHuba…");
+      showToast("Rozpoczęto wysyłanie zakreśleń do GitHuba.");
       try {
         const existing = await githubFile(configuration);
         const uploadedVersion = syncChangeVersion;
@@ -698,14 +749,17 @@
           syncPending = false;
           saveValue("sync:pending", "false");
           setSyncStatus(`Wysłano zakreślenia: ${formatSyncTime()}.`);
+          showToast("Zakończono wysyłanie. Zakreślenia zostały zapisane na GitHubie.", "success", 6_000);
         } else {
           syncTimer = setTimeout(pushHighlights, syncDelay);
           setSyncStatus("Wysłano wcześniejsze zmiany. Nowsze zakreślenia nadal czekają na wysłanie.");
+          showToast("Zakończono wysyłanie wcześniejszych zmian. Nowsze lokalne zakreślenia pozostają bezpieczne i zostaną wysłane później.", "warning", 7_000);
         }
         return true;
       } catch (error) {
         console.error(error);
         setSyncStatus(error.message || "Nie udało się wysłać zakreśleń.", "error");
+        showToast(`Wysyłanie nie powiodło się: ${error.message || "nieznany błąd"}. Lokalne zakreślenia pozostają zapisane na tym urządzeniu.`, "error", 8_000);
         return false;
       } finally {
         syncInProgress = false;
