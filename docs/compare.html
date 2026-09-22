@@ -681,6 +681,20 @@
       document.dispatchEvent(new CustomEvent("highlights-sync-change"));
     }
 
+    function rememberUploadedFile(file, data) {
+      if (file?.content?.sha) saveValue("sync:last-uploaded-sha", file.content.sha);
+      if (data?.updatedAt) saveValue("sync:last-uploaded-at", data.updatedAt);
+    }
+
+    function remoteFileIsNotNewer(file, data, configuration) {
+      if (configuration.mode !== "write") return false;
+      const lastUploadedSha = savedValue("sync:last-uploaded-sha", "");
+      if (lastUploadedSha && file.sha === lastUploadedSha) return true;
+      const lastUploadedAt = Date.parse(savedValue("sync:last-uploaded-at", ""));
+      const remoteUpdatedAt = Date.parse(data?.updatedAt || "");
+      return Number.isFinite(lastUploadedAt) && Number.isFinite(remoteUpdatedAt) && remoteUpdatedAt <= lastUploadedAt;
+    }
+
     async function pullHighlights({ quiet = false } = {}) {
       const configuration = syncConfiguration();
       if (!syncIsConfigured(configuration) || syncInProgress) return false;
@@ -702,6 +716,12 @@
           return false;
         }
         const remoteData = JSON.parse(decodeBase64(file.content));
+        if (remoteFileIsNotNewer(file, remoteData, configuration)) {
+          lastSyncPull = Date.now();
+          setSyncStatus("GitHub nie ma nowszych zakreśleń. Zachowano dane lokalne.");
+          if (!quiet) showToast("GitHub zwrócił tę samą albo starszą wersję. Lokalne zakreślenia pozostały bez zmian.", "warning", 7_000);
+          return true;
+        }
         if (syncChangeVersion !== pullVersion || syncPending) {
           lastSyncPull = Date.now();
           setSyncStatus("Pobrano dane, ale nie zastosowano ich, ponieważ podczas pobierania powstały lokalne zmiany.");
@@ -735,9 +755,10 @@
       try {
         const existing = await githubFile(configuration);
         const uploadedVersion = syncChangeVersion;
+        const uploadData = localHighlightData();
         const body = {
           message: `Synchronizuj zakreślenia (${new Date().toISOString()})`,
-          content: encodeBase64(JSON.stringify(localHighlightData()))
+          content: encodeBase64(JSON.stringify(uploadData))
         };
         if (existing?.sha) body.sha = existing.sha;
         const response = await fetch(githubApiUrl(configuration), {
@@ -746,6 +767,7 @@
           body: JSON.stringify(body)
         });
         if (!response.ok) throw new Error(`GitHub odpowiedział kodem ${response.status}. Token musi mieć uprawnienie Contents: Read and write.`);
+        rememberUploadedFile(await response.json(), uploadData);
         if (uploadedVersion === syncChangeVersion) {
           syncPending = false;
           saveValue("sync:pending", "false");
@@ -837,7 +859,7 @@
 
     syncDisable.addEventListener("click", () => {
       clearTimeout(syncTimer);
-      ["owner", "repository", "path", "token", "mode", "pending"].forEach((name) => {
+      ["owner", "repository", "path", "token", "mode", "pending", "last-uploaded-sha", "last-uploaded-at"].forEach((name) => {
         try { localStorage.removeItem(syncPrefix + name); } catch (_) { /* Bez localStorage formularz nadal można zamknąć. */ }
       });
       syncPending = false;
