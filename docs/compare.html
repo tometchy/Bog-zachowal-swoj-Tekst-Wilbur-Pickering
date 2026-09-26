@@ -635,10 +635,42 @@
     async function githubFile(configuration) {
       const response = await fetch(githubApiUrl(configuration), { headers: githubHeaders(configuration) });
       if (response.status === 404) return null;
-      if (!response.ok) throw new Error(`GitHub odpowiedział kodem ${response.status}. Sprawdź repozytorium, token i jego uprawnienia.`);
-      const file = await response.json();
+      if (!response.ok) throw new Error(`GitHub odpowiedział kodem ${response.status} (${response.statusText || "brak opisu"}). Sprawdź repozytorium, ścieżkę pliku, token i jego uprawnienia.`);
+      let file;
+      try {
+        file = await response.json();
+      } catch (error) {
+        throw new Error("GitHub zwrócił nieprawidłową odpowiedź zamiast informacji o pliku.", { cause: error });
+      }
       if (file.type !== "file" || typeof file.content !== "string") throw new Error("Ścieżka synchronizacji nie wskazuje pliku GitHub.");
       return file;
+    }
+
+    async function githubFileContents(file, configuration) {
+      if (file.encoding === "base64" && file.content.trim()) return decodeBase64(file.content);
+
+      // GitHub nie umieszcza zawartości plików większych niż 1 MB w standardowej
+      // odpowiedzi Contents API. Pobranie wariantu raw działa także dla takich plików.
+      const response = await fetch(githubApiUrl(configuration), {
+        headers: { ...githubHeaders(configuration), Accept: "application/vnd.github.raw+json" }
+      });
+      if (!response.ok) {
+        throw new Error(`Nie udało się pobrać zawartości pliku. GitHub odpowiedział kodem ${response.status} (${response.statusText || "brak opisu"}).`);
+      }
+      const contents = await response.text();
+      if (!contents.trim()) {
+        throw new Error(`Plik „${configuration.path}” jest pusty (GitHub zgłasza rozmiar ${file.size ?? "nieznany"} B).`);
+      }
+      return contents;
+    }
+
+    function parseRemoteHighlightData(contents, file, configuration) {
+      try {
+        return JSON.parse(contents);
+      } catch (error) {
+        const receivedBytes = new TextEncoder().encode(contents).length;
+        throw new Error(`Plik „${configuration.path}” nie zawiera poprawnego JSON-u (pobrano ${receivedBytes} B, GitHub zgłasza ${file.size ?? "nieznany"} B): ${error.message}`, { cause: error });
+      }
     }
 
     function localHighlightData() {
@@ -715,7 +747,8 @@
           showToast("Zakończono pobieranie: plik zakreśleń jeszcze nie istnieje na GitHubie.", "warning");
           return false;
         }
-        const remoteData = JSON.parse(decodeBase64(file.content));
+        const remoteContents = await githubFileContents(file, configuration);
+        const remoteData = parseRemoteHighlightData(remoteContents, file, configuration);
         if (remoteFileIsNotNewer(file, remoteData, configuration)) {
           lastSyncPull = Date.now();
           setSyncStatus("GitHub nie ma nowszych zakreśleń. Zachowano dane lokalne.");
