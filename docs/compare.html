@@ -479,7 +479,7 @@
         <h2>Synchronizacja zakreśleń</h2>
         <button class="sync-close" type="button" aria-label="Zamknij">×</button>
       </div>
-      <p class="sync-description">Zakreślenia pozostają zapisane lokalnie i są synchronizowane z plikiem JSON w osobnym repozytorium GitHub. Automatyczny zapis następuje po 90 sekundach bez nowych zmian, aby ograniczyć liczbę commitów.</p>
+      <p class="sync-description">Zakreślenia pozostają zapisane lokalnie i są synchronizowane z plikiem JSON w osobnym repozytorium GitHub. Automatyczny zapis następuje po 90 sekundach bez nowych zmian, aby ograniczyć liczbę commitów. Link z parametrem <code>?token=TOKEN</code> zapisuje token na urządzeniu odbiorcy, włącza tryb tylko do odczytu i natychmiast usuwa token z paska adresu. Opcjonalne parametry to <code>owner</code>, <code>repository</code> i <code>path</code>.</p>
       <fieldset class="sync-section">
         <legend>Intensywność zakreślaczy</legend>
         <div class="intensity-row"><label>Jasny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="light" type="range" min="10" max="100" step="5" aria-label="Intensywność jasnego zakreślacza"><span>Ciemniej</span></div>
@@ -527,6 +527,7 @@
     const syncStatus = document.querySelector("#sync-status");
     const toastContainer = document.querySelector("#toast-container");
     const syncDisable = document.querySelector("#sync-disable");
+    const sharedSyncConfigurationImported = consumeSharedSyncConfiguration();
     let syncTimer;
     let syncInProgress = false;
     let syncPending = savedValue("sync:pending", "false") === "true";
@@ -541,6 +542,30 @@
     function saveValue(key, value) {
       try { localStorage.setItem(storagePrefix + key, value); }
       catch (_) { /* Porównywarka działa również przy wyłączonym localStorage. */ }
+    }
+
+    function consumeSharedSyncConfiguration() {
+      const url = new URL(window.location.href);
+      const token = url.searchParams.get("token")?.trim();
+      if (!token) return false;
+
+      const sharedValues = {
+        owner: url.searchParams.get("owner")?.trim() || savedValue("sync:owner", "tometchy").trim() || "tometchy",
+        repository: url.searchParams.get("repository")?.trim() || savedValue("sync:repository", "pickering-compare-data").trim() || "pickering-compare-data",
+        path: url.searchParams.get("path")?.trim() || savedValue("sync:path", "highlights.json").trim() || "highlights.json",
+        token,
+        mode: "read",
+        pending: "false"
+      };
+      Object.entries(sharedValues).forEach(([name, value]) => saveValue(`sync:${name}`, value));
+      ["last-uploaded-sha", "last-uploaded-at"].forEach((name) => {
+        try { localStorage.removeItem(syncPrefix + name); }
+        catch (_) { /* Konfiguracja tylko do odczytu nie wymaga metadanych wysyłki. */ }
+      });
+
+      ["token", "owner", "repository", "path"].forEach((name) => url.searchParams.delete(name));
+      history.replaceState(history.state, "", url.pathname + url.search + url.hash);
+      return true;
     }
 
     function syncConfiguration() {
@@ -1296,6 +1321,9 @@
     setLayout(savedValue("layout", "side-by-side"));
     main.classList.toggle("reversed", savedValue("order", "normal") === "reversed");
     updateSyncInterface();
+    if (sharedSyncConfigurationImported) {
+      showToast("Wczytano udostępnioną synchronizację w trybie tylko do odczytu.", "success", 6_000);
+    }
     if (syncIsConfigured()) {
       if (syncPending && syncConfiguration().mode === "write") syncTimer = setTimeout(pushHighlights, 5_000);
       else pullHighlights({ quiet: true });
