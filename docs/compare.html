@@ -675,18 +675,26 @@
       if (file.encoding === "base64" && file.content.trim()) return decodeBase64(file.content);
 
       // GitHub nie umieszcza zawartości plików większych niż 1 MB w standardowej
-      // odpowiedzi Contents API. Pobranie wariantu raw działa także dla takich plików.
-      const response = await fetch(githubApiUrl(configuration), {
-        headers: { ...githubHeaders(configuration), Accept: "application/vnd.github.raw+json" }
-      });
+      // odpowiedzi Contents API. Blob API zwraca ją nadal jako base64 i, w
+      // przeciwieństwie do negocjowania wariantu raw, nie może zostać omyłkowo
+      // zinterpretowane jako metadane JSON pliku synchronizacji.
+      if (typeof file.git_url !== "string" || !file.git_url) {
+        throw new Error("GitHub nie podał adresu zawartości pliku synchronizacji.");
+      }
+      const response = await fetch(file.git_url, { headers: githubHeaders(configuration) });
       if (!response.ok) {
         throw new Error(`Nie udało się pobrać zawartości pliku. GitHub odpowiedział kodem ${response.status} (${response.statusText || "brak opisu"}).`);
       }
-      const contents = await response.text();
-      if (!contents.trim()) {
+      let blob;
+      try {
+        blob = await response.json();
+      } catch (error) {
+        throw new Error("GitHub zwrócił nieprawidłową odpowiedź zamiast zawartości pliku.", { cause: error });
+      }
+      if (blob.encoding !== "base64" || typeof blob.content !== "string" || !blob.content.trim()) {
         throw new Error(`Plik „${configuration.path}” jest pusty (GitHub zgłasza rozmiar ${file.size ?? "nieznany"} B).`);
       }
-      return contents;
+      return decodeBase64(blob.content);
     }
 
     function parseRemoteHighlightData(contents, file, configuration) {
