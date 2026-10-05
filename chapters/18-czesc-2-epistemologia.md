@@ -30,7 +30,7 @@ Pewien brat mieszkający w Kurytybie, stolicy stanu Parana, napisał niedawno wp
 >
 > Wyjaśniwszy zatem, że poniższe wersy odnoszą się wyłącznie do opracowywanej tutaj przeze mnie argumentacji perswazyjnej, wykorzystującej logikę modalną (a nie do sposobu, w jaki dr Pickering konstruuje swoje argumenty), mogę sformułować następujące przesłanki jako podstawę rozumowania o zachowaniu Tekstu Nowego Testamentu, którego przykładem jest Rodzina 35.
 >
-> 1. Możliwe, że Bóg przekazał rasie ludzkiej pisemne objawienie.
+> 1. Jest możliwe, że Bóg przekazał rasie ludzkiej pisemne objawienie.
 >
 > 2. Jeśli Bóg przekazał nam takie objawienie, rozsądne jest, że zostało ono zachowane.
 >
