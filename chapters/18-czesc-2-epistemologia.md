@@ -38,7 +38,7 @@ Pewien brat mieszkający w Kurytybie, stolicy stanu Parana, napisał niedawno wp
 >
 > 4. Jedynym typem tekstu, który obiektywnie stanowi przykład punktu 3), jest typ Rodziny 35.
 >
-> Wiara w istnienie Boga jest decyzją wiary. Nie jest jednak wiarą irracjonalną, ponieważ wiara chrześcijańska stanowi, jak argumentował Alvin Platinga, przekonanie posiadające uzasadnienie epistemiczne i dlatego odpowiada prawdziwej wiedzy, jeśli przedmiot tego przekonania jest prawdziwy. W tej dziedzinie funkcjonują tradycyjne argumenty apologetyczne na rzecz istnienia Boga.
+> Wierzyć, że Bóg istnieje jest decyzją wiary. Nie jest jednak wiarą irracjonalną, ponieważ wiara chrześcijańska stanowi, jak argumentował Alvin Platinga, przekonanie posiadające uzasadnienie epistemiczne i dlatego odpowiada prawdziwej wiedzy, jeśli przedmiot tego przekonania jest prawdziwy. W tej dziedzinie funkcjonują tradycyjne argumenty apologetyczne na rzecz istnienia Boga.
 >
 > Z drugiej strony, historyczne rozważenie osoby Jezusa wiąże się z kwestią objawienia, ponieważ wszystkie podstawowe fakty wiary chrześcijańskiej prowadzą do Chrystusa jako punktu kulminacyjnego procesu samoobjawienia się Boga w Historii.
 >
