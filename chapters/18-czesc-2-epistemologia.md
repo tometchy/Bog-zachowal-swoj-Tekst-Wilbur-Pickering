@@ -46,7 +46,7 @@ Pewien brat mieszkający w Kurytybie, stolicy stanu Parana, napisał niedawno wp
 >
 > Innymi słowy, jedyną przesłanką dodaną w drodze wnioskowania do podstawowych faktów wiary chrześcijańskiej jest zachowanie Tekstu Nowego Testamentu. Oznacza to, że trynitarny teizm dr. Pickeringa zakłada nie tylko Boga będącego Stwórcą, Zbawicielem i Opiekunem, ale przez proste racjonalne wnioskowanie dodaje do Bożej Opatrzności zachowanie Tekstu Nowego Testamentu.
 >
-> Jakkolwiek by było, należy zauważyć, że choć dowiedzenie punktu 1) przypisałem tradycyjnej apologetyce, a ponadto punkt 2) można rozsądnie wywnioskować na podstawie punktu 1), pozostaje faktem, że na potrzeby analizy argumentu twierdzenie 3) wynika z punktów 1) i 2). Cała ważność argumentu zależy zatem wyłącznie od dowiedzenia punktu 4), to znaczy, że tekst Rodziny 35 jest jedynym typem tekstu Nowego Testamentu, o którym można obiektywnie wykazać, że został zachowany. Właśnie tutaj do głosu dochodzi praca dr. Pickeringa.
+> Jakkolwiek by było, należy zauważyć, że choć dowiedzenie punktu 1) przypisałem tradycyjnej apologetyce, a ponadto punkt 2) można rozsądnie wywnioskować na podstawie punktu 1), pozostaje faktem, że na potrzeby analizy argumentu, twierdzenie 3) wynika z punktów 1) i 2). Cała ważność argumentu zależy zatem wyłącznie od dowiedzenia punktu 4), to znaczy, że tekst Rodziny 35 jest jedynym typem tekstu Nowego Testamentu, o którym można obiektywnie wykazać, że został zachowany. Właśnie tutaj do głosu dochodzi praca dr. Pickeringa.
 >
 > Dokładnie w tym punkcie, przy wykazywaniu twierdzenia 4), praca dr. Pickeringa przestaje mieć charakter jedynie założeniowy i staje się empiryczna, analizując dowody w obiektywny sposób, do czego dąży każdy szanowany współczesny naukowiec.
 >
