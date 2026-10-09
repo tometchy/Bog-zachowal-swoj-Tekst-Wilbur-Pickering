@@ -78,4 +78,4 @@ Nalegam, że nie jestem czystym empirystą. Moja praca jest zakotwiczona w przes
 
 [^szatan-zmusza-slugi-do-klamstwa]: Ponieważ Szatan zobowiązuje swoje sługi do mijania się z prawdą, nie oczekuję, że będą mnie traktować uczciwie.
 
-[^jehowa-syn-glownym-stworca]: List do Hebrajczyków 1,10, Ewangelia Jana 1,10 oraz List do Kolosan 1,16 wyjaśniają, że spośród trzech Osób tworzących Bóstwo Jehowa Syn był głównym sprawcą stworzenia naszej planety i naszej rasy. Jest zatem Źródłem wszelkiej prawdziwej wiedzy dotyczącej życia na tej planecie, jak jasno stwierdza List do Kolosan 2,3: „w którym ukryte są wszystkie skarby mądrości i wiedzy”.
+[^jehowa-syn-glownym-stworca]: List do Hebrajczyków 1,10, Ewangelia Jana 1,10 oraz List do Kolosan 1,16 wyjaśniają, że spośród trzech Osób tworzących Boga, Jehowa Syn był głównym sprawcą stworzenia naszej planety i naszej rasy. Jest zatem Źródłem wszelkiej prawdziwej wiedzy dotyczącej życia na tej planecie, jak jasno stwierdza List do Kolosan 2,3: „w którym ukryte są wszystkie skarby mądrości i wiedzy”.
