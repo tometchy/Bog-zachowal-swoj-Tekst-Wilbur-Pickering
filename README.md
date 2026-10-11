@@ -1,6 +1,6 @@
 # Przegląd tłumaczenia
 
-Raport porównania z angielskim oryginałem, uwagi do treści i formatowania oraz stan pracy są w [REVIEW.md](REVIEW.md). Na tym etapie powstają wyłącznie uwagi — tekst książki nie jest zmieniany.
+Pełny przegląd tłumaczenia zakończono 2026-10-11. Uwagi do treści i formatowania, priorytety oraz instrukcja dalszej pracy są w [REVIEW.md](REVIEW.md). Zapisano wyłącznie uwagi — tekst książki nie został zmieniony.
 
 # Pandoc book template
 
