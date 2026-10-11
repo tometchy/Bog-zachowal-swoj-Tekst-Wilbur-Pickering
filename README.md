@@ -1,3 +1,7 @@
+# Przegląd tłumaczenia
+
+Raport porównania z angielskim oryginałem, uwagi do treści i formatowania oraz stan pracy są w [REVIEW.md](REVIEW.md). Na tym etapie powstają wyłącznie uwagi — tekst książki nie jest zmieniany.
+
 # Pandoc book template
 
 [![CircleCI](https://circleci.com/gh/wikiti/pandoc-book-template.svg?style=shield)](https://circleci.com/gh/wikiti/pandoc-book-template)
@@ -363,4 +367,3 @@ with.
 - [Pandoc](http://pandoc.org/)
 - [Pandoc Manual](http://pandoc.org/MANUAL.html)
 - [Wikipedia: Markdown](http://wikipedia.org/wiki/Markdown)
-
