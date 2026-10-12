@@ -1,6 +1,6 @@
 # Przegląd tłumaczenia
 
-Pełny przegląd tłumaczenia zakończono 2026-10-11. Uwagi do treści i formatowania, priorytety oraz instrukcja dalszej pracy są w [REVIEW.md](REVIEW.md). Zapisano wyłącznie uwagi — tekst książki nie został zmieniony.
+Pełny przegląd tłumaczenia zakończono 2026-10-11, a 2026-10-12 uzupełniono go po weryfikacji drugiego raportu AI. Uwagi do treści i formatowania, priorytety oraz instrukcja dalszej pracy są w [REVIEW.md](REVIEW.md). Zapisano wyłącznie uwagi — tekst książki nie został zmieniony.
 
 # Pandoc book template
 

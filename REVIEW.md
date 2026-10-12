@@ -4,6 +4,8 @@
 
 **Zakończono pierwsze pełne porównanie tłumaczenia z oryginałem — 2026-10-11.** Sprawdzono wszystkie 50 plików w `chapters/`, w tym oba pliki z prefiksem `09`. Poniżej znajdują się uwagi do kompletności, wierności, terminologii i formy. **Nie poprawiono tekstu książki ani plików wynikowych.** Raport jest listą do rozpatrzenia, nie informacją, że książka jest już wolna od błędów.
 
+**Aktualizacja 2026-10-12:** zakończono weryfikację dodatkowego raportu `review-calej-ksiazki.md`. Sekcja „Uzupełnienie po porównaniu z drugim raportem” zawiera nowe uwagi U-001–018, decyzję U-T01, noty U-S01–03 oraz mapę duplikatów i sugestii odrzuconych. Rozszerzono też P3-T01. Pozostałe wcześniejsze ustalenia zachowano.
+
 - Podstawa porównania: commit `4d35b43d4dd9868d5a600c1f4b9c88128f58010c` z 2026-10-09. Praca rozpoczęta 2026-10-10.
 - Uwzględniona późniejsza zmiana użytkownika na `origin/master`: `17c80ef81abe5df94d90d197c896db41e615dd3f` dodaje bold do `XII` w `chapters/19-czesc-2-datowanie-kr-ponownie-rozwazone.md:3`. Tego miejsca **nie zalicza się do otwartych usterek**. Pozostałe uwagi odnoszą się do bazy wskazanej wyżej.
 - Wzorzec: [God-Has-Preserved-His-Text-4th.pdf](God-Has-Preserved-His-Text-4th.pdf), 331 stron pliku. Strony drukowane 1–323 odpowiadają stronom PDF 9–331 (+8); przedmowa iii / PDF 3, podziękowania iv / PDF 4. Druk 260 / PDF 268 jest pusty. `neway/` nie jest niezależnym wzorcem poprawności.
@@ -66,7 +68,7 @@ Wybrane kontrole danych i wyniki dodatnie:
 
 **Ograniczenie:** polski wynikowy PDF oglądano punktowo w miejscach problemów eksportu (m.in. strony 125–126, 341, 348, 368 i 390), nie wykonano pełnej korekty typograficznej każdej strony polskiego PDF-u ani wizualnej kontroli całych EPUB/DOCX. Pełny przegląd dotyczy zawartości i oznaczeń Markdown w porównaniu z oryginałem. Po przyszłych poprawkach potrzebne będą ponowny eksport i kontrola składu. Nie uruchamiano `make pdf`, bo w tym zadaniu nie zmieniono książki.
 
-Do wspólnej decyzji terminologicznej pozostają zwłaszcza `exemplar` (P2-001, P3-001, P5-T03), szczególne użycie `not yet extant` (P3-T01, P4-T01) oraz rozróżnienie `Catholic Epistles / General Epistles` (P3-T02, P4-T02, P5-T02). Nie stosować globalnej zamiany bez rozstrzygnięcia znaczenia.
+Do wspólnej decyzji terminologicznej pozostają zwłaszcza `exemplar` (P2-001, P3-001, P5-T03), szczególne użycie `not yet extant` (P3-T01, P4-T01), rozróżnienie `Catholic Epistles / General Epistles` (P3-T02, P4-T02, P5-T02) oraz `singular reading` (U-T01). Nie stosować globalnej zamiany bez rozstrzygnięcia znaczenia.
 
 ## Uwagi ogólne
 
@@ -916,6 +918,8 @@ Wszystkie wymienione podkreślenia sprawdzono na renderach oryginału, pogrubien
 - PL: rozdział 36, w. 121: P72 „niezachowany jeszcze w czasach Burgona”; rozdział 37, w. 143 i 279: manuskrypty „jeszcze «niezachowane»”. EN druk 220, 246, 257 / PDF 228, 254, 265: *wasn’t extant*, *not yet ‘extant’*.
 - Autor używa *extant* w szczególnym sensie: nieznane / jeszcze niezidentyfikowane i nieskatalogowane (sam to objaśnia w przypisie druk 246). Po polsku „niezachowany” zwykle oznacza, że obiekt nie przetrwał, a „jeszcze niezachowany” daje sprzeczną sugestię czasową. Problem wymaga wspólnej decyzji terminologicznej z analogicznymi miejscami w dodatkach; nie prostować po cichu autora.
 
+- Uzupełnienie 2026-10-12 po porównaniu drugiego raportu: `chapters/34-czesc-3-kiedy-mamy-do-czynienia-z-recenzja.md:117`, przypis `alef-wyniesiony-z-synaju`, „stał się zachowanym manuskryptem na Synaju”. EN druk 202 / PDF 210 ma `became extant in Sinai`; chodzi o pojawienie się w rozpoznanym zasobie świadków, nie o rozpoczęcie istnienia/przetrwania. Do tej samej decyzji należą także `23:124` i `33:164`, źródłowe `not yet ‘extant’` (druk 117 i 191 / PDF 125 i 199). Zachować szczególne użycie autora i uzgodnić czytelny polski odpowiednik, nie korygować po cichu jego terminologii.
+
 ### P3-T02 — terminologia: dwa powtarzające się odpowiedniki wymagające ujednolicenia z regułami
 
 - Rozdział 36, w. 5 i rozdział 37, w. 37: *solitary evidence* w cytacie Burgona oddano jako „samotne świadectwo” (druk 215 i 235 / PDF 223 i 243), mimo ustalonego *evidence → dowód/dowody*. Rozważyć wierną składnię zachowującą przyjęty termin, nie mylić z osobnym *testimony*.
@@ -1073,9 +1077,233 @@ Wszystkie poniższe pozycje dotyczą `chapters/48-dodatek-czy-krytyka-tekstu-now
 - `chapters/44-dodatek-skolacjonowane-manuskrypty-f35.md:7,61`, druk 289 / PDF 297.
 - Przypis po `GA 35 is complete` rozpoczyna się od `AG 586` i omawia wariant 586. To źródłowa niekonsekwencja, nie dowód przestawienia przypisu przez tłumacza. PL normalizuje `AG` do `GA`; tę oczywistą literówkę źródła warto odnotować poza tekstem autora, jeżeli ma być zachowana pełna dokumentacja interwencji.
 
+## Uzupełnienie po porównaniu z drugim raportem — 2026-10-12
+
+**Stan uzupełnienia: zakończone.** Sprawdzono wszystkie konkretne uwagi drugiego raportu i ich wystąpienia w sekcjach przekrojowych. Dodano 18 grup uwag U-001–018, jedną decyzję terminologiczną U-T01 oraz trzy noty o źródle U-S01–03. P3-T01 rozszerzono o trzy lokalizacje. Uwagi czysto językowe lub stylistyczne oznaczono jako takie; nie należy utożsamiać wszystkich nowych wpisów z błędami merytorycznymi. Nie zmieniono książki.
+
+Porównano lokalny plik użytkownika `review-calej-ksiazki.md` (SHA-256: `db71b23f3322ccb910a5bd8c6cd679a15c629eefe8246be3e6f1bd97a4c02435`) z niniejszym raportem. Drugi raport opiera się na `b0c5bc165a97d8de32faed076f7c16b461d7ecd3`; różnica treści książki względem naszej bazy `4d35b43...` dotyczy tylko jednego fragmentu przypisu 18:81 i nie wpływa na sprawdzane zarzuty. Wejściowy plik użytkownika pozostawiono bez zmian.
+
+Numery U oznaczają nowe, zweryfikowane ustalenia; U-S oznacza problemy lub cechy oryginału, nie błędy tłumaczenia. Uwaga obejmująca kilka lokalizacji pozostaje jedną grupą. Dawnych identyfikatorów P1–P5/G nie zmieniono.
+
+### U-001 — Forma językowa: urwane zdanie w przedmowie
+
+- Lokalizacja: `chapters/02-przedmowa.md:4`, „Włącznie ze stanowiskiem, że dokładne oryginalne brzmienie zostało zachowane…”.
+- Źródło: druk iii / PDF 3: „This includes the position that the precise original wording has been preserved to our day and that we can know what it is.”
+- Problem: zdanie EN ma orzeczenie, a polski fragment po kropce zaczyna się przyimkowym „Włącznie ze stanowiskiem…” i pozostaje bez zdania nadrzędnego. Jest to usterka składni, niezależna od odnotowanego już P1-002 problemu `original wording`.
+- Kierunek: połączyć fragment z poprzednim zdaniem albo zachować pełne zdanie typu „Obejmuje to stanowisko, że…”, wraz z korektą terminu według P1-002.
+
+### U-002 — Forma językowa: zgoda w przypisie tłumacza do podziękowań
+
+- Lokalizacja: `chapters/03-podziekowania.md:7`: „Oryginalna okładka i formatowanie nie zostało wykorzystane…”.
+- Źródło: brak odpowiednika — jawnie oznaczony przypis tłumacza do podziękowań z druku iv / PDF 4.
+- Problem: podmiot szeregowy „okładka i formatowanie” wymaga liczby mnogiej orzeczenia; obecne „zostało wykorzystane” zgadza się jedynie z drugim składnikiem.
+- Kierunek: „…nie zostały wykorzystane…”. To korekta językowa dodatku, nie zarzut jego obecności.
+
+### U-003 — Treść: skamieniałość zawężona do szkieletu
+
+- Lokalizacja: `chapters/04-czesc-1-preambula.md:23`: „kompletny szkielet dinozaura…”.
+- Źródło: druk 3 / PDF 11: „a complete fossil of a dinosaur called ‘acrocanthasaurus’”.
+- Problem: EN mówi o skamieniałości, nie o szkielecie. PL usuwa informację o skamienieniu i wprowadza konkretny typ znaleziska, którego to zdanie nie określa. Nie oceniamy tu prawdziwości twierdzeń autora o muzeum ani wieku znalezisk.
+- Kierunek: „kompletna skamieniałość dinozaura…” (z dopasowaniem rodzaju dalszego zdania). Nie dodawać „szkieletu”, jeśli nie ma go w przytoczonym źródle.
+
+### U-004 — Treść: utrata kierunku wnioskowania wstecz
+
+- Lokalizacja: `chapters/08-czesc-1-historyczne-dowody.md:3`: „Musimy zacząć od tego, co zrobił”.
+- Źródło: druk 14 / PDF 22: „We must work back from what He did.”
+- Problem: PL zachowuje punkt wyjścia, ale pomija `back`: autor proponuje rozumowanie wstecz od dokonanych działań do sposobu zachowania Tekstu. W w. 11 ten tok jest później objaśniony, co ogranicza wagę usterki, lecz nie przywraca brakującego elementu w zdaniu wprowadzającym.
+- Kierunek: wyrazić wnioskowanie wstecz, np. „Musimy wnioskować wstecz na podstawie tego, co zrobił”. P1-026 osobno opisuje brak podkreślenia odpowiednika `did`; nie liczyć go drugi raz.
+
+### U-005 — Forma językowa: dwie dalsze konkretne usterki interpunkcyjne w pliku 05
+
+- Lokalizacja: `chapters/05-czesc-1-wprowadzenie-natchnienie.md:13`: „między Bogiem, a Jego spisanym Objawieniem”. Źródło: druk 7 / PDF 15, „the intimate connection between God and His written Revelation”. Przecinek rozdziela dwa człony konstrukcji „między X a Y”; należy go usunąć.
+- Lokalizacja: ten sam plik, w. 40: „Zwróć, proszę uwagę, że…”. Źródło: druk 10 / PDF 18, „Please note that Jesus affirms…”. Wtrącone „proszę” otwarto przecinkiem, ale go nie zamknięto. „Zwróć, proszę, uwagę, że…” albo „Zwróć proszę uwagę, że…”.
+- To konkretyzacja ogólnej uwagi drugiego raportu o dodatkowych usterkach interpunkcyjnych w 05, nie nowe zmiany sensu. Nie dublować przecinków po „Słowo” i „przekazałem”, które już obejmuje P1-008.
+
+### U-006 — Terminologia: master copy jako egzemplarz wzorcowy, nie ogólnie „oryginalny”
+
+- PL: `chapters/09-czesc-1-historyczne-dowody-autografy.md:11,13,14`, cztery wystąpienia „oryginalny egzemplarz / oryginalnego egzemplarza”.
+- EN: druk 17 / PDF 25, cztery `master copy`: „the master copy may indeed have been done on parchment”; przechowywany „for quality control” i służący sporządzaniu dalszych kopii.
+- Potwierdzona jest utrata wyraźnego określenia funkcji egzemplarza wzorcowego. Kierunek: konsekwentnie „egzemplarz wzorcowy” albo „egzemplarz-matka”.
+- **Zastrzeżenie do diagnozy drugiego raportu:** nie dowiedziono, że Pickering wyklucza tu tożsamość egzemplarza wzorcowego z autografem; nie pisać, że PL na pewno utożsamia dwa dokumenty, które autor jednoznacznie rozdzielił. To precyzja terminologiczna, nie potwierdzona duża zmiana argumentacji.
+
+### U-007 — Forma: w 09 dodano listę, a w 10 oryginalna lista nie parsuje się jako lista
+
+- `chapters/09-czesc-1-historyczne-dowody-autografy.md:11–14`, druk 17 / PDF 25: EN ma ciągły akapit „for two reasons: if …; if …”; PL przekształca dwie części zdania w listę wypunktowaną. Treść zachowana, ale układ zmieniony; przy ścisłym zachowaniu formy wrócić do prozy. Widać na obrazie całej strony 25.
+- `chapters/10-czesc-1-historyczne-dowody-czy-pierwsi-chrzescijanie-byli-ostrozni.md:53–56`, druk 34–35 / PDF 42–43: oryginał rzeczywiście zawiera trzy wypunktowane tezy. PL ma trzy linie `-`, lecz bez pustego wiersza po „następujące tezy:”. `pandoc --from=markdown-smart -t native` zwraca **jeden `Para` z `SoftBreak` i literalnymi `Str "-"`**, nie `BulletList`. Dodać pustą linię przed pierwszym punktem i sprawdzić eksport. To rzeczywisty problem parsowania, a nie tylko reguła estetyczna Markdownu. Obie strony źródła obejrzane.
+
+### U-008 — Ustalone odpowiedniki pominięte w pierwszym raporcie: line of transmission i NT
+
+- `chapters/14-czesc-1-historyczne-dowody-jakie-sa-rzeczywiste-dowody.md:42`, druk 58 / PDF 66: EN „the lines of transmission remained separate”, PL „linie transmisji pozostawały odrębne”. Zachować „linie przekazu”. Nie narzucać tej zamiany sąsiedniemu `textual transmission` → „transmisja tekstowa”, bo to inna konstrukcja.
+- `chapters/15-czesc-1-uwagi-koncowe.md:11`, druk 60 / PDF 68: EN „resulted in lines of transmission”, PL „doprowadził do powstania linii przekazywania”. Ustalone „linii przekazu”.
+- `chapters/16-czesc-2-czym-wlasciwie-jest-rodzina-35.md:1`, druk 63 / PDF 71: EN `The Best Line of Transmission`, PL `Najlepsza linia przekazywania`. Ustalone „Najlepsza linia przekazu”.
+- `chapters/09-czesc-1-historyczne-dowody-autografy.md:32`, jawny dodatek tłumacza w przypisie `kolofony-datuja-wydanie`: „greckich rękopisów NT”, „każdej księgi NT” oraz „linię transmisji”. Naruszają własną konwencję projektu: „Nowego Testamentu” i „linię przekazu”. Cytowaną angielską nazwę „Family 35 NT” rozpatrywać osobno jako nazwę, nie mechanicznie przerabiać. Sam dodatek i jego adresy nie są przez to błędem przekładu Pickeringa.
+
+### U-009 — Terminologia: variant reading / variation w rozdziale 12
+
+- PL `chapters/12-czesc-1-historyczne-dowody-czy-przekazywanie-przebiegalo-normalnie.md:39`, druk 47 / PDF 55: „zastępuje jeden wariant odczytu innym … występowały wariacje”. EN „replacing one variant reading by another … there was variation at these points”.
+- Pierwszy człon ma ustalony odpowiednik „jeden wariantowy odczyt innym”. Końcowe `variation` opisuje zróżnicowanie tekstu w tych miejscach; „wariacje” jest nietrafne w tym technicznym kontekście. Kierunek: „w tych miejscach istniało już zróżnicowanie” lub równie precyzyjna konstrukcja, nie zastępować automatycznie każdego `variation` rzeczownikiem `variant reading`.
+- Ten sam ustalony termin w `12:65`, druk 45 / PDF 53: EN `a great many variant readings`, PL „bardzo wiele wariantów odczytów”; kierunek „bardzo wiele wariantowych odczytów”. P1-048 dotyczy innej, późniejszej części tego przypisu, więc może zostać uzupełniony lub dostać odsyłacz.
+
+### U-010 — Drobne usterki językowe w obu plikach 09, dotąd nienotowane
+
+`chapters/09-czesc-1-historyczne-dowody-autografy.md`:
+
+- w. 7: „na samym na terytorium żydowskim” → „na samym terytorium żydowskim”; druk 16 / PDF 24, EN `just in the Jewish territory`.
+- w. 40: „stał by się” → „stałby się”; druk 18 / PDF 26, EN `would doubtless have become`.
+- w. 36, oznaczony przypis tłumacza: „ponieważ charakteryzowały się tam znaczące interakcje” jest niegramatyczne. Np. „ponieważ zachodziły tam znaczące interakcje”. Uwaga wyłącznie do języka dodatku, bez orzekania o historycznej prawdziwości dopisku.
+
+`chapters/09-czesc-1-historyczne-dowody-wczesne-rozpoznanie.md`:
+
+- w. 37: „wybrane księgi … (i obejmujących co najmniej pięciu różnych autorów)” → uzgodnić imiesłów z księgami, np. „obejmujące”; druk 24 / PDF 32, EN `a selection of New Testament books … (and involving at least five different authors)`.
+- w. 45: aktualne „Siedem listów … zawierają” → **„Siedem listów … zawiera”**; druk 25 / PDF 33, EN `The seven letters … contain`. Drugi raport mówi odwrotnie i błędnie żąda liczby mnogiej; zweryfikowane ustalenie wymaga odwrócenia jego wskazówki.
+- w. 45: „trochę hiperbola” → np. „to nieco hiperboliczne”; to samo EN `a bit of hyperbole`. Nie zmieniać przy okazji stopnia oceny autora.
+- w. 55: „z możliwymi aluzjami do … List Judy i Objawienie Jana” → „Listu Judy i Objawienia Jana”; druk 26 / PDF 34, EN `with possible allusions to 2 Peter, Jude, and Revelation`.
+- w. 75: podwójna spacja w „on  Ewangelię”; druk 28 / PDF 36.
+- w. 79: „są mniej więcej równe pod względem objętości do dzieł” → poprawna rekcja, np. „mają mniej więcej taką samą objętość jak dzieła …”. Wtrącenie „jego główne dzieło … napisane około 185 r.” wymaga czytelnego składniowego oddzielenia od podmiotu. Druk 28 / PDF 36, EN `The surviving writings …, his major work … being written about 185, are about equal in volume to those of all the preceding Fathers put together`.
+- w. 81: „trzy kościoły, tych z Lyonu, Azji Mniejszej i Rzymu” → np. „trzy kościoły: w Lyonie, Azji Mniejszej i Rzymie”; druk 28 / PDF 36, EN `three churches at least, those of Lyons, Asia Minor, and Rome`. Status cytatu już P1-023, ale nie opisywał on błędu składni.
+
+### U-011 — Drobna korekta językowa w 11–14, dotąd nienotowana
+
+- `chapters/11-czesc-1-historyczne-dowody-kto-mial-najlepsze kwalifikacje.md:11`, druk 36 / PDF 44: „dla List Judy” → „dla Listu Judy”; „a być może, że aż siedem” → „a być może aż siedem” (EN `possibly up to seven`).
+- Tamże: zdania „Ewangelia Mateusza i List Jakuba albo przez Azję Mniejszą, albo Palestynę. List do Hebrajczyków przez Rzym lub Palestynę…” są urwanymi kontynuacjami orzeczenia wcześniejszego zdania. **Źródło też stosuje elipsę, lecz w jednym zdaniu rozdzielonym średnikami** (`Matthew and James by either Asia Minor or Palestine; Hebrews by Rome or Palestine`). Kierunek: zachować logiczne połączenie z „były … przechowywane” albo jawnie powtórzyć orzeczenie po kropce; nie dodawać nowego twierdzenia.
+- `chapters/12-czesc-1-historyczne-dowody-czy-przekazywanie-przebiegalo-normalnie.md:3`, druk 42 / PDF 50: „Konstantyn zaprowadził ulgę” jest niezręczną kalką `Constantine started relief`. Kierunek „Konstantyn zaczął przynosić ulgę [prześladowanym]” lub podobnie, bez dopisywania definitywnego **końca wszystkich** prześladowań (drugi raport sugeruje również „kres”, co może być zbyt mocne).
+- `12:17`, druk 44 / PDF 52: „aby nadać znaczenia” → „aby nadać znaczenie”; EN `to give currency to an aberrant text form` dotyczy nadania zasięgu/obiegu danej formie, więc przy poprawie warto oddać „upowszechnić odbiegającą od normy formę tekstu”, a nie jedynie znaczenie/prestiż. To także precyzja sensu `currency`.
+- `chapters/13-czesc-1-historyczne-dowody-strumien-przekazywania.md:14`, druk 51 / PDF 59: „dominujące strumień przekazu” → „dominujący strumień przekazu”; EN `the dominant stream of transmission`.
+- `13:71`, druk 53 / PDF 61: „Musiało to jednak być wczesna zmiana” → „Musiała to jednak być wczesna zmiana”; EN `it must have been an early development`.
+- `chapters/14-czesc-1-historyczne-dowody-jakie-sa-rzeczywiste-dowody.md:5`, druk 56 / PDF 64: „Do XI wieku pismo kursywne zdominowało” nie domyka składni; EN `By the 11th century the cursive script had taken over`. Np. „Do XI wieku pismo kursywne zaczęło dominować”. P1-041 dotyczy innego zdania w tym akapicie.
+- `14:11`, druk 56 / PDF 64: „wersetów(są” → „wersetów (są”.
+- `14:13`, druk 56 / PDF 64: „kolejne 37 zawierają” → „kolejne 37 zawiera”.
+- `14:31`, druk 57 / PDF 65: „byzantyjskiego” → „bizantyjskiego”.
+
+### U-012 — Nawiasy: zwykłe wtrącenie źródłowe pozostawione w kwadratowych
+
+- PL `chapters/12-czesc-1-historyczne-dowody-czy-przekazywanie-przebiegalo-normalnie.md:37`, druk 47 / PDF 55: `[ok. 200 r. n.e.]`; EN `[AD 200]`. Wokół całej wypowiedzi nie ma nadrzędnego nawiasu okrągłego, więc według konwencji projektu powinno być `(ok. 200 r. n.e.)`. Nie zgubiono treści.
+- Dla kontrastu `12:70`, `[wiosna 1979]`, jest **wewnątrz** okrągłego nawiasu bibliograficznego i spełnia regułę zagnieżdżania. Nie obejmować go automatyczną zamianą.
+
+### U-013 — Treść: zakres sprawdzenia Hoskiera zamieniony na przyczynę
+
+- Lokalizacja: `chapters/44-dodatek-skolacjonowane-manuskrypty-f35.md:53`, druk 291 / PDF 299.
+- EN: `I have not checked Hoskier’s collation of other MSS, in this connection.` PL: „W związku z tym nie sprawdziłem kolacjonowania innych manuskryptów dokonanego przez Hoskiera”.
+- Końcowe `in this connection` ogranicza zakres zastrzeżenia do rozpatrywanej kwestii kompletności/doskonałości kopii i jej wzorca. Polskie „W związku z tym” na początku zdania sugeruje skutek wcześniejszych ustaleń.
+- Kierunek: „Nie sprawdziłem pod tym względem kolacjonowania innych manuskryptów dokonanego przez Hoskiera”. Nie rozszerzać zastrzeżenia do twierdzenia, że autor w ogóle nie sprawdzał prac Hoskiera.
+
+### U-014 — 18:31: „wersy” zamiast wierszy prozy
+
+- `chapters/18-czesc-2-epistemologia.md:31`: „poniższe wersy odnoszą się wyłącznie…”. EN druk 87 / PDF 95: `the lines that follow refer exclusively…`, następnie proza i cztery numerowane przesłanki, nie poezja.
+- Drobna usterka leksykalna: wers to jednostka utworu wierszowanego, tutaj chodzi o poniższe wiersze/fragment wywodu. Kierunek: „poniższe wiersze” albo „poniższy wywód”, bez zmiany argumentacji. Nie traktować jako opuszczenia treści.
+
+### U-015 — 19:15: niejednoznaczna granica po numerze manuskryptu 35
+
+- `chapters/19-czesc-2-datowanie-kr-ponownie-rozwazone.md:15`: „Oprócz świadectwa 35 kolacjonowania Robinsona wykazują…”.
+- EN druk 91 / PDF 99: `Besides the witness of 35, Robinson’s collations demonstrate…`.
+- Źródło rozdziela świadectwo manuskryptu 35 od kolacjonowań Robinsona. Polski ciąg może zostać odczytany jako liczba kolacjonowań, a nie numer świadka (drugi raport sam streszcza go nieprecyzyjnie jako „35 kolacjonowań”). Kierunek minimalny: „Oprócz świadectwa manuskryptu 35 kolacjonowania Robinsona wykazują…” lub przestawienie zdania tak, by numer nie zlewał się z następnym podmiotem. To uściślenie składni, nie nowy dowód.
+
+### U-016 — 20:98: „umniejsza jej wiarygodności”
+
+- `chapters/20-czesc-2-o-wzorcu-i-zaleznosci.md:98`: „pięć podgrup wraz z dalszym wewnętrznym pomieszaniem umniejsza jej wiarygodności jako linii przekazu”.
+- EN druk 104 / PDF 112: `the five subgroups, plus further internal confusion, detract from its credibility as a line of transmission`.
+- Błąd rekcji w polskim zdaniu twierdzącym: „umniejsza jej wiarygodność” albo „ujmuje jej wiarygodności”. Zachować podmiot i przyczynę, bez przerabiania dowodu autora. Rekcję z biernikiem potwierdzają połączenia w [WSJP PAN](https://wsjp.pl/haslo/podglad/73546/umniejszac).
+
+### U-017 — 25:137: wadliwa polska składnia, ale NIE znaczenie przypisane jej przez drugi raport
+
+- `chapters/25-czesc-2-wspolczynnik-starannosci-kopisty.md:137`: „Pierwszy jest jawnym nonsensem, niezależnymi przypadkami itacyzmu”.
+- EN druk 145 / PDF 153 (sprawdzono także obraz): `The first one is manifest nonsense, independent instances of itacism.`
+- Usterka polska jest rzeczywista: zdanie utożsamia singularny „pierwszy” z mnogimi „przypadkami”. Możliwy kierunek: „Pierwszy jest jawnym nonsensem — chodzi o niezależne przypadki itacyzmu”.
+- **Nie przyjmować sugestii drugiego raportu, że „pierwszy przypadek jest nonsensem, natomiast pozostałe to niezależne przypadki itacyzmu”.** W angielskim nie ma „pozostałych”; omawiane są dwa miejsca (Mk 2,23 i 15,46), a pierwszy odczyt ma świadków 1251, 2554, 2765. Liczba mnoga `instances` odpowiada niezależnym wystąpieniom pierwszego błędu, nie przenosi komentarza na drugi wariant. Drugi autor odrębnie nazywa podziałem w rodzinie.
+- Proponowana przez drugi raport „naprawa sensu” wprowadziłaby więc nowe zniekształcenie. Przydatna jest tylko uwaga o składni.
+
+### U-018 — 34:95 i 237: niezgrabna elipsa z przysłówkiem „znacznie”
+
+- `chapters/34-czesc-3-kiedy-mamy-do-czynienia-z-recenzja.md:95,237`: „Pozostałe manuskrypty bizantyjskie są wszystkie odmienne, niektóre naprawdę znacznie”.
+- EN druk 203 i 207 / PDF 211 i 215: `The rest of the Byzantine MSS are all distinct, some really so`.
+- Sugestia lekkiej korekty językowej, nie błąd danych ani sensu: odmienność zachowano, lecz „znacznie” wymaga tutaj domyślnego „różnią się”, a nie poprzedniego „są odmienne”. Kierunek: „wszystkie się różnią, niektóre naprawdę znacznie” lub odpowiednik zachowujący nacisk autora. Nie oceniać jako utraty argumentacji.
+
+### U-T01 — Do decyzji: konsekwencja odpowiednika „singular reading”
+
+- Potwierdzone odmienne odpowiedniki tego samego technicznego terminu: `11:23` „257 innych odczytów pojedynczych” (druk 38 / PDF 46), `13:40` „rygorystycznie wyeliminować odczyt pojedynczy” (druk 51 / PDF 59); w `20:5` „odczyt «singularny»” z definicją (druk 98 / PDF 106), a w `25:17` „odczyt singularny” w kluczu tabeli (druk 141 / PDF 149). Dalsze rozdziały używają „singularny”.
+- Nie jest zasadne twierdzenie, że sam rozdział 25 błędnie miesza termin z „liczbą pojedynczą”: gramatyczne singular/plural to inne użycie (np. `25:173,301`). Nie wykonywać globalnej podmiany słowa „pojedynczy”.
+- Uzgodnić konsekwentny odpowiednik dla `singular reading`, bez przedstawiania którejś z dwóch form jako zabronionej przez AGENTS (AGENTS nie ustala jej).
+
+### U-S01 — Problem źródła: 1847 w dwóch rangach
+
+- Lokalizacja: `chapters/41-dodatek-ranking-wariantowy-manuskryptow-zawierajacych-list-judy.md:13,35`, druk 281–282 / PDF 289–290; obie strony potwierdzone wizualnie.
+- Manuskrypt `1847` jest w wierszach 29 oraz 4 wariantów także w oryginale. To niespójność źródła, nie powielenie wprowadzone w polskiej tabeli. Nie usuwać pozycji bez osobnej decyzji.
+- Tabela ma 514 wpisów i 513 odrębnych oznaczeń. W takim zliczeniu trzeba zachować `205` i `205^abs^` jako odrębne sigla, a także odróżniać papirusy od minuskułów; samo wyciągnięcie cyfr daje mylący wynik.
+
+### U-S02 — Cecha źródła: kolejność 2673, 2669
+
+- Lokalizacja: `chapters/45-dodatek-bizantyjskie-manuskrypty-kr-rodziny-35.md:5`, druk 292 / PDF 300; potwierdzono na obrazie.
+- Kolejność `2658, 2673, 2669, 2704` występuje również w EN. Odstępstwo od porządku rosnącego nie jest błędem przepisywania w PL. Lista ma 364 odrębne numery.
+- Nie wymaga korekty przekładu. Zachowano tę uwagę osobno, aby przy późniejszej pracy nie „naprawić” po cichu danych autora.
+
+### U-S03 — Zgodność źródłowa: wyprzedzające odwołanie do 1 Listu Jana
+
+- `chapters/36-czesc-3-concordia-discors-i-odczyty-mniejszosciowe-f35-w-listach-ogolnych.md:288`: „Podobnie jak w Liście Jakuba, 1 Liście Piotra i 1 Liście Jana…”, po czym w. 290 dopiero rozpoczyna sekcję o 1 Liście Jana.
+- EN druk 228 / PDF 236, obejrzana cała strona: identyczne `As in James, 1 Peter and 1 John…`, a bezpośrednio dalej nagłówek `1 John`.
+- Jest to wyprzedzające odwołanie w układzie tego rozdziału, **nie** dowód pominięcia lub przestawienia polskiego tekstu. Sam brak słowa „powyżej” sprawia, że nie musi być błędem autora; w poprzednich rozdziałach 1 List Jana był już omawiany. Nie korygować nazw ksiąg ani kolejności.
+
+### Duplikaty — bez ponownego numerowania
+
+Przeanalizowano wszystkie sekcje drugiego raportu, także listę najważniejszych poprawek i uwagi przekrojowe. Powtarzające się tam zarzuty potraktowano łącznie. Poniższa mapa wskazuje najważniejsze ustalenia, które już były w niniejszym raporcie:
+
+| Uwaga drugiego raportu | Wcześniejsze ustalenie |
+| --- | --- |
+| Literówki w 01 i różnica licencji | G-002, G-S01 |
+| `original wording`, `cline`, `one thing` | P1-002, P1-005, P1-006 |
+| Cytaty 05: przecinki, `Its nature`, numer 25, „chciałaby” | P1-008–010, P1-016 |
+| Nazwy Objawienia Jana, Justin i literówki nazwy | P1-015, P1-020, P1-033, P1-045 |
+| `sat under his ministry`, `initial draft`, cytat Barnaby | P1-018, P1-019, P1-022 |
+| Dz 21 zamiast 20 oraz „Listy Łukasza i Pawła” | P1-028 |
+| „słyszą słów”, „nie zwróci szczególną uwagę”, `collated` w 11 | P1-033 |
+| Kursywa bibliografii 11, kierunek prawdopodobieństwa 12, samotne `3` | P1-034, P1-031, P1-035 |
+| `cursive/minuscule`, `recension`, błędny dopisek o P45/W i P75/B | P1-038–040 |
+| „griesh”, terminologia i literówki w 14–16, zagnieżdżone nawiasy 15 | P1-042, P1-045, P1-049 |
+| Platinga | P5-S01 — usterka już w źródle |
+| `valid variant` oraz `did not appreciate` u Galliona | P2-029, P2-006 |
+| Numery 1874/1893 vs 1876/1892 oraz `16x,24` | „Problemy źródła w plikach 17, 22–30” |
+| Cztery diagnostyczne pary gwiazdek w 33 i nawias w 36 | P3-002, P3-003, P3-S05 |
+| „Dwanaście” przed 15 wierszami w 40 oraz AG/GA 586 w 44 | P4-S01, P4-S02 |
+
+### Sugestie odrzucone albo wymagające innej diagnozy
+
+Ta sekcja dokumentuje wynik weryfikacji, **nie dodaje poniższych zarzutów do listy błędów przekładu**.
+
+| Sugestia / zakres | Wynik sprawdzenia |
+| --- | --- |
+| Usunąć rozbudowaną warstwę przypisów i ilustracji tłumacza | Sama obecność jawnie oznaczonych dodatków, których konwencję objaśnia 01, nie jest dowodem błędu. Oceniać konkretne dopiski. Nie przejęto zbiorczego postulatu usuwania ani ocen wiarygodności wszystkich cytowanych serwisów. |
+| Przypis 02 o zaginięciu oryginałów przeczy tezie autora | Zaginięcie fizycznych dokumentów nie jest tym samym co zaginięcie oryginalnych sformułowań. Przypis jest jawnie oznaczony. Nie potwierdzono zarzutu bezpośredniej sprzeczności wyłącznie na tej podstawie. |
+| 02 „wraz z żoną rozpoczęli”; 27 „1 i 2 List Piotra” | Pierwsza konstrukcja może podkreślać równorzędność uczestników (EN `he and his wife began`), druga dopuszcza elipsę wspólnego członu. Brak podstaw do bezwzględnego nakazu zmiany liczby. |
+| 04 błąd rodzaju przy „Przyczynie”; wszystkie źródłowe nawiasy kwadratowe | Nie wskazano jednoznacznego błędu rodzaju; EN sam przechodzi od `That Cause` do `He`. Część nawiasów jest poprawnie zagnieżdżona albo oznacza dodatki tłumacza. Konkretny nowy wyjątek w 12:37 opisano w U-012. |
+| Nagłówek Rz 14,24–25 w 05 | Raport niedokładnie cytuje źródło: EN ma nagłówek `Romans 14:24`, a 25 dopiero w cytacie. Brak numeru wewnątrz cytatu opisuje P1-010. Nie zmieniać nagłówka pod pozorem odtwarzania zapisu PDF-u. |
+| 05 `canticles` → „kantyczki” | Nie potwierdzono bezspornego błędu samego odpowiednika. Dopisek 05:89 odwołujący się do kolęd/pastorałek może jednak sugerować inny gatunek niż poetyckie części Pieśni nad Pieśniami; to opcjonalna decyzja terminologiczna, nie podstawa do poprawiania tezy autora. Por. [WSJP: kantyczka](https://wsjp.pl/haslo/podglad/84709/kantyczka/5211354/piesn-religijna). |
+| 07 „zabronić utraty/wstawek”; 08 „naruszenie Tekstu” | EN rzeczywiście używa `forbid`; niezręczność nie dowodzi błędnego odczytania czasownika. „Naruszenie” jest szersze od „skażenia”, lecz kontekst zachowuje zmianę formy i sensu Tekstu; nie potwierdzono nowego zniekształcenia argumentu. |
+| Skróty nazw ksiąg, Kohelet, „1 Kronik” | Nie ma ogólnej reguły zakazującej skrótów. Drugi raport nie podaje autorytatywnego wykazu nazw BT uzasadniającego proponowane zmiany starotestamentowe. Jednoznacznie ustalone „Objawienie Jana” pozostaje osobnym, już opisanym problemem. |
+| „Siedem listów … zawiera” wymaga liczby mnogiej | Wskazówka drugiego raportu jest odwrócona. Obecne PL ma „zawierają”, do poprawy na „zawiera” — U-010. |
+| 13:69 `O, OC, *Θ*C` | Kursywą zapisano samo Θ także w źródle, druk 53 / PDF 61; potwierdzają XML i obraz. Nie usuwać poprawnego wyróżnienia. |
+| 15 „wspólna mozaika odczytów” | EN ma `a shared mosaic of readings`, nie `a mosaic of shared readings`. Zakres przymiotnika jest zachowany. |
+| Zawsze zmienić „tekst większościowy” na „Tekst Większościowy” | W 09-autografy, 12:21, 34:15 i cytacie TuT w 48:107 są użycia opisowe lub cytowane, z małymi literami/cudzysłowem już w EN. Nie stosować mechanicznej zamiany bez rozpoznania użycia terminu. |
+| 12:33,53 utracone formatowanie śródtytułów | Źródło także ma zwykły krój i osobne akapity. Zmiana na nagłówki Pandoca może służyć nawigacji, lecz nie wykazano zgubienia pogrubienia/kursywy. |
+| Literówka w ID przypisu 10 i brak spacji po `]:` w 13 | `slow-w-libczbie-mnogiej` jest spójne w definicji i odsyłaczu, a `]:Chociaż` jest poprawnie parsowane. Nie zmieniać identyfikatorów wbrew instrukcji ani zgłaszać niewidocznej spacji jako usterki publikacji. |
+| 19/24 `Well, well, well` → „No, no, no” rzekomo zaprzecza | Polskie powtórzone „no” może wyrażać zdziwienie lub uznanie. „No proszę” jest opcją stylistyczną, nie konieczną korektą sensu. Por. [NCK](https://nck.pl/projekty-kulturalne/projekty/ojczysty-dodaj-do-ulubionych/ciekawostki-jezykowe/no--grzeczne-czy-niegrzeczne-) i [Poradnia UŁ](https://www.poradnia-jezykowa.uni.lodz.pl/szczegoly/powtorzone-no-a-interpunkcja). |
+| 23/24 `lection` → „lekcja” rzekomo narusza ustalony słownik | Chodzi o czytanie liturgiczne, nie krytycznotekstowe `reading`. „Lekcja” jest poprawnym terminem religijnym; reguła `reading → odczyt` nie zakazuje tłumaczenia innego słowa `lection` w ten sposób. Por. [WSJP: lekcja podczas mszy](https://wsjp.pl/index.php/haslo/podglad/2573/lekcja/5162489/podczas-mszy). |
+| 25:137 „pozostałe przypadki to itacyzmy” | Tego przeciwstawienia nie ma w EN. U-017 przyjmuje korektę składni, odrzuca dopisanie nowej relacji. |
+| Gallion 27:57: „zwłoka” jako poważny błąd | Pickering sam podaje `None of this was a delay to Gallio` i objaśnia nietypową interpretację. Nie zastępować jej znanym przekładem biblijnym ani „nie obchodziło go”. Rzeczywista rozbieżność w dalszym komentarzu jest już w P2-006. |
+| 23 `seriously off the mark` utraciło nacisk | PL ma „**poważnie** mija się z celem”, a drugi raport pomija w swoim cytacie „poważnie”. Nie potwierdzono osłabienia stopnia zarzutu. |
+| 18:63 przypis wewnątrz bolda | Samo położenie znacznika w Markdown nie dowodzi zmiany wyglądu przypisu: kontrola istniejącego polskiego PDF-u, s. 108, nie wykazała pogrubionego numeru ani treści przypisu. Ewentualna higiena zapisu wymaga osobnej oceny innych eksportów. |
+| 40 `[1P 3,6]` zamienić na zwykły nawias okrągły | Autor na druk 278 / PDF 286 jawnie objaśnia kwadratowy nawias jako oznaczenie szczególnego statusu kolumny. PL 40:116 to zachowuje. Zmiana samej tabeli zerwałaby odesłanie; nie traktować tego jak zwykłego wtrącenia w prozie. |
+| 48 `officiousness` → „wścibstwo” musi być błędem | Możliwe stylistyczne doprecyzowanie do „nadgorliwego ingerowania”, lecz słownikowe zakresy `officious` i „wścibski” obejmują `interfering/meddlesome`. Nie potwierdzono zarzutu, że polski wyraz oznacza wyłącznie ciekawość. Por. [Cambridge: officious](https://dictionary.cambridge.org/us/dictionary/english/officious) oraz [Cambridge/PASSWORD: wścibski](https://dictionary.cambridge.org/dictionary/polish-english/wscibski). |
+| 49:166 `decent` → „dostateczne” | EN druk 321 / PDF 329 ma `fair`, nie `decent`. „Dostateczne” zachowuje kontrast z `not good enough`; „przyzwoite” to opcja stylistyczna. |
+| 36 wzmianka o 1 Liście Jana dowodzi źródłowego błędu kolejności | Wierne źródłu wyprzedzające odwołanie, bez słowa „powyżej”. Nie dowodzi błędu autora ani pominięcia polskiego tekstu — U-S03. |
+
+Pozostałe ogólne sugestie stylistyczne („gospodarując czas”, ciężkie zdanie o dorobku Burgona, „od czasu do czasu rok”, „wygląda równie staro”, „przedkładam, że”, „jeszcze prostszym angielskim”, „Nic tak jak…” / „przeżuć”) nie wykazały nowych zmian sensu. Metafory i osobliwości obecne również w EN należy rozważać zgodnie z zasadą niepoprawiania stylu argumentacji autora. W 24:39 zastąpienie „praktycznie wszystkich celów praktycznych” przez „niemal wszystkich celów praktycznych” usuwa powtórzenie brzmieniowe, ale nie jest konieczną korektą danych lub sensu — `virtually` i `practical` pełnią odrębne funkcje.
+
+Jedna początkowa spacja w 01 ani techniczna spacja po definicji przypisu nie psują składu. Nie odnaleziono konkretnego „podwójnego znaku interpunkcyjnego” w 15 odpowiadającego zarzutowi. Zapis `1389` zamiast `1 389` jest wyborem konwencji typograficznej, nie pomyłką liczby; nie wolno zmieniać w ten sposób identyfikatora manuskryptu. Samo połączenie zdań przecinkiem również nie dowodzi błędu polskiej interpunkcji.
+
+Nie przejęto ogólnego zapewnienia drugiego raportu, że głównym ryzykiem nie jest format. Poprawne parsowanie i zgodne sumy tabel nie wykluczają usterek już potwierdzonych w G-001, G-P1-001/002, P3-008, P5-007 i U-007. Także liczby 1874/1893 w 26 są **numerami manuskryptów, nie datami**, jak określa je drugi raport.
+
 ## Dalsza praca i wznowienie po przerwie
 
-1. Przegląd opisany wyżej jest zakończony. Wszystkie uwagi scalono tutaj; nie trzeba zaczynać ponownie ani szukać nieukończonego rozdziału w zapisach roboczych.
+1. Przegląd całości oraz uzupełniające porównanie z drugim raportem z 2026-10-12 są zakończone. Wszystkie przyjęte uwagi scalono tutaj; nie trzeba zaczynać ponownie ani szukać nieukończonego rozdziału w zapisach roboczych. Propozycje odrzucone i już wcześniej opisane mają osobną mapę rozstrzygnięć powyżej.
 2. Przed dalszą pracą przeczytać `AGENTS.md`, sprawdzić `git status --short --branch` i porównać zmiany książki względem bazy przeglądu. Nie cofać późniejszych poprawek użytkownika. Numery wierszy mogą się przesunąć.
 3. **Nie wdrażać automatycznie uwag bez zlecenia poprawek.** Uzgodnić zakres, zwłaszcza decyzje terminologiczne, korekty źródła, tytuł i notę licencyjną.
 4. Przy poprawkach zachowywać identyfikatory P1–P5/G. Dopisywać status „poprawione”, commit oraz wynik kontroli, zamiast usuwać ślad ustalenia. Obecnie wyjątkiem już naprawionym jest tylko wymienione wyżej `XII` w 19:3, poza listą otwartych usterek.
