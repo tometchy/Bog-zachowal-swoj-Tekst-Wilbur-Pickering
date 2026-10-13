@@ -1,3 +1,7 @@
+# Przegląd tłumaczenia
+
+Pełny przegląd tłumaczenia zakończono 2026-10-11, a 2026-10-12 uzupełniono go po weryfikacji drugiego raportu AI. Uwagi do treści i formatowania, priorytety oraz instrukcja dalszej pracy są w [REVIEW.md](REVIEW.md). Zapisano wyłącznie uwagi — tekst książki nie został zmieniony.
+
 # Pandoc book template
 
 [![CircleCI](https://circleci.com/gh/wikiti/pandoc-book-template.svg?style=shield)](https://circleci.com/gh/wikiti/pandoc-book-template)
@@ -363,4 +367,3 @@ with.
 - [Pandoc](http://pandoc.org/)
 - [Pandoc Manual](http://pandoc.org/MANUAL.html)
 - [Wikipedia: Markdown](http://wikipedia.org/wiki/Markdown)
-
