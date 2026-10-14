@@ -4,4 +4,4 @@ Pragnę wyrazić moją wdzięczność dr. Williamowi Penningowi (doktorat z astr
 
 Chciałbym również podziękować Danielowi Jore za udostępnienie zdjęcia na okładkę[^okladka-i-formatowanie].
 
-[^okladka-i-formatowanie]: Oryginalna okładka i formatowanie nie zostało wykorzystane w polskim tłumaczeniu. [przyp. tłum.]
+[^okladka-i-formatowanie]: Oryginalna okładka i formatowanie nie zostały wykorzystane w polskim tłumaczeniu. [przyp. tłum.]

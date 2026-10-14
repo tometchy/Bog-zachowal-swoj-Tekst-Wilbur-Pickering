@@ -1,6 +1,6 @@
 ## Profil Rodziny 35 dla całego Nowego Testamentu[^informacje-z-mojego-tekstu]
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |      |                                                         |
 |:----|:---------------------------------------------------------|
@@ -12,7 +12,7 @@
 
 Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów), co jest wystarczające dla mojego obecnego celu, ale oczywiście wyższe wartości procentowe również mogą wnosić wkład w mozaikę/profil rodziny. (Gdybym uwzględnił 45% i 50%, liczby wyraźnie by wzrosły, zwłaszcza w przypadku niektórych ksiąg. W niektórych listach Pawła pozostałe linie przekazu w obrębie bizantyjskiej większości nie odbiegały zbytnio od normy Rodziny 35). Tam, gdzie wartości procentowe nie sumują się do 100%, występują dalsze warianty, zainteresowany czytelnik może je odnaleźć w aparacie krytycznym mojego greckiego Tekstu. Odczyt Rodziny 35 podany jest jako pierwszy.
 
-**Ewangelia Mateusza**
+[Ewangelia Mateusza]{.underline}
 
 |  |  |  |
 |:----|:--------|:-----------------------------------|
@@ -33,7 +33,7 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 | +++ | 9:28 | αυτοις [20%] \|\| 1 ο ιησους [80%] |
 | ++-- | 9:33 | οτι [25%] \|\| --- [75%] |
 | ++ | 10:2 | εισιν [30%] \|\| εστιν [70%] |
-| ++ | 10:19 | λαλησετε (1^st^) [30%] \|\| λαλησητε [70%] |
+| ++ | 10:19 | λαλησετε (pierwsze wystąpienie) [30%] \|\| λαλησητε [70%] |
 | ++ | 10:25 | απεκαλεσαν [30%] \|\| εκαλεσαν [49%] \|\| επεκαλεσαν [20%] |
 | +++ | 10:31 | πολλω [20%] \|\| πολλων [80%] |
 | +-- | 11:20 | ο ιησους [35%] \|\| --- [65%] |
@@ -87,13 +87,13 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 | ++-- | 24:32 | γινωσκεται [25%] \|\| γινωσκετε [75%] |
 | ++ | 24:49 | τε [30%] \|\| δε [70%] |
 | ++ | 25:29 | δοκει εχειν [30%] \|\| εχει [70%] |
-| ++-- | 25:32 | συναχθησονται [25%] \|\| συναχθησεται **f^35pt^** [75%] |
+| ++-- | 25:32 | συναχθησονται [25%] \|\| συναχθησεται **f^35^**^pt^ [75%] |
 | ++-- | 26:1 | ιησους [25%] \|\| 1 παντας [75%] |
 | + | 26:9 | τοις [40%] \|\| --- [60%] |
 | + | 26:11 | παντοτε γαρ τους πτωχους [40%] \|\| ~ 3421 [60%] |
 | + | 26:15 | και εγω [40%] \|\| καγω [60%] |
 | ++ | 26:26 | ευλογησας [30%] \|\| ευχαριστησας [70%] |
-| ++ | 26:29 | γενηματος [30%] \|\| γεννηματος **f^35pt^** [70%] |
+| ++ | 26:29 | γενηματος [30%] \|\| γεννηματος **f^35^**^pt^ [70%] |
 | ++ | 26:33^a^ | και [30%] \|\| --- [70%] |
 | + | 26:33^b^ | εγω [40%] \|\| 1 δε [60%] |
 | +-- | 26:39 | προελθων [35%] \|\| προσελθων [65%] |
@@ -105,11 +105,11 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 | +++ | 27:1 | πρεσβυτεροι [20%] \|\| 1 του λαου [80%] |
 | ++ | 27:12 | και [30%] \|\| 1 των [70%] |
 | ++ | 27:33 | λεγομενον [30%] \|\| λεγομενος [67%] |
-| ++-- | 27:35 | βαλοντες [25%] \|\| βαλλοντες **f^35pt^** [75%] |
+| ++-- | 27:35 | βαλοντες [25%] \|\| βαλλοντες **f^35^**^pt^ [75%] |
 | +-- | 27:55 | και [35%] \|\| --- [65%] |
 | ++-- | 27:64 | οτι [25%] \|\| --- [75%] |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -123,7 +123,7 @@ Arbitralnie ustaliłem punkt odcięcia na 40% (ogółu zachowanych manuskryptów
 
 Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka takich odczytów przypuszczalnie wskazuje, że manuskrypt jest przynajmniej peryferyjnym członkiem rodziny. Prawdopodobnie nie znalazłoby się dwóch badaczy, którzy sporządziliby identyczne listy — zmieniając rangę, dodając lub odejmując — ale znajduje się tu wystarczająco dużo dowodów, by ustalić, że **f^35^** jest odrębną rodziną. Stwierdzenia poczynione tutaj odnoszą się również do pozostałych ksiąg.
 
-**Ewangelia Marka**
+[Ewangelia Marka]{.underline}
 
 |  |  |  |
 |:----|:--------|:-----------------------------------|
@@ -193,7 +193,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | ++ | 16:1 | τον ιησουν [30%] \|\| αυτον [70%] |
 | ++ | 16:9 | ο ιησους [30%] \|\| --- [70%] |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -205,7 +205,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 
 Łącznie: 65
 
-**Ewangelia Łukasza**
+[Ewangelia Łukasza]{.underline}
 
 |  |  |  |
 |:----|:--------|:-----------------------------------|
@@ -283,7 +283,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | ++ | 24:36 | και [32%] \|\| --- [68%] |
 | ++ | 24:42 | μελισσειου [30%] \|\| μελισσιου [70%] |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -295,7 +295,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 
 Łącznie: 73
 
-**Ewangelia Jana**
+[Ewangelia Jana]{.underline}
 
 |  |  |  |
 |:----|:--------|:-----------------------------------|
@@ -324,7 +324,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | ++ | 11:46 | οσα [29%] \|\| α [70%] |
 | +-- | 11:51 | ο [35%] \|\| --- [65%] |
 | +++ | 11:56 | υμιν δοκει [20%] \|\| ~ 21 [80%] |
-| + | 12:6 | εμελεν [40%] \|\| εμελλεν **f^35pt^** [60%] |
+| + | 12:6 | εμελεν [40%] \|\| εμελλεν f^35pt^ [60%] |
 | + | 12:12 | ο [40%] \|\| --- [60%] |
 | + | 12:13 | απαντησιν [38%] \|\| υπαντησιν [60%] |
 | ++ | 12:14 | αυτω [30%] \|\| αυτο [70%] |
@@ -343,7 +343,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | + | 21:1^b^ | αυτου [40%] \|\| --- [60%] |
 | ++-- | 21:1^c^ | εγερθεις εκ νεκρων [25%] \|\| --- [75%] |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -356,7 +356,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 Łącznie: 43  
 (Przekazywanie Ewangelii Jana przebiegało bardziej zachowawczo niż pozostałych Ewangelii.)
 
-**Dzieje Apostolskie**
+[Dzieje Apostolskie]{.underline}
 
 |  |  |  |
 |:----|:--------|:-----------------------------------|
@@ -500,7 +500,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | +++ | 21:40 | προσεφωνει [20%] \|\| προσεφωνησεν [80%] |
 | +++ | 22:19^a^ | δαιρων [20%] \|\| δερων [80%] |
 | +++ | 22:19^b^ | εις [20%] \|\| επι [80%] |
-| ++ | 22:20 | και4 [30%] \|\| --- [70%] |
+| ++ | 22:20 | και^4^ [30%] \|\| --- [70%] |
 | +++ | 22:24 | ο χιλιαρχος αγεσθαι αυτον [20%] \|\| ~ 4123 [64%] \|\| \|\| |
 | ++ | 22:25 | προετειναν [30%] \|\| προετεινεν [30%] \|\| \|\| |
 | ++ | 22:26 | τω χιλιαρχω απηγγειλεν [30%] \|\| ~ 312 [63%] \|\| |
@@ -541,7 +541,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 | +++ | 28:23 | μωυσεος [20%] \|\| μωσεως [35%] \|\| μωυσεως [45%] |
 | ++-- | 28:27 | ιασωμαι [25%] \|\| ιασομαι [75%] |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -555,7 +555,7 @@ Pojedynczy diagnostyczny odczyt mógłby być dziełem przypadku, ale kilka taki
 
 Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach Apostolskich, ze zdecydowanie największą liczbą wariantów diagnostycznych.
 
-**Korpus Pawłowy**
+[Korpus Pawłowy]{.underline}
 
 |  |  |  |
 |:----|:--------|:-----------------------------------|
@@ -580,7 +580,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 | + | 1Kor 4:11 | γυμνιτευομεν [40%] \|\| γυμνητευομεν [60%] |
 | +++ | 1Kor 5:8 | εἱλικρινειας [20%] \|\| εἰλικρινειας [55%] \|\| |
 | +-- | 1Kor 6:8 | αλλ [35%] \|\| αλλα [65%] |
-| +-- | 1Kor 6:11 | αλλ1 [35%] \|\| αλλα [65%] |
+| +-- | 1Kor 6:11 | αλλ^1^ [35%] \|\| αλλα [65%] |
 | ++ | 1Kor 9:9 | ἁλοωντα [30%] \|\| ἀλοωντα [70%] |
 | ++ | 1Kor 9:10 | ἁλοων [30%] \|\| ἀλοων [70%] |
 | +-- | 1Kor 9:26 | δαιρων [35%] \|\| δερων [65%] |
@@ -599,7 +599,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 | + | 2Kor 3:10 | εινεκεν [43%] \|\| ενεκεν [57%]                                     |
 | + | 2Kor 3:15 | μωσης [40%] \|\| μωυσης [60%]                                       |
 | +-- | 2Kor 5:15 | παντων [35%] \|\| αυτων [55%] \|\|                                  |
-| ++-- | 2Kor 7:11 | αλλ1 [27%] \|\| αλλα [73%]                                          |
+| ++-- | 2Kor 7:11 | αλλ^1^ [27%] \|\| αλλα [73%]                                          |
 | ++ | 2Kor 8:4 | δεξασθαι ημας [30%] \|\| --- [70%]                                  |
 | + | 2Kor 8:9 | ημας [40%] \|\| υμας [60%]                                          |
 | ++ | 2Kor 8:12 | καθὸ εαν [30%] \|\| καθ ὃ εαν [58%] \|\|                            |
@@ -627,7 +627,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 |:----|:--------|:-----------------------------------|
 | ++ | Flp 1:10 | εἱλικρινεις [30%] \|\| εἰλικρινεις [70%] |
 | ++-- | Flp 1:20 | καραδοκιαν [25%] \|\| αποκαραδοκιαν [74%] |
-| +-- | Flp 2:1 | τι2 [35%] \|\| τις [60%] \|\| |
+| +-- | Flp 2:1 | τι^2^ [35%] \|\| τις [60%] \|\| |
 | + | Flp 2:4 | το [40%] \|\| τα [45%] \|\| των [15%] |
 | + | Flp 2:30 | πληρωση [40%] \|\| αναπληρωση [55%] \|\| |
 | + | Flp 3:1 | το [40%] \|\| --- [60%] |
@@ -654,7 +654,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 | + | 1Tm 3:2 | νηφαλιον [40%] \|\| νηφαλεον [50%] \|\| |
 | + | 1Tm 3:11 | νηφαλιους [40%] \|\| νηφαλεους [50%] \|\| |
 | ++ | 1Tm 5:18 | ἁλοωντα [30%] \|\| ἀλοωντα [70%] |
-| ++-- | 1Tm 5:21 | προσκλισιν [25%] \|\| προσκλησιν **f^35pt^** [75%] |
+| ++-- | 1Tm 5:21 | προσκλισιν [25%] \|\| προσκλησιν **f^35^**^pt^ [75%] |
 | + | 1Tm 6:12 | και [40%] \|\| --- [60%] |
 
 |  |  |  |
@@ -687,12 +687,12 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 | +-- | Hbr 9:19 | μωυσεος [35%] \|\| μωυσεως [45%] \|\| μωσεως [20%] |
 | + | Hbr 10:1 | δυναται [40%] \|\| δυνανται [59%] |
 | ++ | Hbr 10:28 | μωυσεος [30%] \|\| μωυσεως [55%] \|\| μωσεως [15%] |
-| ++ | Hbr 11:20 | ἡσαυ [30%] \|\| ἠσαυ [70%] (also 12:16) |
+| ++ | Hbr 11:20 | ἡσαυ [30%] \|\| ἠσαυ [70%] (także 12:16) |
 | +-- | Hbr 12:7 | ει [35%] \|\| εις [65%] |
 | ++ | Hbr 12:24 | το [30%] \|\| τον [70%] |
 | + | Hbr 12:25 | ουρανου [40%] \|\| ουρανων [60%] |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -704,7 +704,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 
 Łącznie: 94
 
-**Listy Powszechne**
+[Listy Ogólne]{.underline}
 
 |  |  |  |
 |:----|:--------|:-----------------------------------|
@@ -775,7 +775,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 
 **Brak dla Listu Judy.** (**f^35^** zawsze towarzyszy co najmniej 40% masy bizantyjskiej.)
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -787,7 +787,7 @@ Spośród wszystkich ksiąg **f^35^** ma najbardziej wyrazisty profil w Dziejach
 
 Łącznie: 49
 
-**Objawienie Jana**
+[Objawienie Jana]{.underline}
 
 Dzięki kolacjonowaniu Hoskiera możliwe jest (i lepsze) przedstawienie dowodów w kategoriach rodzin zamiast procentów, jak uczyniłem w swoim aparacie krytycznym — proszę się z nim zapoznać w kwestii dowodów.
 
@@ -829,7 +829,7 @@ Dzięki kolacjonowaniu Hoskiera możliwe jest (i lepsze) przedstawienie dowodów
 | ++-- | 12:5 | ηρπαγη \|\| ηρπασθη |
 | ++-- | 12:7 | του πολεμησαι \|\| 2 \|\| επολεμησαν |
 | + | 13:7 | φυλην \|\| 1 και λαον |
-| + | 13:15 | ινα2 \|\| --- |
+| + | 13:15 | ινα^2^ \|\| --- |
 | + | 14:6 | αλλον αγγελον \|\| 2 \|\| ~ 21 |
 | +++ | 14:12 | του ιησου \|\| 2 \|\| 2 χριστου |
 | + | 15:3 | μωυσεος \|\| μωυσεως \|\| μωσεως |
@@ -856,7 +856,7 @@ Dzięki kolacjonowaniu Hoskiera możliwe jest (i lepsze) przedstawienie dowodów
 | + | 21:24 | την δοξαν και την τιμην αυτων εις αυτην \|\| 12678 \|\| αυτω 235 των εθνων 78 \|\| |
 | +-- | 22:2 | εκαστον αποδιδους \|\| 1 αποδιδον \|\| 1 αποδιδουν \|\| ~ 21 \|\| ~ 2 εκαστος |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -870,7 +870,7 @@ Dzięki kolacjonowaniu Hoskiera możliwe jest (i lepsze) przedstawienie dowodów
 
 Oto dane zbiorcze dla całego Nowego Testamentu.
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:----|:---------------------------------------------------------|
@@ -882,9 +882,9 @@ Oto dane zbiorcze dla całego Nowego Testamentu.
 
 **Łącznie: 658**
 
-Dowody są jasne. **Rodzina 35** jest obiektywnie/empirycznie zdefiniowaną jednostką w całym Nowym Testamencie. Pozostaje sprawdzić, czy to samo można powiedzieć o jakiejkolwiek innej rodzinie lub linii przekazu — **proszę o uwagę**: chodzi o wszystkie 27 ksiąg (pewna liczba linii ogranicza się do Ewangelii, jak **f^1^** i **f^13^**).
+Dowody są jasne. **Rodzina 35** jest obiektywnie/empirycznie zdefiniowaną jednostką w całym Nowym Testamencie. Pozostaje sprawdzić, czy to samo można powiedzieć o jakiejkolwiek innej rodzinie lub linii przekazu — [proszę o uwagę]{.underline}: chodzi o wszystkie 27 ksiąg (pewna liczba linii ogranicza się do Ewangelii, jak **f^1^** i **f^13^**).
 
-Rodzinę 35 charakteryzuje niewiarygodnie staranny przekaz (w przeciwieństwie do innych linii). Mam doskonałą kopię archetypalnego tekstu Rodziny 35 dla większości ksiąg Nowego Testamentu (22), mam kopie sporządzone z doskonałego egzemplarza (jak się przypuszcza) dla kolejnych czterech (4), w miarę jak kontynuuję kolacjonowanie manuskryptów, mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku można wykazać formę archetypalną. Gdyby Bóg zachowywał oryginalne sformułowania w jakiejś linii przekazu innej niż Rodzina 35, czy linia ta byłaby choć trochę mniej staranna? Nie sądzę. Tak więc każda linia przekazu charakteryzująca się wewnętrznym pomieszaniem zostaje zdyskwalifikowana — obejmuje to **wszystkie** inne linie przekazu, które jak dotąd widziałem.
+Rodzinę 35 charakteryzuje niewiarygodnie staranny przekaz (w przeciwieństwie do innych linii). Mam doskonałą kopię archetypalnego tekstu Rodziny 35 dla większości ksiąg Nowego Testamentu (22), mam kopie sporządzone z doskonałego egzemplarza wzorcowego (jak się przypuszcza) dla kolejnych czterech (4), w miarę jak kontynuuję kolacjonowanie manuskryptów, mam nadzieję dodać ostatnią (Dzieje Apostolskie), ale nawet w jej przypadku można wykazać formę archetypalną. Gdyby Bóg zachowywał oryginalne sformułowania w jakiejś linii przekazu innej niż Rodzina 35, czy linia ta byłaby choć trochę mniej staranna? Nie sądzę. Tak więc każda linia przekazu charakteryzująca się wewnętrznym pomieszaniem zostaje zdyskwalifikowana — obejmuje to **wszystkie** inne linie przekazu, które jak dotąd widziałem.
 
 [^informacje-z-mojego-tekstu]: Informacje te wzięto z mojego greckiego Tekstu i aparatu krytycznego.
 

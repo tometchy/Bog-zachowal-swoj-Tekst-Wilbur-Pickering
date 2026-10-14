@@ -1,5 +1,47 @@
 # Review tłumaczenia „God Has Preserved His Text!”, wydanie 4
 
+## Wynik wdrożenia — 2026-10-14
+
+Sprawdzono wszystkie 164 numerowane uwagi i noty tego raportu. Zasadne poprawki wdrożono na gałęzi `codex/poprawki-review-2026-10-12`. Podstawą był raport z `6d6b00d`; dołączono `origin/master` (`22e900d`), zachowując późniejsze zmiany użytkownika, w tym w rozdziale 19.
+
+### Status uwag
+
+| Identyfikatory | Rozstrzygnięcie |
+| --- | --- |
+| P1-001–049, P2-001–031, P3-001–016, P4-001–015 | Wdrożone po sprawdzeniu względem oryginału; doprecyzowania poniżej. |
+| P5-001–002, P5-004–008 | Wdrożone, w tym brakujący świadek `bo`, układ grup i odtworzone stemma. |
+| P5-003 | **Odrzucona:** błędny cytat w raporcie. Oryginał ma pytanie; poprawnego pytania w przekładzie nie zmieniono. |
+| G-001, G-P1-001, G-P1-002, G-002 | Wdrożone: eksport podziałów wierszy, literalne gwiazdki, poprawne indeksy i literówki. |
+| U-001–018 | Wdrożone; U-006 i U-011 z doprecyzowaniem wskazanym poniżej. |
+| P3-T01–02, P4-T01–02, P5-T01–03, U-T01 | Rozstrzygnięte i zastosowane kontekstowo zgodnie z ustaleniami poniżej. |
+| P3-S01–05, P4-S01–03, P5-S01–02, U-S01–03 | Cechy, błędy i sprzeczności oryginału pozostawiono; nie poprawiano argumentacji autora. |
+| G-S01, G-T01 | Zachowano obecną notę licencyjną przekładu i podtytuł. To odrębne decyzje redakcyjne, nie automatyczne błędy tłumaczenia; różnice nadal dokumentują noty poniżej. |
+
+### Rozstrzygnięcia i sprostowania raportu
+
+- `exemplar` jako podstawa kopii: „egzemplarz wzorcowy”. `master copy`: „egzemplarz-matka” (U-006), aby zachować odrębność terminów. Zwykłych egzemplarzy drukowanych i kopii nie zmieniano automatycznie.
+- `Catholic Epistles`: „Listy Katolickie”, odrębnie od „Listów Ogólnych” dla `General Epistles`. `singular reading`: „odczyt singularny”, nie odczyt w gramatycznej liczbie pojedynczej. `Redeemer`: „Odkupiciel”, `Provider`: „Ten, który zaspokaja potrzeby”.
+- Szczególne `not yet extant`: „jeszcze nieznany”, z zachowaniem źródłowego cudzysłowu. Podstawą jest objaśnienie autora o świadkach niezidentyfikowanych i nieskatalogowanych. Zwykłe `extant` w znaczeniu przetrwania pozostaje „zachowany”. To jawna decyzja P3-T01/P4-T01, nie ciche poprawianie autora.
+- P5-003: druk 105 / PDF 113 rzeczywiście zawiera „can we determine … closest to the Original?”. Zarzut zamiany twierdzenia w pytanie był niezasadny.
+- U-011: druk 51 / PDF 59 ma `dominating the stream`, nie cytowane w uwadze `the dominant stream`. Zastosowano „dominujący w strumieniu przekazu”.
+- P1-047: w `cannot` na PDF 73 podkreślony jest jedynie człon `not`; w rozdziale 16 podkreślono „nie”, nie „może”. Podkreślony angielski rodzajnik `the` oddawano kontekstowo, bez dopisywania argumentu o jedyności.
+- P1-042: zachowano źródłowe `Grieshischen` w tytule i wyraźnie zaznaczono literówkę w objaśnieniu tłumacza; usunięto fałszywą nazwę języka. P2-011: przywrócono źródłowy wiersz 2875 (`1x, 37, 2/, 1c, 5s, 1i`, `Valopedi`), zamiast poprawiać dane po cichu. P2-016: zachowano małe `k` w `k^x^`.
+- Dotychczasowe 380 identyfikatorów przypisów zachowano. Przywrócony przypis z rozdziału 34 otrzymał opisowy identyfikator `podwarianty-wliczane-tylko-raz`.
+
+### Eksport i kontrola
+
+- `filters/line-breaks.lua` zamienia HTML `<br>` na natywne podziały wierszy Pandoca we wszystkich formatach. Tabele pozostają tabelami Markdown.
+- `filters/table-layout.lua` ogranicza zmiany składu do oznaczonych gęstych tabel. PDF otrzymuje lokalny mniejszy krój i odstępy; DOCX używa dodanego do istniejącego szablonu stylu `Compact Table` (9 pkt). Dostosowano proporcje kolumn; tabela klasyfikacji w 49 ma w PDF naturalne szerokości.
+- Stemma w 20 odtworzono z PDF 114 jako edytowalny SVG oraz PNG używany w eksportach. Zachowuje połączenia, kwadrat, okrąg i etykiety, nie rozpada się między stronami.
+- W szablonie PDF poprawiono wewnętrzną czcionkę pomiarową podkreśleń `soul`, która nie zawierała potrzebnych polskich znaków. Nie zmieniono podstawowego kroju książki.
+- Uruchomiono `make pdf`, `make epub docx html`, sprawdzenie niepustego PDF oraz `git diff --check`. Końcowy PDF ma 399 stron. Eksporty są częścią tej samej zmiany co Markdown.
+- Kontrola parsera całej książki: 50 plików, 381 przypisów, 94 tabele, 6 odwołań do istniejących obrazów, brak niezdefiniowanych/nieużytych przypisów i surowych wstawek po filtrach. Sprawdzono regresje literalnych gwiazdek w 32/33/47/49 i poprawne zakresy indeksów.
+- Oględziny eksportu są ukierunkowane na poprawiane miejsca: diagram, rozdzielenie wariantów i nazw, tabele 21/32/40/49, greckie podkreślenia i uszkodzone sigla. DOCX wyrenderowano przez LibreOffice; dodatkowo sprawdzono strukturę DOCX i EPUB. **Nie jest to pełna korekta typograficzna każdej strony wszystkich formatów ani gwarancja bezbłędności książki.**
+
+## Historyczny raport z 2026-10-11–12
+
+Dalsza część zachowuje pierwotne identyfikatory, lokalizacje i opis stanu sprzed poprawek. Sformułowania „do poprawy”, „nie zmieniono książki” i dawne liczby dotyczą tamtego etapu, nie obecnego stanu gałęzi. Aktualne rozstrzygnięcia podano powyżej; szczególnie P5-003 nie jest otwartą usterką.
+
 ## Wynik i zakres
 
 **Zakończono pierwsze pełne porównanie tłumaczenia z oryginałem — 2026-10-11.** Sprawdzono wszystkie 50 plików w `chapters/`, w tym oba pliki z prefiksem `09`. Poniżej znajdują się uwagi do kompletności, wierności, terminologii i formy. **Nie poprawiono tekstu książki ani plików wynikowych.** Raport jest listą do rozpatrzenia, nie informacją, że książka jest już wolna od błędów.

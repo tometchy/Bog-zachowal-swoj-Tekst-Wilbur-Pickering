@@ -2,7 +2,7 @@
 
 Do mojego opublikowanego profilu Dziejów Apostolskich dodałem świadków z pierwszych pięciu wieków, tak jak odnotowano ich w aparacie krytycznym mojego greckiego Tekstu. To znaczy, że pokazuję tylko tych, którzy zgadzają się z Rodziną 35, tam gdzie ma to miejsce. Sprawdziłem jednak również dowody przedstawione w *Editio Critica Maior* dla Dziejów Apostolskich, co skłoniło mnie do wprowadzenia zmian w około 60% poniższej listy zestawów wariantów. Będę więc musiał zrewidować swój opublikowany profil. Nie skolacjonowałem żadnego z tych wczesnych świadków, po prostu przepisałem informacje z innych źródeł. Ewentualny sporadyczny błąd nie zmieni siły mojego argumentu.
 
-### Dzieje Apostolskie
+[Dzieje Apostolskie]{.underline}
 
 |  |  |  |
 |:---|:---|:---|
@@ -81,7 +81,7 @@ Do mojego opublikowanego profilu Dziejów Apostolskich dodałem świadków z pie
 | +++ | 12:6 | προαγειν αυτον **f^35^** D [20%] \|\| ~ 21 [63%] \|\| |
 | ++++ | 12:20 | τε **f^35^** [18%] \|\| δε [70%] \|\| |
 | ++ | 12:22 | θεου φωνη **f^35^** ℵ, A, B(D) [30%] \|\| ~ 21 [68%] |
-| +++++ | 12:25 | εις αντιοχειαν **f^35pt^** (5.1%)+{19.5%} \|\| 1 ιερουσαλημ [60%] \|\| \|\| \|\| \|\| \|\|[^rodzina-35-rozszczepia-sie-w-dziejach-12-25] |
+| +++++ | 12:25 | εις αντιοχειαν **f^35pt^** (5.1%)+{19.5%} \|\| 1 ιερουσαλημ [60%] \|\| \|\| \|\| \|\|[^rodzina-35-rozszczepia-sie-w-dziejach-12-25] |
 | +++ | 13:4^a^ | μεν **f^35^** [20%] \|\| 1 ουν [80%] |
 | ++-- | 13:4^b^ | τε **f^35^** ℵ, A, B, C [27%] \|\| δε [72%] |
 | ++-- | 13:12 | εκπληττομενος **f^35^** B [24%] \|\| εκπλησσομενος [76%] |
@@ -187,7 +187,7 @@ Do mojego opublikowanego profilu Dziejów Apostolskich dodałem świadków z pie
 | +++ | 28:23 | μωυσεος **f^35^** [20%] \|\| μωσεως [35%] \|\| μωυσεως [45%] |
 | ++-- | 28:27 | ιασωμαι **f^35^** [25%] \|\| ιασομαι [75%] |
 
-**Klucz:**
+[Klucz:]{.underline}
 
 |  |  |
 |:---|:---|
@@ -197,11 +197,11 @@ Do mojego opublikowanego profilu Dziejów Apostolskich dodałem świadków z pie
 | +-- | około 35% (10) |
 | + | około 40% (4) |
 
-**Łącznie: 180**
+Łącznie: 180
 
-Dla każdego bezstronnego czytelnika powinno być oczywiste, że **f^35^** jest całkowicie niezależna od masy bizantyjskiej (**K^x^** Sodena). Spośród 180 zestawów wariantów **f^35^** występuje sama 75 razy (42%), jest więc również niezależna od linii przekazu reprezentowanych przez uwzględnione przeze mnie wczesne manuskrypty. Jeśli **f^35^** jest niezależna od masy bizantyjskiej, nie może być rewizją opartą na tej masie — dokonaną w jakimkolwiek czasie! Zanim skomentuję to szerzej, wymienię wczesne poświadczenie odczytów, które klasyfikuję odpowiednio jako „diagnostyczne” i „całkiem dobre”, oznaczonych przez +++ i ++-- (25% lub mniej).
+Dla każdego bezstronnego czytelnika powinno być oczywiste, że **f^35^** jest całkowicie niezależna od masy bizantyjskiej (K^x^ Sodena). Spośród 180 zestawów wariantów **f^35^** występuje sama 75 razy (42%), jest więc również niezależna od linii przekazu reprezentowanych przez uwzględnione przeze mnie wczesne manuskrypty. Jeśli **f^35^** jest niezależna od masy bizantyjskiej, nie może być rewizją opartą na tej masie — dokonaną w jakimkolwiek czasie! Zanim skomentuję to szerzej, wymienię wczesne poświadczenie odczytów, które klasyfikuję odpowiednio jako „diagnostyczne” i „całkiem dobre”, oznaczonych przez +++ i ++-- (25% lub mniej).
 
-|  |  | **Łączna liczba wystąpień każdego świadka** |
+|  |  | Łączna liczba wystąpień każdego świadka |
 |:---|:---|:---|
 | P^45^ — 1 | P^53^A, C — 1 | P^8^ — 1 |
 | ℵ — 2 | ℵ, A, B — 7 | P^45^ — 5 |
@@ -217,6 +217,6 @@ Dla każdego bezstronnego czytelnika powinno być oczywiste, że **f^35^** jest 
 | B, D — 2 | P^48^ℵ, A, B, C — 1 |  |
 | P^45^A, B — 1 | ℵ, A, B, C, D — 2 |  |
 
-Zauważ poświadczenie ze strony trzech wielkich kodeksów „aleksandryjskich”. Jak mogłyby wspierać coś wytworzonego w XII wieku? Powiem to ponownie: jak manuskrypty z IV wieku mogłyby wspierać coś, co nie istniało aż do XII wieku? Spośród łącznie 131 zestawów **f^35^** występuje sama 68 razy (52%), a 63 razy ma pewne wczesne poświadczenie (48%). Także tutaj **f^35^** jest niezależna od linii przekazu reprezentowanych przez uwzględnione przeze mnie wczesne manuskrypty, nie istnieje więc żaden wzorzec. Skoro nie istnieje wzorzec, nie istnieje zależność, a zatem [tekst]{.underline} **f^35^** musi być starożytny i sięgać co najmniej IV wieku. Skoro nie istnieje wzorzec ani zależność, nie można twierdzić, że starożytne są jedynie poszczególne odczyty. Powtarzam: dowody wskazują, że niemożliwe jest, aby **f^35^** była oparta na masie bizantyjskiej. Każdy, kto nadal tak twierdzi, jest w najlepszym razie niedoinformowany. **K^r^** von Sodena należy wycofać i zastąpić przez **f^35^** albo **f^18^**.
+Zauważ poświadczenie ze strony trzech wielkich kodeksów „aleksandryjskich”. Jak mogłyby wspierać coś wytworzonego w XII wieku? Powiem to ponownie: jak manuskrypty z IV wieku mogłyby wspierać coś, co nie istniało aż do XII wieku? Spośród łącznie 131 zestawów **f^35^** występuje sama 68 razy (52%), a 63 razy ma pewne wczesne poświadczenie (48%). Także tutaj **f^35^** jest niezależna od linii przekazu reprezentowanych przez uwzględnione przeze mnie wczesne manuskrypty, nie istnieje więc żaden wzorzec. Skoro nie istnieje wzorzec, nie istnieje zależność, a zatem [**tekst**]{.underline} **f^35^** musi być starożytny i sięgać co najmniej IV wieku. Skoro nie istnieje wzorzec ani zależność, nie można twierdzić, że starożytne są jedynie poszczególne odczyty. Powtarzam: dowody wskazują, że niemożliwe jest, aby **f^35^** była oparta na masie bizantyjskiej. Każdy, kto nadal tak twierdzi, jest w najlepszym razie niedoinformowany. **K^r^** von Sodena należy wycofać i zastąpić przez **f^35^** albo **f^18^**.
 
 [^rodzina-35-rozszczepia-sie-w-dziejach-12-25]: Jest to jedyne miejsce w całym Nowym Testamencie, w którym Rodzina 35 się rozszczepia — występuje pięć istotnych wariantów (oraz dwa drobne). Zwykle tam, gdzie rodzina jest podzielona, występują tylko dwa warianty. Szczegółowe omówienie tego zestawu wariantów znajduje się w artykule „Where to place a comma—Acts 12:25”.

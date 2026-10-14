@@ -2,7 +2,7 @@
 
 Ponad sto lat temu i w całej swojej twórczości John William Burgon wielokrotnie zwracał uwagę na *concordia discors*, panujące zamieszanie i niezgodność, jakie wczesne uncjały (ℵABCD — każdy z nich osobiście skolacjonował) wykazują między sobą. Ewangelia Łukasza 11,2-4 dostarcza jednego przykładu.
 
-> „Pięć Starych Uncjałów” (ℵABCD) zniekształca Modlitwę Pańską podaną przez św. Łukasza w nie mniej niż czterdziestu pięciu słowach. Tak niewiele jednak zgadzają się między sobą, że w swoich odstępstwach od Tekstu Tradycyjnego układają się w sześć różnych kombinacji, a mimo to nie są w stanie zgodzić się między sobą co do choćby jednego wariantowego odczytu, tylko raz obserwuje się, że więcej niż dwa z nich stoją razem, a ich wielkim punktem zjednoczenia jest ni mniej, ni więcej, tylko pominięcie rodzajnika. Ich ekscentryczna skłonność jest tak wielka, że w przypadku trzydziestu dwóch spośród wszystkich czterdziestu pięciu słów kolejno składają samotne świadectwo.[^burgon-piec-starych-uncjalow]
+> „Pięć Starych Uncjałów” (ℵABCD) zniekształca Modlitwę Pańską podaną przez św. Łukasza w nie mniej niż czterdziestu pięciu słowach. Tak niewiele jednak zgadzają się między sobą, że w swoich odstępstwach od Tekstu Tradycyjnego układają się w sześć różnych kombinacji, a mimo to nie są w stanie zgodzić się między sobą co do choćby jednego wariantowego odczytu, tylko raz obserwuje się, że więcej niż dwa z nich stoją razem, a ich wielkim punktem zjednoczenia jest ni mniej, ni więcej, tylko pominięcie rodzajnika. Ich ekscentryczna skłonność jest tak wielka, że w przypadku trzydziestu dwóch spośród wszystkich czterdziestu pięciu słów kolejno przedstawiają odosobnione dowody.[^burgon-piec-starych-uncjalow]
 
 ### List Jakuba
 
@@ -44,7 +44,7 @@ Cztery z tych uncjałów zachowały się w Liście Jakuba (ℵABC), do których 
 
 W 114 istotnych zestawach wariantów (120 minus 6) **f^35^** ma jawne poświadczenie tych wczesnych uncjałów w 52% przypadków. Uncjały te są nie tylko oczywiście niezależne od siebie, **f^35^** jest również niezależna od nich, lecz równie wczesna. Oto kolejny dowód, że **f^35^** jest zarówno wczesna, jak i niezależna. Przechodząc do następnej części, pamiętajmy, że sama **f^35^** dowodzi, iż wariant jest wczesny.
 
-#### Odczyty mniejszościowe **f^35^**
+#### *Odczyty mniejszościowe **f^35^***
 
 Rzut oka na aparat mojego greckiego Tekstu Listu Jakuba pokaże, że dziewięć odczytów o poświadczeniu wynoszącym 30% lub mniej uznałem za autentyczne. W każdym przypadku rozstrzygającym czynnikiem jest obecność **f^35^**. Przeanalizuję teraz tych dziewięć odczytów, zaczynając od najmniejszego odsetka.
 
@@ -58,9 +58,9 @@ Wszystkie osiem manuskryptów spoza **f^35^**, wymienionych przez *ECM*,[^ecm-to
 
 ##### *δυναμενος* 3,2 ℵ (23%)
 
-Ku mojemu zdziwieniu między ośmioma manuskryptami spoza **f^35^**, które *ECM* wymienia dla ιθυνοντος, a 23 manuskryptami spoza **f^35^** wymienionymi dla δυναμενος nie ma **[absolutnie żadnego]{.underline}** pokrywania się. Ku mojemu dalszemu zdziwieniu wśród tych 23 nie ma ani jednego manuskryptu bizantyjskiego.[^ecm-blednie-klasyfikuje-dwa-jako-bizantyjskie] **f^35^** jest więc tutaj całkowicie niezależna od **K^x^**, a mimo to dołącza do niej ℵ, wiemy zatem już, że odczyt jest wczesny. Przeanalizujmy jednak rękopisy kursywne.
+Ku mojemu zdziwieniu między ośmioma manuskryptami spoza **f^35^**, które *ECM* wymienia dla ιθυνοντος, a 23 manuskryptami spoza **f^35^** wymienionymi dla δυναμενος nie ma absolutnie **[żadnego]{.underline}** pokrywania się. Ku mojemu dalszemu zdziwieniu wśród tych 23 nie ma ani jednego manuskryptu bizantyjskiego.[^ecm-blednie-klasyfikuje-dwa-jako-bizantyjskie] **f^35^** jest więc tutaj całkowicie niezależna od **K^x^**, a mimo to dołącza do niej ℵ, wiemy zatem już, że odczyt jest wczesny. Przeanalizujmy jednak rękopisy kursywne.
 
-Ponieważ żadne dwa nie mają identycznego profilu, 23 są przypuszczalnie niezależne w swoim pokoleniu. Istnieje jednak kilka par mających przypuszczalnie niezbyt odległego wspólnego przodka — do tej kategorii zaliczam 206-429, 254-1524 i 630-2200. Pierwsze dwie pary są jednak same ze sobą spokrewnione i mają wspólnego praprzodka. Do przodka 630-2200 dołącza 2138, a do ich praprzodka 2495. Manuskrypty 621 i 2412 spotykają się kilka pokoleń wcześniej. Wyobrażam sobie zatem, że w V wieku mamy szesnaście niezależnych linii przekazu (poza **f^35^**). Gdy cofniemy się do III wieku, nadal powinniśmy mieć co najmniej sześć niezależnych linii ręczących za δυναμενος (podobnie jak za ιθυνοντος), lecz w każdym przypadku są to **całkowicie odmienne** linie!!! Oznacza to, że **f^35^** jest niezależna od wszystkich jedenastu linii (z pewnością — przy ιθυνοντος **f^35^** jest niezależna od sześciu wspierających δυναμενος, a przy δυναμενος jest niezależna od pięciu wspierających ιθυνοντος, jest zatem niezależna od wszystkich jedenastu).
+Ponieważ żadne dwa nie mają identycznego profilu, 23 są przypuszczalnie niezależne w swoim pokoleniu. Istnieje jednak kilka par mających przypuszczalnie niezbyt odległego wspólnego przodka — do tej kategorii zaliczam 206-429, 254-1524 i 630-2200. Pierwsze dwie pary są jednak same ze sobą spokrewnione i mają wspólnego praprzodka. Do przodka 630-2200 dołącza 2138, a do ich praprzodka 2495. Manuskrypty 621 i 2412 spotykają się kilka pokoleń wcześniej. Wyobrażam sobie zatem, że w V wieku mamy [szesnaście]{.underline} niezależnych linii przekazu (poza **f^35^**). Gdy cofniemy się do III wieku, nadal powinniśmy mieć co najmniej sześć niezależnych linii ręczących za δυναμενος (podobnie jak za ιθυνοντος), lecz w każdym przypadku są to **całkowicie odmienne** linie!!! Oznacza to, że **f^35^** jest niezależna od wszystkich jedenastu linii (z pewnością — przy ιθυνοντος **f^35^** jest niezależna od sześciu wspierających δυναμενος, a przy δυναμενος jest niezależna od pięciu wspierających ιθυνοντος, jest zatem niezależna od wszystkich jedenastu).
 
 Odczyt ten jest z pewnością starożytny, niczego w ogóle nie zawdzięcza **K^x^** (masie bizantyjskiej), a moim zdaniem jest najprawdopodobniej oryginalny.[^pozniejsza-pewnosc-o-oryginalnosci-f35]
 
@@ -104,7 +104,7 @@ Wydaje mi się, że uwaga Kilpatricka jest oczywista. Najwyraźniej zdarzały si
 
 [^fragmenty-nie-zgadzaja-sie-z-f35]: P^23^, 0173 i 0246, wszystkie fragmentaryczne, są również cytowane w moim aparacie, lecz nigdy nie zgadzają się z **f^35^** przeciwko pozostałym.
 
-[^ecm-tom-czwarty-listy-ogolne]: *Editio Critica Maior*, The Institute for New Testament Textual Research, red. (Stuttgart: Deutsche Bibelgesellschaft, 1997), tom IV, Listy Ogólne.
+[^ecm-tom-czwarty-listy-ogolne]: *Editio Critica Maior*, The Institute for New Testament Textual Research, red. (Stuttgart: Deutsche Bibelgesellschaft, 1997), tom IV, Listy Katolickie.
 
 [^ecm-blednie-klasyfikuje-dwa-jako-bizantyjskie]: *ECM* wymienia wprawdzie dwa jako bizantyjskie (254, 1827), lecz porównanie ich z *TuT* pokazuje, że w Liście Jakuba nie przekraczają progu 80%.
 
@@ -118,7 +118,7 @@ Podobnie jak w przypadku Listu Jakuba, odnotowuję to, co John William Burgon na
 
 #### *Concordia discors*
 
-Cztery z tych uncjałów zachowały się w 1 Liście Piotra (ℵABC), do których dodaję P^72^ (niezachowany jeszcze w czasach Burgona), a to, co Burgon nazywa ich „ekscentryczną skłonnością”, jest wyraźnie widoczne. Ekscentryczność ta dowodzi ich niezależności, co będzie szczególnie istotne w dalszym ciągu. Przedstawiam w tabeli ich zachowanie w 141 istotnych zestawach wariantów (pomijając 13 z *rell*) uwzględnionych w aparacie krytycznym mojego wydania greckiego Tekstu 1 Listu Piotra. Jako punkt odniesienia przyjmuję **f^35^**.
+Cztery z tych uncjałów zachowały się w 1 Liście Piotra (ℵABC), do których dodaję P^72^ (jeszcze nieznany w czasach Burgona), a to, co Burgon nazywa ich „ekscentryczną skłonnością”, jest wyraźnie widoczne. Ekscentryczność ta dowodzi ich niezależności, co będzie szczególnie istotne w dalszym ciągu. Przedstawiam w tabeli ich zachowanie w 141 istotnych zestawach wariantów (pomijając 13 z *rell*) uwzględnionych w aparacie krytycznym mojego wydania greckiego Tekstu 1 Listu Piotra. Jako punkt odniesienia przyjmuję **f^35^**.
 
 | Kombinacja | Liczba | Uwaga |
 |---|---:|---|
@@ -159,7 +159,7 @@ Cztery z tych uncjałów zachowały się w 1 Liście Piotra (ℵABC), do któryc
 
 W 128 pozostałych zestawach wariantów (141 minus 13) **f^35^** ma jawne poświadczenie tych wczesnych uncjałów w 64% przypadków. Uncjały te są nie tylko oczywiście niezależne od siebie, **f^35^** jest również niezależna od nich, lecz równie wczesna. Oto kolejny dowód, że **f^35^** jest zarówno wczesna, jak i niezależna. Przechodząc do następnej części, pamiętajmy, że sama **f^35^** dowodzi, iż wariant jest wczesny.
 
-#### Odczyty mniejszościowe **f^35^**
+#### *Odczyty mniejszościowe **f^35^***
 
 Rzut oka na mój aparat pokaże, że dziewięć odczytów o poświadczeniu wynoszącym 30% lub mniej uznałem za autentyczne. W każdym przypadku rozstrzygającym czynnikiem jest obecność **f^35^**. Przeanalizuję teraz tych dziewięć odczytów, zaczynając od najmniejszego odsetka.
 
@@ -191,7 +191,7 @@ Dwadzieścia sześć manuskryptów spoza **f^35^**, wymienionych przez *ECM* dla
 
 ##### *χρονος* 4,3 P^72^ ℵABC (26%)
 
-Trzydzieści osiem manuskryptów spoza **f^35^**, wymienionych przez *ECM* dla tego wariantu, obejmuje wszystkie pięć wczesnych uncjałów, nie ma więc wątpliwości co do wieku. (Zaledwie dwa słowa dalej te same pięć wczesnych uncjałów ma βουλημα zamiast θελημα, co pokazuje, że **f^35^** jest od nich niezależna). W V wieku będzie ponad dwadzieścia niezależnych linii, z których, jak sobie wyobrażam, co najmniej połowa powinna sięgać III wieku. Wersety 2-3^a^ oddałbym następująco: „…aby przez pozostały czas w ciele nie żyć już dla ludzkich pożądliwości, lecz dla woli Boga. Ponieważ czas, który przeminął, wystarczy wam do pełnienia woli pogan…”. Wyrażenie „życia” zawadza. **f^35^** jest wczesna i niezależna, uważam, że jej odczyt jest tutaj najprawdopodobniej oryginalny.
+Trzydzieści osiem manuskryptów spoza **f^35^**, wymienionych przez *ECM* dla tego wariantu, obejmuje wszystkie pięć wczesnych uncjałów, nie ma więc wątpliwości co do wieku. (Zaledwie dwa słowa dalej te same pięć wczesnych uncjałów ma βουλημα zamiast θελημα, co pokazuje, że **f^35^** jest od nich niezależna). W V wieku będzie ponad dwadzieścia niezależnych linii, z których, jak sobie wyobrażam, co najmniej połowa powinna sięgać III wieku. Wersety 2-3^a^ oddałbym następująco: „…aby przez pozostały czas w ciele nie żyć już dla ludzkich pożądliwości, lecz dla woli Boga. Ponieważ czas, który przeminął, w zupełności wystarczył wam na pełnienie woli pogan…”. Wyrażenie „życia” zawadza. **f^35^** jest wczesna i niezależna, uważam, że jej odczyt jest tutaj najprawdopodobniej oryginalny.
 
 ##### *αιωνας* 4,11 P^72^ (27%)
 
@@ -249,7 +249,7 @@ Cztery z tych uncjałów zachowały się w 2 Liście Piotra (ℵABC), do któryc
 
 W 61 pozostałych zestawach wariantów (67 minus 6) **f^35^** ma jawne poświadczenie tych wczesnych uncjałów w 69% przypadków. Uncjały te są nie tylko oczywiście niezależne od siebie, **f^35^** jest również niezależna od nich, lecz równie wczesna. Oto kolejny dowód, że **f^35^** jest zarówno wczesna, jak i niezależna. Przechodząc do następnej części, pamiętajmy, że sama **f^35^** dowodzi, iż wariant jest wczesny.
 
-#### Odczyty mniejszościowe **f^35^**
+#### *Odczyty mniejszościowe **f^35^***
 
 Rzut oka na mój aparat pokaże, że siedem odczytów o poświadczeniu wynoszącym 33% lub mniej uznałem za autentyczne. W każdym przypadku rozstrzygającym czynnikiem jest obecność **f^35^**. Przeanalizuję teraz tych siedem odczytów, zaczynając od najmniejszego odsetka.
 
@@ -259,7 +259,7 @@ Rzut oka na mój aparat pokaże, że siedem odczytów o poświadczeniu wynosząc
 
 ##### *συνεστωτα* 3,5 ℵ (23%)
 
-Składnia Piotra jest tutaj nieco złożona, co dało początek jedenastu wariantom sześciowyrazowego wyrażenia. W moim rozumieniu „z wody i przez wodę” jest wtrąceniem modyfikującym „ziemię”, imiesłów łączy się więc z ησαν jako konstrukcja peryfrastyczna, której podmiot obejmuje zarówno „niebo” (r. męski), jak i „ziemię” (r. żeński) — stąd mianownik liczby mnogiej rodzaju nijakiego imiesłowu czynnego perfectum. **f^35^** jest tutaj dokładnie poprawna, nawet jeśli większość kopistów zagubiła się w składni Piotra. ℵ zapewnia jawne poświadczenie z IV wieku, lecz odczyt ten jest również poświadczony przez kolejne cztery niezależne linie przekazu (przytoczone przez *ECM*), poza **f^35^**, z których wszystkie prawdopodobnie sięgają co najmniej IV wieku. **f^35^** prawdopodobnie zachowuje tutaj Oryginał.
+Składnia Piotra jest tutaj nieco złożona, co dało początek jedenastu wariantom sześciowyrazowego wyrażenia. W moim rozumieniu „z wody i przez wodę” jest wtrąceniem modyfikującym „ziemię”, imiesłów łączy się więc z ησαν jako konstrukcja peryfrastyczna, której podmiot obejmuje zarówno „niebo” (r. męski), jak i „ziemię” (r. żeński) — stąd mianownik liczby mnogiej rodzaju [nijakiego]{.underline} imiesłowu czynnego perfectum. **f^35^** jest tutaj dokładnie poprawna, nawet jeśli większość kopistów zagubiła się w składni Piotra. ℵ zapewnia jawne poświadczenie z IV wieku, lecz odczyt ten jest również poświadczony przez kolejne cztery niezależne linie przekazu (przytoczone przez *ECM*), poza **f^35^**, z których wszystkie prawdopodobnie sięgają co najmniej IV wieku. **f^35^** prawdopodobnie zachowuje tutaj Oryginał.
 
 ##### *εις αιωνας* 2,17 (25,1%)
 
@@ -298,23 +298,23 @@ Cztery z tych uncjałów zachowały się w 1 Liście Jana (ℵABC), do których 
 | Kombinacja | Liczba | Uwaga |
 |---|---:|---|
 | sama **f^35^** | 32 | (W tych przypadkach uncjały są zazwyczaj razem, lecz nie zawsze). |
-| **f^35^** ℵ | 10 |  |
-| **f^35^** A | 7 |  |
-| **f^35^** B | 4 |  |
-| **f^35^** C | 3 |  |
-| **f^35^** ℵA | 4 |  |
-| **f^35^** ℵB | 1 |  |
-| **f^35^** ℵC | 5 |  |
-| **f^35^** AB | 4 |  |
-| **f^35^** AC | 1 |  |
-| **f^35^** A048 | 2 |  |
-| **f^35^** BC | 1 |  |
-| **f^35^** ℵAB | 4 |  |
-| **f^35^** ℵAC | 1 |  |
-| **f^35^** ℵA048 | 1 |  |
-| **f^35^** ℵBC | 2 |  |
-| **f^35^** ABC | 2 |  |
-| **f^35^** ℵABC | 3 | (Ponieważ ta kombinacja poświadcza ponad 90% słów, nie ma znaczenia dla mojego obecnego celu i nie będzie wykorzystywana w żadnych poniższych obliczeniach). |
+| f^35^ ℵ | 10 |  |
+| f^35^ A | 7 |  |
+| f^35^ B | 4 |  |
+| f^35^ C | 3 |  |
+| f^35^ ℵA | 4 |  |
+| f^35^ ℵB | 1 |  |
+| f^35^ ℵC | 5 |  |
+| f^35^ AB | 4 |  |
+| f^35^ AC | 1 |  |
+| f^35^ A048 | 2 |  |
+| f^35^ BC | 1 |  |
+| f^35^ ℵAB | 4 |  |
+| f^35^ ℵAC | 1 |  |
+| f^35^ ℵA048 | 1 |  |
+| f^35^ ℵBC | 2 |  |
+| f^35^ ABC | 2 |  |
+| f^35^ ℵABC | 3 | (Ponieważ ta kombinacja poświadcza ponad 90% słów, nie ma znaczenia dla mojego obecnego celu i nie będzie wykorzystywana w żadnych poniższych obliczeniach). |
 | z udziałem ℵ | 28 |  |
 | z udziałem A | 24 |  |
 | z udziałem B | 18 |  |
@@ -323,7 +323,7 @@ Cztery z tych uncjałów zachowały się w 1 Liście Jana (ℵABC), do których 
 
 W 84 pozostałych zestawach wariantów (87 minus 3) **f^35^** ma jawne poświadczenie tych wczesnych uncjałów w 62% przypadków. Uncjały te są nie tylko oczywiście niezależne od siebie, **f^35^** jest również niezależna od nich, lecz równie wczesna. Oto kolejny dowód, że **f^35^** jest zarówno wczesna, jak i niezależna. Przechodząc do następnej części, pamiętajmy, że sama **f^35^** dowodzi, iż wariant jest wczesny.
 
-#### Odczyty mniejszościowe **f^35^**
+#### *Odczyty mniejszościowe **f^35^***
 
 Rzut oka na mój aparat pokaże, że cztery odczyty o poświadczeniu wynoszącym 30% lub mniej uznałem za autentyczne. W każdym przypadku rozstrzygającym czynnikiem jest obecność **f^35^**. Przeanalizuję teraz te cztery odczyty, zaczynając od najmniejszego odsetka. Najpierw przedstawiam wykaz manuskryptów spoza **f^35^** (według *ECM*), które poświadczają każdy wariant.
 
@@ -372,15 +372,15 @@ Rzut oka na mój aparat pokaże, że cztery odczyty o poświadczeniu wynoszącym
 | --- | --- | 2652 | --- |
 | --- | --- | --- | 2805 |
 
-Podobnie jak w Liście Jakuba, między dwiema pierwszymi kolumnami nie ma pokrywania się, a między drugą i trzecią istnieje tylko jeden wspólny manuskrypt! Wynika z tego, że **f^35^** jest niezależna od wszystkich linii przekazu reprezentowanych przez manuskrypty w tych kolumnach. W pierwszej kolumnie nie ma manuskryptów bizantyjskich, a w drugiej jest tylko jeden (niezbyt silny — 69). Dla kontrastu trzecia kolumna zawiera jeden bardzo silny manuskrypt bizantyjski (607), jeden silny (180), dwa dostateczne (0142, 1890) i dwa słabe (1501, 1842), mimo wszystko wyraźnie nie reprezentują one masy tradycji bizantyjskiej. Podobnie jak w Liście Jakuba **f^35^** jest wyraźnie wczesna i niezależna od **K^x^**. Jeśli jest również niezależna od wszystkich innych linii przekazu, jak uważam, wówczas sięga Oryginału — jakie inne rozsądne wyjaśnienie istnieje?
+Podobnie jak w Liście Jakuba, między dwiema pierwszymi kolumnami [nie ma]{.underline} pokrywania się, a między drugą i trzecią istnieje tylko jeden wspólny manuskrypt! Wynika z tego, że **f^35^** jest niezależna od wszystkich linii przekazu reprezentowanych przez manuskrypty w tych kolumnach. W pierwszej kolumnie nie ma manuskryptów bizantyjskich, a w drugiej jest tylko jeden (niezbyt silny — 69). Dla kontrastu trzecia kolumna zawiera jeden bardzo silny manuskrypt bizantyjski (607), jeden silny (180), dwa dostateczne (0142, 1890) i dwa słabe (1501, 1842), mimo wszystko wyraźnie nie reprezentują one masy tradycji bizantyjskiej. Podobnie jak w Liście Jakuba **f^35^** jest wyraźnie wczesna i niezależna od **K^x^**. Jeśli jest również niezależna od wszystkich innych linii przekazu, jak uważam, wówczas sięga Oryginału — jakie inne rozsądne wyjaśnienie istnieje?
 
 ##### *και* 3,6 (20%)
 
-Spośród ośmiu manuskryptów spoza **f^35^**, wymienionych przez *ECM* dla tego wariantu, żaden nie jest bizantyjski. Rękopisy kursywne 1523 i 1524 prawdopodobnie łączą się jedno pokolenie wstecz, być może dwa pokolenia wstecz dołącza do nich 1844, być może trzy pokolenia wstecz dołącza do nich 254, te cztery manuskrypty redukują się więc do jednej linii przekazu. Jak sobie wyobrażam, w V wieku και jest poświadczone przez pięć niezależnych linii przekazu oprócz **f^35^**. Ponieważ ich mozaiki/profile są bardzo odmienne, większość z nich prawdopodobnie sięga III wieku. Wariant ten jest z pewnością starożytny i niczego w ogóle nie zawdzięcza **K^x^**. Uważam spójnik za emfatyczny i prawdopodobnie oryginalny. Porównując to z ιθυνοντος w Liście Jakuba (3,4 (21%)), nie ma pokrywania się z ośmioma manuskryptami spoza **f^35^** wymienionymi tam przez *ECM*, między tymi dwoma odczytami mamy więc dziesięć niezależnych linii przekazu w V wieku, oprócz **f^35^**.
+Spośród ośmiu manuskryptów spoza **f^35^**, wymienionych przez *ECM* dla tego wariantu, żaden nie jest bizantyjski. Rękopisy kursywne 1523 i 1524 prawdopodobnie łączą się jedno pokolenie wstecz, być może dwa pokolenia wstecz dołącza do nich 1844, być może trzy pokolenia wstecz dołącza do nich 254, te cztery manuskrypty redukują się więc do jednej linii przekazu. Jak sobie wyobrażam, w V wieku και jest poświadczone przez pięć niezależnych linii przekazu oprócz **f^35^**. Ponieważ ich mozaiki/profile są bardzo odmienne, większość z nich prawdopodobnie sięga III wieku. Wariant ten jest z pewnością starożytny i niczego w ogóle nie zawdzięcza **K^x^**. Uważam spójnik za emfatyczny i prawdopodobnie oryginalny. Porównując to z ιθυνοντος w Liście Jakuba (3,4 [21%]), [nie ma]{.underline} pokrywania się z ośmioma manuskryptami spoza **f^35^** wymienionymi tam przez *ECM*, między tymi dwoma odczytami mamy więc dziesięć niezależnych linii przekazu w V wieku, oprócz **f^35^**.
 
 ##### *ο Θεος ημιν* 5,11 B (24%)
 
-Spośród szesnastu manuskryptów spoza **f^35^**, wymienionych przez *ECM* dla tego wariantu, tylko jeden jest bizantyjski (69, dostateczny). Nie ma pokrywania się z ośmioma powyższymi. Kodeks B zapewnia jawne poświadczenie z IV wieku. 0296 jest fragmentem z VI wieku, zbyt małym, by go sklasyfikować. Rękopisy kursywne 630, 1292, 1611, 2138 i 2200 spotkają się do V wieku, reprezentują zatem jedną linię przekazu. Rękopisy kursywne 614 i 2412 tworzą parę. Jak sobie wyobrażam, w V wieku wariant ten jest poświadczony przez jedenaście niezależnych linii przekazu oprócz **f^35^**. Ich profile są na tyle odmienne, że nie zdziwiłbym się, gdybym osiem z nich znalazł w III wieku. Odczyt ten jest z pewnością starożytny, niczego w ogóle nie zawdzięcza **K^x^**, a moim zdaniem jest najprawdopodobniej oryginalny. Porównując to z δυναμενος w Liście Jakuba (3,2 (23%)), dzielą one trzy linie przekazu, lecz pozostaje trzynaście, które należy dodać do jedenastu tutaj — 11 + 13 = 24! Zachowane manuskrypty z pierwszych pięciu wieków absolutnie nie przedstawiają rzeczywistego stanu rzeczy w tamtym czasie.
+Spośród szesnastu manuskryptów spoza **f^35^**, wymienionych przez *ECM* dla tego wariantu, tylko jeden jest bizantyjski (69, dostateczny). Nie ma pokrywania się z ośmioma powyższymi. Kodeks B zapewnia jawne poświadczenie z IV wieku. 0296 jest fragmentem z VI wieku, zbyt małym, by go sklasyfikować. Rękopisy kursywne 630, 1292, 1611, 2138 i 2200 spotkają się do V wieku, reprezentują zatem jedną linię przekazu. Rękopisy kursywne 614 i 2412 tworzą parę. Jak sobie wyobrażam, w V wieku wariant ten jest poświadczony przez jedenaście niezależnych linii przekazu oprócz **f^35^**. Ich profile są na tyle odmienne, że nie zdziwiłbym się, gdybym osiem z nich znalazł w III wieku. Odczyt ten jest z pewnością starożytny, niczego w ogóle nie zawdzięcza **K^x^**, a moim zdaniem jest najprawdopodobniej oryginalny. Porównując to z δυναμενος w Liście Jakuba (3,2 [23%]), dzielą one trzy linie przekazu, lecz pozostaje trzynaście, które należy dodać do jedenastu tutaj — 11 + 13 = 24! Zachowane manuskrypty z pierwszych pięciu wieków [absolutnie nie]{.underline} przedstawiają rzeczywistego stanu rzeczy w tamtym czasie.
 
 ##### *περιπατουμεν* 1,6 (29%)
 
@@ -394,7 +394,7 @@ Spośród dziesięciu manuskryptów spoza **f^35^**, wymienionych przez *ECM*, r
 
 Oczywiście obraz, który dotąd widzieliśmy, będzie prawdziwy dla wszystkich innych odczytów mniejszościowych **f^35^**, gdy przejdziemy do 35%, 40% itd. Pozwolę sobie powtórzyć kilka najważniejszych punktów:
 
-1. **f^35^** jest wczesna i niezależna — niezależna od wszystkich innych znanych linii przekazu,
+1. **f^35^** jest wczesna i niezależna — niezależna od [wszystkich]{.underline} innych znanych linii przekazu,
 
 2. jeśli jest niezależna od wszystkich innych linii przekazu, z konieczności musi sięgać Autografów,
 

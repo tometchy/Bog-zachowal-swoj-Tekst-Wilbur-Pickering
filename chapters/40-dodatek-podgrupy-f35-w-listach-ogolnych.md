@@ -3,7 +3,7 @@
 W czterech większych księgach istnieje czternaście znaczących podziałów w Rodzinie (w trzech krótszych nie ma żadnego), jak następuje:
 
 | Miejsce | Odczyty |
-|---|---|
+|-------------------------|---------------------------------------------------------------------------|
 | List Jakuba 2,13 | ελεον 432^alt^, 1766^c^<br>ελεος 328, 394 {432, 604}[^nawiasy-klamrowe-wspolny-egzemplarz] 634, 664, 928, 986, 1247, 1249, 1482, 1548, 1619^c^, 1636, 1725, 1732^alt^, 1749, 1752, 1766, 1897, 2080, 2221, 2289, 2587, 2704 |
 | List Jakuba 2,14 | εχει<br>εχη 141, 328, 386, 394, 604, 634, 664, 801, 928, 986, 1075, 1247, 1249, 1250, 1482, 1508, 1548, 1656, 1704, 1737, 1746, 1748, 1749, 1752, 1766, 1855, 1876, 1899, 2218, 2221, 2289, 2431, 2501, 2587, 2626, 2704 |
 | 1 List Piotra 1,23 | αλλ<br>αλλα {149, 201} {432, 604} 757, 824, 1072, 1075, 1248, 1250, 1503, 1548, 1617, 1618, 1619, 1628, 1636, 1637, 1656, 1740, 1745, 1746, 1748, 1754, 1763, 1768, 1864, 1892, 2352, 2431, 2777 |
@@ -19,12 +19,14 @@ W czterech większych księgach istnieje czternaście znaczących podziałów w 
 | 1 List Jana 1,6 | περιπατουμεν 18, 35, 141, 204, 386, 801, 824, 1100, 1101, 1250, 1636, 1704, 1725, 1726, 1732, 1733, 1754, 1761, 1858, 1865, 1876, 1897, 2080, 2221, 2261 [2378] 2466, 2554, 2626, 2723[^obie-formy-przy-odczycie-mniejszosciowym]<br>περιπατωμεν {149, 201} 328, 394 {432, 604} 634 (664) 757, 928, 986, 1072, 1075, 1247, 1248, 1249, 1482, 1503, 1508, 1548, 1617, 1618, 1619, 1628, 1637, 1656, 1737, 1740, 1745, 1748, 1749, 1752, 1763, 1766, 1768, 1855, 1864, 1892, 2218, 2255, 2289, 2352, 2431, 2501, 2587, 2704, 2777 |
 | 1 List Jana 4,20 | μισει<br>μιση 328, 386, 394, 604, 634, 928, 1247, 1249, 1482, 1508, 1548, 1704, 1749, 1752, 1763, 1766, 1855, 2255, 2289, 2587, 2704 |
 
-### Dzielą się na dwie znaczące podgrupy, jak następuje
+Dzielą się na dwie znaczące podgrupy, jak następuje:
 
-#### Grupa 1
+[**Grupa 1**]{.underline}
+
+::: {.compact-table}
 
 | Jk 2,13 | Jk 2,14 | 1P 2,24 | 1P 3,6 | 1P 5,8 | 2P 2,14 | 2P 3,3 | 1J 4,20 | Miejsce | Data |
-|---|---|---|---|---|---|---|---|---|---|
+|-------|-------|-------|-------|-------|-------|-------|-------|----------------------------------|----------|
 | 2289 | 2289 | 2289 | 2289 | 2289 | 2289 | 2289 | 2289 | Vatopediu | XII |
 | 2704 | 2704 | 2704 | 2704 | 2704 | 2704 | 2704 | 2704 | Meteora | XV |
 | 394 | 394 | 394 | --- | 394 | 394 | 394 | 394 | Vallicelliana | 1330 |
@@ -43,10 +45,14 @@ W czterech większych księgach istnieje czternaście znaczących podziałów w 
 | --- | --- | 1763 | 1763 | 1763 | 1763 | --- | 1763 | Ateny | XV |
 | 1766 | 1766 | 1766 | --- | 1766 | --- | --- | 1766 | Sofia | 1344 |
 
+:::
+
 Uważam, że tych siedemnaście manuskryptów reprezentuje znaczącą podgrupę występującą we wszystkich czterech większych księgach. Zauważ, że rozmieszczenie geograficzne jest ograniczone, brakuje Konstantynopola, Jerozolimy, Patmos, Trikali oraz siedmiu spośród dziesięciu klasztorów na górze Athos (które sprawdziłem) (spośród dwudziestu manuskryptów M Lavras są tu tylko trzy). Prawdopodobieństwo, że grupa ta mogłaby reprezentować archetyp, jest znikome. Dodaję teraz „maruderów”, aby uzupełnić obraz każdego wariantu.
 
+::: {.compact-table}
+
 | Jk 2,13 | Jk 2,14 | 1P 2,24 | 1P 3,6 | 1P 5,8 | 2P 2,14 | 2P 3,3 | 1J 4,20 | Miejsce | Data |
-|---|---|---|---|---|---|---|---|---|---|
+|-------|-------|-------|-------|-------|-------|-------|-------|----------------------------------|----------|
 | 986 | 986 | 986 | --- | 986 | --- | --- | --- | Esfigmenu | XIV |
 | 1548 | 1548 | 1548 | --- | --- | --- | --- | 1548 | Vatopediu | 1359 |
 | 634 | 634 | --- | --- | --- | --- | --- | 634 | Watykan | 1394 |
@@ -59,10 +65,14 @@ Uważam, że tych siedemnaście manuskryptów reprezentuje znaczącą podgrupę 
 | --- | 2431 | --- | 2431 | 2431 | --- | --- | --- | Kavsokalyvia | 1332 |
 | --- | 2626 | --- | 2626 | --- | 2626 | --- | --- | Ochryda | XIV |
 
+:::
+
 Manuskrypty 801, 1250, 1876 i 2626 mogły z powodzeniem podlegać wspólnemu wpływowi.
 
+::: {.compact-table}
+
 | Jk 2,13 | Jk 2,14 | 1P 2,24 | 1P 3,6 | 1P 5,8 | 2P 2,14 | 2P 3,3 | 1J 4,20 | Miejsce | Data |
-|---|---|---|---|---|---|---|---|---|---|
+|-------|-------|-------|-------|-------|-------|-------|-------|----------------------------------|----------|
 | --- | 386 | --- | --- | --- | --- | --- | 386 | Watykan | XIV |
 | 432 | --- | 432 | --- | --- | --- | --- | --- | Watykan | XV |
 | --- | 1075 | --- | --- | 1075 | --- | --- | --- | M Lavras | XIV |
@@ -71,14 +81,18 @@ Manuskrypty 801, 1250, 1876 i 2626 mogły z powodzeniem podlegać wspólnemu wp�
 | --- | 2218 | --- | --- | 2218 | --- | --- | --- | Lesbos | XVI |
 | 2221 | 2221 | --- | --- | --- | --- | --- | --- | Sparta | 1432 |
 
+:::
+
 Do nich należy dodać następujące „samotne” przypadki: dla Listu Jakuba 2,13 dodać 1636, 1725, 1897, 2080, dla Listu Jakuba 2,14 dodać 141, 1656, 1746, 2501, dla 1 Listu Piotra 2,24 dodać 1768, dla 1 Listu Piotra 3,6 dodać 1618, 1637, 1732, 2777, dla 1 Listu Piotra 5,8 dodać 1761, dla 2 Listu Piotra 2,14 dodać 1726, 2261, 2378, dla 2 Listu Piotra 3,3 i 1 Listu Jana 4,20 nie ma żadnych.
 
 Komentarz: εχη w Liście Jakuba 2,14 jest poświadczone przez 36 manuskryptów, ponad 40% Rodziny. Poza tym, że dittografia jest łatwą możliwością, nacisk μη mógł sprawić, że niektórzy kopiści wstawili tryb łączący, być może bez zastanowienia, odwrotna zmiana byłaby przypuszczalnie celowa. W kontekście tryb oznajmujący jest poprawny, Jakub stwierdza fakt, dana osoba nie ma uczynków.
 
-#### Grupa 2
+[**Grupa 2**]{.underline}
+
+::: {.compact-table}
 
 | 1P 1,23 | 1P 2,11 | [1P 3,6] | 1P 4,2 | 1P 4,11 | 1P 5,7 | Miejsce | Data |
-|---|---|---|---|---|---|---|---|
+|-----------|-----------|-----------|-----------|-----------|-----------|----------------------|------------|
 | 824 | 824 | --- | 824 | 824 | 824 | Grottaferrata | XIV |
 | 1248 | 1248 | --- | 1248 | 1248 | 1248 | Synaj | XIV |
 | 1617 | 1617 | --- | 1617 | 1617 | 1617 | M Lavras | XV |
@@ -93,10 +107,14 @@ Komentarz: εχη w Liście Jakuba 2,14 jest poświadczone przez 36 manuskryptó
 | 1892 | --- | --- | 1892 | 1892 | 1892 | Jerozolima | XIV |
 | 2777 | 2777 | 2777 | 2777 | 2777 | --- | Karditsa | XIV |
 
+:::
+
 Uważam, że tych trzynaście manuskryptów reprezentuje znaczącą podgrupę, poprzedzoną przez kolejnych dwanaście poniżej, które opuściły „drzewo” w położonym wyżej węźle.
 
+::: {.compact-table}
+
 | 1P 1,23 | 1P 2,11 | [1P 3,6] | 1P 4,2 | 1P 4,11 | 1P 5,7 | Miejsce | Data |
-|---|---|---|---|---|---|---|---|
+|-----------|-----------|-----------|-----------|-----------|-----------|----------------------|------------|
 | 757 | --- | --- | 757 | 757 | --- | Ateny | XIII |
 | 1075 | --- | --- | 1075 | 1075 | --- | M Lavras | XIV |
 | 1503 | --- | --- | 1503 | 1503 | --- | M Lavras | 1317 |
@@ -113,10 +131,14 @@ Uważam, że tych trzynaście manuskryptów reprezentuje znaczącą podgrupę, p
 | 1864 | --- | --- | 1864 | 1864 | --- | Stavronikita | XIII |
 | --- | 1899 | 1899 | 1899 | --- | 1899 | Patmos | XIV |
 
+:::
+
 Dodaję teraz „maruderów”, aby uzupełnić obraz każdego wariantu. Uważny czytelnik zauważył, że 1 List Piotra 3,6 znajduje się wyżej w nawiasach kwadratowych, uczyniłem tak, ponieważ wariant ten znajduje się już w grupie 1. Ten konkretny wariant ma dziwną „domieszkę” obu grup, ze względu na charakter wariantu podejrzewam, że wykaz jest przypadkowy, a zatem wariant ten tak naprawdę nie należy do żadnej grupy.
 
+::: {.compact-table}
+
 | 1P 1,23 | 1P 2,11 | [1P 3,6] | 1P 4,2 | 1P 4,11 | 1P 5,7 | Miejsce | Data |
-|---|---|---|---|---|---|---|---|
+|-----------|-----------|-----------|-----------|-----------|-----------|----------------------|------------|
 | 1250 | --- | 1250 | --- | --- | 1250 | Synaj | XV |
 | --- | --- | --- | --- | 1508 | 1508 | M Lavras | XV |
 | --- | --- | --- | 1737 | 1737 | --- | M Lavras | XII |
@@ -124,6 +146,8 @@ Dodaję teraz „maruderów”, aby uzupełnić obraz każdego wariantu. Uważny
 | --- | --- | --- | 2218 | 2218 | --- | Lesbos | XVI |
 | --- | --- | --- | 2261 | --- | 2261 | Kalawrita | XIV |
 | --- | --- | --- | 2501 | --- | 2501 | Synaj | XVI |
+
+:::
 
 Do nich należy dodać następujące „samotne” przypadki: dla 1 Listu Piotra 2,11 dodać 204, 2704, dla 1 Listu Piotra 4,2 dodać 1101, 1761, 1766, dla 1 Listu Piotra 5,7 dodać 141, 801, 986, 1247, 1249, 1726, 1752, 1876, 2626 (obraz ten wynika prawdopodobnie z charakteru wariantu i nie odzwierciedla zależności), dla 1 Listu Piotra 1,23 i 4,11 nie ma żadnych.
 
@@ -133,8 +157,10 @@ Podobnie jak w przypadku εχη w Liście Jakuba 2,14, pominięcie του w 1 Li
 
 Dochodzimy teraz do jedynego rzeczywistego „problemu” w ustalaniu archetypalnej formy rodziny w Listach Ogólnych — 1 List Jana 1,6 (na początku wspomniałem czternaście podziałów, z których omówiłem tylko trzynaście). Jest to jedyne miejsce w Listach Ogólnych, w którym forma archetypalna zachowała się w mniejszości zachowanych przedstawicieli, przynajmniej według mojego rozumienia. Główna kwestia sporna może być przypadkiem dittografii. Czasownik „mówić” słusznie występuje w trybie łączącym, ponieważ jest rządzony przez εαν, lecz czasowniki „mieć” i „chodzić” są częścią stwierdzenia i słusznie występują w trybie oznajmującym, tylko jeśli faktycznie chodzimy w ciemności, stajemy się kłamcami, twierdząc, że mamy społeczność. Περιπατουμεν jest więc poprawne. Wracając jednak do manuskryptów, zauważamy osobliwą okoliczność: wykaz mający tryb łączący tworzą dokładnie te dwie podgrupy, a 2255 jest jedynym obcym (prawdopodobna dittografia), wszystkie pozostałe manuskrypty, które nie uczestniczą w żadnej z podgrup, mają tryb oznajmujący i bardzo dobre rozmieszczenie geograficzne. Rozważmy:
 
+::: {.compact-table}
+
 | Manuskrypt | Miejsce | Data | Manuskrypt | Miejsce | Data |
-|---:|---|---:|---:|---|---:|
+|--------------:|-------------------------|---------:|--------------:|-------------------------|---------:|
 | 18 | Konstantynopol | 1364 | 35 | Paryż | XI |
 | 141 | Watykan | XIII | 204 | Bolonia | XIII |
 | 386 | Watykan | XIV | 801 | Ateny | XV |
@@ -151,12 +177,14 @@ Dochodzimy teraz do jedynego rzeczywistego „problemu” w ustalaniu archetypal
 | 2466 | Patmos | 1329 | 2554 | Bukareszt | 1434 |
 | 2626 | Ochryda | XIV | 2723 | Trikala | XI |
 
+:::
+
 Tabela pomoże zobrazować rozmieszczenie obu wariantów przy użyciu kategorii „góra Athos” i „gdzie indziej”:
 
-|  | Tryb oznajmujący | Tryb łączący | Oba |
+|  | [Tryb oznajmujący]{.underline} | [Tryb łączący]{.underline} | [Oba]{.underline} |
 |---|---|---|---|
 | 1) Góra Athos | Konstamonitu<br>Kutlumusiu<br>Filotheu | Esfigmenu<br>Iviron<br>Kavsokalyvia<br>Stavronikita | Dionysiu<br>M Lavras<br>Panteleimonos<br>Vatopediu |
-| 2) Gdzie indziej | Bolonia<br>Bukareszt<br>Konstantynopol<br>Grottaferrata<br>Kalawrita<br>Ochryda<br>Patmos<br>Sparta<br>Trikala | Karditsa<br>Lejda<br>Londyn<br>Meteora<br>Sofia<br>Vallicelliana (Rzym)<br>Zittau | Ateny<br>Jerozolima<br>Paryż<br>Synaj<br>Watykan |
+| 2) Gdzie indziej | Bolonia<br>Bukareszt<br>Konstantynopol<br>Grottaferrata<br>Kalawrita<br>Ochryda<br>Patmos<br>Sparta<br>Trikala | Karditsa<br>Lejda<br>Lesbos<br>Londyn<br>Meteora<br>Sofia<br>Vallicelliana (Rzym)<br>Zittau | Ateny<br>Jerozolima<br>Paryż<br>Synaj<br>Watykan |
 
 Synaj, Jerozolima, góra Athos i Watykan znajdują się po obu stronach, lecz tryb oznajmujący ma lepsze rozmieszczenie gdzie indziej, znacząco lepsze.
 
@@ -166,7 +194,7 @@ Wracając do wykazu czternastu podziałów na pierwszej stronie, można zauważy
 
 [^zakres-badania-siedemdziesiat-siedem-manuskryptow]: Badanie to wykorzystuje 77 spośród 84 znanych członków rodziny, siedem brakujących prawdopodobnie nie miałoby większego wpływu na nasze wnioski, jeśli w ogóle jakikolwiek. Spośród 77 manuskryptów wszystkie niewymienione przy formie alternatywnej mają formę główną. Tak więc w Liście Jakuba 2,14 36 manuskryptów mających formę alternatywną należy odjąć od 77, co pozostawia 41 dla formy głównej.
 
-[^nawiasy-klamrowe-wspolny-egzemplarz]: Manuskrypty w nawiasach klamrowych, { }, mają wspólny egzemplarz i można je traktować jako jeden głos.
+[^nawiasy-klamrowe-wspolny-egzemplarz]: Manuskrypty w nawiasach klamrowych, { }, mają wspólny egzemplarz wzorcowy i można je traktować jako jeden głos.
 
 [^nawiasy-okragle-niewielka-odmiana]: Manuskrypt w nawiasach okrągłych ma niewielką odmianę podanej formy.
 
