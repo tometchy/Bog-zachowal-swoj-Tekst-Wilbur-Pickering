@@ -2,7 +2,7 @@
 
 ## Wynik wdrożenia — 2026-10-14
 
-Sprawdzono wszystkie 164 numerowane uwagi i noty tego raportu. Zasadne poprawki wdrożono na gałęzi `codex/poprawki-review-2026-10-12`. Podstawą był raport z `6d6b00d`; dołączono `origin/master` (`22e900d`), zachowując późniejsze zmiany użytkownika, w tym w rozdziale 19.
+Sprawdzono wszystkie 164 numerowane uwagi i noty tego raportu. Zasadne poprawki wdrożono na gałęzi `codex/poprawki-review-2026-10-12`. Podstawą był raport z `6d6b00d`; dołączono `origin/master` do `08bd8d4` włącznie, zachowując późniejsze zmiany użytkownika w rozdziale 19. Najnowsze dopowiedzenia i korekty przypisu `robinson-o-liniach-pa` połączono z ustalonym terminem „egzemplarz wzorcowy”, a eksporty ponowiono po tym scaleniu.
 
 ### Status uwag
 
