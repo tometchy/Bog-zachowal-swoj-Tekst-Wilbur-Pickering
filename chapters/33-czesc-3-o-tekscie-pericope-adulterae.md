@@ -71,9 +71,9 @@ Poniższe informacje opierają się na pełnym kolacjonowaniu przez Maurice’a 
 | 8,9 | 24 | (και υπο της συνειδησεως ελεγχομενοι) / και υπο της συνειδησεως ελεγχομενοι |
 | 8,9 | 25 | εως των εσχατων |
 | 8,9 | 26 | ο Ιησους μονος / μονος |
-| 8,10 | 27 | (και μηδενα θεασαμενος πλην της γυναικος) |
+| 8,10 | 27 | \*\*(και μηδενα θεασαμενος πλην της γυναικος) |
 | 8,10 | 28 | \*\*ειδεν αυτην και ειπεν |
-| 8,10 | 29 | (αυτη) γυναι |
+| 8,10 | 29 | \*\*(αυτη) γυναι |
 | 8,10 | 30 | (εκεινοι) / (εκεινοι οι κατηγοροι σου) / (που εκεινοι οι κατηγοροι σου) |
 | 8,11 | 31 | ειπεν δε αυτη ο Ιησους |
 | 8,11 | 32 | κατακρινω |
@@ -89,7 +89,7 @@ Poniższe informacje opierają się na pełnym kolacjonowaniu przez Maurice’a 
 | 8,1 | 02 | Ιησους δε |
 | 8,2 | 03 | (βαθεως) = pominięcie |
 | 8,2 | 04 | παρεγενετο |
-| 8,2 | 05 | (προς αυτον) |
+| 8,2 | 05 | \*\*(προς αυτον) |
 | 8,3 | 06 | προς αυτον |
 | 8,3 | 07 | \*\*εν |
 | 8,3 | 08 | \*\*καταληφθεισαν |
@@ -110,7 +110,7 @@ Poniższe informacje opierają się na pełnym kolacjonowaniu przez Maurice’a 
 | 8,7 | 23 | προς αυτους |
 | 8,7 | 24 | \*\*επ αυτην τον λιθον βαλετω |
 | 8,9 | 25 | και υπο της συνειδησεως ελεγχομενοι |
-| 8,9 | 26 | (εως των εσχατων) |
+| 8,9 | 26 | \*\*(εως των εσχατων) |
 | 8,9 | 27 | μονος ο Ιησους |
 | 8,10 | 28 | και μηδενα θεασαμενος πλην της γυναικος |
 | 8,10 | 29 | αυτη / αυτη γυναι |
@@ -159,6 +159,6 @@ e) **Inne manuskrypty z jedną zmianą** — **XII**: 520, 1401, 2122, 2322; **X
 
 **Komentarz interpretacyjny**: Postępujące „oczyszczanie” strumienia przekazu na przestrzeni stuleci (z perspektywy pierwszeństwa tekstu bizantyjskiego) było uznawane przez wszystkich i każdego, a ich próby wyjaśnienia tego zjawiska zazwyczaj odzwierciedlały ich założenia wstępne. Z mojego punktu widzenia oczywiste wyjaśnienie jest następujące: wszystkie obozy uznają, że najcięższe ataki na czystość Tekstu miały miejsce w II wieku. Jednak „serce Kościoła”, obszar egejski, zdecydowanie najlepiej pod każdym względem przygotowany do czuwania nad wiernym przekazem, po prostu odmawiało kopiowania form aberracyjnych. Manuskryptów zawierających takie formy nie używano (ani nie kopiowano), dlatego wiele z nich przetrwało fizycznie ponad tysiąclecie. Mniej złych form używano (kopie były trudno dostępne), lecz stopniowo przestawano je kopiować. Dlatego zachowane uncjały z IX wieku są dostateczne, w ponad 80% bizantyjskie, lecz nie dość dobre, by je kopiować i ponownie wykorzystywać (gdy lepsze manuskrypty przekształcano w formę minuskułową). Aż do pojawienia się tekstu drukowanego manuskrypty sporządzano po to, by ich używać. Stopniowo używano tylko najlepszych, które wskutek tego zużywano i kopiowano. Proces ten osiągnął kulminację w XIV wieku, gdy osmański cień posuwał się nad Azją Mniejszą, lecz Cesarstwo Bizantyjskie nadal istniało.
 
-Proszę zauważyć słowa „z perspektywy pierwszeństwa tekstu bizantyjskiego”. **Rodzinę 35 wiernie kopiowano od początku do końca**. Dla siedemnastu ksiąg sam mam jedną doskonałą kopię sporządzoną w XV wieku (oprócz rozmaitych kopii doskonałych dla jednej lub większej liczby ksiąg, z XIV, XIII, XII i XI wieku). Aby kopia sporządzona w XV wieku była doskonała, wszyscy jej „przodkowie” [również musieli być doskonali. Proszę zauważyć, że doskonała kopia czyni wszystkie]{.underline} „kanony” krytyki tekstu nieistotnymi dla każdego punktu późniejszego od powstania archetypu. Jak jednak możemy wiedzieć, że dana kopia jest „doskonała”? Profil archetypalny można ustalić empirycznie przez porównanie wszystkich zachowanych przedstawicieli rodziny (odnoszę się wyłącznie do **f^35^**). Kopia, która doskonale odpowiada archetypowi, jest z konieczności kopią doskonałą. Doskonałe kopie mówią nam jednak coś ważnego o postawie kopistów. To, że wykonywali pracę z taką starannością, przypuszczalnie wskazuje przynajmniej na szacunek, jeśli nie cześć dla tego, co kopiowali — wierzyli, że kopiują Słowo Boże. **Ponieważ manuskrypty wszystkich innych linii przekazu kopiowano z mniejszą starannością, kopiści przypuszczalnie dokonywali w swoich umysłach rozróżnienia, najwyraźniej uważając f^35^ za najlepszą linię.**
+Proszę zauważyć słowa „z perspektywy pierwszeństwa tekstu bizantyjskiego”. **Rodzinę 35 wiernie kopiowano od początku do końca**. Dla siedemnastu ksiąg sam mam jedną doskonałą kopię sporządzoną w XV wieku (oprócz rozmaitych kopii doskonałych dla jednej lub większej liczby ksiąg, z XIV, XIII, XII i XI wieku). Aby kopia sporządzona w XV wieku była doskonała, [wszyscy jej „przodkowie” również musieli być doskonali]{.underline}. Proszę zauważyć, że doskonała kopia czyni wszystkie „kanony” krytyki tekstu nieistotnymi dla każdego punktu późniejszego od powstania archetypu. Jak jednak możemy wiedzieć, że dana kopia jest „doskonała”? Profil archetypalny można ustalić empirycznie przez porównanie wszystkich zachowanych przedstawicieli rodziny (odnoszę się wyłącznie do **f^35^**). Kopia, która doskonale odpowiada archetypowi, jest z konieczności kopią doskonałą. Doskonałe kopie mówią nam jednak coś ważnego o postawie kopistów. To, że wykonywali pracę z taką starannością, przypuszczalnie wskazuje przynajmniej na szacunek, jeśli nie cześć dla tego, co kopiowali — wierzyli, że kopiują Słowo Boże. **Ponieważ manuskrypty wszystkich innych linii przekazu kopiowano z mniejszą starannością, kopiści przypuszczalnie dokonywali w swoich umysłach rozróżnienia, najwyraźniej uważając f^35^ za najlepszą linię.**
 
-[^robinson-kolacjonowanie-tekstu-pa]: 240 manuskryptów pomija *PA*, z czego 64 opierają się na komentarzu Teofilakta. Czternaście innych ma luki, ale nie są świadkami całkowitego pominięcia. Kilka dalszych z pewnością zawiera ten fragment, lecz mikrofilm jest nieczytelny. Zatem 1389 + 240 + 14 + 7(?) = około 1650 manuskryptów sprawdzonych przez Robinsona. (Są to mikrofilmy przechowywane przez *Institut* w Münster. Wiemy obecnie, że istnieje znacznie więcej zachowanych manuskryptów, a prawdopodobnie jeszcze więcej takich, które nie są jeszcze „zachowane”).
+[^robinson-kolacjonowanie-tekstu-pa]: 240 manuskryptów pomija *PA*, z czego 64 opierają się na komentarzu Teofilakta. Czternaście innych ma luki, ale nie są świadkami całkowitego pominięcia. Kilka dalszych z pewnością zawiera ten fragment, lecz mikrofilm jest nieczytelny. Zatem 1389 + 240 + 14 + 7(?) = około 1650 manuskryptów sprawdzonych przez Robinsona. (Są to mikrofilmy przechowywane przez *Institut* w Münster. Wiemy obecnie, że istnieje znacznie więcej zachowanych manuskryptów, a prawdopodobnie jeszcze więcej takich, które są jeszcze „nieznane”).

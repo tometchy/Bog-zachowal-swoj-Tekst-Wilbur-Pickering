@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="235" viewBox="0 0 220 235">
+  <title>Stemma: O, makro-C, c, a i d</title>
+  <desc>O łączy się z kwadratem makro-C. Z kwadratu wychodzą gałęzie do c i do koła a, d. Koło rozgałęzia się do a i d.</desc>
+  <rect width="220" height="235" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.2">
+    <path d="M60 33V83 M60 97V140 M65 97L118 140 M119 151L82 207 M126 151L169 207"/>
+    <rect x="54" y="84" width="12" height="12"/>
+    <circle cx="123" cy="146" r="6"/>
+  </g>
+  <g font-family="DejaVu Serif, serif" font-size="23" fill="black">
+    <text x="50" y="33">O</text>
+    <text x="80" y="97">makro-C</text>
+    <text x="51" y="158">c</text>
+    <text x="145" y="155">a, d</text>
+    <text x="74" y="224">a</text>
+    <text x="163" y="224">d</text>
+  </g>
+</svg>

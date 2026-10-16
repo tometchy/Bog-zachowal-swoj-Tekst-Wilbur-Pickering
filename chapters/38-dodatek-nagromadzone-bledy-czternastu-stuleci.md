@@ -2,7 +2,7 @@
 
 ## „Nagromadzone błędy czternastu stuleci”
 
-Manuskrypt Ewangelii GA 1700 jest najpóźniejszym datowanym manuskryptem reprezentującym Rodzinę 35, jaki zwrócił moją uwagę. Jest datowany na 1623 rok po Chr. i przechowywany w Bibliotece Narodowej Grecji. Pragnę wyrazić szczere podziękowania Center for the Study of New Testament Manuscripts za udostępnienie cyfrowej kopii tego manuskryptu. Choć pochodzi z XVII wieku, pismo jest bardzo czytelne. Dokonałem pełnego kolacjonowania tego manuskryptu dla Ewangelii Jana i zwracam uwagę na wynik. Chcę jednak przeanalizować ten wynik na tle poniższego cytatu zaczerpniętego z przedmowy do Revised Standard Version, s. ix.
+Manuskrypt Ewangelii GA 1700 jest najpóźniejszym [datowanym]{.underline} manuskryptem reprezentującym Rodzinę 35, jaki zwrócił moją uwagę. Jest datowany na 1623 rok po Chr. i przechowywany w Bibliotece Narodowej Grecji. Pragnę wyrazić szczere podziękowania Center for the Study of New Testament Manuscripts za udostępnienie cyfrowej kopii tego manuskryptu. Choć pochodzi z XVII wieku, pismo jest bardzo czytelne. Dokonałem pełnego kolacjonowania tego manuskryptu dla Ewangelii Jana i zwracam uwagę na wynik. Chcę jednak przeanalizować ten wynik na tle poniższego cytatu zaczerpniętego z przedmowy do Revised Standard Version, s. ix.
 
 > King James Version Nowego Testamentu opierała się na tekście greckim oszpeconym błędami, zawierającym nagromadzone błędy czternastu stuleci kopiowania manuskryptów… Posiadamy obecnie znacznie więcej starożytnych manuskryptów Nowego Testamentu i jesteśmy o wiele lepiej wyposażeni, by dążyć do odzyskania oryginalnych sformułowań tekstu greckiego.
 
@@ -22,9 +22,9 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 5. 1,38 λεγεται \|\| λεγετε 553, 1617, 2352 () W (formy są praktycznie synonimiczne, a zmiany dokonano przypuszczalnie niezależnie, fakt, że W również ma tę zmianę, jest jedynie ciekawostką).
 
-6. 1,40^a^ ην \|\| 1 δε (2%) A, W, Λ, f^13^, 579, 1424 (dodatek jest „naturalny” i mógł powstać niezależnie, znaczenie nie zostaje naruszone, 1700 często zgadza się z 1424).
+6. 1,40a ην \|\| 1 δε (2%) A, W, Λ, f^13^, 579, 1424 (dodatek jest „naturalny” i mógł powstać niezależnie, znaczenie nie zostaje naruszone, 1700 często zgadza się z 1424).
 
-**7.** 1,40^b^ των δυο των ακουσαντων \|\| ~ 3412 (odczyt singularny, który nie wpływa na znaczenie).
+**7.** 1,40b των δυο των ακουσαντων \|\| ~ 3412 (odczyt singularny, który nie wpływa na znaczenie).
 
 8. 1,42 εμβλεψας \|\| 1 δε 1384, 1667 (20%) P^75^ Θ, Λ, f^13^, 1071, 1424 (dodatek jest „naturalny” i mógł powstać niezależnie, znaczenie nie zostaje naruszone).
 
@@ -62,7 +62,7 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 25. 4,43 τας \|\| --- () 1424 (mogło to powstać niezależnie, znaczenie nie zostaje naruszone).
 
-26. 4,48 ουν \|\| --- () P^66*^ (przypuszczalnie powstało to niezależnie, znaczenie nie zostaje naruszone).
+26. 4,48 ουν \|\| --- () P^66\*^ (przypuszczalnie powstało to niezależnie, znaczenie nie zostaje naruszone).
 
 27. 5,2 εβραιστι \|\| εβραιστη 1339, 2466 (2%) f^13^, 28, 579, 1071, 1424 (jest to po prostu alternatywna pisownia, a zatem nie właściwy wariant).
 
@@ -72,27 +72,27 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 **30.** 5,36 με απεσταλκεν \|\| ~ 21 (zwykłe odwrócenie szyku wyrazów, które nie wpływa na znaczenie).
 
-**31.** 5,39^a^ ερευνατε \|\| ερευναται (poprawiony odczyt singularny).
+**31.** 5,39a ερευνατε \|\| ερευναται (poprawiony odczyt singularny).
 
-32. 5,39^b^ αυταις \|\| αυτοις () 1071 (oczywisty błąd pisowni, który czytelnik automatycznie by poprawił, przy niedbałości kopisty mógł on powtórzyć błąd ze swojego egzemplarza).
+32. 5,39b αυταις \|\| αυτοις () 1071 (oczywisty błąd pisowni, który czytelnik automatycznie by poprawił, przy niedbałości kopisty mógł on powtórzyć błąd ze swojego egzemplarza wzorcowego).
 
 **33.** 6,2 αυτου τα σημεια \|\| ~ 231 (zwykłe odwrócenie szyku wyrazów, które nie wpływa na znaczenie).
 
-34. 6,19^a^ ως \|\| ωσει (1%) A, D, f^1^, 565 (zmiana jest „łatwa” i mogła powstać niezależnie, znaczenie nie zostaje naruszone).
+34. 6,19a ως \|\| ωσει (1%) A, D, f^1^, 565 (zmiana jest „łatwa” i mogła powstać niezależnie, znaczenie nie zostaje naruszone).
 
-35. 6,19^b^ γινομενον \|\| γενομενον 128, 685 () G, 1424 (zmiana czasu, która nie wpływa na znaczenie, w rękopisach kursywnych *epsilon* i *jota* często łatwo ze sobą pomylić).
+35. 6,19b γινομενον \|\| γενομενον 128, 685 () G, 1424 (zmiana czasu, która nie wpływa na znaczenie, w rękopisach kursywnych *epsilon* i *jota* często łatwo ze sobą pomylić).
 
 36. 6,21 λαβειν αυτον \|\| ~ 21 () D (zwykłe odwrócenie szyku wyrazów, przypuszczalnie niezależne, które nie wpływa na znaczenie).
 
 37. 6,22 ενεβησαν \|\| ανεβησαν (12,9%) (chociaż czasowniki są odmienne, w kontekście działają jako synonimy, znaczenie nie zostaje naruszone).
 
-38. 6,27 την βρωσιν^2^ \|\| --- (2%) ℵ, 28, 1071 (mogło to powstać niezależnie, ponieważ wyrażenie jest powtórzeniem, jego pominięcie nie wpływa na znaczenie, jest to możliwy przypadek *homoioarcton*).
+38. 6,27 την βρωσιν^2^ \|\| --- (2%) ℵ, 28, 1071 (mogło to powstać niezależnie, ponieważ wyrażenie jest powtórzeniem, jego pominięcie nie wpływa na znaczenie, jest to możliwy przypadek homoioarcton).
 
 39. 6,30 συ \|\| --- 201 (10%) W, f^13^, 579 (mogło to powstać niezależnie, znaczenie nie zostaje naruszone).
 
-**40.** 6,32^a^ υμιν^2^ \|\| ημιν (itacyzm dający nonsens, nie właściwy wariant).
+**40.** 6,32a υμιν^2^ \|\| ημιν (itacyzm dający nonsens, nie właściwy wariant).
 
-41. 6,32^b^ αρτον^2^ \|\| 1 τον () P^75v^ (mogło to powstać niezależnie, znaczenie nie zostaje naruszone).
+41. 6,32b αρτον^2^ \|\| 1 τον () P^75v^ (mogło to powstać niezależnie, znaczenie nie zostaje naruszone).
 
 42. 6,37 εκβαλω \|\| εκβαλλω 18, 1617, 2466 (1%) G (zmiana czasu, która nie wpływa na znaczenie, ponieważ jednak formy wymawiano tak samo, zmiany można było dokonać niezależnie, bez zastanowienia).
 
@@ -110,7 +110,7 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 49. 6,67 τοις \|\| τους () H, Y (błąd pisowni, który przypuszczalnie powstał niezależnie).
 
-**50.** 6,68 απελευσομεθα \|\| πορευσομεθα (odczyt singularny, być może egzemplarz był rozmazany, czasowniki są w tym kontekście synonimiczne, znaczenie nie zostaje naruszone).
+**50.** 6,68 απελευσομεθα \|\| πορευσομεθα (odczyt singularny, być może egzemplarz wzorcowy był rozmazany, czasowniki są w tym kontekście synonimiczne, znaczenie nie zostaje naruszone).
 
 **51.** 7,1 ο ιησους μετα ταυτα \|\| ~ 3412 (zwykłe odwrócenie szyku wyrazów, które nie wpływa na znaczenie).
 
@@ -140,17 +140,17 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 64. 9,20 αυτοις \|\| --- (5%) P^66,75^ ℵ, B, W, f^13^ (mogło to powstać niezależnie, znaczenie nie zostaje naruszone).
 
-65. 9,21^a^ ηνοιξεν \|\| ανεωξεν () Θ, 579 (alternatywne pisownie tej samej formy, znaczenie nie zostaje naruszone).
+65. 9,21a ηνοιξεν \|\| ανεωξεν () Θ, 579 (alternatywne pisownie tej samej formy, znaczenie nie zostaje naruszone).
 
-**66.** 9,21^b^ ημεις \|\| --- (odczyt singularny, znaczenie nie zostaje naruszone).
+**66.** 9,21b ημεις \|\| --- (odczyt singularny, znaczenie nie zostaje naruszone).
 
 67. 9,24 ουν \|\| --- () 579 (mogło to powstać niezależnie, znaczenie nie zostaje naruszone).
 
-**68.** 9,35 ο ιησους \|\| --- (odczyt singularny, możliwy przypadek *homoioarcton*, znaczenie nie zostaje naruszone).
+**68.** 9,35 ο ιησους \|\| --- (odczyt singularny, możliwy przypadek homoioarcton, znaczenie nie zostaje naruszone).
 
 **69.** 10,1 αναβαινων \|\| αναβαινον (itacyzm, który niepoprawnie zmienia rodzaj).
 
-**70.** 10,5 ακολουθησωσιν \|\| ακουσωσιν (odczyt singularny, być może egzemplarz był rozmazany, czasowniki są w tym kontekście praktycznie synonimiczne, znaczenie nie zostaje naruszone).
+**70.** 10,5 ακολουθησωσιν \|\| ακουσωσιν (odczyt singularny, być może egzemplarz wzorcowy był rozmazany, czasowniki są w tym kontekście praktycznie synonimiczne, znaczenie nie zostaje naruszone).
 
 [^profil-rodziny-35-i-klucz]: Profil Rodziny 35 i klucz znajdują się wyżej, w Części II.
 
@@ -160,7 +160,7 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 72. 10,16 ακουσουσιν \|\| ακουσωσιν (38,1%) P^66^ ℵ, A, W, Θ, Λ, f^13^, 28, 579, 1071, 1424 (tryb oznajmujący czasu przyszłego albo aoryst trybu łączącego, w tym kontekście pełnią tę samą funkcję).
 
-73. 10,18 αλλ εγω τιθημι αυτην απ εμαυτου \|\| --- () D (są to przypuszczalnie niezależne przypadki *homoioteleuton*, nie uważam *homoioteleuton* za właściwy wariant, jest to jedynie niezamierzony błąd).
+73. 10,18 αλλ εγω τιθημι αυτην απ εμαυτου \|\| --- () D (są to przypuszczalnie niezależne przypadki homoioteleuton, nie uważam homoioteleuton za właściwy wariant, jest to jedynie niezamierzony błąd).
 
 74. 10,20 μαινεται \|\| μενεται () P^66^ A, Θ, f^13^ (przypuszczalnie itacyzm, który niepoprawnie zmienia czasownik, dając nonsens).
 
@@ -172,7 +172,7 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 **78.** 11,5 την^1^ \|\| --- (odczyt singularny, znaczenie nie zostaje naruszone).
 
-**79.** 11,9 οτι το φως του κοσμου τουτου βλεπει \|\| --- (odczyt singularny, przypuszczalnie przypadek *homoioteleuton*, nie uważam *homoioteleuton* za właściwy wariant, jest to jedynie niezamierzony błąd).
+**79.** 11,9 οτι το φως του κοσμου τουτου βλεπει \|\| --- (odczyt singularny, przypuszczalnie przypadek homoioteleuton, nie uważam homoioteleuton za właściwy wariant, jest to jedynie niezamierzony błąd).
 
 **80.** 11,12 κυριε \|\| --- (odczyt singularny, znaczenie nie zostaje naruszone).
 
@@ -188,13 +188,13 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 **86.** 12,2 ανακειμενων συν \|\| συνανακειμενων (10%) W, 28, 1071 \|\| συνανακειμενων συν (odczyt singularny, lecz zbudowany na zależności, znaczenie nie zostaje naruszone).
 
-87. 12,6 εμελεν \|\| εμελλεν **f^35pt^** (60%) f^13^, 28, 1424 (jest to jedno z miejsc, w których 1700 odchodzi od rodziny, czasowniki są odmienne, lecz wymawiano je tak samo, a w kontekście tylko jedno ze znaczeń będzie pasować, ktoś słuchający czytanego tekstu naturalnie dokonałby więc właściwego wyboru, do tego stopnia, że zastanawiam się, czy dłuższej formy nie zaczęto uważać za alternatywną pisownię krótszej).
+87. 12,6 εμελεν \|\| εμελλεν f^35pt^ (60%) f^13^, 28, 1424 (jest to jedno z miejsc, w których 1700 odchodzi od rodziny, czasowniki są odmienne, lecz wymawiano je tak samo, a w kontekście tylko jedno ze znaczeń będzie pasować, ktoś słuchający czytanego tekstu naturalnie dokonałby więc właściwego wyboru, do tego stopnia, że zastanawiam się, czy dłuższej formy nie zaczęto uważać za alternatywną pisownię krótszej).
 
 **88.** 12,7 αυτο \|\| αυαυτο (kopista powtórzył sylabę, przechodząc z jednego wiersza do następnego).
 
-89. 12,26^a^ διακονη \|\| διακονει () 28, 1071, 1424 (oczekiwany jest tryb łączący, lecz tryb oznajmujący jest możliwy, w kontekście znaczenie nie zostaje naruszone).
+89. 12,26a διακονη \|\| διακονει () 28, 1071, 1424 (oczekiwany jest tryb łączący, lecz tryb oznajmujący jest możliwy, w kontekście znaczenie nie zostaje naruszone).
 
-**90.** 12,26^b^ διακονη \|\| διακονει (odczyt singularny, zob. wyżej).
+**90.** 12,26b διακονη \|\| διακονει (odczyt singularny, zob. wyżej).
 
 91. 12,37 αυτου σημεια \|\| ~ 21 () Λ, f^13^, 579 (zwykłe odwrócenie szyku wyrazów, które nie wpływa na znaczenie).
 
@@ -206,7 +206,7 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 95. 13,29 εχομεν \|\| εχωμεν () 579 (zmiana trybu nie wpływa na znaczenie).
 
-96. 13,30-31 ην δε νυξ οτε εξηλθεν \|\| --- () G (wyraźny przypadek *homoioteleuton*, który powstał niezależnie).
+96. 13,30-31 ην δε νυξ οτε εξηλθεν \|\| --- () G (wyraźny przypadek homoioteleuton, który powstał niezależnie).
 
 97. 14,13 αιτησητε \|\| αιτησηται 1145 () P^66^ D, W (kopista sam się poprawił).
 
@@ -218,23 +218,23 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 **101.** 15,8 φερητε \|\| φερηται (poprawiony odczyt singularny).
 
-**102.** 15,11 η χαρα^1^ \|\| --- (odczyt singularny powstały zarówno wskutek *homoioarcton*, jak i *homoioteleuton*, nie właściwy wariant).
+**102.** 15,11 η χαρα^1^ \|\| --- (odczyt singularny powstały zarówno wskutek homoioarcton, jak i homoioteleuton, nie właściwy wariant).
 
 103. 15,15 υμας λεγω \|\| ~ 21 (1%) P^66^ ℵ, A, B, 579, 1071, 1424 (zwykłe odwrócenie szyku wyrazów, które nie wpływa na znaczenie).
 
 **104.** 15,18 γινωσκετε \|\| --- (niedbały odczyt singularny dający nonsens).
 
-**105.** 15,20 ουκ εστιν δουλος μειζων του κυριου αυτου \|\| --- (niedbały odczyt singularny, być może pomijający cały wiersz w egzemplarzu, lecz powstały tekst ma dobry sens).
+**105.** 15,20 ουκ εστιν δουλος μειζων του κυριου αυτου \|\| --- (niedbały odczyt singularny, być może pomijający cały wiersz w egzemplarzu wzorcowym, lecz powstały tekst ma dobry sens).
 
-**106.** 15,25 οτι εμισησαν με δωρεαν \|\| --- (kolejny niedbały odczyt singularny, być może wskutek *homoioarcton*, powstały tekst ma sens, lecz jest nieco niepełny).
+**106.** 15,25 οτι εμισησαν με δωρεαν \|\| --- (kolejny niedbały odczyt singularny, być może wskutek homoioarcton, powstały tekst ma sens, lecz jest nieco niepełny).
 
-**107.** 16,7^a^ αλλ εγω την αληθειαν λεγω υμιν \|\| --- (kolejny niedbały odczyt singularny, powstały tekst ma sens, zauważ, że kopista najwyraźniej miał zły dzień).
+**107.** 16,7a αλλ εγω την αληθειαν λεγω υμιν \|\| --- (kolejny niedbały odczyt singularny, powstały tekst ma sens, zauważ, że kopista najwyraźniej miał zły dzień).
 
-**108.** 16,7^b^ υμας^1^ \|\| 1 και (odczyt singularny, znaczenie nie zostaje naruszone).
+**108.** 16,7b υμας^1^ \|\| 1 και (odczyt singularny, znaczenie nie zostaje naruszone).
 
-109. 16,21^a^ τικτη \|\| τικτει 553 (10%) Λ, 28, 1346, 1424 (oczekiwany jest tryb łączący, lecz tryb oznajmujący jest możliwy, prawdopodobnie nie jest to itacyzm, znaczenie nie zostaje naruszone).
+109. 16,21a τικτη \|\| τικτει 553 (10%) Λ, 28, 1346, 1424 (oczekiwany jest tryb łączący, lecz tryb oznajmujący jest możliwy, prawdopodobnie nie jest to itacyzm, znaczenie nie zostaje naruszone).
 
-**110.** 16,21^b^ γεννηση \|\| γεννησει (odczyt singularny, tryb oznajmujący czasu przyszłego albo aoryst trybu łączącego, w tym kontekście pełnią tę samą funkcję).
+**110.** 16,21b γεννηση \|\| γεννησει (odczyt singularny, tryb oznajmujący czasu przyszłego albo aoryst trybu łączącego, w tym kontekście pełnią tę samą funkcję).
 
 111. 16,33 εχητε \|\| εχετε (1%) Λ, 28, 1071 (oczekiwany jest tryb łączący, lecz tryb oznajmujący jest możliwy, prawdopodobnie nie jest to itacyzm, znaczenie nie zostaje naruszone).
 
@@ -250,19 +250,19 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 117. 18,25 σιμων \|\| --- 1435 () 1424 (znaczenie nie zostaje naruszone).
 
-**118.** 18,36^a^ ηγωνιζοντο \|\| ηγονιζοντο (odczyt singularny, itacyzm dający błędną pisownię, znaczenie nie zostaje naruszone).
+**118.** 18,36a ηγωνιζοντο \|\| ηγονιζοντο (odczyt singularny, itacyzm dający błędną pisownię, znaczenie nie zostaje naruszone).
 
-**119.** 18,36^b^ ουκ εστιν \|\| --- (odczyt singularny, pominięcie tworzy sprzeczność wewnątrz wersetu, nie da się powiedzieć, dlaczego kopista to uczynił, chyba że jest to niezamierzony błąd, których jest niemało).
+**119.** 18,36b ουκ εστιν \|\| --- (odczyt singularny, pominięcie tworzy sprzeczność wewnątrz wersetu, nie da się powiedzieć, dlaczego kopista to uczynił, chyba że jest to niezamierzony błąd, których jest niemało).
 
 120. 18,37 αυτω \|\| --- 201, 2322 (pominięcie nie wpływa na znaczenie).
 
-**121.** 18,39^a^ συνηθεια \|\| συνηθει (odczyt singularny, niedbały błąd pisowni).
+**121.** 18,39a συνηθεια \|\| συνηθει (odczyt singularny, niedbały błąd pisowni).
 
-122. 18,39^b^ ημιν \|\| υμιν 928, 1334, 1572, 1667 (80%) ℵ, A, B, W, Θ, Λ, f^1,13^, 28, 579, 1071, 1346, 1424 (jest to jedno z miejsc, w których 1700 odchodzi od rodziny, pierwotna zmiana była prawdopodobnie celowa i wprowadziła nieprawdopodobieństwo, trudno uwierzyć, by cesarski Rzym uwolnił więźnia na podstawie żądania Żydów, zmiana ma jednak niewielki wpływ na całkowite znaczenie opisu).
+122. 18,39b ημιν \|\| υμιν 928, 1334, 1572, 1667 (80%) ℵ, A, B, W, Θ, Λ, f^1,13^, 28, 579, 1071, 1346, 1424 (jest to jedno z miejsc, w których 1700 odchodzi od rodziny, pierwotna zmiana była prawdopodobnie celowa i wprowadziła nieprawdopodobieństwo, trudno uwierzyć, by cesarski Rzym uwolnił więźnia na podstawie żądania Żydów, zmiana ma jednak niewielki wpływ na całkowite znaczenie opisu).
 
-**123.** 18,39^c^ υμιν^2^ \|\| 1 ινα (odczyt singularny, znaczenie nie zostaje naruszone).
+**123.** 18,39c υμιν^2^ \|\| 1 ινα (odczyt singularny, znaczenie nie zostaje naruszone).
 
-**124.** 19,1 ελαβεν \|\| --- (odczyt singularny, możliwy przypadek *homoioteleuton*, pominięcie czasownika pozostawia zdanie niepełne).
+**124.** 19,1 ελαβεν \|\| --- (odczyt singularny, możliwy przypadek homoioteleuton, pominięcie czasownika pozostawia zdanie niepełne).
 
 125. 19,13 εβραιστι \|\| εβραιστη () f^13^, 28^s^, 579, 1346, 1424 (jest to po prostu alternatywna pisownia, a zatem nie właściwy wariant).
 
@@ -272,9 +272,9 @@ Wymienię teraz 136 odstępstw, podając wybrane dalsze poświadczenie wariantu 
 
 **128.** 19,24 ιματισμον \|\| ιματις (odczyt singularny, niedbały błąd, czytelnik automatycznie dokonałby poprawki).
 
-**129.** 19,25^a^ ειστηκεισαν \|\| ειστηκει (odczyt singularny, zmiana sprawia, że podmiot czasownika jest w liczbie pojedynczej zamiast mnogiej, co wynika z częściowego odczytania wersetu, czytelnik dokonałby koniecznej poprawki).
+**129.** 19,25a ειστηκεισαν \|\| ειστηκει (odczyt singularny, zmiana sprawia, że podmiot czasownika jest w liczbie pojedynczej zamiast mnogiej, co wynika z częściowego odczytania wersetu, czytelnik dokonałby koniecznej poprawki).
 
-130. 19,25^b^ μαγδαληνη \|\| μαγδαλινη 1384 () 1071 (jest to po prostu alternatywna pisownia, a zatem nie właściwy wariant).
+130. 19,25b μαγδαληνη \|\| μαγδαλινη 1384 () 1071 (jest to po prostu alternatywna pisownia, a zatem nie właściwy wariant).
 
 131. 19,28 τουτο \|\| ταυτα () U (niezależny błąd, który nie wpływa na znaczenie).
 
@@ -292,10 +292,10 @@ Jak na przedstawiciela Rodziny 35 jest to rozczarowujący manuskrypt, przeanaliz
 
 Patrząc na dowody, wydaje się jasne, że GA 1700 zawiera pewną domieszkę. Spośród 66 odczytów niesingularnych (136 - 54 - 16 = 66) 1700 dzieli wariant z 1424 trzydzieści razy, z 1071 dwadzieścia osiem razy, z 28 dwadzieścia cztery razy, z f^13^ dwadzieścia dwa razy, z 579 dwadzieścia jeden razy, z Λ dziewiętnaście razy. **Jednak** analiza 66 wariantów, a właściwie całych 136, ujawnia następującą informację, zarazem zdumiewającą i znaczącą: tylko o dwóch właściwych wariantach można powiedzieć, że w jakikolwiek sposób zmieniają znaczenie — 4 i 122! Zanim jednak przyjrzę się im dokładniej, powinienem wspomnieć, że 1700 dzieli wariant z ℵ siedemnaście razy, z P^66^ i W po piętnaście razy, z A dziewięć razy, z B i D po osiem razy, lecz jak już argumentowałem, trudno twierdzić, że istnieje zależność, błędy po prostu popełniono niezależnie (z wyjątkiem nielicznych miejsc, w których występuje masowa zgodność).
 
-Przeanalizuję teraz pozycje 4 i 122. Czy miejscem, w którym Jan chrzcił, była Bitabara czy Betania? Niezależnie od tego, którą nazwę wybierzemy, nie znamy dokładnego miejsca poza tym, że znajdowało się po wschodniej stronie rzeki Jordan. (Mapy, które umieszczają je po zachodniej stronie, wprowadzają swoich czytelników w błąd). Kto od samego początku w Azji Mniejszej lub Europie znałby dokładne miejsce, niezależnie od jego nazwy? Wynika z tego, że wybór nazwy nie ma znaczenia dla istoty narracji, ważne jest [co się wydarzyło, a nie gdzie się wydarzyło]{.underline}.
+Przeanalizuję teraz pozycje 4 i 122. Czy miejscem, w którym Jan chrzcił, była Bitabara czy Betania? Niezależnie od tego, którą nazwę wybierzemy, nie znamy dokładnego miejsca poza tym, że znajdowało się po wschodniej stronie rzeki Jordan. (Mapy, które umieszczają je po zachodniej stronie, wprowadzają swoich czytelników w błąd). Kto od samego początku w Azji Mniejszej lub Europie znałby dokładne miejsce, niezależnie od jego nazwy? Wynika z tego, że wybór nazwy nie ma znaczenia dla istoty narracji, ważne jest [co]{.underline} się wydarzyło, a nie gdzie się wydarzyło.
 
 Czy Piłat powiedział: „Mamy zwyczaj”, czy „Macie zwyczaj” (122)? Poświadczenie manuskryptów na rzecz „wy” wynosi 80%. Ale naprawdę, jak Żydzi mogli mieć zwyczaj nakładający zobowiązanie na ich zdobywców? Trudno uwierzyć, by cesarski Rzym uwolnił więźnia na podstawie żądania Żydów, dlatego odczyt Rodziny 35 jest niewątpliwie poprawny. Niezależnie od tego wybór zaimka ma niewielkie znaczenie dla istoty narracji, którą jest to, że Żydzi wybrali Barabasza zamiast Jezusa.
 
-Chociaż jako przedstawiciel Rodziny 35 GA 1700 jest dość żałosny, mimo wszystko ktoś czytający 1700 w celach pobożnościowych nie zostałby w żadnym miejscu wprowadzony w błąd co do zamierzonego znaczenia! Twierdzę, że wniosek ten ma wielkie znaczenie. Pomimo 136 odstępstw 1700 jest adekwatną kopią Ewangelii Jana do wszystkich celów praktycznych. Co zatem ze wszystkimi tymi paskudnymi „nagromadzonymi błędami”, o których mówi przedmowa RSV? Uznaję możliwość, że 1700 może zawierać do 57 odziedziczonych błędów, błędów przejętych z egzemplarza, ponieważ jednak miałyby one niewielki wpływ albo nie miałyby żadnego wpływu na przekład na język angielski, nie odpowiadają celowi RSV przy wspominaniu o „nagromadzonych błędach”.
+Chociaż jako przedstawiciel Rodziny 35 GA 1700 jest dość żałosny, mimo wszystko ktoś czytający 1700 w celach pobożnościowych nie zostałby w żadnym miejscu wprowadzony w błąd co do zamierzonego znaczenia! Twierdzę, że wniosek ten ma wielkie znaczenie. Pomimo 136 odstępstw 1700 jest adekwatną kopią Ewangelii Jana do wszystkich celów praktycznych. Co zatem ze wszystkimi tymi paskudnymi „nagromadzonymi błędami”, o których mówi przedmowa RSV? Uznaję możliwość, że 1700 może zawierać do 57 odziedziczonych błędów, błędów przejętych z egzemplarza wzorcowego, ponieważ jednak miałyby one niewielki wpływ albo nie miałyby żadnego wpływu na przekład na język angielski, nie odpowiadają celowi RSV przy wspominaniu o „nagromadzonych błędach”.
 
 Wracając do przedmowy RSV, zwracam teraz uwagę na ostatnie zdanie: „Posiadamy obecnie znacznie więcej starożytnych manuskryptów Nowego Testamentu i jesteśmy o wiele lepiej wyposażeni, by dążyć do odzyskania oryginalnych sformułowań tekstu greckiego”. Użycie czasownika „odzyskać” wskazuje, że uważali oryginalne sformułowania za zaginione. Powiązanie „o wiele lepiej wyposażeni” z „więcej starożytnych manuskryptów” wskazuje, że uznawali starsze za lepsze. Komitet, który opracował RSV, użył w istocie tekstu greckiego silnie opartego na Kodeksie Watykańskim i Synajskim. Dziesiątki lat wcześniej Herman C. Hoskier opublikował jednak *Codex B and its Allies, a Study and an Indictment* (Londyn: Bernard Quaritch, 2 tomy, 1914). Obiektywnie wykazał, że wymienione kodeksy nie są dobrymi kopiami. Komitet RSV najwyraźniej zignorował pracę Hoskiera. Powiedziałbym, że temu, kto napisał przedmowę RSV, brakowało uczciwości. Rzekome „nagromadzone błędy” były jedynie zasłoną dymną, która miała zwieść czytelnika i bronić użycia radykalnie odmiennego tekstu greckiego, tekstu zawierającego błędy rzeczowe i jawne sprzeczności, a także setki poważnych zmian. Powiedziałbym, że każdy, kto nadal wierzy zarzutom zawartym w cytacie z przedmowy RSV, w istocie przyjmuje **kaczki dziennikarskie**.
