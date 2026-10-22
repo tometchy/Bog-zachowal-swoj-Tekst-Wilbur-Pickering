@@ -33,7 +33,7 @@ Szczerze mówiąc, istnieje tylko jedno rozsądne wyjaśnienie dotyczące Tekstu
 
 [^bardziej-szczegolowe-identity-6-rozdzial]: Bardziej szczegółowe omówienie tej kwestii można znaleźć w sekcji „Imperialne represje wobec Nowego Testamentu” w rozdziale 6 mojej książki *The Identity of the New Testament Text IV*, dostępnej na Amazon.com oraz na mojej stronie internetowej www.prunch.org.
 
-[^mozna-by-mowic-o-wirach]: Można by na przykład mówić o wirze P^45^, W (papirus 45 oraz Kodeks Waszyngtoński [W], przyp. tłum.) albo wirze P^75^, B (papirus 75 oraz Kodeks Watykański [B], przyp. tłum.).
+[^mozna-by-mowic-o-wirach]: Można by na przykład mówić o wirze P^45^, W [papirus 45 oraz Kodeks Waszyngtoński [W], przyp. tłum.] albo wirze P^75^, B [papirus 75 oraz Kodeks Watykański [B], przyp. tłum.].
 
 [^chociaz-stosuje-termin-typ-tekstu]:Chociaż w niektórych swoich pracach zastosowałem z konieczności termin „typ tekstu”, postrzegam Tekst Większościowy jako będący znacznie szerszy. Jest to tradycja tekstowa, o której można powiedzieć, że obejmuje szereg powiązanych „typów tekstów”, takich jak K^a^, K^i^ i K^l^ von Sodena. Pragnę ponownie podkreślić, że to tylko zgodność w błędach determinuje relacje genealogiczne. Wynika z tego, że pojęcia „genealogii” i „typu tekstu” są nieistotne w odniesieniu do oryginalnych odczytów – są one przydatne jedynie (gdy są właściwie stosowane) do identyfikacji fałszywych odczytów. Cóż, jeśli istnieje rodzina, która odzwierciedla oryginał bardzo blisko, jej „profil” lub mozaika odczytów odróżni ją od wszystkich innych rodzin, ale większość tych odczytów nie będzie błędami (konkurencyjne warianty charakterystyczne dla innych rodzin [będą]{.underline} błędami).
 
@@ -50,7 +50,7 @@ Szczerze mówiąc, istnieje tylko jedno rozsądne wyjaśnienie dotyczące Tekstu
 
     *ω* – 061
 
-    *ος Θεος* – jeden rękopis kursywny (manuskrypt zapisany pismem kursywnym, przyp. tłum.), 256 (oraz jeden Lekcjonarz [lekcjonarz - księga liturgiczna zawierająca czytania biblijne do nabożeństw, przyp. tłum.])
+    *ος Θεος* – jeden rękopis kursywny [manuskrypt zapisany pismem kursywnym, przyp. tłum.], 256 (oraz jeden Lekcjonarz [lekcjonarz - księga liturgiczna zawierająca czytania biblijne do nabożeństw, przyp. tłum.])
 
     *ος* – ℵ, 33, 365, 442, 1175, 2127 (plus trzy Lekcjonarze)
 
