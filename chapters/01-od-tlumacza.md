@@ -4,7 +4,7 @@ Tłumaczenie czwartej edycji książki [_GOD HAS PRESERVED HIS TEXT! The Divine 
 ISBN: 978-0-9974686-9-4  
 _Wilbur N. Pickering_
 
-Tłumaczenie wykonał Tomasz Skraskowski dla wydawnictwa [Świadome Chrześcijaństwo](https://www.wswch.pl/). Zdjęcia dodane przez tłumacza zazaczone są adnotacją _[zdj. tłum.]_, przypisy dodane przez tłumacza zaznaczone są adnotacją _[przyp. tłum.]_.
+Tłumaczenie wykonał Tomasz Skraskowski dla wydawnictwa [Świadome Chrześcijaństwo](https://www.wswch.pl/). Zdjęcia dodane przez tłumacza zaznaczone są adnotacją _[zdj. tłum.]_, przypisy dodane przez tłumacza zaznaczone są adnotacją _[przyp. tłum.]_.
 
 Tomasz Skraskowski nie jest profesjonalnym tłumaczem, podjął się niniejszego przekładu *pro publico bono*, gospodarując dla niego czas pomiędzy obowiązkami zawodowymi a rodzinnymi. W trakcie rozważań, czy podjąć się tego dzieła, wahając się, czy podoła, usłyszał od Pana:
 
@@ -44,7 +44,7 @@ Licencja zezwala na:
 
  Licencjodawca nie może odwołać udzielonych praw, o ile są przestrzegane warunki licencji:
 
-- **Uznanie autorstwa** — Utwór należy oznaczyć słowami „_Oryginał dostępny na http://thechristiancommons.com._”, podać link do licencji i [wskazać jeśli zostały dokonane w nim zmiany](https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-indicate-changes). Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór.
+- **Uznanie autorstwa** — Utwór należy oznaczyć słowami „_Oryginał dostępny na http://thechristiancommons.com._”, podać link do licencji i [wskazać jeśli zostały dokonane w nim zmiany](https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-indicate-changes). Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania przez licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór.
 - **Na tych samych warunkach** — Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na [tej samej licencji](https://creativecommons.org/licenses/by-sa/4.0/deed.pl#ref-same-license), co oryginał.
 - **Brak dodatkowych ograniczeń** — Nie możesz korzystać ze środków prawnych lub technologicznych, które ograniczają innych w korzystaniu z utworu na warunkach określonych w licencji.
 

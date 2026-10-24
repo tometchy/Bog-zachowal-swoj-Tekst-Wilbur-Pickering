@@ -16,7 +16,7 @@ Co zatem robią krytycy, gdy tych kilka manuskryptów nie zgadza się między so
 
 5. Który odczyt najlepiej zgadza się ze stylem i celem autora?
 
-Pytanie 1) opiera się na analogii strumienia, którego woda będzie najczystsza u źródła, im większa odległość od źródła, tym więcej zanieczyszczeń będzie zawierać woda. W odniesieniu do manuskryptów Nowego Testamentu analogia ta jest jednak z pewnością fałszywa. Powszechnie uznaje się, że większość szkód poniesionych przez tekst Nowego Testamentu nastąpiła do roku 200, daty przypisywanej naszym najwcześniejszym manuskryptom o jakichkolwiek rozmiarach (P^66^). Nasze najwcześniejsze manuskrypty mogły być zatem pełne „szkód”.
+Pytanie 1) opiera się na analogii strumienia, którego woda będzie najczystsza u źródła, im większa odległość od źródła, tym więcej zanieczyszczeń będzie zawierać woda. W odniesieniu do manuskryptów Nowego Testamentu analogia ta jest jednak z pewnością fałszywa. Powszechnie uznaje się, że większość szkód poniesionych przez tekst Nowego Testamentu nastąpiła do roku 200, daty przypisywanej naszym najwcześniejszym manuskryptom o znacznej objętości (P^66^). Nasze najwcześniejsze manuskrypty mogły być zatem pełne „szkód”.
 
 Pytanie 2): na ogół ogłaszają Kodeks B (Watykański, 03) „najlepszym” zachowanym manuskryptem. Na czym opierają swoje twierdzenie? Hort na podstawie swoich subiektywnych preferencji (łącznie z wczesną datą) ogłosił B zdecydowanie „najlepszym” manuskryptem, a późniejsi krytycy na ogół podporządkowali się temu dictum. Czy istnieje jednak jakaś obiektywna podstawa tego twierdzenia? O ile mi wiadomo, nie istnieje, dostępne obiektywne dowody mówią coś przeciwnego. (Moja ocena odnosi się także do wszystkich pozostałych wczesnych manuskryptów).
 

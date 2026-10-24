@@ -6,13 +6,13 @@ GA 2554 jest jednym z wielu kompletnych manuskryptów Nowego Testamentu reprezen
 
 2. Ewangelia Mateusza 13,15 *ιασωμαι* \|\| *ιασομαι* [50%] 2554^c^ (pozostały ślady wymazanej prawej strony omegi, pierwsza ręka była więc poprawna, nie jest to zatem wariant, w każdym razie w tym kontekście zmiana czasu nie wpływa na znaczenie).
 
-3. Ewangelia Mateusza 25,32 *συναχθησονται* \|\| *συναχθησεται* [70%] (uwzględniam ten przypadek tylko dlatego, że spośród 51 przedstawicieli rodziny, których dotąd skolacjonowałem dla Ewangelii Mateusza, niewielka większość ma liczbę pojedynczą zamiast mnogiej (27/24), ze względu na jakość mniejszości, obejmującej 2554, wybrałem ją jako archetyp, w każdym razie niezależnie od tego, czy rzeczownik zbiorowy jest traktowany jako liczba pojedyncza czy mnoga, znaczenie pozostaje takie samo — są to dwa sposoby powiedzenia tego samego).
+3. Ewangelia Mateusza 25,32 *συναχθησονται* \|\| *συναχθησεται* [70%] (uwzględniam ten przypadek tylko dlatego, że spośród 51 przedstawicieli rodziny, których dotąd skolacjonowałem dla Ewangelii Mateusza, niewielka większość ma liczbę pojedynczą zamiast mnogiej [27/24], ze względu na jakość mniejszości, obejmującej 2554, wybrałem ją jako archetyp, w każdym razie niezależnie od tego, czy rzeczownik niepoliczalny jest traktowany jako liczba pojedyncza czy mnoga, znaczenie pozostaje takie samo — są to dwa sposoby powiedzenia tego samego).
 
 4. Ewangelia Mateusza 26,29 *γενηματος* \|\| *γεννηματος* [70%] 2554^c^ (dodatkowe *nu* dodano nad wierszem, lecz pierwsza ręka była poprawna, nie jest to więc wariant, w każdym razie w tym kontekście obie formy są synonimiczne).
 
 **Komentarz**: Uważam, że pierwsza ręka daje nam doskonałą kopię archetypu dla Ewangelii Mateusza.
 
-5. Ewangelia Marka 2,23 *ποιειν* 2554^c^ \|\| *πιειν* 2554 (wygląda na to, że egzemplarz 2554 miał πιειν, a kopista należycie to przepisał, następnie jednak uświadomił sobie, że był to bezsensowny błąd, i go poprawił, jeśli poprawki dokonała pierwsza ręka, nie mamy właściwego wariantu, lecz pracując z mikrofilmu, trudno stwierdzić, czy atrament jest ten sam).
+5. Ewangelia Marka 2,23 *ποιειν* 2554^c^ \|\| *πιειν* 2554 (wygląda na to, że egzemplarz wzorcowy 2554 miał πιειν, a kopista należycie to przepisał, następnie jednak uświadomił sobie, że był to bezsensowny błąd, i go poprawił, jeśli poprawki dokonała pierwsza ręka, nie mamy właściwego wariantu, lecz pracując z mikrofilmu, trudno stwierdzić, czy atrament jest ten sam).
 
 6. Ewangelia Marka 5,41 *κουμι* \|\| *κουμ* (17,4%) 2554 (jest to transliteracja z innego języka, różnica w pisowni nie wpływa więc na znaczenie, tym bardziej że bezpośrednio potem podano tłumaczenie, nie uważam tego za właściwy wariant).
 
@@ -40,7 +40,7 @@ GA 2554 jest jednym z wielu kompletnych manuskryptów Nowego Testamentu reprezen
 
 16. Ewangelia Jana 6,55 *αληθως* \|\| *αληθης* (24,5%) 2554^2x^ (niezależnie od tego, czy jest to przysłówek, czy przymiotnik, w tym kontekście mają to samo znaczenie, powtórzenie traktuję jako jeden wariant).
 
-17. Ewangelia Jana 12,6 *εμελεν* \|\| *εμελλεν* [60%] (po uwzględnieniu poprawek skolacjonowane przeze mnie manuskrypty (57) dzielą się mniej więcej po równo. Czy czasownikiem jest μελω, czy μελλω? μελει jako forma bezosobowa jest najczęstsze, czasownik ten jest jednak używany także w sensie osobowym/czynnym. μελλω („mieć coś uczynić”) nie ma tutaj sensu. μελλω występuje około dziesięć razy częściej w Nowym Testamencie i niektórzy kopiści mogli bez zastanowienia zapisać bardziej zwyczajną pisownię. Zaledwie dwa wiersze wyżej napisali μελλων i mogli powtórzyć tę formę przez przyciąganie. Ponieważ jednak obie formy wymawia się tak samo, ktoś słuchający głośnego odczytywania Tekstu zrozumiałby go poprawnie, kierując się kontekstem. Właśnie z tego powodu możliwe jest, że zakres semantyczny dłuższej formy zaczęto uważać za obejmujący zakres formy krótszej, w takim przypadku mielibyśmy alternatywne pisownie tego samego czasownika. (Nie mam zwyczaju odwoływać się do wczesnych uncjałów, lecz wszystkie mają tutaj formę krótszą, co zgadzałoby się z moją powyższą hipotezą). Pierwsza ręka 2554 pozostawiła miejsce na drugą *lambdę*, była więc świadoma wariantu, lecz poprawnie go nie skopiowała).
+17. Ewangelia Jana 12,6 *εμελεν* \|\| *εμελλεν* [60%] (po uwzględnieniu poprawek skolacjonowane przeze mnie manuskrypty [57] dzielą się mniej więcej po równo. Czy czasownikiem jest μελω, czy μελλω? μελει jako forma bezosobowa jest najczęstsze, czasownik ten jest jednak używany także w sensie osobowym/czynnym. μελλω [„mieć coś uczynić”] nie ma tutaj sensu. μελλω występuje około dziesięć razy częściej w Nowym Testamencie i niektórzy kopiści mogli bez zastanowienia zapisać bardziej zwyczajną pisownię. Zaledwie dwa wiersze wyżej napisali μελλων i mogli powtórzyć tę formę przez przyciąganie. Ponieważ jednak obie formy wymawia się tak samo, ktoś słuchający głośnego odczytywania Tekstu zrozumiałby go poprawnie, kierując się kontekstem. Właśnie z tego powodu możliwe jest, że zakres semantyczny dłuższej formy zaczęto uważać za obejmujący zakres formy krótszej, w takim przypadku mielibyśmy alternatywne pisownie tego samego czasownika. [Nie mam zwyczaju odwoływać się do wczesnych uncjałów, lecz wszystkie mają tutaj formę krótszą, co zgadzałoby się z moją powyższą hipotezą]. Pierwsza ręka 2554 pozostawiła miejsce na drugą *lambdę*, była więc świadoma wariantu, lecz poprawnie go nie skopiowała).
 
 18. Ewangelia Jana 12,40 *ιασωμαι* \|\| *ιασομαι* [20%] 2554 (pierwsza ręka 2554 pozostawiła miejsce na dokończenie *omegi*, była więc świadoma wariantu, w tym kontekście zmiana czasu nie wpływa na znaczenie).
 
@@ -54,7 +54,7 @@ GA 2554 jest jednym z wielu kompletnych manuskryptów Nowego Testamentu reprezen
 
 22. Dzieje Apostolskie 16,9 *την* 2554^c^ \|\| --- [80%] 2554 (Rodzina 35 jest praktycznie jednomyślna na rzecz rodzajnika, pierwsza ręka mogła więc pominąć go samodzielnie, po czym został poprawiony przez kogoś innego, w każdym razie znaczenie nie zostaje naruszone).
 
-23. Dzieje Apostolskie 18,17 *εμελλεν* \|\| *εμελεν* [14%] 2554^c^ (Rodzina 35 jest tutaj podzielona, 2554 ma pojedynczą *lambdę* w miejscu, które jest dla niej zbyt duże, zakładam więc, że pierwsza ręka miała podwójną, lecz została ona wymazana. Czy czasownikiem jest *μελλω*, czy *μελω*? Jeśli pierwszy, znaczenie nie jest powszechne i mogło łatwo dać początek drugiemu. Tłumaczenie: „Żadna z tych rzeczy nie była dla Galliona zwłoką”, Gallion jest w celowniku. Gallion przypuszczalnie uważał się za człowieka zajętego i nie doceniał zakłócenia, nie zamierzał pozwolić, by dalej go zatrzymywano. W 22,16 ten sam czasownik ma znaczenie „zwlekać”. Chociaż istnieje pewna różnica znaczeniowa, sens narracji nie zostaje zmieniony).
+23. Dzieje Apostolskie 18,17 *εμελλεν* \|\| *εμελεν* [14%] 2554^c^ (Rodzina 35 jest tutaj podzielona, 2554 ma pojedynczą *lambdę* w miejscu, które jest dla niej zbyt duże, zakładam więc, że pierwsza ręka miała podwójną, lecz została ona wymazana. Czy czasownikiem jest *μελλω*, czy *μελω*? Jeśli pierwszy, znaczenie nie jest powszechne i mogło łatwo dać początek drugiemu. Tłumaczenie: „Żadna z tych rzeczy nie była dla Galliona zwłoką”, Gallion jest w celowniku. Gallion przypuszczalnie uważał się za człowieka zajętego i nie podobało mu się to zakłócenie, nie zamierzał pozwolić, by dalej go zatrzymywano. W 22,16 ten sam czasownik ma znaczenie „zwlekać”. Chociaż istnieje pewna różnica znaczeniowa, sens narracji nie zostaje zmieniony).
 
 24. Dzieje Apostolskie 25,7 *καταβεβηκοτες* \|\| 1 *οι* 2554 (wydaje się to niestarannym błędem kopisty, który jednak nadal ma sens, znaczenie nie zostaje naruszone).
 
@@ -120,7 +120,7 @@ GA 2554 jest jednym z wielu kompletnych manuskryptów Nowego Testamentu reprezen
 
 47. Objawienie Jana 14,19 *τον μεγαν* \|\| *την μεγαλην* 2554 (Czy fraza określa „gniew”, czy „tłocznię”? W tym kontekście są to dwa sposoby powiedzenia tego samego).
 
-48. Objawienie Jana 16,12 *μεγαν* \|\| 1 *τον* 2554 (wariant nie wpływa na znaczenie).
+48. Objawienie Jana 16,12 μεγαν \|\| 1 τον 2554 (wariant nie wpływa na znaczenie).
 
 49. Objawienie Jana 19,18 *και*^7^ \|\| --- 2554 (wydaje się to odczytem singularnym, nie wpływa on na znaczenie).
 

@@ -6,7 +6,7 @@ W Ewangelii Mateusza istnieje tylko pięć podziałów, które można by nazwać
 
 - 19,29 οικιας [66%] \|\| οικιαν [30%] — liczba mnoga czy pojedyncza? Podobnie jak w przypadku braci, jeśli masz tylko jednego, jest to wszystko, co możesz opuścić, a jeśli nie masz żadnego, nie opuszczasz żadnego.
 
-- 25,32 συναχθησονται [25%] \|\| συναχθησεται [75%] — liczba mnoga czy pojedyncza, rzeczownik zbiorowy czy nie? Tłumaczenie jest takie samo.
+- 25,32 συναχθησονται [25%] \|\| συναχθησεται [75%] — liczba mnoga czy pojedyncza, rzeczownik niepoliczalny czy nie? Tłumaczenie jest takie samo.
 
 - 26,29 γενηματος [30%] \|\| γεννηματος [70%] — rzeczowniki są różne, pierwszy odnosi się do płodów roślinnych, a drugi do potomstwa zwierząt, jeśli drugi jest używany w odniesieniu do roślin, jest to znaczenie wtórne. Tłumaczenie jest takie samo.
 
@@ -135,6 +135,8 @@ Sprawdziłem 114 przedstawicieli Rodziny 35 w odniesieniu do pięciu głównych 
 
 Przedstawię teraz wzorce dla pięciu zestawów wariantów. Zauważyłem osiem „poprawek” i dziewięć „wariantów alternatywnych”, rozproszonych tu i ówdzie, zignorowałem je na potrzeby tego ćwiczenia (chociaż 12 spośród 17 zmienia „—” na „++”). Celem jest ocena, czy wzorce wskazują na niezależne linie przekazu w obrębie Rodziny 35. Oto wzorce. Liczby oznaczają pierwszy odczyt (++), — drugi.
 
+[WZORCE]{.underline}
+
 | 1 | 2 | 3 | 4 | 5 | Liczba manuskryptów | Uwagi |
 |:---:|:---:|:---:|:---:|:---:|---:|:---|
 | 1 | 2 | 3 | 4 | 5 | 23\*\* | [+2] |
@@ -143,8 +145,8 @@ Przedstawię teraz wzorce dla pięciu zestawów wariantów. Zauważyłem osiem �
 | 1 | 2 | — | 4 | 5 | 1 |  |
 | 1 | — | 3 | 4 | 5 | 1 |  |
 | — | 2 | 3 | 4 | 5 | 0 |  |
-| brak | 2 | 3 | 4 | 5 | 1 | (egzemplarz przypuszczalnie miał wszystkie pięć) |
-| 1 | brak | 3 | 4 | 5 | 1 | (egzemplarz przypuszczalnie miał wszystkie pięć) |
+| brak | 2 | 3 | 4 | 5 | 1 | (egzemplarz wzorcowy przypuszczalnie miał wszystkie pięć) |
+| 1 | brak | 3 | 4 | 5 | 1 | (egzemplarz wzorcowy przypuszczalnie miał wszystkie pięć) |
 | 1 | 2 | brak | 4 | brak | 1 |  |
 | brak | 2 | — | 4 | 5 | 2 |  |
 | brak | 2 | 3 | 4 | — | 1 |  |
@@ -173,8 +175,8 @@ Przedstawię teraz wzorce dla pięciu zestawów wariantów. Zauważyłem osiem �
 | — | — | — | 4 | — | 14\* |  |
 | — | — | — | — | 5 | 0 |  |
 | — | — | — | — | — | 7\* | [+3] |
-| brak | — | — | — | — | 2 | (egzemplarze prawdopodobnie nie miały żadnego) |
-| brak | — | — | — | brak | 1 | (egzemplarz prawdopodobnie nie miał żadnego)[^pojedyncze-wzorce-wskazuja-normalny-przekaz] |
+| brak | — | — | — | — | 2 | (egzemplarze wzorcowe prawdopodobnie nie miały żadnego) |
+| brak | — | — | — | brak | 1 | (egzemplarz wzorcowy prawdopodobnie nie miał żadnego)[^pojedyncze-wzorce-wskazuja-normalny-przekaz] |
 
 Odkładając na bok 14 niekompletnych manuskryptów, kolejnych 12 ma prywatny wzorzec (jak dotąd). Dwa wzorce wykazują po 2 manuskrypty, kolejne dwa po 3 manuskrypty, a jeden wykazuje 4 manuskrypty. Wszystkie te pominę. Zwracam uwagę na następujących siedem wzorców:
 
@@ -192,7 +194,7 @@ Odkładając na bok 14 niekompletnych manuskryptów, kolejnych 12 ma prywatny wz
 
 7. —, —, 3, —, — = 6 manuskryptów
 
-Uważam, że wzorzec 1) reprezentuje archetyp rodziny, jest zdecydowanie najsilniejszym wzorcem i z konieczności reprezentuje linię przekazu. Co jednak ze wzorcem 2), czy 14 kopistów przypadkiem dokonało niezależnie tego samego zestawu wyborów? Czy nie jest znacznie bardziej prawdopodobne, że reprezentują niezależną linię przekazu? W rzeczy samej, skolacjonowałem wiele dziesiątek manuskryptów **f^35^** i z nielicznymi wyjątkami kopiści byli wierni swojemu egzemplarzowi. Rozważmy na przykład następujące dowody dla sześciu spośród wyżej wymienionych wzorców:
+Uważam, że wzorzec 1) reprezentuje archetyp rodziny, jest zdecydowanie najsilniejszym wzorcem i z konieczności reprezentuje linię przekazu. Co jednak ze wzorcem 2), czy 14 kopistów przypadkiem dokonało niezależnie tego samego zestawu wyborów? Czy nie jest znacznie bardziej prawdopodobne, że reprezentują niezależną linię przekazu? W rzeczy samej, skolacjonowałem wiele dziesiątek manuskryptów **f^35^** i z nielicznymi wyjątkami kopiści byli wierni swojemu egzemplarzowi wzorcowemu. Rozważmy na przykład następujące dowody dla sześciu spośród wyżej wymienionych wzorców:
 
 - Wzorzec 1) — GA 2554 (Bukareszt, 1434, eapr) jest precyzyjnie doskonałą kopią linii przekazu mającej wzorzec 1). Istnieje kilka innych, które są niemal doskonałe.
 
@@ -206,7 +208,7 @@ Uważam, że wzorzec 1) reprezentuje archetyp rodziny, jest zdecydowanie najsiln
 
 - Wzorzec 6) — GA 586 (Modena, XIV, e) jest doskonałą kopią linii przekazu mającej wzorzec 6). GA 2382 (Konstantynopol, XII, e) jest prawie doskonały, a GA 510 (Oksford-cc, XII, e) praktycznie taki jest.
 
-Kopiści najwyraźniej wiernie odtwarzali swoje egzemplarze, które reprezentowały odrębne linie przekazu. Trzy wzorce mają jawne poświadczenie z XI wieku, kolejny ma jawne poświadczenie z XII wieku, a wszystkie mają rozproszone rozmieszczenie geograficzne. Stojące przed nami dowody po prostu wymagają wniosku, że archetyp Rodziny 35 musiał istnieć w okresie uncjalnym, i to prawdopodobnie dość daleko wstecz w tym okresie. W innym miejscu argumentowałem, że dostępne dowody wskazują, iż istniał już w III wieku, jeśli nie jeszcze wcześniej. **Należy odrzucić wszystkie z góry przyjęte poglądy dotyczące K^r^ von Sodena.**
+Kopiści najwyraźniej wiernie odtwarzali swoje egzemplarze wzorcowe, które reprezentowały odrębne linie przekazu. Trzy wzorce mają jawne poświadczenie z XI wieku, kolejny ma jawne poświadczenie z XII wieku, a wszystkie mają rozproszone rozmieszczenie geograficzne. Stojące przed nami dowody po prostu wymagają wniosku, że archetyp Rodziny 35 musiał istnieć w okresie uncjalnym, i to prawdopodobnie dość daleko wstecz w tym okresie. W innym miejscu argumentowałem, że dostępne dowody wskazują, iż istniał już w III wieku, jeśli nie jeszcze wcześniej. **Należy odrzucić wszystkie z góry przyjęte poglądy dotyczące K^r^ von Sodena.**
 
 Jeśli ktoś zada sobie trud policzenia manuskryptów za i przeciw, odkryje, że forma, którą wybrałem jako archetypalną, ma większość liczbową tylko w dwóch spośród pięciu przypadków. Licząc wyłącznie manuskrypty uwzględnione w siedmiu wiodących wzorcach, mój wybór ma przewagę w czterech spośród pięciu. Poza dominującą naturą wzorca 1) mój wybór w każdym przypadku podyktowany był jakością manuskryptu i rozmieszczeniem geograficznym. Jak jednak wskazano na początku, różnica znaczeniowa jest tak niewielka, że w każdym przypadku jedno tłumaczenie może obejmować oba odczyty. **Bóg zachował swój Tekst!**
 

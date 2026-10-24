@@ -28,7 +28,8 @@ CONTENT_FILTERS = tee # Use this to add sed filters or other piped commands
 # Pandoc filtes - uncomment the following variable to enable cross references filter. For more
 # information, check the "Cross references" section on the README.md file.
 
-# FILTER_ARGS = --filter pandoc-crossref
+FILTER_ARGS = --lua-filter filters/line-breaks.lua --lua-filter filters/table-layout.lua
+FILTERS = $(wildcard filters/*.lua)
 
 # Combined arguments
 
@@ -45,7 +46,7 @@ PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex
 
 # Per-format file dependencies
 
-BASE_DEPENDENCIES = $(MAKEFILE) $(CHAPTERS) $(METADATA) $(IMAGES) $(TEMPLATES)
+BASE_DEPENDENCIES = $(MAKEFILE) $(CHAPTERS) $(METADATA) $(IMAGES) $(TEMPLATES) $(FILTERS)
 DOCX_DEPENDENCIES = $(BASE_DEPENDENCIES)
 EPUB_DEPENDENCIES = $(BASE_DEPENDENCIES)
 HTML_DEPENDENCIES = $(BASE_DEPENDENCIES)

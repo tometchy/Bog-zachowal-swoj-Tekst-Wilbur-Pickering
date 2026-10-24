@@ -533,6 +533,21 @@
     let syncPending = savedValue("sync:pending", "false") === "true";
     let syncChangeVersion = 0;
     let lastSyncPull = 0;
+    setSyncPending(syncPending);
+
+    function warnBeforeUnload(event) {
+      if (!syncPending) return;
+      event.preventDefault();
+      event.returnValue = true;
+    }
+
+    function setSyncPending(pending) {
+      syncPending = pending;
+      saveValue("sync:pending", String(pending));
+      // Ostrzegaj tylko, gdy zmiany nadal czekają na potwierdzenie wysyłki.
+      if (pending) window.addEventListener("beforeunload", warnBeforeUnload);
+      else window.removeEventListener("beforeunload", warnBeforeUnload);
+    }
 
     function savedValue(key, fallback) {
       try { return localStorage.getItem(storagePrefix + key) || fallback; }
@@ -741,8 +756,7 @@
       } catch (error) {
         throw new Error("Nie udało się zapisać pobranych zakreśleń w pamięci przeglądarki.", { cause: error });
       }
-      syncPending = false;
-      saveValue("sync:pending", "false");
+      setSyncPending(false);
       document.dispatchEvent(new CustomEvent("highlights-sync-change"));
     }
 
@@ -835,8 +849,7 @@
         if (!response.ok) throw new Error(`GitHub odpowiedział kodem ${response.status}. Token musi mieć uprawnienie Contents: Read and write.`);
         rememberUploadedFile(await response.json(), uploadData);
         if (uploadedVersion === syncChangeVersion) {
-          syncPending = false;
-          saveValue("sync:pending", "false");
+          setSyncPending(false);
           setSyncStatus(`Wysłano zakreślenia: ${formatSyncTime()}.`);
           showToast("Zakończono wysyłanie. Zakreślenia zostały zapisane na GitHubie.", "success", 6_000);
         } else {
@@ -860,8 +873,7 @@
       const configuration = syncConfiguration();
       if (!syncIsConfigured(configuration) || configuration.mode !== "write") return;
       syncChangeVersion += 1;
-      syncPending = true;
-      saveValue("sync:pending", "true");
+      setSyncPending(true);
       clearTimeout(syncTimer);
       syncTimer = setTimeout(pushHighlights, syncDelay);
       setSyncStatus("Zmiany zapisano lokalnie. Wysyłka nastąpi po 90 sekundach bez nowych zakreśleń.");
@@ -916,8 +928,7 @@
       if (!pulled && configuration.mode === "write") {
         const hasLocalHighlights = ["english", "polish"].some((name) => Object.keys(localHighlightData().highlights[name]).length);
         if (hasLocalHighlights) {
-          syncPending = true;
-          saveValue("sync:pending", "true");
+          setSyncPending(true);
           await pushHighlights();
         }
       }
@@ -928,7 +939,7 @@
       ["owner", "repository", "path", "token", "mode", "pending", "last-uploaded-sha", "last-uploaded-at"].forEach((name) => {
         try { localStorage.removeItem(syncPrefix + name); } catch (_) { /* Bez localStorage formularz nadal można zamknąć. */ }
       });
-      syncPending = false;
+      setSyncPending(false);
       updateSyncInterface();
     });
 

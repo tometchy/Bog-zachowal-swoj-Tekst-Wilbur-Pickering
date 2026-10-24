@@ -28,7 +28,7 @@ Pewien brat mieszkający w Kurytybie, stolicy stanu Parana, napisał niedawno wp
 >
 > Chociaż nalegam, by podkreślić, że jego teoria ma założeniową podstawę epistemologiczną, przedstawię jednak rozważenie dowodów empirycznych, posługując się zupełnie inną osią. W następstwie wpływu, jaki uczeni tacy jak Alvin Plantinga i William Lane Craig wywarli ostatnio na moje studia, posłużę się teraz logiką modalną, aby pracować na gruncie apologetyki dowodowej.
 >
-> Wyjaśniwszy zatem, że poniższe wersy odnoszą się wyłącznie do opracowywanej tutaj przeze mnie argumentacji perswazyjnej, wykorzystującej logikę modalną (a nie do sposobu, w jaki dr Pickering konstruuje swoje argumenty), mogę sformułować następujące przesłanki jako podstawę rozumowania o zachowaniu Tekstu Nowego Testamentu, którego przykładem jest Rodzina 35.
+> Wyjaśniwszy zatem, że poniższe wiersze odnoszą się wyłącznie do opracowywanej tutaj przeze mnie argumentacji perswazyjnej, wykorzystującej logikę modalną (a nie do sposobu, w jaki dr Pickering konstruuje swoje argumenty), mogę sformułować następujące przesłanki jako podstawę rozumowania o zachowaniu Tekstu Nowego Testamentu, którego przykładem jest Rodzina 35.
 >
 > 1. Jest możliwe, że Bóg przekazał rasie ludzkiej pisemne objawienie.
 >
@@ -44,7 +44,7 @@ Pewien brat mieszkający w Kurytybie, stolicy stanu Parana, napisał niedawno wp
 >
 > Jeśli zatem istnieje Bóg, który stworzył wszystkie rzeczy, i jeśli postanowił objawić się nam w Chrystusie, całkowicie rozsądne jest wywnioskowanie, że przekazał nam również pisemne objawienie i je zachował.
 >
-> Innymi słowy, jedyną przesłanką dodaną w drodze wnioskowania do podstawowych faktów wiary chrześcijańskiej jest zachowanie Tekstu Nowego Testamentu. Oznacza to, że trynitarny teizm dr. Pickeringa zakłada nie tylko Boga będącego Stwórcą, Zbawicielem i Opiekunem, ale przez proste racjonalne wnioskowanie dodaje do Bożej Opatrzności zachowanie Tekstu Nowego Testamentu.
+> Innymi słowy, jedyną przesłanką dodaną w drodze wnioskowania do podstawowych faktów wiary chrześcijańskiej jest zachowanie Tekstu Nowego Testamentu. Oznacza to, że trynitarny teizm dr. Pickeringa zakłada nie tylko Boga będącego Stwórcą, Odkupicielem i Zaopatrzycielem, ale przez proste racjonalne wnioskowanie dodaje do Bożej Opatrzności zachowanie Tekstu Nowego Testamentu.
 >
 > Jakkolwiek by było, należy zauważyć, że choć dowiedzenie punktu 1) przypisałem tradycyjnej apologetyce, a ponadto punkt 2) można rozsądnie wywnioskować na podstawie punktu 1), pozostaje faktem, że na potrzeby analizy argumentu, twierdzenie 3) wynika z punktów 1) i 2). Cała ważność argumentu zależy zatem wyłącznie od dowiedzenia punktu 4), to znaczy, że tekst Rodziny 35 jest jedynym typem tekstu Nowego Testamentu, o którym można obiektywnie wykazać, że został zachowany. Właśnie tutaj do głosu dochodzi praca dr. Pickeringa.
 >
@@ -66,7 +66,7 @@ Nalegam, że nie jestem czystym empirystą. Moja praca jest zakotwiczona w przes
 
 [^biblijna-walka-duchowa]: Pisałem obszernie na temat biblijnej walki duchowej. Większość tych treści można znaleźć w mojej książce *Essays on Discipleship, Missions and Spiritual Warfare*, wydanie drugie, 2017. Jest ona również dostępna na mojej stronie internetowej www.prunch.org (lub www.prunch.com.br). Na początek powinieneś rozważyć List do Efezjan 2,2 wraz z Ewangelią Łukasza 8,12 oraz 2 Listem do Koryntian 4,3-4.
 
-[^goulburn-life-of-dean-burgon]: E.M. Goulburn, *Life of Dean Burgon* (Londyn: John Murray, 1892, 2 tomy), I, vii.
+[^goulburn-life-of-dean-burgon]: E.M. Goulburn, Life of Dean Burgon (Londyn: John Murray, 1892, 2 tomy), I, vii.
 
 [^vaganay-86489-cytatow]: Leo Vaganay, *An Introduction to the Textual Criticism of the New Testament*, tłum. B.V. Miller (Londyn: Sands and Co., Ltd., 1937), s. 48.
 

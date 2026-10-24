@@ -299,6 +299,14 @@ $if(strikeout)$
   \usepackage[soul]{lua-ul}
 \else
   \usepackage{soul}
+  \ifXeTeX
+    % soul measures words in a monospaced font; its default lacks Polish/Greek.
+    \makeatletter
+    \font\SOUL@tt="DejaVu Sans Mono" at 10pt
+    \setbox\z@\hbox{\SOUL@tt-}
+    \SOUL@ttwidth\wd\z@
+    \makeatother
+  \fi
 \fi
 $endif$
 \setlength{\emergencystretch}{3em} % prevent overfull lines
