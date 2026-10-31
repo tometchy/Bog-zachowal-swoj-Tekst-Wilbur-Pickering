@@ -2,6 +2,15 @@
 
 Pełny przegląd tłumaczenia zakończono 2026-10-11, a 2026-10-12 uzupełniono go po weryfikacji drugiego raportu AI. Zasadne uwagi wdrożono na gałęzi `codex/poprawki-review-2026-10-12`, wraz z ponownym eksportem PDF, EPUB, DOCX i HTML. Status wszystkich uwag, przyjęte odpowiedniki oraz sprostowania raportu znajdują się na początku [REVIEW.md](REVIEW.md).
 
+# Testy porównywarki PDF
+
+```sh
+npm ci
+npm test
+```
+
+Testy obejmują zapis zakreśleń, migrację z `localStorage` do IndexedDB, błędy pamięci przeglądarki i synchronizację z GitHubem. Przy pierwszym uruchomieniu nowej wersji compare przenosi istniejące zakreślenia automatycznie. Dotychczasowe kopie w `localStorage` są usuwane dopiero po zatwierdzeniu zapisu w IndexedDB. Format pliku JSON synchronizacji pozostaje bez zmian.
+
 # Pandoc book template
 
 [![CircleCI](https://circleci.com/gh/wikiti/pandoc-book-template.svg?style=shield)](https://circleci.com/gh/wikiti/pandoc-book-template)

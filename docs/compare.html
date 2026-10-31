@@ -479,7 +479,7 @@
         <h2>Synchronizacja zakreśleń</h2>
         <button class="sync-close" type="button" aria-label="Zamknij">×</button>
       </div>
-      <p class="sync-description">Zakreślenia pozostają zapisane lokalnie i są synchronizowane z plikiem JSON w osobnym repozytorium GitHub. Automatyczny zapis następuje po 90 sekundach bez nowych zmian, aby ograniczyć liczbę commitów. Link z parametrem <code>?token=TOKEN</code> zapisuje token na urządzeniu odbiorcy, włącza tryb tylko do odczytu i natychmiast usuwa token z paska adresu. Opcjonalne parametry to <code>owner</code>, <code>repository</code> i <code>path</code>.</p>
+      <p class="sync-description">Zakreślenia są zapisywane lokalnie w bazie przeglądarki i synchronizowane z plikiem JSON w osobnym repozytorium GitHub. Automatyczny zapis następuje po 90 sekundach bez nowych zmian, aby ograniczyć liczbę commitów. Link z parametrem <code>?token=TOKEN</code> zapisuje token na urządzeniu odbiorcy, włącza tryb tylko do odczytu i natychmiast usuwa token z paska adresu. Opcjonalne parametry to <code>owner</code>, <code>repository</code> i <code>path</code>.</p>
       <fieldset class="sync-section">
         <legend>Intensywność zakreślaczy</legend>
         <div class="intensity-row"><label>Jasny marker</label><span>Jaśniej</span><input class="highlight-intensity" data-marker="light" type="range" min="10" max="100" step="5" aria-label="Intensywność jasnego zakreślacza"><span>Ciemniej</span></div>
@@ -508,6 +508,7 @@
   <div id="toast-container" class="toast-container" aria-live="polite" aria-atomic="false"></div>
 
   <script type="module">
+    import { createHighlightStore } from "./highlight-store.mjs";
     import * as pdfjsLib from "./vendor/pdfjs/pdf.min.mjs";
 
     pdfjsLib.GlobalWorkerOptions.workerSrc = "./vendor/pdfjs/pdf.worker.min.mjs";
@@ -533,10 +534,11 @@
     let syncPending = savedValue("sync:pending", "false") === "true";
     let syncChangeVersion = 0;
     let lastSyncPull = 0;
+    let highlightStore;
     setSyncPending(syncPending);
 
     function warnBeforeUnload(event) {
-      if (!syncPending) return;
+      if (!syncPending && !highlightStore?.unsaved) return;
       event.preventDefault();
       event.returnValue = true;
     }
@@ -544,8 +546,11 @@
     function setSyncPending(pending) {
       syncPending = pending;
       saveValue("sync:pending", String(pending));
-      // Ostrzegaj tylko, gdy zmiany nadal czekają na potwierdzenie wysyłki.
-      if (pending) window.addEventListener("beforeunload", warnBeforeUnload);
+      updateUnloadProtection();
+    }
+
+    function updateUnloadProtection() {
+      if (syncPending || highlightStore?.unsaved) window.addEventListener("beforeunload", warnBeforeUnload);
       else window.removeEventListener("beforeunload", warnBeforeUnload);
     }
 
@@ -722,42 +727,19 @@
     }
 
     function localHighlightData() {
-      const highlights = { english: {}, polish: {} };
-      try {
-        for (let index = 0; index < localStorage.length; index += 1) {
-          const key = localStorage.key(index);
-          const match = key?.match(/^pdf-comparison:(english|polish):highlights:(\d+)$/);
-          if (!match) continue;
-          const strokes = JSON.parse(localStorage.getItem(key) || "[]");
-          if (Array.isArray(strokes) && strokes.length) highlights[match[1]][match[2]] = strokes;
-        }
-      } catch (_) { /* Nie blokuj pracy, jeżeli pamięć przeglądarki jest niedostępna. */ }
-      return { version: 1, updatedAt: new Date().toISOString(), highlights };
+      return { version: 1, updatedAt: new Date().toISOString(), highlights: highlightStore.snapshot() };
     }
 
-    function applyHighlightData(data) {
+    async function applyHighlightData(data) {
       if (data?.version !== 1 || !data.highlights || typeof data.highlights !== "object") {
         throw new Error("Plik synchronizacji ma nieobsługiwany format.");
       }
-      try {
-        const keysToRemove = [];
-        for (let index = 0; index < localStorage.length; index += 1) {
-          const key = localStorage.key(index);
-          if (/^pdf-comparison:(english|polish):highlights:\d+$/.test(key || "")) keysToRemove.push(key);
-        }
-        keysToRemove.forEach((key) => localStorage.removeItem(key));
-        ["english", "polish"].forEach((documentName) => {
-          Object.entries(data.highlights[documentName] || {}).forEach(([page, strokes]) => {
-            if (Array.isArray(strokes) && /^\d+$/.test(page)) {
-              localStorage.setItem(`${storagePrefix}${documentName}:highlights:${page}`, JSON.stringify(strokes));
-            }
-          });
-        });
-      } catch (error) {
-        throw new Error("Nie udało się zapisać pobranych zakreśleń w pamięci przeglądarki.", { cause: error });
-      }
-      setSyncPending(false);
+      const version = syncChangeVersion;
+      // replace updates the drawing cache immediately and persists atomically.
+      const saving = highlightStore.replace(data.highlights);
       document.dispatchEvent(new CustomEvent("highlights-sync-change"));
+      await saving;
+      if (syncChangeVersion === version) setSyncPending(false);
     }
 
     function rememberUploadedFile(file, data) {
@@ -808,7 +790,7 @@
           showToast("Zakończono pobieranie, ale zachowano nowe lokalne zakreślenia. Dane z GitHuba nie zostały zastosowane.", "warning", 7_000);
           return false;
         }
-        applyHighlightData(remoteData);
+        await applyHighlightData(remoteData);
         lastSyncPull = Date.now();
         setSyncStatus(`Pobrano zakreślenia: ${formatSyncTime()}.`);
         showToast("Zakończono pobieranie. Lokalny zestaw zakreśleń zastąpiono aktualnym stanem z GitHuba.", "success", 6_000);
@@ -878,6 +860,25 @@
       syncTimer = setTimeout(pushHighlights, syncDelay);
       setSyncStatus("Zmiany zapisano lokalnie. Wysyłka nastąpi po 90 sekundach bez nowych zakreśleń.");
     }
+
+    function reportHighlightStorageError(error) {
+      console.error(error);
+      setSyncStatus("Nie udało się zapisać zakreśleń na urządzeniu. Pozostają w otwartej karcie, zsynchronizuj je przed jej zamknięciem.", "error");
+      showToast("Błąd pamięci przeglądarki. Nie zamykaj karty przed zapisaniem zakreśleń przez synchronizację.", "error", 12_000);
+    }
+
+    highlightStore = await createHighlightStore({
+      storage: {
+        get length() { return localStorage.length; },
+        key: (index) => localStorage.key(index),
+        getItem: (key) => localStorage.getItem(key),
+        setItem: (key, value) => localStorage.setItem(key, value),
+        removeItem: (key) => localStorage.removeItem(key)
+      },
+      databaseFactory: window.indexedDB,
+      onChange: updateUnloadProtection,
+      onError: reportHighlightStorageError
+    });
 
     const previousIntensity = savedValue("highlight-intensity", "65");
     const highlightIntensities = {
@@ -976,25 +977,15 @@
       let activeStroke;
       let zoom = Math.min(3, Math.max(.5, Number(savedValue(name + ":zoom", "1")) || 1));
 
-      function highlightStorageKey(pageNumber) {
-        return storagePrefix + name + ":highlights:" + pageNumber;
-      }
-
       function getHighlights(pageNumber) {
-        try {
-          const highlights = JSON.parse(localStorage.getItem(highlightStorageKey(pageNumber)) || "[]");
-          return Array.isArray(highlights) ? highlights : [];
-        } catch (_) {
-          return [];
-        }
+        // Drawing appends to this array, so return a copy of the cached page.
+        return [...highlightStore.get(name, pageNumber)];
       }
 
       function saveHighlights(pageNumber, highlights) {
-        try {
-          localStorage.setItem(highlightStorageKey(pageNumber), JSON.stringify(highlights));
-          highlightDataChanged();
-        }
-        catch (_) { /* Zakreślanie działa do czasu odświeżenia również bez localStorage. */ }
+        const saving = highlightStore.set(name, pageNumber, highlights);
+        highlightDataChanged();
+        saving.catch(() => {}); // The store reports failures and keeps the page in memory.
       }
 
       function drawHighlights(highlights = getHighlights(Number(input.value))) {
