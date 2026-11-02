@@ -203,6 +203,6 @@ Aland zdaje się przyznawać, że przez stulecia historii Kościoła tekst bizan
 
     Badacze tekstu wszystkich przekonań przez lata uznawali, że zachowani świadkowie z pierwszych stuleci nie muszą być reprezentatywni dla rzeczywistego stanu rzeczy w swoich czasach. Upieranie się, że zachowani świadkowie przedstawiają całą historię, jest nierozsądne i zakłada to, czego ma dowodzić.
 
-[^aland-systematyczne-kolacjonowanie-testowe-uncjalow]: K. i B. Aland, *tamże*, s. 106–125.
+[^aland-systematyczne-kolacjonowanie-testowe-uncjalow]: K. i B. Aland, *Ibid*, s. 106–125.
 
 [^aland-kodeks-w-data]: Historia miejsca, w którym znaleziono Kodeks W, sugeruje, że musiał zostać skopiowany przed 200 rokiem po Chrystusie, co umieszczałoby Tekst bizantyjski w II wieku.

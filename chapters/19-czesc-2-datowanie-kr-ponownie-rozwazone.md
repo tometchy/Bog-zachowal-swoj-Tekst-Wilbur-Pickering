@@ -178,7 +178,7 @@ Osoby katalogujące manuskrypty Nowego Testamentu informują nas, że pod wzglę
 
 [^robinson-o-liniach-pa]: „Preliminary Observations regarding the *Pericope Adulterae* based upon Fresh Collations of nearly all Continuous-Text Manuscripts and over One Hundred Lectionaries” [„Wstępne spostrzeżenia dotyczące *Pericope Adulterae* na podstawie nowych kolacjonowań niemal wszystkich manuskryptów z tekstem ciągłym oraz ponad stu lekcjonarzy”, przyp. tłum.], referat przedstawiony Evangelical Theological Society [Ewangelicznemu Towarzystwu Teologicznemu, przyp. tłum.] w listopadzie 1998 roku, s. 12-13. Otrzymałem jednak od Maurice’a Robinsona następujące doprecyzowanie: „Prosiłbym, aby w przypadku cytowania mojego nazwiska w związku z pańskimi różnymi artykułami dotyczącymi **K^r^** lub **M^7^** jasno zaznaczać, że nie zgadzam się z pańską oceną **K^r^** ani **M^7^**. Dotyczy to w szczególności artykułu «Preliminary Considerations regarding the *Pericope Adulterae*» [«Wstępne uwagi dotyczące *Pericope Adulterae*», przyp. tłum.], nie należy się nim posługiwać, aby sugerować, że uważam linię **M^7^** lub tekst **K^r^** za wczesne. Byłoby to całkowicie błędne, ponieważ wraz z niemal wszystkimi innymi uważam, że **K^r^**/**M^7^** są rzeczywiście późnymi tekstami, odzwierciedlającymi działalność recenzyjną, która rozpoczęła się ogólnie w XII wieku (być może z bazowymi egzemplarzami wzorcowymi z XI wieku, ale nie wcześniejszymi)”. (Zakładając, że był szczery, gdy pisał ten artykuł, zastanawiam się, jaki nowy dowód otrzymał, że zmienił zdanie — jego język jest tam z pewnością dostatecznie jasny. Co więcej, przez dwa miesiące miałem w rękach kopię jego kolacjonowań, spędziłem wiele z tego czasu na ich uważnym studiowaniu i nie znalazłem powodu, by kwestionować jego wnioski z artykułu z listopada 1998 roku).
 
-[^robinson-brak-porownan-krzyzowych]: *Tamże*, s. 13.
+[^robinson-brak-porownan-krzyzowych]: *Ibid*, s. 13.
 
 [^przyklady-jakuba-takze-z-ecm]: W przypadku przykładów z Listu Jakuba korzystałem również z *Editio Critica Maior*.
 
@@ -186,4 +186,4 @@ Osoby katalogujące manuskrypty Nowego Testamentu informują nas, że pod wzglę
 
 [^objawienie-potwierdza-kr]: Mam również co najmniej stronę przykładów z Objawienia Jana, które potwierdzają, że **K^r^** (**M^c^**) także w tej księdze jest niezależny i pochodzi z **III** wieku.
 
-[^robinson-linie-w-ii-wieku]: *Tamże*.
+[^robinson-linie-w-ii-wieku]: *Ibid.*
