@@ -119,19 +119,19 @@ A co z nielicznymi miejscami, w których Koine i Andreas zgadzają się przeciwk
 
 Przypuszczam, że ostateczny wybór będzie zależał od czynników wykraczających poza wzorzec i zależność. Potrzebujemy jednak wzorca i zależności, aby zbliżyć się do ostatecznego wyboru.
 
-[^colwell-wykluczyc-odczyty-singularne]: „External Evidence and New Testament Criticism”, *Studies in the History of the Text of the New Testament*, red. B.L. Daniels i M.J. Suggs (Salt Lake City: University of Utah Press, 1967), s. 8.
+[^colwell-wykluczyc-odczyty-singularne]: „External Evidence and New Testament Criticism” [„Dowody zewnętrzne a krytyka Nowego Testamentu”, przyp. tłum.], *Studies in the History of the Text of the New Testament* [„Studia nad historią tekstu Nowego Testamentu”, przyp. tłum.], red. B.L. Daniels i M.J. Suggs (Salt Lake City: University of Utah Press, 1967), s. 8.
 
-[^colwell-prog-siedemdziesiat-procent]: „The Significance of Grouping of New Testament Manuscripts”, *New Testament Studies*, IV (1957-1958).
+[^colwell-prog-siedemdziesiat-procent]: „The Significance of Grouping of New Testament Manuscripts” [„Znaczenie grupowania manuskryptów Nowego Testamentu”, przyp. tłum.], *New Testament Studies* [„Studia nad Nowym Testamentem”, przyp. tłum.], IV (1957-1958).
 
-[^colwell-aleksandryjski-bez-archetypu]: Colwell, „The Significance of Grouping of New Testament Manuscripts”, *New Testament Studies*, IV (1957-1958), s. 86-87.
+[^colwell-aleksandryjski-bez-archetypu]: Colwell, „The Significance of Grouping of New Testament Manuscripts” [„Znaczenie grupowania manuskryptów Nowego Testamentu”, przyp. tłum.], *New Testament Studies* [„Studia nad Nowym Testamentem”, przyp. tłum.], IV (1957-1958), s. 86-87.
 
-[^aland-gnostycy-w-egipcie]: „The Text of the Church?”, Trinity Journal, 1987, 8NS:138.
+[^aland-gnostycy-w-egipcie]: „The Text of the Church?” [„Tekst Kościoła?”, przyp. tłum.], Trinity Journal [„Czasopismo Trinity”, przyp. tłum.], 1987, 8NS:138.
 
-[^aland-grecki-zanikal-w-egipcie]: K. i B. Aland, *The Text of the New Testament* (Grand Rapids: Eerdmans, 1981), s. 52-53.
+[^aland-grecki-zanikal-w-egipcie]: K. i B. Aland, *The Text of the New Testament* [„Tekst Nowego Testamentu”, przyp. tłum.] (Grand Rapids: Eerdmans, 1981), s. 52-53.
 
-[^wisse-metoda-profili]: The Profile Method for the Classification and Evaluation of Manuscript Evidence (Grand Rapids: Eerdmans, 1982).
+[^wisse-metoda-profili]: The Profile Method for the Classification and Evaluation of Manuscript Evidence [„Metoda profilowa klasyfikacji i oceny świadectw manuskryptów”, przyp. tłum.] (Grand Rapids: Eerdmans, 1982).
 
-[^hoskier-concerning-apocalypse]: *Concerning the Text of the Apocalypse*, 2 tomy (Londyn: Bernard Quaritch, 1929).
+[^hoskier-concerning-apocalypse]: *Concerning the Text of the Apocalypse* [„O tekście Apokalipsy”, przyp. tłum.], 2 tomy (Londyn: Bernard Quaritch, 1929).
 
 [^fragmenty-wykazuja-istnienie]: Fragmenty oraz manuskrypty idiosynkratyczne wykazują jednak, że wszelkie zawarte w nich warianty istniały w czasie, gdy je wytworzono. Wykazują istnienie, a nie wartość.
 
