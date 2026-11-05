@@ -26,7 +26,7 @@ Po tym, jak rozpowszechniłem wcześniejszą wersję tego artykułu, dr Michael 
 >
 > 5. Wierzyli, że przewyższają (pod względem naukowym i religijnym) zwykłych ludzi, którzy przekazali im gorsze kopie.
 >
-> W ten sposób egipscy gnostycy, mający światopogląd zupełnie inny niż Żydzi i chrześcijanie, którzy wytworzyli oryginalny tekst, stworzyli luźny egipski typ tekstu bez archetypu.
+> W ten sposób luźny egipski typ tekstu został wytworzony bez archetypu przez egipskich gnostyków, których światopogląd był zupełnie inny niż światopogląd Żydów i chrześcijan, którzy wytworzyli oryginalny tekst.
 
 (Powiedziałbym, że jego uwagi zasługują na rozważenie).
 
