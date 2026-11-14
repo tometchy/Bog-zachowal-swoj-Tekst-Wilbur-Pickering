@@ -164,35 +164,28 @@ Przeanalizuj dobrze obecną sturkturę, żeby kontynuacja była dokładnie wed�
 Już jest całość wstępnie przetłumaczona, teraz robię review i poprawki.
 Będę wrzucał instrukcje do dalszych poprawek albo tekstem albo screenshotem na którym ręcznie zaznaczę co ma być zmienione i jak, po przeanalizowaniu napisanej przeze mnie instrukcji popraw odpowiedni pandocowy markdown file a następnie przegeneruj pliki i zmienione także zawrzyj w PR.
 
-## Generowanie PDF
-Po każdej zmianie treści książki, przed utworzeniem pull requesta, obowiązkowo uruchom:
+## Generowanie książki i CI
 
-```bash
-make pdf
-```
+Pliki źródłowe książki znajdują się w `chapters/`; formaty wyjściowe są budowane
+przez `Makefile` przy użyciu Pandoc i XeLaTeX.
 
-PDF musi zostać poprawnie wygenerowany jako:
+**Nie wymagaj uruchamiania `make pdf`, `make all`, Podmana ani Pandoca
+na laptopie autora ani w środowisku Codex przed otwarciem PR.**
+Zmiany źródłowe należy proponować normalnym pull requestem do `master`.
 
-build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf
+Po połączeniu PR do `master`, workflow
+`.github/workflows/publish-book.yml` automatycznie uruchamia `make -B all`,
+generuje PDF, EPUB, DOCX i HTML, sprawdza pliki oraz aktualizuje wygenerowane
+formaty w repozytorium. Przebudowę można też uruchomić ręcznie z zakładki Actions.
 
-Nie kończ zadania i nie twórz PR-a, jeśli make pdf zakończy się błędem.
-Najpierw ustal przyczynę błędu i ją napraw.
-
-Po wygenerowaniu PDF sprawdź:
-
-test -s build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf
-git status --short
-
-Jeżeli wygenerowany PDF uległ zmianie, uwzględnij go w tym samym commicie i pull requeście
-co odpowiadająca mu zmiana Markdownu.
-
-Nie używaj generate.sh ani Podmana tylko do generowania PDF w środowisku Codex.
-Środowisko Codex ma bezpośrednio zainstalowane wymagane zależności i należy używać make pdf.
+Jeżeli w danym środowisku dostępne są wymagane narzędzia, można dodatkowo
+zweryfikować zmianę lokalnie poleceniem `make all`, ale nie jest to warunek
+utworzenia PR. Gdy budowanie po merge się nie powiedzie, należy poprawić błąd
+w osobnym PR, zamiast wymuszać ręczne generowanie na laptopie autora.
 
 ## Kończenie pracy
 
-Po każdej zmianie w repozytorium utwórz pull request i zakończ odpowiedź bezpośrednim,
-klikalnym linkiem do niego. Przed podaniem linku zweryfikuj za pomocą GitHub CLI lub
-API, że pull request rzeczywiście istnieje, jest otwarty i prowadzi do właściwego
-repozytorium oraz gałęzi. Nie traktuj samego przygotowania tytułu i opisu PR-a jako
-jego utworzenia.
+Po każdej zmianie w repozytorium utwórz pull request i zakończ odpowiedź
+bezpośrednim, klikalnym linkiem do niego. Przed podaniem linku zweryfikuj
+za pomocą GitHub CLI lub API, że pull request rzeczywiście istnieje, jest
+otwarty i prowadzi do właściwego repozytorium oraz gałęzi.
