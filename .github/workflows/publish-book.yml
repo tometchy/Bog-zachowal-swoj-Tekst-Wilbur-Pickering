@@ -1,0 +1,105 @@
+name: Build and publish book
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+# Always publish the newest version when merges happen close together.
+concurrency:
+  group: pickering-book-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Generate PDF, EPUB, DOCX and HTML
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - name: Check out sources
+        uses: actions/checkout@v4
+
+      # Match the dependencies used by the repository's Dockerfile.
+      - name: Install Pandoc and XeLaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install --no-install-recommends -y \
+            fonts-dejavu-core \
+            lmodern \
+            make \
+            pandoc \
+            texlive-fonts-recommended \
+            texlive-lang-polish \
+            texlive-plain-generic \
+            texlive-xetex
+
+      - name: Rebuild every format from Markdown
+        run: make -B all
+
+      - name: Verify generated files
+        shell: bash
+        run: |
+          set -euo pipefail
+          filename="Bog-zachowal-swoj-Tekst-Wilbur-Pickering"
+          for output in \
+            "build/pdf/${filename}.pdf" \
+            "build/epub/${filename}.epub" \
+            "build/docx/${filename}.docx" \
+            "docs/index.html"; do
+            test -s "$output" || { echo "::error::Missing or empty: $output"; exit 1; }
+            ls -lh "$output"
+          done
+          git diff --check
+
+      # Short-lived downloadable bundle in each successful workflow run.
+      - name: Upload book files
+        uses: actions/upload-artifact@v4
+        with:
+          name: pickering-book-${{ github.sha }}
+          path: |
+            build/pdf/*.pdf
+            build/epub/*.epub
+            build/docx/*.docx
+            docs/index.html
+          if-no-files-found: error
+          retention-days: 7
+
+      - name: Package website for GitHub Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+      # Keep existing GitHub raw links to files under build/ working.
+      # Pushes made with GITHUB_TOKEN do not trigger recursive workflows.
+      - name: Commit updated publications to master
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -A -- build/pdf build/epub build/docx docs/index.html docs/images
+          if git diff --cached --quiet; then
+            echo "All generated files are already up to date."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'build: refresh generated book formats'
+          git push origin HEAD:master
+
+  pages:
+    name: Publish GitHub Pages
+    if: github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
