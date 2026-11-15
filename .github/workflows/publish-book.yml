@@ -3,6 +3,8 @@ name: Build and publish book
 on:
   push:
     branches: [master]
+  pull_request:
+    branches: [master]
   workflow_dispatch:
 
 # Finish an active deployment; a queued run checks out the latest master.
@@ -13,18 +15,13 @@ concurrency:
 jobs:
   build:
     name: Generate PDF, EPUB, DOCX and HTML
-    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-24.04
     timeout-minutes: 45
-    outputs:
-      publish: ${{ steps.publications.outputs.publish }}
     permissions:
-      contents: write
+      contents: read
     steps:
       - name: Check out sources
         uses: actions/checkout@v4
-        with:
-          ref: master
 
       # Match the dependencies used by the repository's Dockerfile.
       - name: Install Pandoc and XeLaTeX
@@ -70,6 +67,25 @@ jobs:
           assert '</html>' in Path('docs/index.html').read_text()
           PY
 
+      # GitHub Pages is the durable publication target, including downloadable
+      # PDF/EPUB/DOCX files. No push to protected master is required.
+      - name: Stage all book formats for GitHub Pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          filename="Bog-zachowal-swoj-Tekst-Wilbur-Pickering"
+          for extension in pdf epub docx; do
+            install -Dm644 "build/${extension}/${filename}.${extension}" \
+              "docs/build/${extension}/${filename}.${extension}"
+          done
+          test -s docs/build/pdf/"${filename}".pdf
+          test -s docs/build/epub/"${filename}".epub
+          test -s docs/build/docx/"${filename}".docx
+          # The links inside the generated book must point to the same
+          # files that will be deployed, never to stale binaries in master.
+          grep -Fq 'https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/build/pdf/' docs/index.html
+          grep -Fq 'polish: "./build/pdf/' docs/compare.html
+
       # Short-lived downloadable bundle in each successful workflow run.
       - name: Upload book files
         uses: actions/upload-artifact@v4
@@ -88,45 +104,10 @@ jobs:
         with:
           path: docs
 
-      # Keep existing GitHub raw links to files under build/ working.
-      # Pushes made with GITHUB_TOKEN do not trigger recursive workflows.
-      - name: Commit updated publications to master
-        id: publications
-        shell: bash
-        run: |
-          set -euo pipefail
-          echo 'publish=false' >> "$GITHUB_OUTPUT"
-          source_sha=$(git rev-parse HEAD)
-          git fetch --no-tags origin refs/heads/master
-          if [[ "$(git rev-parse FETCH_HEAD)" != "$source_sha" ]]; then
-            echo '::notice::master changed during the build; the queued run will publish it.'
-            exit 0
-          fi
-          git add -A -- build/pdf build/epub build/docx docs/index.html docs/images
-          if git diff --cached --quiet; then
-            echo "All generated files are already up to date."
-            echo 'publish=true' >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          git -c user.name='github-actions[bot]' \
-              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-              commit -m 'build: refresh generated book formats'
-          if ! git push origin HEAD:master; then
-            # A merge can land between the freshness check and push. Never
-            # rebase old publications onto newer sources or force-push them.
-            git fetch --no-tags origin refs/heads/master
-            if [[ "$(git rev-parse FETCH_HEAD)" != "$source_sha" ]]; then
-              echo '::notice::master changed before push; the queued run will publish it.'
-              exit 0
-            fi
-            echo '::error::Cannot push publications; check token permissions and branch rules.'
-            exit 1
-          fi
-          echo 'publish=true' >> "$GITHUB_OUTPUT"
 
   pages:
     name: Publish GitHub Pages
-    if: github.ref == 'refs/heads/master' && needs.build.outputs.publish == 'true'
+    if: github.ref == 'refs/heads/master'
     needs: build
     runs-on: ubuntu-24.04
     permissions:
