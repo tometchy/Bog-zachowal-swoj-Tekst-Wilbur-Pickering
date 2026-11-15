@@ -175,8 +175,11 @@ Zmiany źródłowe należy proponować normalnym pull requestem do `master`.
 
 Po połączeniu PR do `master`, workflow
 `.github/workflows/publish-book.yml` automatycznie uruchamia `make -B all`,
-generuje PDF, EPUB, DOCX i HTML, sprawdza pliki oraz aktualizuje wygenerowane
-formaty w repozytorium. Przebudowę można też uruchomić ręcznie z zakładki Actions.
+generuje PDF, EPUB, DOCX i HTML, sprawdza pliki i publikuje aktualną
+wersję w GitHub Pages (w tym PDF/EPUB/DOCX pod ścieżką `build/`).
+Wyniki są też dostępne jako czasowe artefakty workflow. Nie commituj automatycznie
+plików wyjściowych do chronionego `master`: obowiązuje reguła wymagająca PR.
+Przebudowę można też uruchomić ręcznie z zakładki Actions.
 
 Jeżeli w danym środowisku dostępne są wymagane narzędzia, można dodatkowo
 zweryfikować zmianę lokalnie poleceniem `make all`, ale nie jest to warunek
