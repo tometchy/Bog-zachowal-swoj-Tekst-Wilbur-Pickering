@@ -1,0 +1,141 @@
+name: Build and publish book
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+# Finish an active deployment; a queued run checks out the latest master.
+concurrency:
+  group: pickering-book-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Generate PDF, EPUB, DOCX and HTML
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    outputs:
+      publish: ${{ steps.publications.outputs.publish }}
+    permissions:
+      contents: write
+    steps:
+      - name: Check out sources
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      # Match the dependencies used by the repository's Dockerfile.
+      - name: Install Pandoc and XeLaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install --no-install-recommends -y \
+            fonts-dejavu-core \
+            lmodern \
+            make \
+            pandoc \
+            texlive-fonts-recommended \
+            texlive-lang-polish \
+            texlive-plain-generic \
+            texlive-xetex
+
+      - name: Rebuild every format from Markdown
+        # Also propagate failures from awk/filters inside Makefile pipelines.
+        run: make -B all SHELL=/bin/bash '.SHELLFLAGS=-eu -o pipefail -c'
+
+      - name: Verify generated files
+        shell: bash
+        run: |
+          set -euo pipefail
+          filename="Bog-zachowal-swoj-Tekst-Wilbur-Pickering"
+          for output in \
+            "build/pdf/${filename}.pdf" \
+            "build/epub/${filename}.epub" \
+            "build/docx/${filename}.docx" \
+            "docs/index.html"; do
+            test -s "$output" || { echo "::error::Missing or empty: $output"; exit 1; }
+            ls -lh "$output"
+          done
+          python3 - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+
+          filename = 'Bog-zachowal-swoj-Tekst-Wilbur-Pickering'
+          assert Path(f'build/pdf/{filename}.pdf').read_bytes().startswith(b'%PDF-')
+          for extension, member in [('epub', 'META-INF/container.xml'), ('docx', 'word/document.xml')]:
+              with ZipFile(f'build/{extension}/{filename}.{extension}') as archive:
+                  assert archive.testzip() is None, f'Corrupt {extension} archive'
+                  assert member in archive.namelist(), f'Invalid {extension} archive'
+          assert '</html>' in Path('docs/index.html').read_text()
+          PY
+
+      # Short-lived downloadable bundle in each successful workflow run.
+      - name: Upload book files
+        uses: actions/upload-artifact@v4
+        with:
+          name: pickering-book-${{ github.sha }}
+          path: |
+            build/pdf/*.pdf
+            build/epub/*.epub
+            build/docx/*.docx
+            docs/
+          if-no-files-found: error
+          retention-days: 7
+
+      - name: Package website for GitHub Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+      # Keep existing GitHub raw links to files under build/ working.
+      # Pushes made with GITHUB_TOKEN do not trigger recursive workflows.
+      - name: Commit updated publications to master
+        id: publications
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo 'publish=false' >> "$GITHUB_OUTPUT"
+          source_sha=$(git rev-parse HEAD)
+          git fetch --no-tags origin refs/heads/master
+          if [[ "$(git rev-parse FETCH_HEAD)" != "$source_sha" ]]; then
+            echo '::notice::master changed during the build; the queued run will publish it.'
+            exit 0
+          fi
+          git add -A -- build/pdf build/epub build/docx docs/index.html docs/images
+          if git diff --cached --quiet; then
+            echo "All generated files are already up to date."
+            echo 'publish=true' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'build: refresh generated book formats'
+          if ! git push origin HEAD:master; then
+            # A merge can land between the freshness check and push. Never
+            # rebase old publications onto newer sources or force-push them.
+            git fetch --no-tags origin refs/heads/master
+            if [[ "$(git rev-parse FETCH_HEAD)" != "$source_sha" ]]; then
+              echo '::notice::master changed before push; the queued run will publish it.'
+              exit 0
+            fi
+            echo '::error::Cannot push publications; check token permissions and branch rules.'
+            exit 1
+          fi
+          echo 'publish=true' >> "$GITHUB_OUTPUT"
+
+  pages:
+    name: Publish GitHub Pages
+    if: github.ref == 'refs/heads/master' && needs.build.outputs.publish == 'true'
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
