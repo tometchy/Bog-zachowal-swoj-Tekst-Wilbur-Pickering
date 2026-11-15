@@ -1,3 +1,23 @@
+# Automatyczne wydania (GitHub Actions)
+
+Każda zmiana połączona z `master` wyzwala workflow
+[`publish-book.yml`](.github/workflows/publish-book.yml), który uruchamia `make -B all`,
+sprawdza PDF, EPUB, DOCX i HTML oraz publikuje je przez GitHub Pages.
+Zabezpieczona gałąź `master` nie jest modyfikowana przez bota.
+
+Najnowsze pliki (stałe linki):
+
+- [PDF](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf)
+- [EPUB](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub)
+- [DOCX](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/build/docx/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.docx)
+- [HTML](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/)
+
+**Wymagane ustawienie**: GitHub → Settings → Pages → Build and deployment →
+Source: **GitHub Actions**. Po merge można też ręcznie uruchomić workflow
+w zakładce Actions. Wyniki są dodatkowo przechowywane jako artefakty Actions
+przez 7 dni. Pliki historycznie obecne w katalogu `build/` gałęzi `master`
+nie są automatycznie aktualizowane — aktualnym źródłem publikacji jest GitHub Pages.
+
 # Przegląd tłumaczenia
 
 Pełny przegląd tłumaczenia zakończono 2026-10-11, a 2026-10-12 uzupełniono go po weryfikacji drugiego raportu AI. Zasadne uwagi wdrożono na gałęzi `codex/poprawki-review-2026-10-12`, wraz z ponownym eksportem PDF, EPUB, DOCX i HTML. Status wszystkich uwag, przyjęte odpowiedniki oraz sprostowania raportu znajdują się na początku [REVIEW.md](REVIEW.md).
