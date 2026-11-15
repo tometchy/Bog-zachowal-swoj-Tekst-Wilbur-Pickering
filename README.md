@@ -15,8 +15,8 @@ Najnowsze pliki (stałe linki):
 **Wymagane ustawienie**: GitHub → Settings → Pages → Build and deployment →
 Source: **GitHub Actions**. Po merge można też ręcznie uruchomić workflow
 w zakładce Actions. Wyniki są dodatkowo przechowywane jako artefakty Actions
-przez 7 dni. Pliki historycznie obecne w katalogu `build/` gałęzi `master`
-nie są automatycznie aktualizowane — aktualnym źródłem publikacji jest GitHub Pages.
+przez 7 dni. Katalogi `build/` i `docs/build/` są ignorowane przez Git — pliki wynikowe
+są tworzone w trakcie kompilacji, a aktualne wydania udostępnia GitHub Pages.
 
 # Przegląd tłumaczenia
 
