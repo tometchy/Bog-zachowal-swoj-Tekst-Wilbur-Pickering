@@ -188,7 +188,11 @@ w osobnym PR, zamiast wymuszać ręczne generowanie na laptopie autora.
 
 ## Kończenie pracy
 
-Po każdej zmianie w repozytorium utwórz pull request i zakończ odpowiedź
-bezpośrednim, klikalnym linkiem do niego. Przed podaniem linku zweryfikuj
-za pomocą GitHub CLI lub API, że pull request rzeczywiście istnieje, jest
-otwarty i prowadzi do właściwego repozytorium oraz gałęzi.
+Po każdej zmianie w repozytorium utwórz pull request i zakończ odpowiedź bezpośrednim,
+klikalnym linkiem do niego. Przed podaniem linku zweryfikuj za pomocą GitHub CLI lub
+API, że pull request rzeczywiście istnieje, jest otwarty i prowadzi do właściwego
+repozytorium oraz gałęzi. Nie traktuj samego przygotowania tytułu i opisu PR-a jako
+jego utworzenia.
+
+## Working with rate limits
+I have rate limits, always be prepared that you're work may be interrupted out of the sudden, and that you'll need to continue after rate limits reset.
