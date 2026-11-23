@@ -64,7 +64,7 @@ Co wzorzec i zależność mówią nam o przedstawionych wyżej dowodach? Zaczyna
 
 4. Każdy manuskrypt idiosynkratyczny był po prostu czyjąś prywatną własnością, sfabrykowaną kopią, jest bez znaczenia dla historii przekazywania Tekstu.
 
-5. Fragmenty nie zawierają wystarczającej ilości tekstu, aby można je było sklasyfikować, i podobnie jak manuskrypty idiosynkratyczne są bez znaczenia dla historii przekazywania Tekstu.[^fragmenty-wykazuja-istnienie]
+5. Fragmenty nie zawierają wystarczającej ilości tekstu, aby można je było sklasyfikować, i dlatego, podobnie jak manuskrypty idiosynkratyczne są bez znaczenia dla historii przekazywania Tekstu.[^fragmenty-wykazuja-istnienie]
 
 Ponieważ wszystkie zachowane manuskrypty z pierwszych pięciu wieków (w Objawieniu Jana) są albo fragmentami, albo manuskryptami idiosynkratycznymi, ograniczę swoją analizę do linii przekazu.
 
