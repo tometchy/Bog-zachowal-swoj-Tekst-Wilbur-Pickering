@@ -750,7 +750,17 @@
     function remoteFileIsNotNewer(file, data, configuration) {
       if (configuration.mode !== "write") return false;
       const lastUploadedSha = savedValue("sync:last-uploaded-sha", "");
-      if (lastUploadedSha && file.sha === lastUploadedSha) return true;
+      if (lastUploadedSha && file.sha === lastUploadedSha) {
+        // The local IndexedDB can be lost independently of the synchronization
+        // metadata in localStorage. A known uploaded backup is still useful
+        // when no local strokes remain and there are no pending edits.
+        const hasStrokes = (highlights) => ["english", "polish"].some((name) =>
+          Object.values(highlights?.[name] || {}).some((strokes) => Array.isArray(strokes) && strokes.length > 0)
+        );
+        if (!syncPending && !highlightStore.unsaved &&
+            !hasStrokes(highlightStore.snapshot()) && hasStrokes(data?.highlights)) return false;
+        return true;
+      }
       const lastUploadedAt = Date.parse(savedValue("sync:last-uploaded-at", ""));
       const remoteUpdatedAt = Date.parse(data?.updatedAt || "");
       return Number.isFinite(lastUploadedAt) && Number.isFinite(remoteUpdatedAt) && remoteUpdatedAt <= lastUploadedAt;
