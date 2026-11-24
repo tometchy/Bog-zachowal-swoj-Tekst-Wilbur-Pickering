@@ -963,3 +963,10 @@ tags
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/rider,visualstudio,visualstudiocode,aspnetcore,dotnetcore,csharp,batch,microsoftoffice,react,vim,libreoffice,remix+cloudflareworkers,intellij
+
+# Generated shared PDF Compare assets
+/.pdf-compare/
+/docs/compare.html
+/docs/highlight-store.mjs
+/docs/vendor/pdfjs/
+/docs/compare-version.txt

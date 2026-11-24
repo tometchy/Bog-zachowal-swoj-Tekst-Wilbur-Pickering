@@ -1,0 +1,8 @@
+{
+  "title": "Porównanie wydania angielskiego i polskiego",
+  "englishUrl": "https://raw.githubusercontent.com/tometchy/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/master/God-Has-Preserved-His-Text-4th.pdf",
+  "polishUrl": "./build/pdf/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.pdf",
+  "storageNamespace": "pdf-comparison",
+  "syncOwner": "tometchy",
+  "syncRepository": "pickering-compare-data"
+}

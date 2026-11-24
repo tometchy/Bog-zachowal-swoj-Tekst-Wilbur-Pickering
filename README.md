@@ -11,6 +11,7 @@ Najnowsze pliki (stałe linki):
 - [EPUB](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/build/epub/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.epub)
 - [DOCX](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/build/docx/Bog-zachowal-swoj-Tekst-Wilbur-Pickering.docx)
 - [HTML](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/)
+- [Porównywarka PDF](https://tometchy.github.io/Bog-zachowal-swoj-Tekst-Wilbur-Pickering/compare.html)
 
 **Wymagane ustawienie**: GitHub → Settings → Pages → Build and deployment →
 Source: **GitHub Actions**. Po merge można też ręcznie uruchomić workflow
@@ -25,11 +26,13 @@ Pełny przegląd tłumaczenia zakończono 2026-10-11, a 2026-10-12 uzupełniono 
 # Testy porównywarki PDF
 
 ```sh
-npm ci
-npm test
+make compare
+make test
 ```
 
 Testy obejmują zapis zakreśleń, migrację z `localStorage` do IndexedDB, błędy pamięci przeglądarki i synchronizację z GitHubem. Przy pierwszym uruchomieniu nowej wersji compare przenosi istniejące zakreślenia automatycznie. Dotychczasowe kopie w `localStorage` są usuwane dopiero po zatwierdzeniu zapisu w IndexedDB. Format pliku JSON synchronizacji pozostaje bez zmian.
+
+Kod porównywarki, PDF.js i testy są utrzymywane w [tometchy/pdf-compare](https://github.com/tometchy/pdf-compare). Lokalny `compare-config.json` określa wyłącznie adresy PDF, tytuł, dotychczasową przestrzeń danych przeglądarki i domyślne repozytorium synchronizacji. Nie zmieniaj przestrzeni danych ani nie zapisuj tokenów w konfiguracji. GitHub Actions pobiera najnowszą gałąź `main` przy każdym buildzie i dodatkowo co 6 godzin (harmonogram może mieć opóźnienia); publikację można też uruchomić ręcznie. `make compare` generuje lokalną porównywarkę, a `make test` pobiera i uruchamia wspólne testy.
 
 # Pandoc book template
 
