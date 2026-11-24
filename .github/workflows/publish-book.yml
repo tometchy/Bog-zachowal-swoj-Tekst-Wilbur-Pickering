@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: [master]
   workflow_dispatch:
+  schedule:
+    # Refresh shared compare updates even if the book has not changed.
+    - cron: '17 */6 * * *'
 
 # Finish an active deployment; a queued run checks out the latest master.
 concurrency:
@@ -22,6 +25,36 @@ jobs:
     steps:
       - name: Check out sources
         uses: actions/checkout@v4
+
+      - name: Check out latest shared PDF Compare
+        uses: actions/checkout@v4
+        with:
+          repository: tometchy/pdf-compare
+          ref: main
+          path: .pdf-compare
+          persist-credentials: false
+
+      - name: Set up Node.js for compare
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: .pdf-compare/package-lock.json
+
+      - name: Test shared comparison viewer
+        run: |
+          npm ci --ignore-scripts --prefix .pdf-compare
+          npm test --prefix .pdf-compare
+
+      - name: Build comparison viewer for this book
+        run: |
+          node .pdf-compare/scripts/build.mjs compare-config.json docs
+          git -C .pdf-compare rev-parse HEAD > docs/compare-version.txt
+          test -s docs/compare.html
+          test -s docs/highlight-store.mjs
+          test -s docs/vendor/pdfjs/pdf.min.mjs
+          test -s docs/vendor/pdfjs/pdf.worker.min.mjs
+          test -s docs/vendor/pdfjs/LICENSE
 
       # Match the dependencies used by the repository's Dockerfile.
       - name: Install Pandoc and XeLaTeX

@@ -196,3 +196,7 @@ jego utworzenia.
 
 ## Working with rate limits
 I have rate limits, always be prepared that you're work may be interrupted out of the sudden, and that you'll need to continue after rate limits reset.
+
+## Porównywarka PDF
+
+Kod i testy są w `tometchy/pdf-compare`; w tym repozytorium zmieniaj jedynie `compare-config.json`. Nie commituj wygenerowanego `docs/compare.html`, modułu zakreśleń ani PDF.js. Zachowaj przestrzeń `pdf-comparison:` i format synchronizacji. Lokalnie `make compare` i `make test`.
