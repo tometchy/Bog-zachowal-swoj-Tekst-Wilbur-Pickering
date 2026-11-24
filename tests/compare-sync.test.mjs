@@ -293,3 +293,42 @@ test("GitHub upload includes strokes whose local storage write failed", async ()
   const upload = JSON.parse(app.requests.find((request) => request.method === "PUT").body);
   assert.deepEqual(JSON.parse(atob(upload.content)).highlights.polish[1], strokes);
 });
+
+function uploadedBackupResponse() {
+  const data = {
+    version: 1,
+    updatedAt: "2026-01-01T00:00:00.000Z",
+    highlights: {
+      english: { 110: [{ tool: "light", points: [[0.1, 0.2], [0.3, 0.2]] }] },
+      polish: { 117: [{ tool: "dark", points: [[0.2, 0.3], [0.4, 0.3]] }] }
+    }
+  };
+  return response(200, { type: "file", sha: "uploaded-backup", encoding: "base64", content: btoa(JSON.stringify(data)) });
+}
+
+test("an empty IndexedDB recovers the last uploaded backup even when its SHA is unchanged", async () => {
+  const app = await createApp({
+    ...configuration,
+    [`${prefix}sync:last-uploaded-sha`]: "uploaded-backup",
+    [`${prefix}sync:last-uploaded-at`]: "2026-01-01T00:00:00.000Z"
+  });
+  app.replies.push(uploadedBackupResponse());
+  await app.document.querySelector("#sync-button").emit("click");
+  assert.equal(app.context.highlightStore.get("english", 110).length, 1);
+  assert.equal(app.context.highlightStore.get("polish", 117).length, 1);
+  assert.equal(app.context.highlightStore.unsaved, false);
+  assert.equal(app.requests.some((request) => request.method === "PUT"), false);
+});
+
+test("an unchanged remote SHA still preserves a nonempty local database", async () => {
+  const app = await createApp({
+    ...configuration,
+    [`${prefix}sync:last-uploaded-sha`]: "uploaded-backup"
+  });
+  await app.context.highlightStore.set("polish", 1, [{ tool: "light", points: [[0.1, 0.2]] }]);
+  app.replies.push(uploadedBackupResponse());
+  await app.document.querySelector("#sync-button").emit("click");
+  assert.equal(app.context.highlightStore.get("polish", 1).length, 1);
+  assert.equal(app.context.highlightStore.get("english", 110).length, 0);
+  assert.equal(app.requests.some((request) => request.method === "PUT"), false);
+});
